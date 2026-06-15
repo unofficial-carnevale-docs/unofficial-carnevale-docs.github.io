@@ -1,0 +1,11 @@
+# Sidebar navigation is generated automatically from Jekyll collections.
+#
+# To control the order pages appear in the sidebar, add to front matter:
+#   nav_order: 1
+#
+# For magic discipline pages, add:
+#   is_discipline: true
+#
+# For the factions landing page (_factions/index.md), add:
+#   is_index: true
+# (this prevents it appearing twice in the factions sidebar)

@@ -1,0 +1,65 @@
+title: Carnevale Reference
+description: >-
+  Community documentation for Carnevale by TTCombat —
+  rules, game mechanics, magic disciplines, faction and model profiles.
+  Set in romanticized 1795 Venice.
+
+# Update for your GitHub Pages repo
+# username.github.io/repo-name  →  baseurl: "/repo-name"
+# username.github.io            →  baseurl: ""
+baseurl: ""
+url: "https://unofficial-carnevale-docs.github.io"
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true  # allows HTML inside .md files (callout divs, etc.)
+
+# ── Collections ────────────────────────────────────────────────────────
+collections:
+  rules:
+    output: true
+    permalink: /rules/:name/
+  mechanics:
+    output: true
+    permalink: /mechanics/:name/
+  magic:
+    output: true
+    permalink: /magic/:name/
+  factions:
+    output: true
+    permalink: /factions/:name/
+  models:
+    output: true
+    permalink: /factions/:path/   # _models/guild/bravo.md → /factions/guild/bravo/
+
+# ── Front matter defaults ──────────────────────────────────────────────
+defaults:
+  - scope: { type: rules }
+    values: { layout: doc, section: rules }
+  - scope: { type: mechanics }
+    values: { layout: doc, section: mechanics }
+  - scope: { type: magic }
+    values: { layout: doc, section: magic }
+  - scope: { type: factions }
+    values: { layout: doc, section: factions }
+  - scope: { type: models }
+    values: { layout: model, section: factions }
+  - scope: { path: "" }
+    values: { layout: default }
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .bundle
+  - vendor
+  - README.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap

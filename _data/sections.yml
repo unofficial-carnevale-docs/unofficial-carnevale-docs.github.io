@@ -1,0 +1,18 @@
+# Metadata for the 4 main site sections.
+# Used in header active states, breadcrumbs, and page titles.
+
+rules:
+  title: Rules Reference
+  url: /rules/
+
+mechanics:
+  title: Game Mechanics
+  url: /mechanics/
+
+magic:
+  title: Magic
+  url: /magic/
+
+factions:
+  title: Factions
+  url: /factions/

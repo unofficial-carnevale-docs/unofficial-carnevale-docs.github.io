@@ -1,0 +1,87 @@
+{% assign sec = page.section %}
+{% if sec %}
+<nav class="sidebar-nav" aria-label="Section navigation">
+
+  {% if sec == 'rules' %}
+    <div class="sidebar-section">
+      <p class="sidebar-section-title">Rules Reference</p>
+      <ul>
+        {% assign sec_pages = site.rules | sort: "nav_order" %}
+        {% for p in sec_pages %}
+        <li>
+          <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
+            {{ p.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+  {% elsif sec == 'mechanics' %}
+    <div class="sidebar-section">
+      <p class="sidebar-section-title">Game Mechanics</p>
+      <ul>
+        {% assign sec_pages = site.mechanics | sort: "nav_order" %}
+        {% for p in sec_pages %}
+        <li>
+          <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
+            {{ p.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+  {% elsif sec == 'magic' %}
+    {% assign top_pages  = site.magic | where_exp: "p", "p.is_discipline != true" | sort: "nav_order" %}
+    {% assign disciplines = site.magic | where: "is_discipline", true | sort: "title" %}
+    <div class="sidebar-section">
+      <p class="sidebar-section-title">Magic</p>
+      <ul>
+        {% for p in top_pages %}
+        <li>
+          <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
+            {{ p.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% if disciplines.size > 0 %}
+    <div class="sidebar-section">
+      <p class="sidebar-section-title">Disciplines</p>
+      <ul>
+        {% for d in disciplines %}
+        <li>
+          <a href="{{ d.url | relative_url }}"{% if page.url == d.url %} class="active" aria-current="page"{% endif %}>
+            {{ d.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+  {% elsif sec == 'factions' %}
+    <div class="sidebar-section">
+      <p class="sidebar-section-title">Factions</p>
+      <ul>
+        <li>
+          <a href="{{ '/factions/' | relative_url }}"{% if page.url == '/factions/' %} class="active" aria-current="page"{% endif %}>
+            All Factions
+          </a>
+        </li>
+        {% assign faction_pages = site.factions | where_exp: "f", "f.is_index != true" | sort: "title" %}
+        {% for f in faction_pages %}
+        <li>
+          <a href="{{ f.url | relative_url }}"{% if page.url == f.url %} class="active" aria-current="page"{% endif %}>
+            {{ f.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+
+</nav>
+{% endif %}
