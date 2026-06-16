@@ -6,14 +6,20 @@
     <div class="sidebar-section">
       <p class="sidebar-section-title">Rules Reference</p>
       <ul>
-        {% assign sec_pages = site.rules | sort: "nav_order" %}
-        {% for p in sec_pages %}
-        <li>
-          <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
-            {{ p.title }}
-          </a>
-        </li>
-        {% endfor %}
+        {% if page.toc %}
+          {% for item in page.toc %}
+          <li><a href="#{{ item.anchor }}">{{ item.title }}</a></li>
+          {% endfor %}
+        {% else %}
+          {% assign sec_pages = site.rules | sort: "nav_order" %}
+          {% for p in sec_pages %}
+          <li>
+            <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
+              {{ p.title }}
+            </a>
+          </li>
+          {% endfor %}
+        {% endif %}
       </ul>
     </div>
 
