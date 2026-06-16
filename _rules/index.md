@@ -8,8 +8,8 @@ toc:
     anchor: the-golden-rule
   - title: Dice Rolls
     anchor: dice-rolls
-  - title: Measuring
-    anchor: measuring
+  - title: Line of Sight and Measuring
+    anchor: line-of-sight-and-measuring
   - title: Character Profiles
     anchor: character-profiles
   - title: AP, WP & CP
@@ -18,6 +18,8 @@ toc:
     anchor: rounds-and-turns
   - title: Actions
     anchor: actions
+  - title: Combat
+    anchor: combat
   - title: Magic
     anchor: magic
   - title: Terrain
@@ -118,7 +120,7 @@ Protection Rolls use a character's PROTECTION stat, and are used to save against
 
 ---
 
-## Measuring
+## Line of Sight and Measuring
 
 Carnevale measures its distances in inches, noted with inverted commas (for example 6 inches is 6"). You are allowed to measure distances at any time. To calculate a distance, measure the space directly between the two closest points – this can be horizontally, diagonally, or vertically!
 
@@ -141,12 +143,6 @@ In some situations it will be trickier to tell if a character is in cover. In th
 
 **A character in base contact with its attacker is never counted as in cover. A character in water is always counted as being in cover when not in base contact with their attacker.**
 
-### Friendly & Enemy Characters
-
-Any character in your gang is a friendly character, and any in allied or opposing gangs are enemy characters (yes you can turn on your allies!).
-
-When abilities say they affect any or every friendly character, that does include the character using the ability, provided they are the target, or in range of the ability. However, some abilities may specify that the character using the ability is unaffected.
-
 ### Base Contact
 
 Characters must be in base contact with each other to use certain attacks and abilities. Characters are in base contact when their bases are touching. An enemy character does **not** count as being in cover if it is attacked when in base contact.
@@ -154,19 +150,6 @@ Characters must be in base contact with each other to use certain attacks and ab
 Note that due to small walls or other terrain features in Carnevale, there may be some height discrepancies. Miniatures are assumed to be in base contact if there is 1" or less in vertical distance between bases.
 
 If both characters' bases are within 1" of each other and touching the same obstacle that is up to 1" high (like fighting over a barricade), they count as in base contact when making Combat actions, able to attack with 0" range weapons. However, in this situation the enemy character **always** counts as being in cover.
-
-### Attacks of Opportunity
-
-An Attack of Opportunity is counted as a regular action, but costs 0AP. A character cannot choose to make an Attack of Opportunity as an action, but may be instructed to for many reasons (such as moving into base contact with an enemy).
-
-Choose either to make a **Combat** action, a **Grapple** action, or a **Drown** action. Treat the Attack of Opportunity as a normal action of that type, with any and all Character Abilities, Weapon Abilities, or modifiers that may apply.
-
-### Attacks & Damage
-
-**Each point of Damage taken causes a character to lose 1 Life Point.**
-
-When a character is instructed to take **Damage,** they make a **Protection Roll.** However, when a character is instructed to lose **Life Points**, no armour will save them and they **cannot** make a **Protection Roll**.
-
 ---
 
 ## Character Profiles
@@ -566,6 +549,30 @@ Protection Rolls may not be made against Drown actions – armour doesn't stop w
 | Fail | No effect. |
 | Critical | Target character loses 4 Life Points, plus 1 Life Point for every Ace rolled. |
 | Fumble | Attacker loses 2 Life Points. |
+
+---
+
+
+## Combat
+
+
+### Friendly & Enemy Characters
+
+Any character in your gang is a friendly character, and any in allied or opposing gangs are enemy characters (yes you can turn on your allies!).
+
+When abilities say they affect any or every friendly character, that does include the character using the ability, provided they are the target, or in range of the ability. However, some abilities may specify that the character using the ability is unaffected.
+
+### Attacks of Opportunity
+
+An Attack of Opportunity is counted as a regular action, but costs 0AP. A character cannot choose to make an Attack of Opportunity as an action, but may be instructed to for many reasons (such as moving into base contact with an enemy).
+
+Choose either to make a **Combat** action, a **Grapple** action, or a **Drown** action. Treat the Attack of Opportunity as a normal action of that type, with any and all Character Abilities, Weapon Abilities, or modifiers that may apply.
+
+### Attacks & Damage
+
+**Each point of Damage taken causes a character to lose 1 Life Point.**
+
+When a character is instructed to take **Damage,** they make a **Protection Roll.** However, when a character is instructed to lose **Life Points**, no armour will save them and they **cannot** make a **Protection Roll**.
 
 ---
 
