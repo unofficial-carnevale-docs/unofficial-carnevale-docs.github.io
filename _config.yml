@@ -43,7 +43,7 @@ collections:
 # ── Front matter defaults ──────────────────────────────────────────────
 defaults:
   - scope: { type: rules }
-    values: { layout: doc, section: hyperlinked_rules }
+    values: { layout: doc, section: rules_reference }
   - scope: { type: compendium }
     values: { layout: doc, section: compendium }
   - scope: { type: mechanics }

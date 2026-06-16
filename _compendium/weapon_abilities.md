@@ -4,6 +4,8 @@ description: Weapon Abilities reference for Carnevale v2.2, with official FAQ & 
 nav_order: 2
 ---
 
+## General
+
 Weapon Abilities are listed on a character's weapon, and will take effect any time that weapon is used.
 
 ### Aquatic

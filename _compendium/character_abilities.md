@@ -4,6 +4,8 @@ description: Character Abilities reference for Carnevale v2.2, with official FAQ
 nav_order: 1
 ---
 
+## General
+
 Character Abilities are listed on a character's profile, or can be acquired through other means (such as Command Abilities).
 
 Some of these special rules have an (X) listed after them. That (X) is most often a number (such as Fast Swimmer (2) for example), which is referenced in the rule itself. A character may find they are affected by multiple instances of these special rules. **These special rules stack to a maximum of 3 unless otherwise noted.**
