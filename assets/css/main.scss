@@ -576,10 +576,14 @@ a:hover { text-decoration: underline; }
   border-bottom: 1px solid var(--border);
 }
 .doc-content h3 {
-  font-size: 1rem;
-  font-weight: 500;
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
   color: var(--ink);
   margin: 1.75rem 0 0.75rem;
+  padding-bottom: 0.375rem;
+  border-bottom: 1px dashed var(--border);
 }
 .doc-content p {
   font-size: 0.94rem;
@@ -683,6 +687,8 @@ a:hover { text-decoration: underline; }
 }
 .callout.warning    { border-left-color: var(--accent2); }
 .callout.warning .callout-title { color: var(--accent2); }
+.callout.math       { border-left-color: #6b5a8c; }
+.callout.math .callout-title { color: #6b5a8c; }
 
 /* Doc navigation footer */
 .doc-nav-footer {

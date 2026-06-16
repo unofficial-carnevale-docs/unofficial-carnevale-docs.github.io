@@ -24,6 +24,9 @@ collections:
   rules:
     output: true
     permalink: /rules/:name/
+  compendium:
+    output: true
+    permalink: /compendium/:name/
   mechanics:
     output: true
     permalink: /mechanics/:name/
@@ -40,6 +43,8 @@ collections:
 # ── Front matter defaults ──────────────────────────────────────────────
 defaults:
   - scope: { type: rules }
+    values: { layout: doc, section: hyperlinked_rules }
+  - scope: { type: compendium }
     values: { layout: doc, section: compendium }
   - scope: { type: mechanics }
     values: { layout: doc, section: mechanics }

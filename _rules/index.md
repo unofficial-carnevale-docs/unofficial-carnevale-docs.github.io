@@ -2,7 +2,6 @@
 title: Rules Reference
 description: Complete rules reference for Carnevale v2.2, with official FAQ & Errata v1.3 integrated.
 nav_order: 1
-section: hyperlinked_rules
 permalink: /rules/
 toc:
   - title: Character Profiles
@@ -33,19 +32,31 @@ toc:
     anchor: campaigns-and-scenarios
   - title: Order of Play
     anchor: order-of-play
-  - title: Special Rules
-    anchor: special-rules
+  - title: Character Abilities
+    anchor: character-abilities
   - title: Weapon Abilities
     anchor: weapon-abilities
 ---
 
-*Carnevale v2.2 — FAQ & Errata v1.3 integrated throughout.*
+## The Golden Rule
+
+Carnevale is a narrative led skirmish game. The core rules are designed to make the game fun, fast-paced, and easy to understand. However, the story element of Carnevale should never be overlooked. It is a game of daring acrobatics, vicious combat, and eldritch magic. When playing, always remember the Golden Rule: the **object** of the game is to win, but the **point** of the game is for both players to have fun.
+
+When weaving your own story on the tabletop, it's good practice to allow your opponent a little leeway, whether measuring line of sight, planning their actions, or any number of other options that come up during a game. It is much more important for a move to be cinematic than for it to stick to the letter of the rules.
+
+---
 
 ## Character Profiles
 
 Each model in Carnevale is referred to as a character. Each character has a series of attributes and abilities to traverse the dangerous city and fight off would-be attackers. These are documented on a character's profile.
 
-**All character profiles can be found at ttcombat.com/pages/carnevale-resources**
+**All character profiles can be found at the [TTCombat website](https://ttcombat.com/pages/carnevale-resources)**
+
+### Size and Cost
+
+**Size** - The diameter of a character’s base size is listed here in millimetres.
+
+**Cost** - How many Ducats this character costs to include in a gang.
 
 ### Points
 
@@ -73,7 +84,7 @@ Statistics are used to gauge how skilled a character is in different aspects of 
 
 **MIND** – A character's ability to use its mental faculties. Each point equals a single dice. Mind values are mostly used for casting magic.
 
-### Weapons
+### Weapons {#profile-weapons}
 
 A character may have several different weapons on their character profile. For each Combat action, choose one weapon to use and follow its rules. **All characters may make Unarmed attacks.** These simply count as an additional weapon the character can choose from even if it isn't on their character profile.
 
@@ -94,27 +105,9 @@ If a character has weapons separated by "OR", you must choose which option that 
 
 Here are descriptors that define the character, such as *Doctor, Monster* etc. Certain special rules will only affect a character with certain keywords, but they have no effect on their own.
 
-### Character Abilities
+### Abilities
 
-All of the character's special abilities are listed here. There are universal Character Abilities listed in the [Special Rules](#special-rules) section of this book, but many characters have unique abilities.
-
----
-
-## The Golden Rule
-
-Carnevale is a narrative led skirmish game. The core rules are designed to make the game fun, fast-paced, and easy to understand. However, the story element of Carnevale should never be overlooked. It is a game of daring acrobatics, vicious combat, and eldritch magic. When playing, always remember the Golden Rule: the **object** of the game is to win, but the **point** of the game is for both players to have fun.
-
-When weaving your own story on the tabletop, it's good practice to allow your opponent a little leeway, whether measuring line of sight, planning their actions, or any number of other options that come up during a game. It is much more important for a move to be cinematic than for it to stick to the letter of the rules.
-
-### Fortune's Favour
-
-**Fortune's Favour** is a way to reward characters who pull off daring and dramatic plays. This core rule gets players to think carefully about their moves and encourages you to make your games more exciting.
-
-The first person to perform a particularly dashing feat during a game can be awarded Fortune's Favour by their opponent. If there are more than two players, a consensus must be reached between the opponents – channel your inner Council of Ten to plot and sabotage! A counter like the Carnevale coin works perfectly to represent Fortune's Favour.
-
-The **character that performed the feat** replenishes 1 Will Point, or 2 Will Points if the player is able to tell the story of the heroics – this is a narrative game, after all! Note that a character replenishes Will Points to their starting number, not over it.
-
-Once Fortune's Favour has been earned, that player is able to award it to any other player that performs further worthy feats, gaining Will Points as above. Fortune's Favour will therefore pass between players during the game, rewarding exceptional and striking plays.
+All of the character's special abilities are listed here. There are universal Character Abilities listed in the [Character Abilities](#character-abilities) section of this page, but many characters have unique abilities.
 
 ---
 
@@ -537,8 +530,6 @@ Once you have determined how much Damage your attack does, your target gets a ch
 
 **If a character is killed due to falling damage as a result of an attack, does that character count as killed by the attacking character?** Yes.
 
-**Can I use Expert Offence on Drowns and Grapples?** No, it is only on Combat actions in base contact.
-
 </div>
 
 #### Combat in Water
@@ -875,7 +866,7 @@ Each scenario has a few different elements to it. We'll go into these in this se
 
 After choosing the scenario, you'll find out how many players can play and how many Ducats each player has at their disposal to build a gang. Each scenario will have a recommended Ducat limit, and for one-off scenarios, we recommend playing with gangs of 100 Ducats.
 
-#### Setup
+#### Setup {#scenario-setup}
 
 Each scenario is accompanied by a map showing how to set up the gaming board and where each gang deploys. Some scenarios will have several mandatory terrain elements, but each scenario will have plenty of space for your own interpretation.
 
@@ -898,10 +889,7 @@ Scenarios can have a few specific rules for Objectives. Some are unique to the s
 - **Hidden:** The Objective is marked on one side and blank on the other. Unless otherwise stated, any character that **ends its turn in base contact** with the Objective and **not in base contact with an enemy character** can reveal it.
 - **Mobile:** Only Objectives with this rule can be picked up and carried. If the scenario doesn't have this rule, assume that the Objective cannot be moved. Any character that **ends its turn in base contact** with the Objective and **not in base contact with an enemy character** can pick it up. Remove the objective from the board and make a note of who is carrying it. A character can only carry one Objective at a time. **This character can only make Run/Climb actions.** If this character loses **3 or more Life Points or is removed from the board** for any reason (including Magic Spells like Gateway), it drops the objective in base contact. A character can choose to drop the objective at any time immediately after any action. Any friendly character can take the objective if they end their turn in base contact with the carrier. Any character with the Pickpocket special rule automatically takes the objective from an enemy character if they successfully **disengage** from them.
 
-<div class="callout">
-<p class="callout-title">FAQ — Errata (all rulebook versions)</p>
-<p>A character can only carry one Objective at a time.</p>
-</div>
+A character can only carry one Objective at a time.
 
 ### Agendas
 
@@ -924,7 +912,7 @@ Each scenario will note how many Agendas each player should use, how many Victor
 
 </div>
 
-### Special Rules
+### Special Rules {#scenario-special-rules}
 
 Each scenario can have special rules unique to it. Some are simple like giving each player an extra gondola, and some will be much more complex, such as rules for burning down buildings. Simply read through the special rules and use them in your game!
 
@@ -950,7 +938,7 @@ This shows how long the scenario will last. At the end of the last character's t
 
 For ease of reference, here is a simple order of play. Some special situations involve a little more in-depth thinking (such as using out of sequence actions), but this is a good base to work from.
 
-### Setup
+### Setup {#order-of-play-setup}
 
 1. **Scenario:** Choose the scenario you're playing, and attacker/defender if relevant.
 2. **Gang:** Choose your gang, including Magic Spells. Note that it's quickest to have a few gang rosters written up before this stage, so you can simply pick one for the Ducat limit and get on with things!
@@ -968,11 +956,9 @@ For ease of reference, here is a simple order of play. Some special situations i
 
 ---
 
-## Special Rules
+## Character Abilities {#character-abilities}
 
 Character Abilities are listed on a character's profile, or can be acquired through other means (such as Command Abilities).
-
-Weapon Abilities are listed on a character's weapon, and will take effect any time that weapon is used.
 
 Some of these special rules have an (X) listed after them. That (X) is most often a number (such as Fast Swimmer (2) for example), which is referenced in the rule itself. A character may find they are affected by multiple instances of these special rules. **These special rules stack to a maximum of 3 unless otherwise noted.**
 
@@ -983,13 +969,11 @@ Some of these special rules have an (X) listed after them. That (X) is most ofte
 
 </div>
 
-### Character Abilities
-
-#### Acrobatic (X)
+### Acrobatic (X)
 
 This character may re-roll up to (X) dice when making a DEXTERITY roll as part of any Move/Climb or Jump action.
 
-#### Aerial Attack
+### Aerial Attack
 
 This character does not lose Life Points from falling, provided it makes a charge from above.
 
@@ -1000,25 +984,25 @@ This character does not lose Life Points from falling, provided it makes a charg
 
 </div>
 
-#### Berserk
+### Berserk
 
 If this character has 5 or fewer Life Points remaining at the start of its turn, it gains a +1 bonus to its **Action Points** and **+1 ATTACK.**
 
-#### Boat Crew
+### Boat Crew
 
 This character may be set up on a Boat at the start of the game. This character replenishes **1 Will Point** at the start of its turn if it is on a Boat.
 
 Additionally, if at least 1 character with the **Boat Crew** ability is currently on a Boat, the *Cast Off Command Ability* only costs **1 Command Point**, and the Boat may instead move up to 18".
 
-#### Brave
+### Brave
 
 This character automatically succeeds when making a Basic MIND roll from the **Fear** ability.
 
-#### Brawler (X)
+### Brawler (X)
 
 This character modifies its ATTACK by (X) when in base contact with **2 or more opponents.**
 
-#### Bodyguard (X)
+### Bodyguard (X)
 
 For this special rule, (X) may be a character name or a character with a certain *keyword*.
 
@@ -1031,11 +1015,11 @@ If an enemy character charges (X), this character may immediately make an out of
 
 </div>
 
-#### Bulky
+### Bulky
 
 This character does not gain any benefit from being in cover, and cannot make **Hide** actions.
 
-#### Companion (X)
+### Companion (X)
 
 For this special rule, (X) may be a character name or a character with a certain *keyword*.
 
@@ -1050,17 +1034,22 @@ In addition, while in line of sight to another (X) character they use that chara
 
 </div>
 
-#### Concealment (X)
+### Concealment (X)
 
 While in cover this character modifies its PROTECTION by (X).
 
-#### Engage
+<div class="callout">
+<p class="callout-title">FAQ</p>
+<p><strong>Does Concealment replace the normal cover modifier?</strong> No, it simply adds or subtracts from it, so a character with Concealment (-1) loses the benefit of cover!</p>
+</div>
+
+### Engage
 
 This character automatically wins the Opposed Roll when an enemy character disengages from them, and so always gets to make an Attack of Opportunity.
 
 If the opposing character has **Slippery** however, then both players roll to disengage as normal.
 
-#### Ethereal
+### Ethereal
 
 This character may ignore all terrain while moving, but cannot end its turn or make any other actions while "inside" Impassable Terrain.
 
@@ -1071,52 +1060,57 @@ This character may ignore all terrain while moving, but cannot end its turn or m
 
 </div>
 
-#### Expert Grappler (X)
+### Expert Grappler (X)
 
 This character may re-roll up to (X) dice when making or defending against a **Grapple** or **Drown** action.
 
-#### Expert Marksman (X)
+### Expert Marksman (X)
 
 This character may re-roll up to (X) dice when making a **Combat** action while **not** in base contact with the target.
 
-#### Expert Offence (X)
+### Expert Offence (X)
 
 This character may re-roll up to (X) dice when making a **Combat** action while **in base contact** with the target.
 
-#### Expert Protection (X)
+<div class="callout">
+<p class="callout-title">FAQ</p>
+<p><strong>Can I use Expert Offence on Drowns and Grapples?</strong> No, it is only on Combat actions in base contact.</p>
+</div>
+
+### Expert Protection (X)
 
 This character may re-roll up to (X) dice when making a **Protection Roll.**
 
-#### Expert Sorcerer (X)
+### Expert Sorcerer (X)
 
 This character may re-roll up to (X) dice when making a **Cast Spell** action or **Dispelling** a magic spell.
 
 **In addition, this character knows (X) additional magic spells.**
 
-#### Fast Swimmer (X)
+### Fast Swimmer (X)
 
 If this character starts a **Run/Climb** action **in water,** it adds (X) number of inches to its MOVE for that action (even if it leaves water during the action).
 
-#### Fear (X)
+### Fear (X)
 
 When this character makes a **Combat** action, the target must first make a Basic MIND Roll, with their MIND value modified by (X), to a minimum of 1. If they roll **at least 1 Ace** (on a 7+ as normal), there is no effect. But if they roll **no Aces,** this character may re-roll any failed dice rolls for the Combat action.
 
-#### First Strike (X)
+### First Strike (X)
 
 This character modifies its ATTACK by (X) when making an **Attack of Opportunity from charging.**
 
-#### Flight
+### Flight
 
 When this character makes a Run/Climb action, it may instead **Fly.** Measure from the character to any other point within its MOVE (whether horizontally, vertically or diagonally, and this doesn't have to be on Solid Ground) and move it without making a DEXTERITY roll. It cannot make any actions while "mid-air" other than further Fly actions, and if it ends its turn "mid-air" it will fall from that spot. Additionally, this character takes 2 less Damage from falling.
 
-#### Frenzied
-
-This character may use its Life Points as if they were Will Points.
-
 <div class="callout">
-<p class="callout-title">FAQ — Errata (all rulebook versions)</p>
-<p>Frenzied cannot be used if it would bring a character's life points to 0.</p>
+<p class="callout-title">FAQ</p>
+<p><strong>Can a character with Flight move vertically to gain a charge from above?</strong> Yes, although if it is in base contact with an enemy already it would need to Disengage (and would make an Opposed DEXTERITY roll).</p>
 </div>
+
+### Frenzied
+
+This character may use its Life Points as if they were Will Points. Frenzied cannot be used if it would bring a character's life points to 0.
 
 <div class="callout">
 <p class="callout-title">FAQ</p>
@@ -1125,24 +1119,21 @@ This character may use its Life Points as if they were Will Points.
 
 </div>
 
-#### Hunter
+### Hunter
 
 This character gains **Penetration -3** on its weapons (but **not** on Unarmed attacks) when targeting an enemy with a **larger base size.**
 
-#### Infiltration
+### Infiltration
 
 This character may be deployed more than 3" above or below ground level at the start of the game, but **not** in water unless specified.
 
-#### Limited Movement
+### Limited Movement
 
 This character may only move up to 2" maximum in a single action when in water and up to 2" vertically up or down in a single **Run/Climb** action. They may still Jump as normal.
 
 In addition, this character **cannot** carry Mobile Objectives.
 
-<div class="callout">
-<p class="callout-title">FAQ — Errata (all rulebook versions)</p>
-<p>Characters with the Water Creature Special Rule move their full MOVE while in water but still suffer all of the other penalties of Limited Movement.</p>
-</div>
+Characters with the Water Creature Special Rule move their full MOVE while in water but still suffer all of the other penalties of Limited Movement.
 
 <div class="callout">
 <p class="callout-title">FAQ</p>
@@ -1153,11 +1144,11 @@ In addition, this character **cannot** carry Mobile Objectives.
 
 </div>
 
-#### Mage (X)
+### Mage (X)
 
 This character is a Mage and knows (X) number of magic spells. See the [Magic](#magic) section for more details. A character with Mage (0) still knows a single Cantrip.
 
-#### Mindless
+### Mindless
 
 This character may interact with Objectives as normal (such as carrying, revealing, claiming, or destroying), but is ignored when scoring Victory Points for them at the end of the game. It can still score Victory Points from other win conditions (such as killing enemies or Agendas).
 
@@ -1170,33 +1161,33 @@ This character may interact with Objectives as normal (such as carrying, reveali
 
 </div>
 
-#### Parry (X)
+### Parry (X)
 
 When this character becomes the target of a Combat action **while in base contact with the attacker,** you may force your opponent to re-roll up to (X) dice from the Attack Roll.
 
 Note that some attackers may choose to re-roll their dice too. In this situation, don't forget that you may never re-roll a dice more than once.
 
-#### Pickpocket
+### Pickpocket
 
 If this character successfully disengages, its opponent loses 1 Will Point and this character automatically takes any Mobile objective they're carrying.
 
 At the end of the action, this character or any one friendly character within 3" replenishes 1 Will Point.
 
-#### Primitive
+### Primitive
 
 At the start of this character's turn it must roll a Basic MIND Roll. If it rolls **no Aces,** it receives a Stunned counter.
 
-#### Slippery
+### Slippery
 
 This character automatically wins the Opposed Roll when disengaging, and so never gets hit by an Attack of Opportunity.
 
 If the opposing character has **Engage** however, then both players roll to disengage as normal.
 
-#### Universal Shielding (X)
+### Universal Shielding (X)
 
 This character always has a minimum PROTECTION of (X), after all modifiers. This special rule can stack higher than 3, but cannot take a character's PROTECTION value above its starting number.
 
-#### Vampiric Attack (X)
+### Vampiric Attack (X)
 
 If this character makes a **Combat** action while **in base contact** with its target that causes the target to lose at least 1 Life Point, it replenishes (X) of its own Life Points.
 
@@ -1207,15 +1198,22 @@ If this character makes a **Combat** action while **in base contact** with its t
 
 </div>
 
-#### Water Creature
+### Water Creature
 
 This character moves its full MOVE in water, may move up to 8" as part of a Dive action, and cannot be Drowned.
 
 In addition, this character may be set up in water at the start of the game.
 
+<div class="callout">
+<p class="callout-title">FAQ</p>
+<p><strong>Do Water Creatures lose Life Points when stunned in water? What about Fumbling Diving and Drown actions?</strong> Yes they do.</p>
+</div>
+
 ---
 
 ## Weapon Abilities
+
+Weapon Abilities are listed on a character's weapon, and will take effect any time that weapon is used.
 
 ### Aquatic
 
@@ -1268,6 +1266,8 @@ This weapon may only be used for up to (X) Combat actions in each round.
 
 A character in base contact with an enemy may only use this weapon **(X) number of times** (modified by the amount already used that round). Once that number has been reached, the weapon may **not be used again** until the character **starts** their turn out of base contact with any enemies.
 
+*Example:* a weapon with Reload (2) is used once in a character's turn. They are then charged in the same round. The character may then only use that weapon one more time until they start a turn out of base contact.
+
 ### Smoke
 
 Any character hit by this weapon counts as being in cover until the end of the round, and gains a **Hidden** counter. If this weapon also has the Blast ability, any character under the marker is affected. Remove the marker at the end of the round.
@@ -1287,3 +1287,15 @@ This weapon uses the teardrop shaped template. Trace a line between the attacker
 ### Two-handed
 
 This weapon increases its **Evasion by +1** when making an Attack of Opportunity.
+
+---
+
+## Optionnal rule: Fortune's Favour
+
+**Fortune's Favour** is a way to reward characters who pull off daring and dramatic plays. This core rule gets players to think carefully about their moves and encourages you to make your games more exciting.
+
+The first person to perform a particularly dashing feat during a game can be awarded Fortune's Favour by their opponent. If there are more than two players, a consensus must be reached between the opponents – channel your inner Council of Ten to plot and sabotage! A counter like the Carnevale coin works perfectly to represent Fortune's Favour.
+
+The **character that performed the feat** replenishes 1 Will Point, or 2 Will Points if the player is able to tell the story of the heroics – this is a narrative game, after all! Note that a character replenishes Will Points to their starting number, not over it.
+
+Once Fortune's Favour has been earned, that player is able to award it to any other player that performs further worthy feats, gaining Will Points as above. Fortune's Favour will therefore pass between players during the game, rewarding exceptional and striking plays.

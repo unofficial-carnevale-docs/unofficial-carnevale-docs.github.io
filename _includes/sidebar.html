@@ -16,7 +16,7 @@
     <div class="sidebar-section">
       <p class="sidebar-section-title">Compendium</p>
       <ul>
-        {% assign compendium_pages = site.rules | where_exp: "p", "p.section != 'hyperlinked_rules'" | sort: "nav_order" %}
+        {% assign compendium_pages = site.compendium | sort: "nav_order" %}
         {% for p in compendium_pages %}
         <li>
           <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
