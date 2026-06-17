@@ -1,6 +1,6 @@
 ---
 title: Disciplines Overview
-nav_order: 3
+nav_order: 2
 ---
 
 Each discipline defines a Mage's role in the gang, since all spells must come from the same school.

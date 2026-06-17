@@ -5,32 +5,25 @@ description: Magic rules reference for Carnevale v2.2, with official FAQ & Errat
 nav_order: 1
 ---
 
-## General
+## Mages and Disciplines
 
 Characters with the **Mage (X)** ability are able to cast arcane spells.
 
 **When working out the effects of a spell, any (X) in the text refers to the casting character's Mage (X) number.**
 
-## Disciplines
+### Disciplines
 
-Mages are limited to the kinds of spells they are able to cast. There are five Disciplines of magic in Carnevale: Divinity, Blood Rites, Fateweaving, Runes of Sovereignty, and Wild Magic.
+There's 5 disciplines in the game: Blood Rites, Divinity, Fateweaving, Runes of Sovereignty, and Wild Magic.
 
-At the start of the game, before rolling for Deployment Zone, pick which spells your characters know. A character with the **Mage (X)** ability knows (X) number of spells. A character with the **Expert Sorcerer (X)** ability adds (X) to the number of spells known.
+A character with the Discipline (X) keyword may choose their spells from the listed disciplines.
 
-If a character has the Discipline (X) keyword, then they can know spells from the disciplines listed. **A character must pick all of their spells from the same Discipline.** Each Discipline has a Cantrip.
+A character must pick all of their spells from the same discipline. Spells are chosen before the game and cannot be changed during play.
 
-A Mage will always know the Cantrip from their chosen Discipline, but Cantrips do not count towards the maximum number of known spells.
+### Spell known
 
-Characters are only allowed to cast their chosen spells for the entirety of the game, so choose carefully!
+A Mage (X) knows (X) spells from their discipline + the Cantrip. A character with Mage (0) knows only the Cantrip.
 
-## Spells
-
-Each spell card has four entries:
-
-1. **Spell:** The name of the spell.
-2. **Cost:** How many Will Points need to be spent to attempt to cast the spell.
-3. **Difficulty:** The result needed to score an Ace on the spell's Magic Roll.
-4. **Effect:** What the spell does.
+A character with Expert Sorcerer (X) knows (X) additional spells.
 
 ## Cast Spell — 1AP
 
@@ -38,7 +31,7 @@ A character with the **Mage** Character Ability may attempt to cast a spell out 
 
 **A character cannot cast a spell while in water unless it has the Water Creature ability.**
 
-Spells cost a different number of Will Points, noted in its entry. These are spent whether the action is successful or not. Select the spell you wish to cast and make a **Magic Roll** using the character's MIND value. The result needed for an Ace is the Difficulty of each spell.
+To attempt to cast a spell, select the spell you wish to cast, spend the spells **WP cost**, and make a **Magic Roll** using the character's **MIND** value against the spell **Difficulty**.
 
 | Result | Effect |
 |---|---|

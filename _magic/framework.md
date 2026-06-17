@@ -1,7 +1,8 @@
 ---
 title: Spell Evaluation Framework
 description: Framework used to make the spell deep analysis
-nav_order: 3
+is_analysis: true
+nav_order: 20
 ---
 
 ## How are spells evaluated

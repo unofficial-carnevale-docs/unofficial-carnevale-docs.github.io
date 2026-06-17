@@ -56,12 +56,15 @@
     </div>
 
   {% elsif sec == 'magic' %}
-    {% assign top_pages  = site.magic | where_exp: "p", "p.is_discipline != true" | sort: "nav_order" %}
-    {% assign disciplines = site.magic | where: "is_discipline", true | sort: "title" %}
+    {% assign magic_intro    = site.magic | where_exp: "p", "p.is_discipline != true" %}
+    {% assign magic_intro    = magic_intro | where_exp: "p", "p.is_analysis != true" %}
+    {% assign magic_intro    = magic_intro | sort: "nav_order" %}
+    {% assign disciplines    = site.magic | where: "is_discipline", true | sort: "nav_order" %}
+    {% assign magic_analysis = site.magic | where: "is_analysis", true | sort: "nav_order" %}
     <div class="sidebar-section">
       <p class="sidebar-section-title">Magic</p>
       <ul>
-        {% for p in top_pages %}
+        {% for p in magic_intro %}
         <li>
           <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
             {{ p.title }}
@@ -78,6 +81,20 @@
         <li>
           <a href="{{ d.url | relative_url }}"{% if page.url == d.url %} class="active" aria-current="page"{% endif %}>
             {{ d.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    {% if magic_analysis.size > 0 %}
+    <div class="sidebar-section">
+      <p class="sidebar-section-title">Raw Data</p>
+      <ul>
+        {% for p in magic_analysis %}
+        <li>
+          <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
+            {{ p.title }}
           </a>
         </li>
         {% endfor %}

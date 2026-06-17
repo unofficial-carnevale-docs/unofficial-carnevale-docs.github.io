@@ -1,6 +1,7 @@
 ---
 title: Spell data
-nav_order: 2
+is_analysis: true
+nav_order: 21
 ---
 
 ## Global Averages (paid spells only)
