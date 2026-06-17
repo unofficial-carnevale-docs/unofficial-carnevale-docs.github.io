@@ -25,7 +25,7 @@ A Mage (X) knows (X) spells from their discipline + the Cantrip. A character wit
 
 A character with Expert Sorcerer (X) knows (X) additional spells.
 
-## Cast Spell — 1AP
+## Cast Spell (1AP)
 
 A character with the **Mage** Character Ability may attempt to cast a spell out of those they know. **Each character may only attempt to cast each spell once per round.**
 

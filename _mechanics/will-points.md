@@ -1,6 +1,7 @@
 ---
 title: Will Points
 nav_order: 1
+is_ref: true
 next_doc:
   title: Offense & Defense Modifiers
   url: /mechanics/offense-defense/
@@ -9,25 +10,25 @@ next_doc:
 ## Core Rules
 
 - Spend up to **2 WP** before any roll: each WP = +1 die
-- **WP does not replenish per round** (unlike AP) — a model with WP N has exactly N bonus dice for the entire game unless it has a replenishment source
+- **WP does not replenish per round** (unlike AP): a model with WP N has exactly N bonus dice for the entire game unless it has a replenishment source
 - Per-roll cap (2) and total pool (N) are independent: WP 2 = 2 bonus dice total, usable as +2 on one roll or +1 on two rolls
 
 ---
 
 ## TLDR: What WP is worth (best to worst)
 
-- **On an attack** — the best use. More dice = more hits and more damage; fully boosting a key attack
+- **On an attack:** the best use. More dice = more hits and more damage. Fully boosting a key attack
   can lift its damage by roughly half.
-- **On casting a spell** — very good: it makes an important spell much more likely to land (and avoids
+- **On casting a spell:** very good: it makes an important spell much more likely to land (and avoids
   disastrous fumbles).
-- **On a defence (Protection) roll** — okay, but worth less than on an attack.
-- **On a movement or utility roll** — small; rarely worth it.
+- **On a defence (Protection) roll:** okay, but worth less than on an attack.
+- **On a movement or utility roll:** small and rarely worth it.
 
 ---
 
 ## Detailed maths: Value per WP by Action Type
 
-### Combat / Ranged Attack — threshold = target DEX
+### Combat / Ranged Attack (threshold: target DEX)
 
 Each bonus die adds **(11 − DEX) / 10** expected damage. WP is most efficient here because DEX is usually below 7.
 
@@ -40,7 +41,7 @@ Each bonus die adds **(11 − DEX) / 10** expected damage. WP is most efficient 
 
 Full +2 WP on ATK 4 vs DEX 4: 2.80 → 4.20 expected Aces (**+50% damage**).
 
-### Protection — threshold 7+
+### Protection (threshold: 7+)
 
 Each bonus die adds **+0.40** expected LP saved.
 
@@ -51,16 +52,16 @@ Each bonus die adds **+0.40** expected LP saved.
 
 WP on defence is worth less per point than on offence vs DEX 4–5 targets.
 
-### Grapple / Drown — threshold 7+
+### Grapple / Drown (threshold: 7+)
 
-Each bonus die adds **+0.40** expected Aces. Lower return than melee Combat vs low-DEX targets; mainly used to secure a Critical (Stun) or avoid a Fumble.
+Each bonus die adds **+0.40** expected Aces. Lower return than melee Combat vs low-DEX targets, mainly used to secure a Critical (Stun) or avoid a Fumble.
 
 | ATK | Base | +1 WP | +2 WP |
 |-----|------|-------|-------|
 | 3   | 1.20 | 1.60  | 2.00  |
 | 4   | 1.60 | 2.00  | 2.40  |
 
-### Jump — Basic DEX Roll, threshold 7+
+### Jump (Basic DEX Roll, threshold: 7+)
 
 Each bonus die adds **+0.40 expected inches** (Success = 2" + 1" per Ace).
 
@@ -70,7 +71,7 @@ Each bonus die adds **+0.40 expected inches** (Success = 2" + 1" per Ace).
 | 4   | 3.6"      | 4.0"  | 4.4"  |
 | 5   | 4.0"      | 4.4"  | 4.8"  |
 
-### Magic — threshold = spell Difficulty
+### Magic (threshold: spell Difficulty)
 
 WP serves two roles: **casting cost** (1 WP per spell) and **dice boost** (up to 2 additional WP on the roll). These are separate spends.
 
@@ -84,9 +85,9 @@ WP serves two roles: **casting cost** (1 WP per spell) and **dice boost** (up to
 
 ---
 
-## Frenzied — The LP-as-WP Engine
+## Frenzied: The LP-as-WP Engine
 
-Most Frenzied characters have WP 0; LP is their only bonus-die source. A LP 15 character has **15 bonus dice** total — about 5× a typical WP 3 non-mage, capped at 2 per roll.
+Most Frenzied characters have WP 0, so LP is their only bonus-die source. A LP 15 character has **15 bonus dice** total, about 5× a typical WP 3 non-mage, capped at 2 per roll.
 
 ### Two fully boosted attacks in one turn (4 LP cost)
 
@@ -96,7 +97,7 @@ Most Frenzied characters have WP 0; LP is their only bonus-die source. A LP 15 c
 | ATK 4 vs DEX 4 | 2.80 | 4.20 | +50% | 4 LP |
 | ATK 4 vs DEX 5 | 2.40 | 3.60 | +50% | 4 LP |
 
-Very few non-Frenzied models can match this output — WP 4 is rare outside dedicated mages, and spending it all on two attacks leaves nothing for the rest of the game.
+Very few non-Frenzied models can match this output. WP 4 is rare outside dedicated mages, and spending it all on two attacks leaves nothing for the rest of the game.
 
 ### Vampiric Attack interaction
 
@@ -137,15 +138,15 @@ Each triggering hit refunds X LP. With VA(1) on two boosted attacks:
 
 | Character | Source | Amount | Condition |
 |---|---|---|---|
-| Faction Command | Heavenly Father Guide Us (PULSE) | +2 WP self, +1 WP to all friendlies within 3" | — |
-| Patriarch Bishop de Bernis (Leader) | Patriarch Bishop command | +1 WP/turn | Grants all Vatican chars Companion(Leader); any that can see a Leader at start of turn replenish 1 WP |
+| Faction Command | Heavenly Father Guide Us (PULSE) | +2 WP self, +1 WP to all friendlies within 3" | - |
+| Patriarch Bishop de Bernis (Leader) | Patriarch Bishop command | +1 WP/turn | Grants all Vatican chars Companion(Leader), and any that can see a Leader at start of turn replenish 1 WP |
 | Father Cesta (Leader) | Gates of Heaven (PULSE) | WP counts as 2 on rolls | Friendly Construct chars within 6" |
 | Father Cesta (Leader) | Impart Will | +1 starting WP | All friendly Construct chars at game start |
 | Angel of the Blooded Rose (Hero) | Heavenly Vision | +1 to any WP replenishment | Whenever any friendly in LOS replenishes WP |
 | Felix Baumgartner (Hero) | Renewed Vigour | Full WP replenishment | On kill |
 | Eater of Sin (Hero) | Communion for the Sinless | +2 WP | On killing a WP-0 enemy |
 | Cross-bearing Deacon (Hero) | Holy Relic | +1 WP/turn | Any other friendly starting turn within 6" |
-| Seraph (Hero, Construct) | Holy Grace | +1 WP | Per successful Combat action; can exceed starting WP |
+| Seraph (Hero, Construct) | Holy Grace | +1 WP | Per successful Combat action, can exceed starting WP |
 | Venator of Devotion (Hero, Hospitaller) | Killing Blow | Full WP replenishment | On overkill |
 | Altar Boy (Henchman) | Censer Bearer | +1 WP/turn | Any friendly starting turn within 6" in LOS |
 
@@ -179,7 +180,7 @@ Each triggering hit refunds X LP. With VA(1) on two boosted attacks:
 
 | Character | Source | Amount | Condition |
 |---|---|---|---|
-| Faction Command | Soul Drain (PULSE) | +1 WP per Ace | Basic MIND Roll; character in base contact loses equal LP |
+| Faction Command | Soul Drain (PULSE) | +1 WP per Ace | Basic MIND Roll, character in base contact loses equal LP |
 | Thalidraur (Leader) | Lead Through Fear | +1 WP (+1 CP) | Per kill within 6" (any character) |
 | Emissary of Mother Hydra (Hero) | Rip Apart | +1 WP | Per Tentacle kill |
 | Dagonite Priest (Hero) | Sacrifice | +1 WP per LP dealt | Combat with Sacrificial Dagger (can target friendlies) |
@@ -204,11 +205,11 @@ Each triggering hit refunds X LP. With VA(1) on two boosted attacks:
 | Character | Source | Amount | Condition |
 |---|---|---|---|
 | La Signora (Leader/Hero) | Search of Satisfaction (PULSE) | +N WP | Count all chars (friendly and enemy) within 3" |
-| Fate (Hero) | Aura of Inevitability (1AP) | +2 WP | Opposed MIND vs enemy in LOS within 6"; success = target loses 2WP+2LP, self replenishes 2WP |
+| Fate (Hero) | Aura of Inevitability (1AP) | +2 WP | Opposed MIND vs enemy in LOS within 6", success = target loses 2WP+2LP, self replenishes 2WP |
 | Harbinger's Reflection (Hero) | A Light in the Dark | +2 WP | Whenever any char uses 2+ of their own WP in one action |
-| Francisco De Lorme (Hero) | Take the Oath | Pool sharing | Masked char gains +2 WP and Companion(Francisco); friendlies within 6" may use masked char's WP |
+| Francisco De Lorme (Hero) | Take the Oath | Pool sharing | Masked char gains +2 WP and Companion(Francisco), and friendlies within 6" may use masked char's WP |
 | Starspawn (Henchman) | Thirsty | +1 WP | Whenever any spell (friendly or enemy) is successfully cast |
-| Pantaleone (Henchman) | Hoarded Wealth | +1 WP at round end | If no WP spent that round; can exceed starting WP |
+| Pantaleone (Henchman) | Hoarded Wealth | +1 WP at round end | If no WP spent that round, can exceed starting WP |
 | Escaped Madman (Henchman) | Shattered Nexus | +3 WP | When reduced to 0 WP, 3-Damage blast first |
 
 ### Strigoi
@@ -225,13 +226,13 @@ Some models prevent or drain WP use rather than generating it:
 
 | Character | Effect |
 |---|---|
-| Strigoi Priest (Hero) — Devil Incarnate | Enemy chars in base contact cannot use WP |
-| Black Lamp (Guild Hero) — The Lamp | Enemy chars within 3" cannot use WP |
-| Exorcist (Vatican Leader) — Helm of Penitence | Enemy chars within 3" cannot use WP |
-| Exorcist (Vatican Leader) — Exorcism | Divine Touch hit → target loses 1 WP; 0 WP target takes +3 Damage instead |
+| Strigoi Priest (Hero): Devil Incarnate | Enemy chars in base contact cannot use WP |
+| Black Lamp (Guild Hero): The Lamp | Enemy chars within 3" cannot use WP |
+| Exorcist (Vatican Leader): Helm of Penitence | Enemy chars within 3" cannot use WP |
+| Exorcist (Vatican Leader): Exorcism | Divine Touch hit → target loses 1 WP, and 0-WP targets take +3 Damage instead |
 | Vatican Witch Finder / Inquisitorial Guard (Henchmen) | Enemy chars in base contact cannot use WP |
-| Doctors Ghoul — Bereft of Will | All chars within 3" cannot use WP; on death, all within 3" lose 1 WP |
-| Eater of Sin (Vatican Hero) — Let Your Sins Be Absolved | Compelled Confession hit → target loses 1 WP |
-| Throne (Vatican Hero, Construct) — Be Thou Afraid? | Enemy that triggers Fear and rolls 0 Aces loses 1 WP |
-| Harlequin (Gifted Hero) — Mischievous | On 7+, enemy WP used within 3" is wasted |
+| Doctors Ghoul: Bereft of Will | All chars within 3" cannot use WP, and on death all within 3" lose 1 WP |
+| Eater of Sin (Vatican Hero): Let Your Sins Be Absolved | Compelled Confession hit → target loses 1 WP |
+| Throne (Vatican Hero, Construct): Be Thou Afraid? | Enemy that triggers Fear and rolls 0 Aces loses 1 WP |
+| Harlequin (Gifted Hero): Mischievous | On 7+, enemy WP used within 3" is wasted |
 | Pickpocket | Opponent loses 1 WP on successful disengage |

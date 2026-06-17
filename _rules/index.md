@@ -272,7 +272,7 @@ Each model in Carnevale is referred to as a character. Each character has a seri
 
 ### Points
 
-Points are a finite resource for each character; lost and sometimes replenished throughout the game. Points can never be lower than 0 or go above its starting number. Points are split into the following four categories:
+Points are a finite resource for each character, lost and sometimes replenished throughout the game. Points can never be lower than 0 or go above its starting number. Points are split into the following four categories:
 
 **Action Points** – Action Points (often AP) are the number of actions a character may make each turn. A character may never use more than 3 Action Points in each character turn. AP are replenished each round.
 
@@ -302,7 +302,7 @@ A character may have several different weapons on their character profile. For e
 
 | Weapon | Range | Evasion | Damage | Penetration | Abilities |
 |---|---|---|---|---|---|
-| Unarmed | 0" | — | — | +1 | — |
+| Unarmed | 0" | - | - | +1 | - |
 
 - **Weapon:** The weapon's name is displayed here.
 - **Range:** Each weapon has a range value. This value shows the effective distance in inches that this weapon can be used on the tabletop. If the target is within the weapon's range, you may use that weapon to attack. **Weapons with a range of 0" may only be used against enemies in base contact.**
@@ -385,7 +385,7 @@ Command Abilities come in two forms:
 
 **Can a character attempt to cast a spell as an out of sequence action, despite it not happening on their turn?** Yes, though this spell cannot be one they have already cast this round and cannot be cast later during the round.
 
-**Can I use a Counter command against a character that has just used the Attack of Opportunity from a character that's guarding?** No. Counter may only be used after actions made during a character turn, as the Attack of Opportunity from Guard happens outside of the guarding character's turn; you can't use Counter to follow up from it.
+**Can I use a Counter command against a character that has just used the Attack of Opportunity from a character that's guarding?** No. Counter may only be used after actions made during a character turn, as the Attack of Opportunity from Guard happens outside of the guarding character's turn. You can't use Counter to follow up from it.
 
 **Can I use a Counter command on a Mage to cast a second spell that they have already cast that round?** No.
 
@@ -417,7 +417,7 @@ When abilities say they affect any or every friendly character, that does includ
 
 Any character can use the actions listed in this section, but individual characters may have their own unique actions with an AP cost on their character profile card.
 
-### Run/Climb — 1AP
+### Run/Climb (1AP)
 
 The character is able to move up to its MOVE value in inches in a broadly horizontal direction with no penalties. This movement action can be used to move over terrain features that are **less than 1" high.** **A character may not move through another character, friendly or enemy.**
 
@@ -474,7 +474,7 @@ An Attack of Opportunity is counted as a regular action, but costs 0AP. A charac
 
 Choose either to make a **Combat** action, a **Grapple** action, or a **Drown** action. Treat the Attack of Opportunity as a normal action of that type, with any and all Character Abilities, Weapon Abilities, or modifiers that may apply.
 
-### Jump — 1AP
+### Jump (1AP)
 
 **A character cannot jump while in water.**
 
@@ -514,7 +514,7 @@ Note that a character only falls if it doesn't "complete" its jump by landing on
 
 **Once per turn** when you perform a Jump **onto an Obstacle or Debris,** you may immediately make an additional 0AP jump from the obstacle or debris.
 
-#### Controlled Landing — 1WP
+#### Controlled Landing (1WP)
 
 Before rolling to jump, you may choose for that character to make a Controlled Landing. The jump costs 1AP as normal and the Controlled Landing costs **1 Will Point.**
 
@@ -544,7 +544,7 @@ Measure the distance from the start of the fall to the end of the fall. When a c
 
 See [Landing Spots](#landing-spots) for modifiers based on where a character lands.
 
-### Dive — 2AP
+### Dive (2AP)
 
 To dive, a character must be in water. Make a Basic **DEXTERITY** Roll and consult the table below:
 
@@ -570,7 +570,7 @@ If it has the **Water Creature** Character Ability, it may move up to 8" per Und
 
 </div>
 
-### Hide — 1AP
+### Hide (1AP)
 
 A character **not in base contact** with any enemies and **not in water** can choose to Hide. Gain a Hidden counter and end this character's turn.
 
@@ -578,7 +578,7 @@ Enemy characters cannot draw line of sight to a character with a Hidden counter 
 
 If this character is moved in any way or performs another action, it immediately loses its Hidden counter.
 
-### Guard — 1AP
+### Guard (1AP)
 
 A character **not in base contact** with any enemies and **not in water** can choose to Guard. Gain a Guard counter and end this character's turn.
 
@@ -593,7 +593,7 @@ If this character is moved in any way or performs another action, it immediately
 
 </div>
 
-### Combat — 1AP
+### Combat (1AP)
 
 To make a Combat action, choose a weapon on the character's profile and an enemy character in line of sight within weapon range to be the target. Make an Attack Roll using the character's ATTACK stat and consult the table below:
 
@@ -632,7 +632,7 @@ When a character is instructed to take **Damage,** they make a **Protection Roll
 
 **A character who is swimming may only use weapons with the Aquatic Ability,** unless the character started its action outside of water (for example jumping into base contact with a character from the canal side).
 
-### Grapple — 1AP
+### Grapple (1AP)
 
 To make a Grapple action, choose an enemy character in base contact to be the target of the attack. Make an Opposed ATTACK Roll and consult the table below, needing 7+ for an Ace.
 
@@ -662,7 +662,7 @@ A character can target another friendly character with a Grapple. If they do, th
 
 </div>
 
-### Drown — 1AP
+### Drown (1AP)
 
 To make a Drown action, choose an enemy character in base contact and in water to be the target of the attack. A character with the **Water Creature** Character Ability cannot be the target of a Drown action. Make an Opposed ATTACK Roll and consult the table below.
 
@@ -704,7 +704,7 @@ Each spell card has four entries:
 3. **Difficulty:** The result needed to score an Ace on the spell's Magic Roll.
 4. **Effect:** What the spell does.
 
-### Cast Spell — 1AP
+### Cast Spell (1AP)
 
 A character with the **Mage** Character Ability may attempt to cast a spell out of those they know. **Each character may only attempt to cast each spell once per round.**
 
@@ -858,7 +858,7 @@ A character riding a gondola may make a Row action.
 
 </div>
 
-#### Row — 1AP
+#### Row (1AP)
 
 Make a Basic **DEXTERITY** Roll and consult the table below:
 
@@ -905,37 +905,37 @@ In addition, no matter how many Ducats you are using, a character with the *Uniq
 
 When building your gang before a scenario or campaign, you may spend Ducats on equipment. You may take any number of different pieces of equipment in your gang, but each individual piece of equipment from this list may only be taken once per player.
 
-**Flashbang Grenade — 1 Ducat**
+**Flashbang Grenade (1 Ducat)**
 Once per game, when disengaging, you may choose to automatically score a Critical instead of rolling any dice.
 
-**Bottled Courage — 2 Ducats**
+**Bottled Courage (2 Ducats)**
 Once per game, you may choose to re-roll a single dice (but not the Destiny Dice).
 
-**Climbing Tools — 2 Ducats**
+**Climbing Tools (2 Ducats)**
 Once per game, when making a Run/Climb action, you may choose to automatically score a Critical instead of rolling any dice.
 
-**Limewater Rebreather — 2 Ducats**
+**Limewater Rebreather (2 Ducats)**
 Once per game, when making a Dive action, you may choose to automatically score a Critical instead of rolling any dice.
 
-**Lantern — 2 Ducats**
+**Lantern (2 Ducats)**
 Once per game, at the start of a round, pick a friendly character. Until the end of the round, any character within 6" (friendly or enemy) cannot claim any bonuses from being in cover and loses any Hidden counters they have.
 
-**Parachute — 3 Ducats**
+**Parachute (3 Ducats)**
 Once per game, when Falling, you may choose to automatically score a 10 on the Destiny dice instead of rolling it.
 
-**Gondola — 3 Ducats**
+**Gondola (3 Ducats)**
 You may set up a Gondola in water in your Deployment Zone at the start of the game.
 
-**Intercepted Documents — 4 Ducats**
+**Intercepted Documents (4 Ducats)**
 Before deploying any characters, one friendly character gains the **Infiltrate** Character Ability.
 
-**Carnevale Mask — 4 Ducats**
+**Carnevale Mask (4 Ducats)**
 Once per game, at the start of an enemy character's turn, pick a friendly character not in base contact with any enemy characters to wear this mask. For the enemy character's turn, this character cannot be attacked in any way (Combat actions, Drown actions, Magic spells etc).
 
-**Poison — 5 Ducats**
+**Poison (5 Ducats)**
 Once per game, before rolling for a Combat action, the chosen weapon gains the Poisoned ability for this attack.
 
-**Leather Undershirt — 10 Ducats**
+**Leather Undershirt (10 Ducats)**
 Once per game, when a friendly character has taken Damage, and before Protection rolls, roll 1 dice. Subtract that many points from the Damage received.
 
 ---
@@ -1059,7 +1059,7 @@ Some of these special rules have an (X) listed after them. That (X) is most ofte
 <div class="callout">
 <p class="callout-title">FAQ</p>
 
-**What's affected by the stacking limit of 3 for Special Rules?** All of the special rules in the Special Rules section that have an (X) after them are subject to this limit. If a character with Expert Offense (2) would gain another instance of Expert Offense (2), that character would end up with Expert Offense (3). If a rule would grant a special rule with an (X) value over 3, only the highest value is used. A character's stats are unaffected by this rule; multiple rules may stack stats until they reach the limit of 10.
+**What's affected by the stacking limit of 3 for Special Rules?** All of the special rules in the Special Rules section that have an (X) after them are subject to this limit. If a character with Expert Offense (2) would gain another instance of Expert Offense (2), that character would end up with Expert Offense (3). If a rule would grant a special rule with an (X) value over 3, only the highest value is used. A character's stats are unaffected by this rule. Multiple rules may stack stats until they reach the limit of 10.
 
 </div>
 

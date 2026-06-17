@@ -1,30 +1,28 @@
 ---
-title: Combat Capabilities calculations
-nav_order: 3
-prev_doc:
-  title: "Offense & Defense Modifiers"
-  url: /mechanics/offense-defense/
+title: Combat Capabilities Calculations
+nav_order: 2
+is_analysis: true
 ---
-
-How the offensive (EDPA) and defensive (ATK2K) capability scores are computed, what they assume, and where they stop.
 
 ## Purpose
 
-Put every non-leader model on a common, combat-grounded scale so we can answer comparative questions — standard output of a damage dealer, which faction
+Put every non-leader model on a common, combat-grounded scale so we can answer comparative questions: standard output of a damage dealer, which faction
 has the quality dealers, which model is the most cost-efficient for its role.
+
+To do that, we'll analyze how the offensive (EDPA) and defensive (ATK2K) capability scores are computed, what they assume, and where they stop.
 
 ## Common unit: Life Points
 
 Both scores are expressed in **Life Points**, derived from combat math (never from Ducats), so
-offense, defense, and cost-efficiency are directly comparable and **non-circular** — cost-efficiency
+offense, defense, and cost-efficiency are directly comparable and **non-circular**: cost-efficiency
 (capability per Ducat) stays meaningful because capability is not built out of cost.
 
-- **EDPA — Expected Damage Per AP.** Sustained, **Reload-aware**: over the model's full AP the best
+- **EDPA (Expected Damage Per AP).** Sustained, **Reload-aware**: over the model's full AP the best
   weapon fires up to its Reload cap, then the next-best weapon fills remaining AP (best of weapons /
-  damage spells; Mages take their best damage spell). Reported as a **vector** across reference
-  defenders; headline vs the balanced reference. The companion **alpha** figure is the best single
-  attack/cast — the burst on the turn it fires (weigh alpha for the kill turn, EDPA for sustained pressure).
-- **ATK2K — Attacks-To-Kill.** `LP ÷ (expected net LP lost per incoming attack)` — the
+  damage spells, with Mages taking their best damage spell). Reported as a **vector** across reference
+  defenders, with the headline figure vs the balanced reference. The companion **alpha** figure is the best single
+  attack/cast: the burst on the turn it fires (weigh alpha for the kill turn, EDPA for sustained pressure).
+- **ATK2K (Attacks-To-Kill).** `LP ÷ (expected net LP lost per incoming attack)`, the
   EHP-equivalent survivability number, folding LP, Dexterity, Protection, Parry, and Universal
   Shielding into "how many reference attacks this model survives." Higher = tankier.
 
@@ -33,25 +31,25 @@ offense, defense, and cost-efficiency are directly comparable and **non-circular
 A **Monte Carlo simulator** that resolves one Combat attack exactly as the
 rules specify:
 
-1. **Attack Roll** — `Attack` dice (one is the Destiny die), threshold = target Dexterity + the
+1. **Attack Roll:** `Attack` dice (one is the Destiny die), threshold = target Dexterity + the
    weapon's Evasion modifier. Per-die Ace chance `(11 − effDex)/10`, clamped [0.1, 0.9] (10 always
    Aces, 1 never).
-2. **Expert Offence / Marksman (X)** — re-roll up to X failed **non-Destiny** dice once.
-3. **Parry (X)** (defender, melee only) — force re-roll of up to X of the attacker's Aces.
-4. **Hit / Critical** — hit on ≥1 Ace; Critical when Destiny = 10 **and** ≥1 other Ace (adds the
+2. **Expert Offence / Marksman (X):** re-roll up to X failed **non-Destiny** dice once.
+3. **Parry (X)** (defender, melee only): force re-roll of up to X of the attacker's Aces.
+4. **Hit / Critical:** hit on ≥1 Ace. Critical when Destiny = 10 **and** ≥1 other Ace (adds the
    flat +1 LP, bypassing Protection).
 5. **Damage** = Aces + flat weapon Damage (applied once on a hit).
-6. **Protection Roll** — `Protection` dice at 7+, reduced point-for-point by Penetration and floored
-   by Universal Shielding; each Ace cancels 1 Damage (capped at incoming, Protection Crit +1, Fumble
+6. **Protection Roll:** `Protection` dice at 7+, reduced point-for-point by Penetration and floored
+   by Universal Shielding, and each Ace cancels 1 Damage (capped at incoming, Protection Crit +1, Fumble
    −1). Overkill is wasted.
-7. **Poisoned** — on dealing ≥1 LP, 60% chance of extra LP by base size (bypasses Protection).
+7. **Poisoned:** on dealing ≥1 LP, 60% chance of extra LP by base size (bypasses Protection).
 
 ## Magic sub-engine
 
 Spell damage rides the same LP unit. A cast is `EDPA = P(success | MIND, Difficulty)
 × effective damage`, where success uses a MIND roll vs the spell's Difficulty (Expert Sorcerer re-rolls,
 Critical raises (X) by 1). Damage-type spells roll the target's Protection
-(with their Penetration); direct-LP spells (Mother Hydra's Claws, Holy Light) bypass it. The per-cast
+(with their Penetration). Direct-LP spells (Mother Hydra's Claws, Holy Light) bypass it. The per-cast
 EDPA correctly **includes the cast-failure probability**.
 
 ## Reference targets
@@ -65,21 +63,21 @@ ends of each distribution, so the EDPA/ATK2K vectors are informative. The balanc
 · pen-proof tank (Dex4/Prot5 + Shielding 5) · parry (Dex5/Prot3 + Parry 2).
 
 **Attackers:** baseline (Atk3) · elite (Atk5, +1 Dmg) · penetrator (Atk3, Pen-3) · drown (opposed
-Attack roll, ignores Protection; Water Creatures immune).
+Attack roll, ignores Protection, Water Creatures immune).
 
 ## Annotation layers (NOT in the cold standard)
 
-The base scores are computed **cold** — no WP, no Frenzy LP, no situational triggers — so the standard
+The base scores are computed **cold** (no WP, no Frenzy LP, no situational triggers), so the standard
 is clean. The following are surfaced only in comparison:
 
-- **Frenzy** — burst EDPA with +2 LP-dice on the best melee weapon, and its LP cost (2 LP/boosted
+- **Frenzy:** burst EDPA with +2 LP-dice on the best melee weapon, and its LP cost (2 LP/boosted
   attack). This is what explains a faction sitting below the cold standard yet hitting hard in
   practice (e.g. Strigoi dealers near the cold standard, but heavily Frenzied with large burst).
-- **WP-boost** — boosted attack EDPA with +2 WP-dice on the best attack (own-WP models), plus how
+- **WP-boost:** boosted attack EDPA with +2 WP-dice on the best attack (own-WP models), plus how
   many fully-boosted attacks the starting pool affords. At the faction level, paired with the WP
-  *generation* tier — the layer that lifts WP-rich factions
+  *generation* tier, the layer that lifts WP-rich factions
   (Vatican, Patricians, Doctors) above their cold standard. Parallel to Frenzy, but WP-fuelled.
-- **Magic potential** — a mage's EDPA assumes it took its best **damage** spell; a support mage
+- **Magic potential:** a mage's EDPA assumes it took its best **damage** spell. A support mage
   usually spends its slots on buffs/heals instead.
 - **Vampiric Attack, Hunter, conditional offence** (Fear / First Strike / Berserk / Brawler), and
   **weapon riders** (Stun / Knockback / Template / Reload) are recorded per model, not scored.
@@ -87,15 +85,15 @@ is clean. The following are surfaced only in comparison:
 ## Assumptions & limitations
 
 - **Per-AP, sustained.** EDPA amortises **Reload(X)** over the model's AP (a Reload(1) gun with no
-  sidearm fires once, so its per-AP throughput ≈ half its alpha; a Reload(2) gun on 2 AP is
-  unaffected). Order/Counter give extra attacks beyond the activation; multiply EDPA for those.
+  sidearm fires once, so its per-AP throughput ≈ half its alpha. A Reload(2) gun on 2 AP is
+  unaffected. Order/Counter give extra attacks beyond the activation, so multiply EDPA for those.
   The **alpha** figure preserves the single-shot burst for kill-turn analysis.
 - **Sniper role.** Long-range (≥12") single-shot dealers whose value is one big shot from safety are
-  a distinct role (`Sniper`), judged on **alpha**, not sustained — so they neither look like weak
+  a distinct role (`Sniper`), judged on **alpha**, not sustained, so they neither look like weak
   Damage Dealers nor drag the Damage Dealer standard down. A sniper below the Sniper alpha/Ducat
   median is weak even for its cost.
-- **Hunter** (Pen-3 vs larger base) is inactive against the 30mm reference targets — annotated only.
-- **AoE/template** spells are scored single-target; multi-target upside is annotation.
+- **Hunter** (Pen-3 vs larger base) is inactive against the 30mm reference targets, annotated only.
+- **AoE/template** spells are scored single-target, with multi-target upside as annotation.
 - **Excluded:** Cover, terrain, scenario/objective value, and
   hard-to-quantify control/support utility. A low EDPA for a Support/Objective Runner is expected,
   not a defect.

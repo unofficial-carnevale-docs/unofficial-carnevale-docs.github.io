@@ -102,7 +102,7 @@ Water interaction: 2 LP direct loss bypasses all Prot and Universal Shielding. E
 | 3           | 3.2                                        |
 | 6           | 4.4                                        |
 
-Stun near water is disproportionately effective against high-Prot models (Hospitaller, Constructs, Full Plate leaders). The stat reduction also cascades: −1 DEX = harder to hit for melee targets; −1 ATK = lower damage output.
+Stun near water is disproportionately effective against high-Prot models (Hospitaller, Constructs, Full Plate leaders). The stat reduction also cascades: −1 DEX = easier to hit, −1 ATK = lower damage output.
 
 </div>
 

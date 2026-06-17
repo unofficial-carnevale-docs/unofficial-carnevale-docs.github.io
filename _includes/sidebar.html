@@ -41,11 +41,15 @@
     </div>
 
   {% elsif sec == 'mechanics' %}
+    {% assign mech_intro    = site.mechanics | where_exp: "p", "p.is_ref != true" %}
+    {% assign mech_intro    = mech_intro | where_exp: "p", "p.is_analysis != true" %}
+    {% assign mech_intro    = mech_intro | sort: "nav_order" %}
+    {% assign mech_ref      = site.mechanics | where: "is_ref", true | sort: "nav_order" %}
+    {% assign mech_analysis = site.mechanics | where: "is_analysis", true | sort: "nav_order" %}
     <div class="sidebar-section">
       <p class="sidebar-section-title">Game Mechanics</p>
       <ul>
-        {% assign sec_pages = site.mechanics | sort: "nav_order" %}
-        {% for p in sec_pages %}
+        {% for p in mech_intro %}
         <li>
           <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
             {{ p.title }}
@@ -54,6 +58,34 @@
         {% endfor %}
       </ul>
     </div>
+    {% if mech_ref.size > 0 %}
+    <div class="sidebar-section">
+      <p class="sidebar-section-title">Mechanics Reference</p>
+      <ul>
+        {% for p in mech_ref %}
+        <li>
+          <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
+            {{ p.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    {% if mech_analysis.size > 0 %}
+    <div class="sidebar-section">
+      <p class="sidebar-section-title">Capability Analysis</p>
+      <ul>
+        {% for p in mech_analysis %}
+        <li>
+          <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
+            {{ p.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
 
   {% elsif sec == 'magic' %}
     {% assign magic_intro    = site.magic | where_exp: "p", "p.is_discipline != true" %}

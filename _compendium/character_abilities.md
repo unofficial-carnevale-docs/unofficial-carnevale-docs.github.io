@@ -13,7 +13,7 @@ Some of these special rules have an (X) listed after them. That (X) is most ofte
 <div class="callout">
 <p class="callout-title">FAQ</p>
 
-**What's affected by the stacking limit of 3 for Special Rules?** All of the special rules in the Special Rules section that have an (X) after them are subject to this limit. If a character with Expert Offense (2) would gain another instance of Expert Offense (2), that character would end up with Expert Offense (3). If a rule would grant a special rule with an (X) value over 3, only the highest value is used. A character's stats are unaffected by this rule; multiple rules may stack stats until they reach the limit of 10.
+**What's affected by the stacking limit of 3 for Special Rules?** All of the special rules in the Special Rules section that have an (X) after them are subject to this limit. If a character with Expert Offense (2) would gain another instance of Expert Offense (2), that character would end up with Expert Offense (3). If a rule would grant a special rule with an (X) value over 3, only the highest value is used. A character's stats are unaffected by this rule. Multiple rules may stack stats until they reach the limit of 10.
 
 </div>
 
@@ -100,7 +100,7 @@ Each Prot die saves 1 LP per Ace (7+, 40%). E[+LP saved per Damage] = X × 0.40.
 
 - Concealment(+1): +0.40 expected LP saved per Damage while in cover
 - Concealment(+2): +0.80 expected LP saved per Damage while in cover
-- Concealment(−1): removes Light Barricade benefit entirely; reduces Heavy to +1
+- Concealment(−1): removes Light Barricade benefit entirely, reduces Heavy to +1
 
 </div>
 
@@ -132,7 +132,7 @@ Grapple and Drown both use standard **7+ threshold** (not DEX-dependent).
 
 Re-rolling 1 failed die adds **+0.40** expected Aces. EG(X) = +X × 0.40 expected Aces.
 
-Applies symmetrically when defending — same expected gain on the Opposed Roll.
+Applies symmetrically when defending, giving the same expected gain on the Opposed Roll.
 
 </div>
 
@@ -154,7 +154,7 @@ Ranged Combat Attack Roll threshold = target's DEX. Re-rolling 1 failed die:
 | 7          | 40%    | +0.40                | +0.80               |
 | 8          | 30%    | +0.30                | +0.60               |
 
-**Re-roll availability cap.** The `EM(2)` / `E[+Aces per re-roll]` columns assume every re-roll lands on a **failed, re-rollable** die — but two limits apply. (1) You can only re-roll dice that *failed*. (2) The **Destiny die can never be re-rolled**, so the re-rollable pool is only **Attack − 1** dice, not Attack. So usable re-rolls = `E[min(X, failures)]`, where failures ~ Binomial(Attack − 1, 1 − P(Ace)), and gain = usable re-rolls × P(Ace). `X × per-die-rate` is a **ceiling**, approached only when Attack ≫ X.
+**Re-roll availability cap.** The `EM(2)` / `E[+Aces per re-roll]` columns assume every re-roll lands on a **failed, re-rollable** die, but two limits apply. (1) You can only re-roll dice that *failed*. (2) The **Destiny die can never be re-rolled**, so the re-rollable pool is only **Attack − 1** dice, not Attack. So usable re-rolls = `E[min(X, failures)]`, where failures ~ Binomial(Attack − 1, 1 − P(Ace)), and gain = usable re-rolls × P(Ace). `X × per-die-rate` is a **ceiling**, approached only when Attack ≫ X.
 
 Worked example at **Attack 4 / DEX 4** (re-rollable = 3 dice, failures ~ Binomial(3, 0.3), mean 0.9):
 
@@ -182,7 +182,7 @@ This character may re-roll up to (X) dice when making a **Combat** action while 
 
 Melee Combat Attack Roll threshold = target's DEX. Same table as Expert Marksman above.
 
-At DEX 4 (very common), **before** the re-roll availability cap: EO(1) = +0.70; EO(2) = +1.40; EO(3) = +2.10 expected Aces. **After** the cap (Destiny die excluded, Attack 4 pool) these fall to **+0.46 / +0.61 / +0.63** — see the note under Expert Marksman.
+At DEX 4 (very common), **before** the re-roll availability cap: EO(1) = +0.70, EO(2) = +1.40, EO(3) = +2.10 expected Aces. **After** the cap (Destiny die excluded, Attack 4 pool) these fall to **+0.46 / +0.61 / +0.63**. See the note under Expert Marksman.
 
 </div>
 
@@ -195,7 +195,7 @@ This character may re-roll up to (X) dice when making a **Protection Roll.**
 
 Protection Roll uses standard **7+ threshold** (P(Ace) = 0.40 per die). Re-rolling 1 failed die adds **+0.40** expected LP saved.
 
-Same re-roll availability cap as EO/EM applies: only **failed, non-Destiny** Protection dice can be re-rolled, so the re-rollable pool is **Prot − 1** dice and usable re-rolls = `E[min(X, failures)]`, failures ~ Binomial(Prot − 1, 0.60). Naive `X × 0.40` is the ceiling. Example at **Prot 3** (re-rollable = 2 dice, failures ~ Binomial(2, 0.6)): EP(1) ≈ **+0.34**, EP(2) ≈ **+0.48** expected LP saved per Damage (vs naive +0.40 / +0.80). Also capped by incoming Damage — you can't save more than the attack deals.
+Same re-roll availability cap as EO/EM applies: only **failed, non-Destiny** Protection dice can be re-rolled, so the re-rollable pool is **Prot − 1** dice and usable re-rolls = `E[min(X, failures)]`, failures ~ Binomial(Prot − 1, 0.60). Naive `X × 0.40` is the ceiling. Example at **Prot 3** (re-rollable = 2 dice, failures ~ Binomial(2, 0.6)): EP(1) ≈ **+0.34**, EP(2) ≈ **+0.48** expected LP saved per Damage (vs naive +0.40 / +0.80). Also capped by incoming Damage: you can't save more than the attack deals.
 
 </div>
 
@@ -285,7 +285,7 @@ Two fully boosted attacks (2 LP per attack = 4 LP total):
 | ATK 4 vs DEX 4 | 2.80                | 4.20                 | +50% | 4 LP    |
 | ATK 4 vs DEX 5 | 2.40                | 3.60                 | +50% | 4 LP    |
 
-A WP 3 character with no replenishment has 3 bonus dice for the whole game. A Frenzied character at LP 15 has the equivalent of 15 bonus dice available, at the cost of HP attrition — a 5× larger pool, capped at 2 per roll.
+A WP 3 character with no replenishment has 3 bonus dice for the whole game. A Frenzied character at LP 15 has the equivalent of 15 bonus dice available, at the cost of HP attrition: a 5× larger pool, capped at 2 per roll.
 
 With Vampiric Attack(1) on both attacks: recover 2 LP if both connect → net cost drops to 2 LP for a fully boosted double attack. VA(2): potentially net 0 LP cost against low-Prot targets.
 
@@ -362,7 +362,7 @@ E[Aces removed per forced re-roll] = P(die fails at threshold DEX d) = (d − 1)
 | 7       | 40%             | 0.60                    |
 | 8       | 30%             | 0.70                    |
 
-Parry is least effective on low-DEX characters (re-rolled Aces likely succeed again) and most effective on high-DEX characters (each Ace is rare; forcing a re-roll is high-value). Attacker with Expert Offence can re-roll the newly failed die — Parry + EO partially cancel.
+Parry is least effective on low-DEX characters (re-rolled Aces likely succeed again) and most effective on high-DEX characters (each Ace is rare, making each forced re-roll high-value). Attacker with Expert Offence can re-roll the newly failed die. Parry + EO partially cancel.
 
 </div>
 
@@ -388,7 +388,7 @@ P(Stun | MIND N) = 0.60^N (same formula as Fear trigger):
 | 3    | 21.6%   |
 | 4    | 13.0%   |
 
-Stun effect: −1 MOVE/ATK/DEX/MIND (min 1 each) for that turn. In water: +2 LP direct loss at next turn start if counter persists. MIND 1 Primitive chars are severely hampered in most turns; MIND 3–4 is manageable.
+Stun effect: −1 MOVE/ATK/DEX/MIND (min 1 each) for that turn. In water: +2 LP direct loss at next turn start if counter persists. MIND 1 Primitive chars are severely hampered in most turns. MIND 3–4 is manageable.
 
 </div>
 
@@ -411,12 +411,12 @@ US(X) is active only when a weapon's Pen reduces effective Prot below X. Activat
 
 | US | base\_Prot | pen=−1 | pen=−2     | pen=−3     | pen=−4     |
 |----|------------|--------|------------|------------|------------|
-| 2  | 3          | 2 (—)  | **2** (+1) | **2** (+2) | **2** (+2) |
-| 2  | 4          | 3 (—)  | 2 (—)      | **2** (+1) | **2** (+2) |
-| 3  | 4          | 3 (—)  | **3** (+1) | **3** (+2) | **3** (+3) |
-| 3  | 6          | 5 (—)  | 4 (—)      | 3 (—)      | **3** (+1) |
+| 2  | 3          | 2 (-)  | **2** (+1) | **2** (+2) | **2** (+2) |
+| 2  | 4          | 3 (-)  | 2 (-)      | **2** (+1) | **2** (+2) |
+| 3  | 4          | 3 (-)  | **3** (+1) | **3** (+2) | **3** (+3) |
+| 3  | 6          | 5 (-)  | 4 (-)      | 3 (-)      | **3** (+1) |
 
-Bold = US is active; (+N) = Prot dice restored by US. (—) = pen doesn't reduce Prot below X.
+Bold = US is active. (+N) = Prot dice restored by US. (-) = pen doesn't reduce Prot below X.
 
 E[LP saved per Prot die restored] = 0.40. E.g. US(3) vs Pen−3 on base\_Prot 4: restores 2 dice → **+0.80 expected LP saved per Damage**.
 

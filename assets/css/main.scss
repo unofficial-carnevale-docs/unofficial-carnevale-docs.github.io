@@ -2,7 +2,7 @@
 ---
 
 /* ===========================================
-   Carnevale Reference — Main Stylesheet
+   Carnevale Reference Main Stylesheet
    Venetian teal · terracotta · gold ornament
    Cinzel headings · DM Sans body
    =========================================== */
@@ -760,7 +760,7 @@ a:hover { text-decoration: underline; }
 /* ===========================================
    RESPONSIVE
    =========================================== */
-/* Solo doc layout (model pages — no sidebar) */
+/* Solo doc layout (model pages, no sidebar) */
 .doc-layout--solo .doc-content {
   max-width: var(--content-max);
   margin: 0 auto;

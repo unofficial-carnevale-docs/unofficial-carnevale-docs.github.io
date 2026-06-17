@@ -72,7 +72,7 @@ Then add it to `_data/navigation.yml` under the right section so it appears in t
 
 ### New faction page
 
-Create `_factions/my-faction.md` — same front matter as above, use `nav_section: Factions`.
+Create `_factions/my-faction.md` with the same front matter as above, using `nav_section: Factions`.
 
 ### Callout boxes
 
