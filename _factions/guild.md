@@ -28,7 +28,7 @@ Until the end of the round, any friendly character may use these re-rolls on any
 <div class="callout">
 <p class="callout-title">Tactical note</p>
 
-Unlike WP, re-rolls are applied after rolling so they are less punishing to use, but they can't expand the result. Each re-roll worth ~0.40 expected Aces on 7+ rolls, and ~0.70 on Attack Rolls vs DEX 4. It's gang-size dependent, large rosters will generate more but it will have more value for elite models. It needs to be activated  at the start of a round to maximise its potential use.
+Unlike WP, re-rolls are applied after rolling so they are less punishing to use, but they can't expand the result. Each re-roll worth ~0.40 expected Aces on 7+ rolls, and ~0.70 on Attack Rolls vs DEX 4. It's gang-size dependent, large rosters will generate more but it will have more value for elite models. It needs to be activated at the start of a round to maximise its potential use.
 
 </div>
 
@@ -95,8 +95,8 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but is a
 **Mages**
 
 - [Baba-Yaga](baba-yaga) is a damage dealer that doubles as a light support piece if she uses Wild magic. It's one of the most cost-efficient damage dealers in the game.
-- [Bloodletter](bloodletter) is a Frenzied damage dealer. She has the unique ability to restore 2LP on each successful cast, making her a nearly infinite ressource mage.
 - [Witch](witch) is a spellcaster that can be a damage dealer or a support piece, it has access to the most disciplines in the faction.
+- [Bloodletter](bloodletter) is a Frenzied damage dealer. She has the unique ability to restore 2LP on each successful cast, making her a nearly infinite ressource mage.
 - [Seamstress](seamstress) is a support piece. She's a weak mage, but the only access to Divinity and Fateweaving disciplines, and can pick spells from the 2 simultaneously.
 
 **Damage Dealer**
