@@ -87,6 +87,28 @@ Durable fighter that buffs Ottomans; gains CP when Ottomans kill.
 
 Cheapest leader; only 2 AP and low command, but a WP battery that can move Soldiers.
 
+### Sub-factions
+
+**Animal**
+
+[Hunting Hound](hunting-hound)
+
+**Councillor**
+
+**[Mounted Venetian Noble](mounted-venetian-noble)**, **[Noble Admiral](noble-admiral)**, **[Pinnacle of Affluence](pinnacle-of-affluence)**, **[Sopracomito](sopracomito)**, **[Venetian Noble](venetian-noble)**, [Adventuring Noble](adventuring-noble), [Cat Burglar](cat-burglar), [Don Gregorio Morisini](don-gregorio-morisini), [Gourmand Noble](gourmand-noble), [Noble Seafarer](noble-seafarer), [Submissive Noble](submissive-noble), [Syphilitic Noble](syphilitic-noble)
+
+**Officer**
+
+**[Guard Commander](guard-commander)**, **[Noble Admiral](noble-admiral)**, **[Sopracomito](sopracomito)**, [Captain of the Guard](captain-of-the-guard), [Naval Lieutenant](naval-lieutenant)
+
+**Ottoman**
+
+**[Janissary Chorbaji](janissary-chorbaji)**, [Janissary Sapper](janissary-sapper), [Ottoman Archer](ottoman-archer), [Ottoman Cannoneer](ottoman-cannoneer), [Ottoman Janissary](ottoman-janissary), [Ottoman Pirate](ottoman-pirate), [Ottoman Rigger](ottoman-rigger)
+
+**Soldier**
+
+[Captain of the Guard](captain-of-the-guard), [City Guard](city-guard), [Guard Marksman](guard-marksman), [Guard Sentry](guard-sentry), [Naval Ensign](naval-ensign), [Naval Lieutenant](naval-lieutenant), [Naval Recruit](naval-recruit), [Seven Years Veteran](seven-years-veteran), [Venetian Heavy Guard](venetian-heavy-guard)
+
 ### Heroes
 
 **Mages**

@@ -83,6 +83,20 @@ Fragile anti-armor alpha-striker; gives 3 models Infiltration to enable a turn-1
 
 Tanky fighter; small incentive to play Soldiers.
 
+### Sub-factions
+
+**Bride**
+
+[Ceres](ceres), [Gibele](gibele), [Miriam](miriam)
+
+**Soldier**
+
+**[Wallachian Hospodar](wallachian-hospodar)**, [Giurgiu Guard](giurgiu-guard), [Poenari Scout](poenari-scout), [Spatar](spatar), [Strigoi Jude](strigoi-jude), [Strigoi Sluger](strigoi-sluger), [Targoveti](targoveti), [Wallachian Impaler](wallachian-impaler)
+
+**Vampire**
+
+**[Noble Strigoi](noble-strigoi)**, **[Stryha Crone](stryha-crone)**, **[Vlad Dracula](vlad-dracula)**, **[Wallachian Hospodar](wallachian-hospodar)**, [Aquatic Strigoi](aquatic-strigoi), [Ceres](ceres), [Cetean Upiór](cetean-upi-r), [Common Strigoi](common-strigoi), [Gibele](gibele), [Giurgiu Guard](giurgiu-guard), [Hulking Moroi](hulking-moroi), [Leech](leech), [Miriam](miriam), [Monstrous Stryx](monstrous-stryx), [Newborn Strigoi](newborn-strigoi), [Nosferatu](nosferatu), [Poenari Scout](poenari-scout), [Reaper](reaper), [Sinker](sinker), [Spatar](spatar), [Starved Dhampir](starved-dhampir), [Strige](strige), [Strigoi Jude](strigoi-jude), [Strigoi Priest](strigoi-priest), [Strigoi Sluger](strigoi-sluger), [Strzyga](strzyga), [Wallachian Impaler](wallachian-impaler), [Zoryi](zoryi)
+
 ### Heroes
 
 **Mages**

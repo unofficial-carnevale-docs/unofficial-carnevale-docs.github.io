@@ -87,6 +87,24 @@ Big melee monster; very slow unless in water; very low CP, but turns kills into 
 
 One of the highest effective Command outputs in the game; modest combat but a good disruptor with a Stun template attack.
 
+### Sub-factions
+
+**Feral**
+
+[Bounding Telchine](bounding-telchine), [Brachyura](brachyura), [Bulbous Toad](bulbous-toad), [Caandru Eel](caandru-eel), [Crybaby](crybaby), [Cymothoan Crusher](cymothoan-crusher), [Hellhound](hellhound), [Karcharos](karcharos), [Salaacia](salaacia), [Secreting Myxin](secreting-myxin), [Tainted Maw](tainted-maw)
+
+**Henchman *(free with Emissary of Mother Hydra)***
+
+[Dagger Tentacle](dagger-tentacle), [Lash Tentacle](lash-tentacle), [Maw Tentacle](maw-tentacle), [Thorn Tentacle](thorn-tentacle)
+
+**Hydra**
+
+**[The Flame That Burns Underwater](the-flame-that-burns-underwater)**, [Emissary of Mother Hydra](emissary-of-mother-hydra), [Half-Breed](half-breed), [Infant Kraken](infant-kraken), [Mature Kraken](mature-kraken), [Sirena](sirena)
+
+**Monster**
+
+**[Paartul Matriarch](paartul-matriarch)**, **[Thalidraur](thalidraur)**, **[The Flame That Burns Underwater](the-flame-that-burns-underwater)**, **[Voice of Dagon](voice-of-dagon)**, [Aglaope](aglaope), [Brachyura](brachyura), [Bulbous Toad](bulbous-toad), [Caandru Eel](caandru-eel), [Emissary of Mother Hydra](emissary-of-mother-hydra), [Hellhound](hellhound), [Karcharos](karcharos), [Lesser Rhyll](lesser-rhyll), [Lesser Ugdru](lesser-ugdru), [Mature Kraken](mature-kraken), [Morgraur](morgraur), [Paliaa](paliaa), [Raadru](raadru), [Secreting Myxin](secreting-myxin), [Sirena](sirena)
+
 ### Heroes
 
 **Mages**

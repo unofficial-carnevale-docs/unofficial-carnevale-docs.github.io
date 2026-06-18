@@ -86,6 +86,20 @@ Very aggressive caster leader.
 
 Really strong all-round fighter; small incentive to play Hospitallers (too elite to field as a full sub-faction).
 
+### Sub-factions
+
+**Construct**
+
+[Celestial Congregation](celestial-congregation), [Celestial Spirit](celestial-spirit), [Cherubim](cherubim), [Divine Seraphim](divine-seraphim), [Gethsemane](gethsemane), [Golgotha](golgotha), [Seraph](seraph), [Thalassic Messenger](thalassic-messenger), [Theophant of Sinai](theophant-of-sinai), [Throne](throne)
+
+**Hospitaller**
+
+**[Knight Commander](knight-commander)**, [Angel of the Blooded Rose](angel-of-the-blooded-rose), [Burning Saint](burning-saint), [Chevaleresse](chevaleresse), [Conventual Chaplain](conventual-chaplain), [Knight of Malta](knight-of-malta), [Maltese Squire](maltese-squire), [Paladin of St Lazarus](paladin-of-st-lazarus), [Templar Marshal](templar-marshal), [Venator of Devotion](venator-of-devotion)
+
+**Invoker**
+
+**[Father Cesta](father-cesta)**, [Galilean Priest](galilean-priest), [Summoner Priest](summoner-priest)
+
 ### Heroes
 
 **Mages**
