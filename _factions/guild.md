@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: The Guild
+permalink: /factions/the-guild/
 description: Guild faction presentation and analysis
 nav_section: Factions
 toc:

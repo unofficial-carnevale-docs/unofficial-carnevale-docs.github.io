@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: The Vatican
+permalink: /factions/the-vatican/
 description: Vatican faction presentation and analysis
 nav_section: Factions
 toc:

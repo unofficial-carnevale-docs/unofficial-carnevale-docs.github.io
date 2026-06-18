@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: The Doctors
+permalink: /factions/the-doctors/
 description: Doctors faction presentation and analysis
 nav_section: Factions
 toc:

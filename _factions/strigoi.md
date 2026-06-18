@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: Strigoi
+permalink: /factions/strigoi/
 description: Strigoi faction presentation and analysis
 nav_section: Factions
 toc:

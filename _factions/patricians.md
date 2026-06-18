@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: Patricians
+permalink: /factions/patricians/
 description: Patricians faction presentation and analysis
 nav_section: Factions
 toc:

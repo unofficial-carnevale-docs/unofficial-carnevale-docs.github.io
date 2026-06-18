@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: Gifted
+permalink: /factions/gifted/
 description: Gifted faction presentation and analysis
 nav_section: Factions
 toc:

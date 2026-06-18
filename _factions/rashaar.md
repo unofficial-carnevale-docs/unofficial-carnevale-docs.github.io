@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: Rashaar
+permalink: /factions/rashaar/
 description: Rashaar faction presentation and analysis
 nav_section: Factions
 toc:
