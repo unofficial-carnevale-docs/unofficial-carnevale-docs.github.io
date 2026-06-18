@@ -12,8 +12,7 @@ To be able to compare models, we tried to give them Tags to group them by role. 
 
 - **Adjectives** refine a role in parentheses: `Damage Dealer (melee, anti-armor)`, `Canal Fighter
   (drown)`. They describe sub-role / target-preference, not a separate role.
-- **Dual tags** read `A / B`, primary first. The capability scripts take the **first** tag as the
-  scored `base_role` (`A / B (adj)` → `A`).
+- **Dual tags** read `A / B`, primary first.
 - **Scoring bucket** (how the capability model judges a model):
   - **Offense:** scored on EDPA vs the role's own baseline: Damage Dealer, Brawler, Assassin, Canal Fighter, Sniper (**alpha** only), Line Fighter (own lower bar).
   - **Defense:** scored on ATK2K survivability: Tank.
@@ -42,15 +41,15 @@ To be able to compare models, we tried to give them Tags to group them by role. 
 Mobile model with the **kill power** to remove a chosen high-value target (alpha strike on a target).
 
 - **Include:** fast/infiltrating models with the punch to actually kill a key piece.
-- **Exclude:** fast models that *can't* reliably kill and exist to tie up/disrupt (→ Harasser). The
-  Assassin/Harasser line is kill power. Fast scorers (→ Objective Runner).
+- **Exclude:** fast models that *can't* reliably kill and exist to tie up/disrupt (Harasser). The
+  Assassin/Harasser line is kill power. Fast scorers (Objective Runner).
 
 ### Brawler
 
 Aggressive melee with high sustained output and enough bulk to stay in the fight (vs a glass-cannon Damage Dealer).
 
 - **Include:** front-line melee with above-curve EDPA and survivability for its cost.
-- **Exclude:** ranged/magic output (→ Damage Dealer), water-bound melee (→ Canal Fighter).
+- **Exclude:** ranged/magic output (Damage Dealer), water-bound melee (Canal Fighter).
 
 ### Canal Fighter
 
@@ -70,7 +69,7 @@ is slow/weak on land and built for the canals.
 Hard crowd-control: Stun, Grapple-lock, forced movement, impassable/area denial.
 
 - **Include:** models built to lock down or reposition enemies via abilities/spells.
-- **Exclude:** soft mobility-nuisance (→ Harasser), WP/resource denial (→ Disruptor).
+- **Exclude:** soft mobility-nuisance (Harasser), WP/resource denial (Disruptor).
 
 ### Damage Dealer
 
@@ -78,8 +77,8 @@ Primary job is dealing damage. The default offense role.
 
 - **Include:** melee, ranged, or magic dealers. Adjectives carry the flavour: `(melee)`, `(ranged)`,
   `(magic, <discipline>)`, `(anti-armor)`, `(Stun)`, `(anti-large)`.
-- **Exclude:** water-bound dealers (→ Canal Fighter), long-range Reload shooters whose value is the
-  alpha (→ Sniper), models that can't reliably kill and exist to annoy (→ Harasser).
+- **Exclude:** water-bound dealers (Canal Fighter), long-range Reload shooters whose value is the
+  alpha (Sniper), models that can't reliably kill and exist to annoy (Harasser).
 - **Note (mages):** a mage's EDPA assumes its *best damage spell*. A support mage usually spends slots
   on buffs/heals, so high EDPA ≠ "is a dealer".
 
@@ -104,12 +103,12 @@ backline/support via mobility and nuisance, with **low kill power** (not an Assa
 (not Control).
 
 - **Include:** fast, cheap/expendable disruptors (Move ≥5 or Flight/Acrobatic/Slippery/Infiltration/
-  Engage), often Mindless (can't score → pure disruptor). An **expensive** model qualifies only if it
+  Engage), often Mindless (can't score: pure disruptor). An **expensive** model qualifies only if it
   harasses with **high efficiency** (strong mobility + a real disruption tool, e.g. Harlequin's
   Slippery + Mischievous WP-negate, whose sword is too soft to assassinate at its cost).
   Adjective `(aquatic)` for a water-based harasser (Leech).
-- **Exclude:** real killers (high EDPA → Assassin/Damage Dealer/Brawler), pure scorers/pickpockets (→ Objective
-  Runner), hard-CC (→ Control), too-fragile bait pieces, models whose primary role is resource/support,
+- **Exclude:** real killers (high EDPA: Assassin/Damage Dealer/Brawler), pure scorers/pickpockets (Objective
+  Runner), hard-CC (Control), too-fragile bait pieces, models whose primary role is resource/support,
   models too slow to harass, defensive disengage tricks that aren't enemy nuisance (e.g. Confusing Exit).
 
 ### Line Fighter
@@ -126,7 +125,7 @@ Fast/mobile model whose job is to grab, contest, and score objectives, including
 
 - **Include:** mobile scorers and pickpocket thieves whose primary value is theft/scoring.
 - **Exclude:** Mindless models (can't score Primary Objectives). If fast + low-output they lean
-  Harasser. Fast killers (→ Assassin).
+  Harasser. Fast killers (Assassin).
 
 ### Sniper
 
@@ -134,7 +133,7 @@ Long-range shooter with high single-shot **alpha**, Reload-gated, low sustained 
 burst are the trade). Scored on alpha, not EDPA.
 
 - **Include:** dedicated long-range gunners.
-- **Exclude:** mid-range or rapid shooters that sustain fire (→ Damage Dealer (ranged)).
+- **Exclude:** mid-range or rapid shooters that sustain fire (Damage Dealer (ranged)).
 
 ### Specialist
 
@@ -150,11 +149,11 @@ Buffs, heals, or enables allies: mages (buff/heal disciplines), auras, Companion
 
 - **Include:** dedicated enablers and WP-battery / Nexus-style models. A support mage tagged Support whose EDPA exceeds the Damage Dealer median is still Support
   if it would spend its slots on buffs/heals.
-- **Exclude:** models that actively deny *enemy* resources (→ Disruptor).
+- **Exclude:** models that actively deny *enemy* resources (Disruptor).
 
 ### Tank
 
 Survivability is the role. High ATK2K (LP × Protection × Parry/Shielding), plants, blocks, bodyguards.
 
 - **Include:** durable blockers, Bodyguards, high-Protection/Shielding anchors with modest offense.
-- **Exclude:** durable models whose *point* is output (→ Brawler) or water (→ Canal Fighter). A Tank with ATK2K below ~80% of the Tank median is a "soft tank".
+- **Exclude:** durable models whose *point* is output (Brawler) or water (Canal Fighter). A Tank with ATK2K below ~80% of the Tank median is a "soft tank".

@@ -54,27 +54,27 @@ toc:
     anchor: actions
     children:
       - title: Run/Climb
-        anchor: runclimb--1ap
+        anchor: runclimb-1ap
       - title: Charging & Disengaging
         anchor: charging--disengaging
       - title: Attacks of Opportunity
         anchor: attacks-of-opportunity
       - title: Jump
-        anchor: jump--1ap
+        anchor: jump-1ap
       - title: Falling
         anchor: falling
       - title: Dive
-        anchor: dive--2ap
+        anchor: dive-2ap
       - title: Hide
-        anchor: hide--1ap
+        anchor: hide-1ap
       - title: Guard
-        anchor: guard--1ap
+        anchor: guard-1ap
       - title: Combat
-        anchor: combat--1ap
+        anchor: combat-1ap
       - title: Grapple
-        anchor: grapple--1ap
+        anchor: grapple-1ap
       - title: Drown
-        anchor: drown--1ap
+        anchor: drown-1ap
   - title: Magic
     anchor: magic
     children:
@@ -83,7 +83,7 @@ toc:
       - title: Spells
         anchor: spells
       - title: Cast Spell
-        anchor: cast-spell--1ap
+        anchor: cast-spell-1ap
       - title: Dispel
         anchor: dispel
   - title: Terrain
@@ -416,6 +416,26 @@ When abilities say they affect any or every friendly character, that does includ
 ## Actions
 
 Any character can use the actions listed in this section, but individual characters may have their own unique actions with an AP cost on their character profile card.
+
+<div class="callout math">
+<p class="callout-title">Math</p>
+
+Actions involving a DEX roll (Climb, Jump, Dive, Fall) are **Basic DEX Rolls at threshold 7+**: 4 chances in 10 per die (p = 0.4).
+
+| DEX | Median Aces | E[Aces] | P(≥1 Ace) |
+|-----|-------------|---------|-----------|
+| 1   | 0           | 0.4     | 40%       |
+| 2   | 1           | 0.8     | 64%       |
+| 3   | 1           | 1.2     | 78%       |
+| 4   | 2           | 1.6     | 87%       |
+| 5   | 2           | 2.0     | 92%       |
+| 6   | 2           | 2.4     | 95%       |
+| 7   | 3           | 2.8     | 97%       |
+| 8   | 3           | 3.2     | 98%       |
+
+**P(≥1 Ace)** is the success probability on any pass/fail roll (Dive, Climb). **E[Aces]** is also the expected jump bonus in inches: Jump distance = 2" + E[Aces], so DEX 4 averages 3.6" and DEX 5 averages 4.0".
+
+</div>
 
 ### Run/Climb (1AP)
 
