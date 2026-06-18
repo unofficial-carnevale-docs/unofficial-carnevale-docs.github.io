@@ -2,7 +2,7 @@
 layout: model
 title: Stryha Crone
 permalink: /factions/strigoi/stryha-crone/
-description: Fragile anti-armor alpha-striker; gives 3 models Infiltration to enable a turn-1 strike or terrain control.
+description: "Fragile anti-armor alpha-striker; gives 3 models Infiltration to enable a turn-1 strike or terrain control."
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions

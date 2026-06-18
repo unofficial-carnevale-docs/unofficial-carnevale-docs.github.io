@@ -2,7 +2,7 @@
 layout: model
 title: Sir Tiburcio
 permalink: /factions/rashaar/sir-tiburcio/
-description: Durable tank; worse than the faction standard in water (slow, no usable weapon).
+description: "Durable tank; worse than the faction standard in water (slow, no usable weapon)."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions

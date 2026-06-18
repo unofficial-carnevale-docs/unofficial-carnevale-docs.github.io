@@ -2,7 +2,7 @@
 layout: model
 title: Pinnacle of Affluence
 permalink: /factions/patricians/pinnacle-of-affluence/
-description: Highest command output over the course of the game; a pure anchor + grappler at premium cost, with no offensive capability.
+description: "Highest command output over the course of the game; a pure anchor + grappler at premium cost, with no offensive capability."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions

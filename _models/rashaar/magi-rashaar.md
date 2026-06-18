@@ -2,7 +2,7 @@
 layout: model
 title: Magi-Rashaar
 permalink: /factions/rashaar/magi-rashaar/
-description: Best offensive caster among leaders (Kraken's Breath); fragile.
+description: "Best offensive caster among leaders (Kraken's Breath); fragile."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions

@@ -2,7 +2,7 @@
 layout: model
 title: Plague Doctor
 permalink: /factions/the-doctors/plague-doctor/
-description: Flexible support caster-leader with an anti-stun aura.
+description: "Flexible support caster-leader with an anti-stun aura."
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions

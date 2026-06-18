@@ -2,7 +2,7 @@
 layout: model
 title: Ostrich King?!
 permalink: /factions/the-guild/ostrich-king/
-description: Very fast anti-armor damage dealer, but he only has AP2 and low command. Build around the End of Days sub-faction, notably removing their Mindless attribute.
+description: "Very fast anti-armor damage dealer, but he only has AP2 and low command. Build around the End of Days sub-faction, notably removing their Mindless attribute."
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions

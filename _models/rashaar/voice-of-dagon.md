@@ -2,7 +2,7 @@
 layout: model
 title: Voice of Dagon
 permalink: /factions/rashaar/voice-of-dagon/
-description: One of the highest effective Command outputs in the game; modest combat but a good disruptor with a Stun template attack.
+description: "One of the highest effective Command outputs in the game; modest combat but a good disruptor with a Stun template attack."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions

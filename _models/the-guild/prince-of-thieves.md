@@ -2,7 +2,7 @@
 layout: model
 title: Prince of Thieves
 permalink: /factions/the-guild/prince-of-thieves/
-description: Flexible aggressive hero-leader with good command. He is a strong solo, but is a less good commander than the other leaders, he doesn't give as useful gang-wide buff.
+description: "Flexible aggressive hero-leader with good command. He is a strong solo, but is a less good commander than the other leaders, he doesn't give as useful gang-wide buff."
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions

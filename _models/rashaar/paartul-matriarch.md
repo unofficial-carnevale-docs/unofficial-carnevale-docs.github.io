@@ -2,7 +2,7 @@
 layout: model
 title: Paartul Matriarch
 permalink: /factions/rashaar/paartul-matriarch/
-description: No personal offense unless set up; unique body-spawning, and supports Feral characters.
+description: "No personal offense unless set up; unique body-spawning, and supports Feral characters."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions

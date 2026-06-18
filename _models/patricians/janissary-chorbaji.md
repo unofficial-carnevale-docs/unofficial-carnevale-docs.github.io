@@ -2,7 +2,7 @@
 layout: model
 title: Janissary Chorbaji
 permalink: /factions/patricians/janissary-chorbaji/
-description: Durable fighter that buffs Ottomans; gains CP when Ottomans kill.
+description: "Durable fighter that buffs Ottomans; gains CP when Ottomans kill."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions

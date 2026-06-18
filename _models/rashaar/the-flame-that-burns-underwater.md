@@ -2,7 +2,7 @@
 layout: model
 title: The Flame That Burns Underwater
 permalink: /factions/rashaar/the-flame-that-burns-underwater/
-description: Pricey LP22 grappling centerpiece with heavy AoE damage and reliable Drown.
+description: "Pricey LP22 grappling centerpiece with heavy AoE damage and reliable Drown."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions

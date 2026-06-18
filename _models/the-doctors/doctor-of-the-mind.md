@@ -2,7 +2,7 @@
 layout: model
 title: Doctor of the Mind
 permalink: /factions/the-doctors/doctor-of-the-mind/
-description: Caster leader with high Command.
+description: "Caster leader with high Command."
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions

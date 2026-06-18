@@ -2,7 +2,7 @@
 layout: model
 title: Master of Necromantic Studies
 permalink: /factions/the-doctors/master-of-necromantic-studies/
-description: Low-LP Vampiric offensive caster; turns the whole faction into a fully Frenzied one without any WP.
+description: "Low-LP Vampiric offensive caster; turns the whole faction into a fully Frenzied one without any WP."
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions

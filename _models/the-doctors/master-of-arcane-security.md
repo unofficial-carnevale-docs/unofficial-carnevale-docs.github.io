@@ -2,7 +2,7 @@
 layout: model
 title: Master of Arcane Security
 permalink: /factions/the-doctors/master-of-arcane-security/
-description: Expensive but strong, versatile AoE bruiser.
+description: "Expensive but strong, versatile AoE bruiser."
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions

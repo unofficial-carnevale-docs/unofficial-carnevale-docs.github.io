@@ -2,7 +2,7 @@
 layout: model
 title: Mounted Venetian Noble
 permalink: /factions/patricians/mounted-venetian-noble/
-description: Fast cavalry assassin; can make nearby allies move.
+description: "Fast cavalry assassin; can make nearby allies move."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions

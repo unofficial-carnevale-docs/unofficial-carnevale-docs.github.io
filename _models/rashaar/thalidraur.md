@@ -2,7 +2,7 @@
 layout: model
 title: Thalidraur
 permalink: /factions/rashaar/thalidraur/
-description: Big melee monster; very slow unless in water; very low CP, but turns kills into WP+CP.
+description: "Big melee monster; very slow unless in water; very low CP, but turns kills into WP+CP."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions

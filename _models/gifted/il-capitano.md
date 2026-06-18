@@ -2,7 +2,7 @@
 layout: model
 title: Il Capitano
 permalink: /factions/gifted/il-capitano/
-description: High-output glass cannon; good support, making allies move; gives gang-wide WP regen; cost-effective but forces the gang to use its weak Mind 2 while in LOS.
+description: "High-output glass cannon; good support, making allies move; gives gang-wide WP regen; cost-effective but forces the gang to use its weak Mind 2 while in LOS."
 faction: gifted
 faction_title: Gifted
 nav_section: Factions

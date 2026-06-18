@@ -2,7 +2,7 @@
 layout: model
 title: Knight Commander
 permalink: /factions/the-vatican/knight-commander/
-description: Really strong all-round fighter; small incentive to play Hospitallers (too elite to field as a full sub-faction).
+description: "Really strong all-round fighter; small incentive to play Hospitallers (too elite to field as a full sub-faction)."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions

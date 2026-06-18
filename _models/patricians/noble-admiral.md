@@ -2,7 +2,7 @@
 layout: model
 title: Noble Admiral
 permalink: /factions/patricians/noble-admiral/
-description: High-alpha twin-pistol shooter; Boat/Naval synergy.
+description: "High-alpha twin-pistol shooter; Boat/Naval synergy."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions

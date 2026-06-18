@@ -2,7 +2,7 @@
 layout: model
 title: Patriarch Bishop de Bernis
 permalink: /factions/the-vatican/patriarch-bishop-de-bernis/
-description: Best mage of the faction; gives gang-wide WP regen.
+description: "Best mage of the faction; gives gang-wide WP regen."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions

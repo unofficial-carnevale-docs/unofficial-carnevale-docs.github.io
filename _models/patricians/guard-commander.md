@@ -2,7 +2,7 @@
 layout: model
 title: Guard Commander
 permalink: /factions/patricians/guard-commander/
-description: Durable Parry fighter that also buffs Officers/Soldiers.
+description: "Durable Parry fighter that also buffs Officers/Soldiers."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions

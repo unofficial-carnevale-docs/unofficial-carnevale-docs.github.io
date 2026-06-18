@@ -2,7 +2,7 @@
 layout: model
 title: Master of Zoology
 permalink: /factions/the-doctors/master-of-zoology/
-description: Very durable; build around a beast-heavy list.
+description: "Very durable; build around a beast-heavy list."
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions

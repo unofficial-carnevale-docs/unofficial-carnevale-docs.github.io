@@ -2,7 +2,7 @@
 layout: model
 title: Vlad Dracula
 permalink: /factions/strigoi/vlad-dracula/
-description: Strong versatile fighter with very high mobility; can play as an assassin or sit with the Vampires to become near-unkillable (every Vampire gains Bodyguard(Leader)); lets his Brides be fielded as Henchmen.
+description: "Strong versatile fighter with very high mobility; can play as an assassin or sit with the Vampires to become near-unkillable (every Vampire gains Bodyguard(Leader)); lets his Brides be fielded as Henchmen."
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions

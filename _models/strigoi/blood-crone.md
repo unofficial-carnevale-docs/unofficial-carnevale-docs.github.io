@@ -2,7 +2,7 @@
 layout: model
 title: Blood Crone
 permalink: /factions/strigoi/blood-crone/
-description: Cheap, flexible caster-leader (knows all cantrips; 0AP cantrip).
+description: "Cheap, flexible caster-leader (knows all cantrips; 0AP cantrip)."
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions

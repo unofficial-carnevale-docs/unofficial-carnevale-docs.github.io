@@ -2,7 +2,7 @@
 layout: model
 title: Venetian Noble
 permalink: /factions/patricians/venetian-noble/
-description: Aggressive duelist; turns friendly kills into WP.
+description: "Aggressive duelist; turns friendly kills into WP."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions

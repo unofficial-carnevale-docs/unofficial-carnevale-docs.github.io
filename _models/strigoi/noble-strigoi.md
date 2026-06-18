@@ -2,7 +2,7 @@
 layout: model
 title: Noble Strigoi
 permalink: /factions/strigoi/noble-strigoi/
-description: Modest fighter, but brings short-range Command denial and buffs Vampiric Attack for Vampires.
+description: "Modest fighter, but brings short-range Command denial and buffs Vampiric Attack for Vampires."
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions

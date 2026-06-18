@@ -2,7 +2,7 @@
 layout: model
 title: Wallachian Hospodar
 permalink: /factions/strigoi/wallachian-hospodar/
-description: Tanky fighter; small incentive to play Soldiers.
+description: "Tanky fighter; small incentive to play Soldiers."
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions

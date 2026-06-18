@@ -2,7 +2,7 @@
 layout: model
 title: Madame
 permalink: /factions/the-guild/madame/
-description: Fast evasive support with little personal combat. She has strong abilities but they need Command points investment. Build around the House of Virtue sub-faction, notably giving them Companion (House of Virtue).
+description: "Fast evasive support with little personal combat. She has strong abilities but they need Command points investment. Build around the House of Virtue sub-faction, notably giving them Companion (House of Virtue)."
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions

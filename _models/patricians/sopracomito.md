@@ -2,7 +2,7 @@
 layout: model
 title: Sopracomito
 permalink: /factions/patricians/sopracomito/
-description: Cheapest leader; only 2 AP and low command, but a WP battery that can move Soldiers.
+description: "Cheapest leader; only 2 AP and low command, but a WP battery that can move Soldiers."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions

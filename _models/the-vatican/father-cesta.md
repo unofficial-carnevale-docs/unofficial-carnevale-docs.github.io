@@ -2,7 +2,7 @@
 layout: model
 title: Father Cesta
 permalink: /factions/the-vatican/father-cesta/
-description: Construct enabler — every ability feeds Constructs (Impart Will, Gates of Heaven WP×2); build around Constructs.
+description: "Construct enabler — every ability feeds Constructs (Impart Will, Gates of Heaven WP×2); build around Constructs."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions

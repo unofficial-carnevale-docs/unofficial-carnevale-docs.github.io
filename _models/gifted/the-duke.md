@@ -2,7 +2,7 @@
 layout: model
 title: The Duke
 permalink: /factions/gifted/the-duke/
-description: High-mobility assassin.
+description: "High-mobility assassin."
 faction: gifted
 faction_title: Gifted
 nav_section: Factions

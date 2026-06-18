@@ -2,7 +2,7 @@
 layout: model
 title: Inquisitor
 permalink: /factions/the-vatican/inquisitor/
-description: Very aggressive caster leader.
+description: "Very aggressive caster leader."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions

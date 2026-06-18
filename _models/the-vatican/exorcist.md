@@ -2,7 +2,7 @@
 layout: model
 title: Exorcist
 permalink: /factions/the-vatican/exorcist/
-description: Mediocre combatant but a counter-pick vs casters; Exorcism gives a permanent +3 damage vs WP-0 models (notably Frenzied Strigoi).
+description: "Mediocre combatant but a counter-pick vs casters; Exorcism gives a permanent +3 damage vs WP-0 models (notably Frenzied Strigoi)."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions

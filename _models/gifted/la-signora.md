@@ -2,7 +2,7 @@
 layout: model
 title: La Signora
 permalink: /factions/gifted/la-signora/
-description: Unique support: generates a re-roll pool for all friendly characters; high starting WP and WP regen, moderate combat stats.
+description: "Unique support: generates a re-roll pool for all friendly characters; high starting WP and WP regen, moderate combat stats."
 faction: gifted
 faction_title: Gifted
 nav_section: Factions

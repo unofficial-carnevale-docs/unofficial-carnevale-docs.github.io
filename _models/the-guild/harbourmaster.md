@@ -2,7 +2,7 @@
 layout: model
 title: Harbourmaster
 permalink: /factions/the-guild/harbourmaster/
-description: Durable Parry frontline fighter. She has a Fast Swimmer gang buff.
+description: "Durable Parry frontline fighter. She has a Fast Swimmer gang buff."
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
