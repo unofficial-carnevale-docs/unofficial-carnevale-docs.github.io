@@ -89,10 +89,6 @@ Cheapest leader; only 2 AP and low command, but a WP battery that can move Soldi
 
 ### Sub-factions
 
-**Animal**
-
-[Hunting Hound](hunting-hound)
-
 **Councillor**
 
 **[Mounted Venetian Noble](mounted-venetian-noble)**, **[Noble Admiral](noble-admiral)**, **[Pinnacle of Affluence](pinnacle-of-affluence)**, **[Sopracomito](sopracomito)**, **[Venetian Noble](venetian-noble)**, [Adventuring Noble](adventuring-noble), [Cat Burglar](cat-burglar), [Don Gregorio Morisini](don-gregorio-morisini), [Gourmand Noble](gourmand-noble), [Noble Seafarer](noble-seafarer), [Submissive Noble](submissive-noble), [Syphilitic Noble](syphilitic-noble)

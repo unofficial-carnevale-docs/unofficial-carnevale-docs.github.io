@@ -101,10 +101,6 @@ Flexible support caster-leader with an anti-stun aura.
 
 **[Doctor of the Mind](doctor-of-the-mind)**, **[Master of Arcane Security](master-of-arcane-security)**, **[Master of Necromantic Studies](master-of-necromantic-studies)**, **[Master of Zoology](master-of-zoology)**, **[Plague Doctor](plague-doctor)**, [Alchemist Doctor](alchemist-doctor), [Apprentice Doctor](apprentice-doctor), [Doctor of Blood](doctor-of-blood), [Doctor of Poisons](doctor-of-poisons), [Doctor of Tides](doctor-of-tides), [Doctor of the Beasts](doctor-of-the-beasts), [Doctor of the Firmament](doctor-of-the-firmament), [Marine Biologist](marine-biologist), [Morgue Doctor](morgue-doctor), [Ordnance Doctor](ordnance-doctor)
 
-**Human**
-
-[Doctor of Divine Probabilities](doctor-of-divine-probabilities)
-
 ### Heroes
 
 **Mages**

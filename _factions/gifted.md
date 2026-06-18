@@ -79,14 +79,6 @@ High-mobility assassin.
 
 **[Il Capitano](il-capitano)**, **[La Signora](la-signora)**, [Brighella](brighella), [Colombina](colombina), [Coviello](coviello), [Harlequin](harlequin), [Il Dottore](il-dottore), [Innamorati](innamorati), [Mezzetino](mezzetino), [Pantaleone](pantaleone), [Pierrot](pierrot), [Scapino](scapino)
 
-**Trade**
-
-[Il Mentore](il-mentore)
-
-**Vampire**
-
-[Artisan Elena](artisan-elena)
-
 ### Heroes
 
 **Mages**
