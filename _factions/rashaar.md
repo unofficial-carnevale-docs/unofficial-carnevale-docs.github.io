@@ -93,7 +93,7 @@ One of the highest effective Command outputs in the game; modest combat but a go
 - [Paliaa](paliaa) is a spellcasting support piece, bringing control & action economy. Also fast through water; at home in water.
 - [The Drowned Nun](the-drowned-nun) is a spellcasting support canal fighter. It's low on damage and pricey for its output. Also fast through water; at home in water.
 - [Sirena](sirena) is a spellcasting damage support canal fighter. It's high-output and cost-efficient. Also fast through water; at home in water.
-- [Dagonite Priest](dagonite-priest) is a spellcasting damage dealer that doubles as a support piece, bringing damage & life-drain, versatile utility magic. It's cost-efficient. Also pins fleeing enemies.
+- [Dagonite Priest](dagonite-priest) is a spellcasting damage dealer that doubles as a support piece, bringing damage & life-drain, versatile utility magic. Also pins fleeing enemies.
 
 **Damage Dealer**
 
@@ -212,7 +212,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 4 | 1.68 | 0.162 | 2/4 | 9.6 | 0.76 | 1/4 |
 | Specialist | 9 | 1.13 | 0.088 | 1/9 | 2.6 | 0.64 | 2/9 |
 
-#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.196, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|

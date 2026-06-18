@@ -203,13 +203,13 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Assassin | 2 | 3.67 | 0.237 | 2/2 | 9.8 | 0.63 | 2/2 |
 | Sniper | 3 | 1.87 | 0.135 | 2/3 | 13.7 | 0.91 | 1/3 |
 | Canal Fighter | 1 | 1.99 | 0.166 | 1/1 | 8.8 | 0.73 | 0/1 |
-| Harasser | 2 | 1.65 | 0.222 | 1/2 | 8.1 | 0.87 | 2/2 |
+| Harasser | 2 | 1.65 | 0.222 | 1/2 | 8.1 | 0.87 | 1/2 |
 | Support | 6 | 1.68 | 0.129 | 3/6 | 11.2 | 0.9 | 5/6 |
 | Objective Runner | 1 | 1.13 | 0.094 | 1/1 | 11.3 | 0.94 | 1/1 |
 | Line Fighter | 7 | 1.5 | 0.167 | 5/7 | 9.7 | 1.03 | 6/7 |
 | Specialist | 2 | 2.55 | 0.151 | 2/2 | 13.8 | 0.8 | 1/2 |
 
-#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.196, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -252,12 +252,12 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | Naval Ensign | 1.99 | 0.166 | ✓ | 8.8 | 0.73 | – |
 
-#### Harasser  *(bars: E/Duc 0.125, ATK2K/Duc 0.75)*
+#### Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | Hunting Hound | 1.68 | 0.336 | ✓ | 4.9 | 0.98 | ✓ |
-| Cat Burglar | 1.63 | 0.109 | – | 11.3 | 0.75 | ✓ |
+| Cat Burglar | 1.63 | 0.109 | – | 11.3 | 0.75 | – |
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
 

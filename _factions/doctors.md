@@ -147,7 +147,7 @@ Flexible support caster-leader with an anti-stun aura.
 **Damage Dealer**
 
 - [Basilisk](basilisk) is a poison AoE damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's Mindless (can't score primaries). Also rattles low-Mind foes.
-- [Lion](lion) is a melee damage dealer. It's cost-efficient, but Mindless (can't score primaries). Also pins fleeing enemies.
+- [Lion](lion) is a melee damage dealer. It's Mindless (can't score primaries). Also pins fleeing enemies.
 - [Electron Cannoneer](electron-cannoneer) is a ranged chain-damage damage dealer. It's low on damage, pricey for its output and one shot per turn (Reload).
 - [Monstrosity](monstrosity) is a damage dealer. It's cost-efficient, but fragile for its role and Mindless (can't score primaries).
 - [Manticore](manticore) is a ranged damage dealer. It's low on damage and self-stun-prone (Primitive).
@@ -224,7 +224,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 5 | 1.13 | 0.126 | 2/5 | 9.8 | 0.88 | 2/5 |
 | Specialist | 7 | 1.13 | 0.113 | 3/7 | 6.7 | 0.73 | 4/7 |
 
-#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.196, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -285,7 +285,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | Ethereal Snatcher | 1.89 | 0.126 | ✓ | 16.0 | 1.07 | ✓ |
 
-#### Harasser  *(bars: E/Duc 0.125, ATK2K/Duc 0.75)*
+#### Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|

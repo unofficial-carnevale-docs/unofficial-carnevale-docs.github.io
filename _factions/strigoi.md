@@ -100,7 +100,7 @@ Tanky fighter; small incentive to play Soldiers.
 - [Varcolae](varcolae) is a melee damage dealer. It's Mindless (can't score primaries).
 - [Strige](strige) is a melee damage dealer. It's low on damage, fragile for its role and pricey for its output. Also extra Penetration vs bigger bases; flies over terrain.
 - [Hulking Moroi](hulking-moroi) is a melee damage dealer. It's cost-efficient, with a Frenzy burst (+40%), but Mindless (can't score primaries).
-- [Reaper](reaper) is a melee damage dealer. It's low on damage and Mindless (can't score primaries).
+- [Reaper](reaper) is a melee damage dealer. It's low on damage, pricey for its output and Mindless (can't score primaries).
 - [Highborn Servant](highborn-servant) is a melee/ranged damage dealer.
 
 **Assassin**
@@ -200,7 +200,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 6 | 1.66 | 0.157 | 4/6 | 9.3 | 0.86 | 2/6 |
 | Specialist | 3 | 1.63 | 0.181 | 3/3 | 9.7 | 0.66 | 1/3 |
 
-#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.196, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -244,7 +244,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | Strigoi Priest | 1.75 | 0.125 | ✓ | 13.0 | 0.93 | ✓ |
 
-#### Harasser  *(bars: E/Duc 0.125, ATK2K/Duc 0.75)*
+#### Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
