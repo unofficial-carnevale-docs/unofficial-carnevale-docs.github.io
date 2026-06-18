@@ -18,17 +18,17 @@ toc:
 
 ## Faction Overview
 
-Venice's criminal underworld: thieves, courtesans, and merchants. The Guild has three internal sub-factions with very different playstyles: **Trade** (good all around models), **House of Virtue** (agile assassins), and **End of Days** (fast, fragile, and disruptive). Six leaders and a wide hero roster make the Guild highly versatile.
+Venice's criminal underworld: thieves, courtesans, and merchants. The Guild has three internal sub-factions with very different playstyles: **Trade** (good all-around models), **House of Virtue** (agile assassins), and **End of Days** (fast, fragile, and disruptive). Six leaders and a wide hero roster make the Guild highly versatile.
 
 ## Faction Command
 
 **Mob Mentality** (PULSE): For every friendly character in line of sight to this character (including this character), add a re-roll to your **Mob Mentality Pool**.
-Until the end of the round, any friendly character may use these re-rolls on any roll - one re-roll per dice.
+Until the end of the round, any friendly character may use these re-rolls on any roll - one re-roll per die.
 
 <div class="callout">
 <p class="callout-title">Tactical note</p>
 
-Unlike WP, re-rolls are applied after rolling so they are less punishing to use, but they can't expand the result. Each re-roll worth ~0.40 expected Aces on 7+ rolls, and ~0.70 on Attack Rolls vs DEX 4. It's gang-size dependent, large rosters will generate more but it will have more value for elite models. It needs to be activated at the start of a round to maximise its potential use.
+Unlike WP, re-rolls are applied after rolling so they are less punishing to use, but they can't expand the result. Each re-roll is worth ~0.40 expected Aces on 7+ rolls, and ~0.70 on Attack Rolls vs DEX 4. It's gang-size dependent: large rosters will generate more but it will have more value for elite models. It needs to be activated at the start of a round to maximise its potential use.
 
 </div>
 
@@ -37,7 +37,7 @@ Unlike WP, re-rolls are applied after rolling so they are less punishing to use,
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
 | Baba-Yaga (Hero) | Mage(3) | Blood Rites, Wild Magic | Most cost-effective damage dealer in the game with Summon Vermin. Can trade nearby model LP for WP |
-| Bloodletter (Hero) | Mage(2) + Expert Sorcerer(1) | Blood Rites | Frenzied mage that gains LP on successful casts |
+| Bloodletter (Hero) | Mage(2) + Expert Sorcerer(1) | Blood Rites | Self-sustaining mage: gains LP on successful cast and can spend LP for WP |
 | Witch (Hero) | Mage(2) | Blood Rites, Runes of Sovereignty, Wild Magic | Can trade nearby model LP for WP. House of Virtue |
 | Seamstress (Hero) | Mage(1) + Expert Sorcerer(1) | Divinity, Fateweaving | Can learn spells from both disciplines at the same time |
 
@@ -94,18 +94,18 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but is a
 
 **Mages**
 
-- [Baba-Yaga](baba-yaga) is a damage dealer that doubles as a light support piece if she uses Wild magic. It's one of the most cost-efficient damage dealers in the game.
+- [Baba-Yaga](baba-yaga) is a damage dealer that doubles as a light support piece if she uses Wild magic. She's one of the most cost-efficient damage dealers in the game.
 - [Witch](witch) is a spellcaster that can be a damage dealer or a support piece, it has access to the most disciplines in the faction.
-- [Bloodletter](bloodletter) is a Frenzied damage dealer. She has the unique ability to restore 2LP on each successful cast, making her a nearly infinite ressource mage.
-- [Seamstress](seamstress) is a support piece. She's a weak mage, but the only access to Divinity and Fateweaving disciplines, and can pick spells from the 2 simultaneously.
+- [Bloodletter](bloodletter) is a self-sustaining damage dealer. It has the unique ability to restore 2LP on each successful cast, making it a nearly infinite resource mage.
+- [Seamstress](seamstress) is a support piece. It's a weak mage, but the only access to Divinity and Fateweaving disciplines, and can pick spells from both simultaneously.
 
 **Damage Dealer**
 
 - [Ostrich Chariot?!](ostrich-chariot) is a very expensive, high mobility, very high damage model. Even with its size 75 and the classic limitations that implies, it can freely move over other characters and ignores the normal rules for disengaging. Moreover, it has the highest raw damage output of the game.
-- [Whaler](whaler) is an expensive short-range Hunter. It's high-output, cost-efficient, and his weapon Knockback can move the target in any direction.
-- [Baroni](baroni) is a duelling pistols carrier (high-burst weapon). He's a good all-around model with 2 CP.
-- [Death Duellist](death-duellist) is a glass canon that resplendish ressources on kill.
-- [Brute](brute) is a melee knock back character without anything fancy.
+- [Whaler](whaler) is an expensive short-range Hunter. It's high-output, cost-efficient, and its weapon's Knockback can move the target in any direction.
+- [Baroni](baroni) is a duelling pistols carrier (high-burst weapon). It's a good all-around model with 2 CP.
+- [Death Duellist](death-duellist) is a glass cannon that replenishes resources on kill.
+- [Brute](brute) is a melee knockback character without anything fancy.
 - [Barber](barber) is a cost-efficient armour-piercing option.
 
 **Brawler**
@@ -115,35 +115,35 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but is a
 **Assassin**
 
 - [Rialto Assassin](rialto-assassin) is an expensive but cost-effective, short-range, armor-piercing Infiltrator.
-- [Shadow Assassin](shadow-assassin) has a unique ability allowing her to teleport pretty much anywhere on the map for 2AP. That makes her a good objective runner too.
+- [Shadow Assassin](shadow-assassin) has a unique ability allowing it to teleport far on the map with ease for 2AP. That makes it a good objective runner too.
 
 **Canal Fighter**
 
-- [Fisherman](fisherman) must choose between an aquatic weapon or a 12" Harpoon gun at the start of the game, changing her role from a canal fighter to a mid-range hunter. She can give Hunter to any friendly model at the start of the game, making it a good tech piece against Rashaar or the Doctors.
+- [Fisherman](fisherman) must choose between an aquatic weapon or a 12" Harpoon gun at the start of the game, changing its role from a canal fighter to a mid-range hunter. It can give Hunter to any one friendly model until the end of the game, making it a good tech piece against Rashaar or the Doctors.
 
 **Disruptor**
 
-- [Black Lamp](black-lamp) is an expensive but very good disruptor as he has the best Dispel magic of the game. It's very resistant, has good Will, and can give every friendly character Companion (Black Lamp), allowing a more diverse crew building.
+- [Black Lamp](black-lamp) is an expensive but very good disruptor as he has the best Dispel of the game. He's very resistant, has good Will, and can give every friendly character Companion (Black Lamp), allowing a more diverse list building.
 
 **Harasser**
 
-- [Thief](thief) is an infiltrator that has a lot of possibilities to harass the enemy: Smoke, Pickpocket, a bit of damage. He's a good objective runner.
+- [Thief](thief) is an infiltrator that has a lot of possibilities to harass the enemy: Smoke, Pickpocket, a bit of damage. It's a good objective runner.
 
 **Support**
 
-- [Very Loud Ostrich](very-loud-ostrich) has the statline of an Ostrich Rider without the stunning weapon, but he costs a lot more. In exchange, he can make allies charge, and he regenerates their WP when he hits. It's a very fast and offensive support piece.
-- [Recruiter](recruiter) mainly supports *Trade* models. He also have a good range armor piercing ranged attack.
-- [Smuggler](smuggler) regenerate the CP of allies when you achieve an Agenda. He also has a strong but once per turn Template attack.
+- [Very Loud Ostrich](very-loud-ostrich) has the statline of an Ostrich Rider without the stunning weapon, but it costs a lot more. In exchange, it can make allies charge, and it regenerates their WP when it hits. It's a very fast and offensive support piece.
+- [Recruiter](recruiter) mainly supports *Trade* models. It also has a good-range armor-piercing weapon.
+- [Smuggler](smuggler) regenerates the CP of allies when you achieve an Agenda. It also has a strong but once per turn Template attack.
 
 **Objective Runner**
 
-- [Dancer](dancer) is a fast model with insane Dexterity. Her speed comes from a command ability allowing her or a close ally to do a free Run/Climb action. She also has a rare Poisoned weapon.
+- [Dancer](dancer) is a fast model with insane Dexterity. Its speed comes from a command ability allowing two choos two allies (including itself) and make them do a free Run/Climb action. It also has a rare Poisoned weapon.
 
 **Specialist**
 
 - [Ebenezer Chummage](ebenezer-chummage) is an expensive anti-monster specialist. He has Hunter but a size 40, so it's only usefull against big monsters. But he can get Brave, and regenerate CP when killing a monster. Otherwise he's a really good grappler, and can heal allies in base contact.
-- [Brewer](brewer) has two strong conditional abilities: Any enemy character in base contact with him can be the target of a Drown action, and he has a short-range high armor piercing attack that cannot be used unless he's within 3" of a Pulcinella Firebreather, making him a very strong pick against armor.
-- [Blood Matron](blood-matron) hasn't strong stats for her cost, but she can permanently stun her attack target on a critical strike.
+- [Brewer](brewer) has two strong conditional abilities: Any enemy character in base contact with it can be the target of a Drown action, and it has a short-range high armor piercing attack that cannot be used unless it's within 3" of a Pulcinella Firebreather, making it a very strong pick against armor.
+- [Blood Matron](blood-matron) doesn't have strong stats for its cost, but it can permanently stun its attack target on a critical strike.
 
 ### Henchmen
 
@@ -158,29 +158,29 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but is a
 
 **Canal Fighter**
 
-- [Mariner](mariner) don't have good damage but it's a fast swimmer.
+- [Mariner](mariner) doesn't have good damage but it's a fast swimmer.
 
 **Harasser**
 
 - [Ostrich Rider](ostrich-rider) is a very fast but fragile model. Its Slippery + First Strike + Stun weapon makes it a really good disruption tool.
-- [Poacher](poacher) is a mid-ranged Infiltrator with great repositionning capabilities. It can make a good Objective runner too.
+- [Poacher](poacher) is a mid-ranged Infiltrator with great repositioning capabilities. It can make a good Objective runner too.
 - [Dog](dog) is a very cheap and fast body that exists to rush and engage enemies.
 
 **Support**
 
-- [Blood Courier](blood-courier) heals and can store one Blood Rite spell for allied mages to use.
-- [Dog Keeper](dog-keeper) main appeal is its 2CP, but he may only use Commands on characters with the Henchman keyword.
+- [Blood Courier](blood-courier) heals and can store one Blood Rites spell for allied mages to use.
+- [Dog Keeper](dog-keeper)'s main appeal is its 2CP, but it may only use Commands on characters with the Henchman keyword.
 - [Blooded](blooded) is a cheap WP battery to be used by *House of Virtue* characters.
 
 **Objective Runner**
 
 - [Pilferer](pilferer) is a cheap and mobile piece without combat capabilities.
-- [Beggar](beggar) is a model with bad stats, but he's really cheap, not mindless, and can be deployed anywhere on the board at ground level. They also contribute passively to the **Mob Mentality Pool**.
+- [Beggar](beggar) is a model with bad stats, but it's really cheap, not mindless, and can be deployed anywhere on the board at ground level. It also contributes passively to the **Mob Mentality Pool**.
 
 **Line Fighter**
 
 - [Escort](escort) is a polyvalent model: Bodyguard, good grappler, ok attack for its cost.
-- [Indebted](indebted) generate **Mob Mentality** dices on kill, he's offence oriented but pricey for its damage output.
+- [Indebted](indebted) generates **Mob Mentality** dice on kill, it's offence oriented but pricey for its damage output.
 - [Harlot](harlot) is on the agile side with concealment and slippery.
 - [Citizen](citizen) is as basic as a model can get.
 - [Pulcinella](pulcinella) is fast, disruptive, but fragile.
