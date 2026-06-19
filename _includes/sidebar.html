@@ -26,12 +26,51 @@
     </div>
 
   {% elsif sec == 'compendium' %}
+    {% assign comp_quick    = site.compendium | where: "sidebar_group", "quick_reference" | sort: "nav_order" %}
+    {% assign comp_detailed = site.compendium | where: "sidebar_group", "detailed"        | sort: "nav_order" %}
+    {% assign comp_official = site.compendium | where: "sidebar_group", "official"        | sort: "nav_order" %}
     <div class="sidebar-section">
-      <p class="sidebar-section-title">Compendium</p>
+      <p class="sidebar-section-title">Quick Reference</p>
       <ul>
-        {% assign compendium_pages = site.compendium | sort: "nav_order" %}
-        {% for p in compendium_pages %}
-        {% if p.sidebar_divider_before %}<li class="sidebar-divider"></li>{% endif %}
+        {% for p in comp_quick %}
+        <li>
+          <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
+            {{ p.title }}
+          </a>
+          {% if page.url == p.url and p.toc %}
+          <ul class="sidebar-toc">
+            {% for item in p.toc %}
+            <li><a href="#{{ item.anchor }}">{{ item.title }}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="sidebar-section">
+      <p class="sidebar-section-title">Detailed Reference</p>
+      <ul>
+        {% for p in comp_detailed %}
+        <li>
+          <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
+            {{ p.title }}
+          </a>
+          {% if page.url == p.url and p.toc %}
+          <ul class="sidebar-toc">
+            {% for item in p.toc %}
+            <li><a href="#{{ item.anchor }}">{{ item.title }}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="sidebar-section">
+      <p class="sidebar-section-title">Official Documentation</p>
+      <ul>
+        {% for p in comp_official %}
         <li>
           <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
             {{ p.title }}

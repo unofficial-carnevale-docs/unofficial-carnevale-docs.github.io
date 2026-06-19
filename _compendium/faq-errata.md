@@ -1,8 +1,8 @@
 ---
 title: "FAQ & Errata"
 description: "Official Carnevale FAQ & Errata v1.3"
-nav_order: 3
-sidebar_divider_before: true
+nav_order: 1
+sidebar_group: official
 toc:
   - title: "Frequently Asked Questions"
     anchor: "frequently-asked-questions"

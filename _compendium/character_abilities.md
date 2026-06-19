@@ -2,6 +2,7 @@
 title: Character Abilities
 description: Character Abilities reference for Carnevale v2.2, with official FAQ & Errata v1.3 integrated.
 nav_order: 1
+sidebar_group: detailed
 ---
 
 ## General
