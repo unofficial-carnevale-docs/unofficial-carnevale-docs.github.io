@@ -23,7 +23,7 @@ Deep-sea horrors, cultist worshippers, and their monstrous spawn. The Rashaar ar
 
 ## Faction Command
 
-**Soul Drain** (PULSE): Make a Basic MIND Roll. For every Ace rolled, any one character in base contact loses that many LP; this character replenishes that many WP.
+**Soul Drain** (PULSE): Make a Basic MIND Roll. The number of Aces is the number of Life Points lost by any one character (friendly or enemy) in base contact. Replenish that many Will Points.
 
 <div class="callout">
 <p class="callout-title">Tactical note</p>
@@ -63,29 +63,29 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 ### Leaders
 
-#### [The Flame That Burns Underwater - Brawler (water, grappler)](/factions/rashaar/the-flame-that-burns-underwater/)
+#### [The Flame That Burns Underwater - Canal Fighter](/factions/rashaar/the-flame-that-burns-underwater/)
 
-Pricey LP22 grappling centerpiece with heavy AoE damage and reliable Drown.
+Really expensive leader, but she's an insane grappler and drowner with heavy AoE damage.
 
 #### [Magi-Rashaar - Damage Dealer (magic, Blood Rites) / Support (magic)](/factions/rashaar/magi-rashaar/)
 
-Best offensive caster among leaders (Kraken's Breath); fragile.
+Simply the best caster of the game, but very fragile.
 
 #### [Paartul Matriarch - Specialist (spawner)](/factions/rashaar/paartul-matriarch/)
 
-No personal offense unless set up; unique body-spawning, and supports Feral characters.
+She has weak stats but the unique ability to summon one Crybaby per turn, small annoying bodies that can be attacked by allies to loose Mindless. Build around Feral monsters, notably giving them **Companion (*Leader*)**.
 
 #### [Sir Tiburcio - Tank](/factions/rashaar/sir-tiburcio/)
 
-Durable tank; worse than the faction standard in water (slow, no usable weapon).
+Durable tank, slower than the faction standard in water and without an aquatic weapon, but he has the statline of a Full Plate character without the disadvantages.
 
 #### [Thalidraur - Brawler](/factions/rashaar/thalidraur/)
 
-Big melee monster; very slow unless in water; very low CP, but turns kills into WP+CP.
+Big expensive melee monster that's very slow unless he's in water. He has very low CP but regenerates CP and WP when someone dies nearby.
 
 #### [Voice of Dagon - Support (CP, control)](/factions/rashaar/voice-of-dagon/)
 
-One of the highest effective Command outputs in the game; modest combat but a good disruptor with a Stun template attack.
+One of the highest effective Command outputs in the game, otherwise a modest combattant but with a good armor-piercing Stun template attack.
 
 ### Sub-factions
 
@@ -208,7 +208,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| [The Flame That Burns Underwater](/factions/rashaar/the-flame-that-burns-underwater/) | Brawler (water, grappler) | 2.68 | 27.0 | 0.089 | 0.90 |
+| [The Flame That Burns Underwater](/factions/rashaar/the-flame-that-burns-underwater/) | Canal Fighter | 2.68 | 27.0 | 0.089 | 0.90 |
 | [Magi-Rashaar](/factions/rashaar/magi-rashaar/) | Damage Dealer (magic, Blood Rites) / Support (magic) | 6.41 | 10.6 | 0.267 | 0.44 |
 | [Paartul Matriarch](/factions/rashaar/paartul-matriarch/) | Specialist (spawner) | 0.87 | 16.1 | 0.035 | 0.64 |
 | [Sir Tiburcio](/factions/rashaar/sir-tiburcio/) | Tank | 3.40 | 25.6 | 0.148 | 1.11 |
@@ -231,7 +231,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 4 | 1.68 | 0.162 | 2/4 | 9.6 | 0.76 | 1/4 |
 | Specialist | 9 | 1.13 | 0.088 | 1/9 | 2.6 | 0.64 | 2/9 |
 
-#### Damage Dealer  *(bars: E/Duc 0.196, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|

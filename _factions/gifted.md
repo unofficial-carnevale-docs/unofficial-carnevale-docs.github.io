@@ -63,15 +63,15 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 #### [Il Capitano - Damage Dealer (melee) / Support](/factions/gifted/il-capitano/)
 
-High-output glass cannon; good support, making allies move; gives gang-wide WP regen; cost-effective but forces the gang to use its weak Mind 2 while in LOS.
+High-output glass cannon for his cost. He's a really good support, making allies move and giving all the gang **Companion (*Il Capitano*)**. But he only have Mind 2, and forces every friendly model in LOS to use it.
 
 #### [La Signora - Support (re-roll engine)](/factions/gifted/la-signora/)
 
-Unique support: generates a re-roll pool for all friendly characters; high starting WP and WP regen, moderate combat stats.
+Unique support: she generates a re-roll pool for all friendly characters in LOS at the start of the round. She has a strong WP regen option but moderate combat stats.
 
 #### [The Duke - Assassin (infiltration) / Damage Dealer](/factions/gifted/the-duke/)
 
-High-mobility assassin.
+High-mobility assassin with a teleport action.
 
 ### Sub-factions
 
@@ -176,7 +176,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Objective Runner | 3 | 0.44 | 0.044 | 1/3 | 6.7 | 0.67 | 1/3 |
 | Specialist | 9 | 1.50 | 0.102 | 2/9 | 10.6 | 0.66 | 3/9 |
 
-#### Damage Dealer  *(bars: E/Duc 0.196, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|

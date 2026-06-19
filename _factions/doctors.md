@@ -73,19 +73,19 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 #### [Doctor of the Mind - Damage Dealer (magic)](/factions/the-doctors/doctor-of-the-mind/)
 
-Caster leader with high Command.
+Durable caster leader with high Command points to spend.
 
 #### [Master of Necromantic Studies - Damage Dealer (magic)](/factions/the-doctors/master-of-necromantic-studies/)
 
-Low-LP Vampiric offensive caster; turns the whole faction into a fully Frenzied one without any WP.
+Low-LP Frenzied offensive caster. She turns the whole faction into a fully Frenzied one without any WP (even the Nexus batteries), which is the most impactful gang-wide ability of any leader.
 
 #### [Master of Arcane Security - Brawler](/factions/the-doctors/master-of-arcane-security/)
 
-Expensive but strong, versatile AoE bruiser.
+Expensive and strong versatile combattant but with a Full Plate (weak near water).
 
 #### [Master of Zoology - Support (Beast Master) / Tank](/factions/the-doctors/master-of-zoology/)
 
-Very durable; build around a beast-heavy list.
+Very durable Hunter with a good armor-piercing Stun weapon. Build around Beasts, giving them **Companion (*Doctor*)**.
 
 #### [Plague Doctor - Support (magic)](/factions/the-doctors/plague-doctor/)
 
@@ -235,7 +235,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 5 | 1.13 | 0.126 | 2/5 | 9.8 | 0.88 | 2/5 |
 | Specialist | 7 | 1.13 | 0.113 | 3/7 | 6.7 | 0.73 | 4/7 |
 
-#### Damage Dealer  *(bars: E/Duc 0.196, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|

@@ -23,7 +23,7 @@ Undead vampire lords and their monstrous progeny. Most vampires have Frenzied (u
 
 ## Faction Command
 
-**Necrotic Mist** (PULSE): Until end of round, all friendly characters within 6" count as being in Cover.
+**Necrotic Mist** (PULSE): Until the end of the round, all friendly characters within 6" of this character count as being in Cover.
 
 <div class="callout">
 <p class="callout-title">Tactical note</p>
@@ -65,23 +65,23 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 #### [Vlad Dracula - Brawler](/factions/strigoi/vlad-dracula/)
 
-Strong versatile fighter with very high mobility; can play as an assassin or sit with the Vampires to become near-unkillable (every Vampire gains Bodyguard(Leader)); lets his Brides be fielded as Henchmen.
+Strong versatile fighter with very high mobility, but he only has a conditionnal Vampiric Attack. He can play as an assassin or sit with Vampires to become near-unkillable as every Vampire gains Bodyguard (*Leader*). He allows his Brides to be fielded as Henchmen.
 
 #### [Blood Crone - Support (mage) / Damage Dealer (magic)](/factions/strigoi/blood-crone/)
 
-Cheap, flexible caster-leader (knows all cantrips; 0AP cantrip).
+Cheap, flexible, but very slow caster-leader. She knows all cantrips of the game and can cast one per turn for 0AP, giving her really good Action economy.
 
 #### [Noble Strigoi - Damage Dealer (melee) / Support (Vampire)](/factions/strigoi/noble-strigoi/)
 
-Modest fighter, but brings short-range Command denial and buffs Vampiric Attack for Vampires.
+Modest fighter, but brings short-range Command denial and buffs Vampires, notably giving them **Companion (*Noble Strigoi*)**.
 
 #### [Stryha Crone - Assassin (flying, infiltration)](/factions/strigoi/stryha-crone/)
 
-Fragile anti-armor alpha-striker; gives 3 models Infiltration to enable a turn-1 strike or terrain control.
+Fragile anti-armor alpha-striker. She gives 3 models Infiltration to enable a strong alpha strike or terrain control.
 
 #### [Wallachian Hospodar - Brawler (durable)](/factions/strigoi/wallachian-hospodar/)
 
-Tanky fighter; small incentive to play Soldiers.
+Very durable fighter but with a Full Plate (weak near water). He also gives a small buff to Soldiers, but nothing worth of orienting the full gang around it.
 
 ### Sub-factions
 
@@ -215,7 +215,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 6 | 1.66 | 0.157 | 4/6 | 9.3 | 0.86 | 2/6 |
 | Specialist | 3 | 1.63 | 0.181 | 3/3 | 9.7 | 0.66 | 1/3 |
 
-#### Damage Dealer  *(bars: E/Duc 0.196, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|

@@ -57,7 +57,7 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 | Line Fighter | Damage Dealer | Assassin | Sniper | Brawler | Tank | Canal Fighter |
 |---|---|---|---|---|---|---|
-| 5 | 11 | 2 | 1 | 1 | 0 | 2 |
+| 5 | 10 | 2 | 2 | 1 | 0 | 2 |
 
 | Support | Harasser | Control | Disruptor | Objective Runner | Specialist |
 |---|---|---|---|---|---|
@@ -118,7 +118,6 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but is a
 
 - [Ostrich Chariot?!](/factions/the-guild/ostrich-chariot/) is a very expensive, high mobility, very high damage model. Even with its size 75 and the classic limitations that implies, it can freely move over other characters and ignores the normal rules for disengaging. Moreover, it has the highest raw damage output of the game.
 - [Whaler](/factions/the-guild/whaler/) is an expensive short-range Hunter. It's high-output, cost-efficient, and its weapon's Knockback can move the target in any direction.
-- [Baroni](/factions/the-guild/baroni/) is a duelling pistols carrier (high-burst weapon). It's a good all-around model with 2 CP.
 - [Death Duellist](/factions/the-guild/death-duellist/) is a glass cannon that replenishes resources on kill.
 - [Brute](/factions/the-guild/brute/) is a melee knockback character without anything fancy.
 - [Barber](/factions/the-guild/barber/) is a cost-efficient armour-piercing option.
@@ -131,6 +130,10 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but is a
 
 - [Rialto Assassin](/factions/the-guild/rialto-assassin/) is an expensive but cost-effective, short-range, armor-piercing Infiltrator.
 - [Shadow Assassin](/factions/the-guild/shadow-assassin/) has a unique ability allowing it to teleport far on the map with ease for 2AP. That makes it a good objective runner too.
+
+**Sniper**
+
+- [Baroni](/factions/the-guild/baroni/) is a short-range sniper: high burst (4.83 alpha) but large reload drop — fires once well, then waits. 2 CP adds utility beyond its gun.
 
 **Canal Fighter**
 
@@ -227,10 +230,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Role | n | EDPA med | EDPA/Duc med | above E/Duc bar | ATK2K med | ATK2K/Duc med | above A2/Duc bar |
 |---|---|---|---|---|---|---|---|
-| Damage Dealer | 11 | 3.41 | 0.236 | 9/11 | 9.7 | 0.61 | 3/11 |
+| Damage Dealer | 10 | 3.59 | 0.238 | 8/10 | 9.6 | 0.60 | 2/10 |
 | Brawler | 1 | 2.68 | 0.206 | 1/1 | 14.9 | 1.15 | 0/1 |
 | Assassin | 2 | 3.70 | 0.243 | 1/2 | 13.0 | 0.87 | 2/2 |
-| Sniper | 1 | 0.75 | 0.075 | 0/1 | 11.4 | 1.14 | 1/1 |
+| Sniper | 2 | 1.58 | 0.118 | 1/2 | 13.2 | 1.07 | 1/2 |
 | Canal Fighter | 2 | 2.29 | 0.180 | 1/2 | 11.7 | 0.97 | 2/2 |
 | Disruptor | 1 | 2.13 | 0.125 | 1/1 | 16.0 | 0.94 | 1/1 |
 | Harasser | 4 | 1.38 | 0.115 | 1/4 | 8.8 | 0.74 | 2/4 |
@@ -239,7 +242,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 5 | 1.13 | 0.141 | 2/5 | 9.7 | 0.96 | 1/5 |
 | Specialist | 4 | 2.31 | 0.159 | 3/4 | 10.1 | 0.79 | 3/4 |
 
-#### Damage Dealer  *(bars: E/Duc 0.196, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -249,7 +252,6 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Whaler](/factions/the-guild/whaler/) | 4.22 | 0.248 | ✓ | 10.0 | 0.59 | – |
 | [Witch](/factions/the-guild/witch/) | 3.85 | 0.241 | ✓ | 9.7 | 0.61 | – |
 | [Bloodletter](/factions/the-guild/bloodletter/) | 3.78 | 0.236 | ✓ | 7.3 | 0.46 | – |
-| [Baroni](/factions/the-guild/baroni/) | 3.34 | 0.223 | ✓ | 14.9 | 0.99 | ✓ |
 | [Brute](/factions/the-guild/brute/) | 2.68 | 0.206 | ✓ | 9.3 | 0.72 | – |
 | [Death Duellist](/factions/the-guild/death-duellist/) | 2.75 | 0.196 | ✓ | 8.9 | 0.64 | – |
 | [Ostrich Chariot?!](/factions/the-guild/ostrich-chariot/) | 5.96 | 0.175 | – | 17.0 | 0.50 | – |
@@ -268,10 +270,11 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Rialto Assassin](/factions/the-guild/rialto-assassin/) | 4.74 | 0.296 | ✓ | 14.1 | 0.88 | ✓ |
 | [Shadow Assassin](/factions/the-guild/shadow-assassin/) | 2.66 | 0.190 | – | 11.9 | 0.85 | ✓ |
 
-#### Sniper  *(bars: E/Duc 0.126, ATK2K/Duc 1.12)*
+#### Sniper  *(bars: E/Duc 0.135, ATK2K/Duc 1.09)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
+| [Baroni](/factions/the-guild/baroni/) | 2.41 | 0.161 | ✓ | 14.9 | 0.99 | – |
 | [Arbalest](/factions/the-guild/arbalest/) | 0.75 | 0.075 | – | 11.4 | 1.14 | ✓ |
 
 #### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*

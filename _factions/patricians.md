@@ -23,7 +23,9 @@ Venice's ruling nobility — wealthy merchants, military officers, Ottoman merce
 
 ## Faction Command
 
-**Let the Masquerata Begin** (PULSE): This character gains 1AP. If this character has the Councillor keyword, roll: on 7+ the CP is not spent.
+**Let the Masquerata Begin** (PULSE): This character gains 1AP for this turn.
+
+If this character has the *Councillor* keyword, roll a dice. On a 7+, this Command Ability doesn't use a Command Point.
 
 <div class="callout">
 <p class="callout-title">Tactical note</p>
@@ -61,31 +63,31 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 #### [Pinnacle of Affluence - Support (command)](/factions/patricians/pinnacle-of-affluence/)
 
-Highest command output over the course of the game; a pure anchor + grappler at premium cost, with no offensive capability.
+The most expensive leader of the game. His cost is justified by being the highest command output character over the course of the game. He has weak stats but has a Poisoned template attack and gives every friendly models **Bodyguard (*Pinnacle of Affluence*)**.
 
 #### [Guard Commander - Brawler / Support (Officer)](/factions/patricians/guard-commander/)
 
-Durable Parry fighter that also buffs Officers/Soldiers.
+Durable Parry fighter that buffs Soldiers.
 
-#### [Noble Admiral - Damage Dealer (ranged)](/factions/patricians/noble-admiral/)
+#### [Noble Admiral - Sniper (mid-range)](/factions/patricians/noble-admiral/)
 
-High-alpha twin-pistol shooter; Boat/Naval synergy.
+Medium-range sniper with Boat synergy.
 
 #### [Venetian Noble - Damage Dealer (melee)](/factions/patricians/venetian-noble/)
 
-Aggressive duelist; turns friendly kills into WP.
+Aggressive duelist and good commander: friendly characters gain +1 WP on kill when they are in LOS.
 
 #### [Mounted Venetian Noble - Assassin (melee, fast)](/factions/patricians/mounted-venetian-noble/)
 
-Fast cavalry assassin; can make nearby allies move.
+Fast cavalry assassin that can make nearby allies move, making her a versatile leader.
 
 #### [Janissary Chorbaji - Brawler / Support (Ottoman)](/factions/patricians/janissary-chorbaji/)
 
-Durable fighter that buffs Ottomans; gains CP when Ottomans kill.
+Durable Ottoman commander build around this subfaction.
 
 #### [Sopracomito - Support (WP battery)](/factions/patricians/sopracomito/)
 
-Cheapest leader; only 2 AP and low command, but a WP battery that can move Soldiers.
+Cheapest leader of the game. He has only 2 AP and low command, but he's a WP battery that can make Soldiers move.
 
 ### Sub-factions
 
@@ -205,7 +207,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|
 | [Pinnacle of Affluence](/factions/patricians/pinnacle-of-affluence/) | Support (command) | 1.77 | 22.0 | 0.055 | 0.69 |
 | [Guard Commander](/factions/patricians/guard-commander/) | Brawler / Support (Officer) | 3.51 | 22.7 | 0.175 | 1.14 |
-| [Noble Admiral](/factions/patricians/noble-admiral/) | Damage Dealer (ranged) | 3.74 | 14.9 | 0.197 | 0.78 |
+| [Noble Admiral](/factions/patricians/noble-admiral/) | Sniper (mid-range) | 1.91 | 14.9 | 0.101 | 0.78 |
 | [Venetian Noble](/factions/patricians/venetian-noble/) | Damage Dealer (melee) | 3.74 | 18.4 | 0.178 | 0.88 |
 | [Mounted Venetian Noble](/factions/patricians/mounted-venetian-noble/) | Assassin (melee, fast) | 3.99 | 20.6 | 0.166 | 0.86 |
 | [Janissary Chorbaji](/factions/patricians/janissary-chorbaji/) | Brawler / Support (Ottoman) | 2.02 | 21.0 | 0.088 | 0.91 |
@@ -228,7 +230,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 7 | 1.50 | 0.167 | 5/7 | 9.7 | 1.03 | 6/7 |
 | Specialist | 2 | 2.55 | 0.151 | 2/2 | 13.8 | 0.80 | 1/2 |
 
-#### Damage Dealer  *(bars: E/Duc 0.196, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -257,7 +259,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Sun](/factions/patricians/sun/) | 3.63 | 0.242 | ✓ | 9.8 | 0.65 | ✓ |
 | [Moon](/factions/patricians/moon/) | 3.70 | 0.231 | ✓ | 9.8 | 0.61 | ✓ |
 
-#### Sniper  *(bars: E/Duc 0.126, ATK2K/Duc 1.12)*
+#### Sniper  *(bars: E/Duc 0.135, ATK2K/Duc 1.09)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|

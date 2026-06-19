@@ -68,23 +68,23 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 #### [Patriarch Bishop de Bernis - Support (mage) / Damage Dealer (magic)](/factions/the-vatican/patriarch-bishop-de-bernis/)
 
-Best mage of the faction; gives gang-wide WP regen.
+Best mage of the faction that gives gang-wide WP regen via **Companion (*Leader*)**. He's mainly a support bot has access to Summon Vermin meaning he can be a good damage dealer against non armored ennemies.
 
 #### [Father Cesta - Support (mage, Constructs)](/factions/the-vatican/father-cesta/)
 
-Construct enabler — every ability feeds Constructs (Impart Will, Gates of Heaven WP×2); build around Constructs.
+Flighing mage with lots of buffs for Constructs, notably removing their Mindless attribute.
 
-#### [Exorcist - Specialist (anti-caster, WP denial)](/factions/the-vatican/exorcist/)
+#### [Exorcist - Disruptor](/factions/the-vatican/exorcist/)
 
-Mediocre combatant but a counter-pick vs casters; Exorcism gives a permanent +3 damage vs WP-0 models (notably Frenzied Strigoi).
+Mediocre combatant, it's a Disruptor with a permanent +3 damage vs WP-0 models, making him a good counterpick in certain situations (notably against Strigoi).
 
 #### [Inquisitor - Damage Dealer (magic) / Support (offensive, magic)](/factions/the-vatican/inquisitor/)
 
-Very aggressive caster leader.
+Very aggressive Frienzied caster. He has access to Blood Rites making him a strong damage dealer, but he has a low HP pool and no way to regenerate them.
 
 #### [Knight Commander - Brawler](/factions/the-vatican/knight-commander/)
 
-Really strong all-round fighter; small incentive to play Hospitallers (too elite to field as a full sub-faction).
+Really strong all-round fighter with high damage and high protection but with a Full Plate (weak near water). He also gives a small buff to Hospitallers, but nothing worth of orienting the full gang around it.
 
 ### Sub-factions
 
@@ -104,56 +104,56 @@ Really strong all-round fighter; small incentive to play Hospitallers (too elite
 
 **Mages**
 
-- [Galilean Priest](/factions/the-vatican/galilean-priest/) is a support piece that doubles as a Summon Vermin damage dealer, bringing stat buffs & dice manipulation, versatile utility magic. Also fast through water.
-- [Silere Priest](/factions/the-vatican/silere-priest/) is an offensive support piece, bringing stat buffs & dice manipulation, control & action economy.
-- [Summoner Priest](/factions/the-vatican/summoner-priest/) is a support piece, bringing stat buffs & dice manipulation, control & action economy.
-- [Baptist](/factions/the-vatican/baptist/) is a support piece, bringing healing & shielding.
-- [Stigmatist](/factions/the-vatican/stigmatist/) is a magic/melee damage dealer. It's cost-efficient, with a Frenzy burst (+80%).
+- [Galilean Priest](/factions/the-vatican/galilean-priest/) is a support/control caster that can double as a damage dealer with Summon Vermin. He's also not hindered at all by water, he's a fast swimmer and can cast spells while in water.
+- [Silere Priest](/factions/the-vatican/silere-priest/) is an expensive offensive support piece, bringing a +Damage aura in addition to its spells.
+- [Summoner Priest](/factions/the-vatican/summoner-priest/) is a support mage that can teleport near him constructs from anywhere on the board.
+- [Baptist](/factions/the-vatican/baptist/) is a support mage that can bless water, preventing allies to be drowned and allowing ennemy water creatures to be drowned inside an area.
+- [Stigmatist](/factions/the-vatican/stigmatist/) is a cost-efficient but fragile Frenzied mage damage dealer.
 
 **Damage Dealer**
 
-- [Felix Baumgartner](/factions/the-vatican/felix-baumgartner/) is a melee damage dealer.
-- [Inquisition Commissioner](/factions/the-vatican/inquisition-commissioner/) is a melee/mid-range damage dealer.
-- [Prelate of the Flaming Sword](/factions/the-vatican/prelate-of-the-flaming-sword/) is a melee armour-piercing damage dealer. It's high-output, tough for its role and cost-efficient, but Mindless (can't score primaries).
-- [Templar Marshal](/factions/the-vatican/templar-marshal/) is a melee/mid-range damage dealer. It's one shot per turn (Reload). Also pins fleeing enemies.
-- [Executioner](/factions/the-vatican/executioner/) is a melee damage dealer. It's cost-efficient.
+- [Felix Baumgartner](/factions/the-vatican/felix-baumgartner/) is an expensive melee damage dealer. He's able to give armor-piercing for a round, and regenerates all his WP when he kills an ennemy.
+- [Inquisition Commissioner](/factions/the-vatican/inquisition-commissioner/) is a good all-around fighter with a lot of CP.
+- [Prelate of the Flaming Sword](/factions/the-vatican/prelate-of-the-flaming-sword/) is a resistant and cost efficient melee damage dealer specialized in armor piercing.
+- [Templar Marshal](/factions/the-vatican/templar-marshal/) is an all-around good damage dealer with a really high-range crossbow.
+- [Executioner](/factions/the-vatican/executioner/) is a cheap, cost-efficient, but fragile melee damage dealer.
 
 **Brawler**
 
-- [Gethsemane](/factions/the-vatican/gethsemane/) is a brawler. It's pricey for its output and Mindless (can't score primaries). Also area attack — multi-target upside not counted.
-- [Golgotha](/factions/the-vatican/golgotha/) is a brawler. It's high-output and cost-efficient, but Mindless (can't score primaries). Also rattles low-Mind foes.
-- [Venator of Devotion](/factions/the-vatican/venator-of-devotion/) is a brawler. It's high-output and cost-efficient. Also extra Penetration vs bigger bases.
-- [Knight of the Holy Sepulchre](/factions/the-vatican/knight-of-the-holy-sepulchre/) is a brawler. It's Mindless (can't score primaries).
-- [Paladin of St Lazarus](/factions/the-vatican/paladin-of-st-lazarus/) is a brawler.
-- [Burning Saint](/factions/the-vatican/burning-saint/) is a brawler.
-- [Avignon Guard](/factions/the-vatican/avignon-guard/) is a brawler. It's cost-efficient.
+- [Gethsemane](/factions/the-vatican/gethsemane/) is a very expensive but a really strong and cost-effective giant monster that's mobile for its size.
+- [Golgotha](/factions/the-vatican/golgotha/) is an expensive but high-output and cost-efficient Brawler.
+- [Venator of Devotion](/factions/the-vatican/venator-of-devotion/) is an expensive but high-output and cost-efficient brawler but with a Full Plate (weak near water).
+- [Knight of the Holy Sepulchre](/factions/the-vatican/knight-of-the-holy-sepulchre/) is a fast brawler that can buff allies' movement, but he has a Full Plate (weak near water).
+- [Paladin of St Lazarus](/factions/the-vatican/paladin-of-st-lazarus/) is an expensive piece, but when he's killed he has a chance to resurrect with a MIND roll. This makes him strong with Patriarch Bishop de Bernis, **Companion (*Leader*)** allowing him to use the Patriarch's Mind 5.
+- [Burning Saint](/factions/the-vatican/burning-saint/) is a Full plate brawler with the ability to create a damaging area around her at the end of the round.
+- [Avignon Guard](/factions/the-vatican/avignon-guard/) is a strong and cost-efficient combattant, but with a Full plate (weak near water).
 
 **Assassin**
 
-- [Angel of the Blooded Rose](/factions/the-vatican/angel-of-the-blooded-rose/) is a melee assassin. It's pricey for its output. Also flies over terrain.
+- [Angel of the Blooded Rose](/factions/the-vatican/angel-of-the-blooded-rose/) is a flying melee assassin. She's pricey for her damage output, but has a WP regeneration boost aura.
 
 **Sniper**
 
-- [Scorpio Marksman](/factions/the-vatican/scorpio-marksman/) is a long-range sniper. It's high-output, tough for its role and cost-efficient.
+- [Scorpio Marksman](/factions/the-vatican/scorpio-marksman/) is a cost-efficient, high damage, high resistance long-range sniper.
 
 **Tank**
 
-- [Sepulchral Vanguard](/factions/the-vatican/sepulchral-vanguard/) is a tank that doubles as a WP lockout disruptor. It's extremely durable and cheap for the staying power, but Mindless (can't score primaries).
+- [Sepulchral Vanguard](/factions/the-vatican/sepulchral-vanguard/) is an extremely durable and cheap tank for the staying power it brings, and doubles as a WP lockout disruptor that can attempt to Dispel.
 
 **Disruptor**
 
-- [Seraph](/factions/the-vatican/seraph/) is a tank disruptor. It's Mindless (can't score primaries). Also flies over terrain; rattles low-Mind foes.
-- [Eater of Sin](/factions/the-vatican/eater-of-sin/) is a WP strip disruptor.
+- [Seraph](/factions/the-vatican/seraph/) is an expensive fast, tanky Disruptor.
+- [Eater of Sin](/factions/the-vatican/eater-of-sin/) is a unique Disruptor: Enemy characters in LOS cannot use the MIND value of other characters, making him a great tech pick against low mind Primitive monsters.
 
 **Support**
 
-- [Cross-bearing Deacon](/factions/the-vatican/cross-bearing-deacon/) is a support piece. It's unusually durable.
-- [Conventual Chaplain](/factions/the-vatican/conventual-chaplain/) is a support piece.
+- [Cross-bearing Deacon](/factions/the-vatican/cross-bearing-deacon/) is a very resistant support with a WP replenishment aura. He also gives every friendly model in LOS Brave, making it a good tech piece against heavy Fear factions.
+- [Conventual Chaplain](/factions/the-vatican/conventual-chaplain/) is High command support piece.
 
 **Specialist**
 
-- [Throne](/factions/the-vatican/throne/) is a flying control/support specialist. Its niche is to fly around as a control/support piece. Also rattles low-Mind foes.
-- [Divine Seraphim](/factions/the-vatican/divine-seraphim/) is an AoE template attacker anti-status aura specialist. Its niche is to scrub status effects off allies. Also flies over terrain; rattles low-Mind foes; area attack — multi-target upside not counted.
+- [Throne](/factions/the-vatican/throne/) is a very expensive flying construct but with a strong and rare ability to make friendly models regenerate their CP.
+- [Divine Seraphim](/factions/the-vatican/divine-seraphim/) is an expensive flying construct. He has low combat stats but a good armor-piercing Template attack and an aura protecting allies from Stun, Poisoned, and Full Plate.
 
 ### Henchmen
 
@@ -220,7 +220,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|
 | [Patriarch Bishop de Bernis](/factions/the-vatican/patriarch-bishop-de-bernis/) | Support (mage) / Damage Dealer (magic) | 5.37 | 10.6 | 0.224 | 0.44 |
 | [Father Cesta](/factions/the-vatican/father-cesta/) | Support (mage, Constructs) | 3.24 | 8.8 | 0.135 | 0.37 |
-| [Exorcist](/factions/the-vatican/exorcist/) | Specialist (anti-caster, WP denial) | 1.13 | 14.9 | 0.057 | 0.74 |
+| [Exorcist](/factions/the-vatican/exorcist/) | Disruptor | 1.13 | 14.9 | 0.057 | 0.74 |
 | [Inquisitor](/factions/the-vatican/inquisitor/) | Damage Dealer (magic) / Support (offensive, magic) | 4.94 | 14.1 | 0.225 | 0.64 |
 | [Knight Commander](/factions/the-vatican/knight-commander/) | Brawler | 4.74 | 22.4 | 0.226 | 1.07 |
 
@@ -233,7 +233,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Damage Dealer | 7 | 3.29 | 0.224 | 5/7 | 13.7 | 0.88 | 5/7 |
 | Brawler | 8 | 3.70 | 0.215 | 5/8 | 22.9 | 1.32 | 4/8 |
 | Assassin | 1 | 2.68 | 0.134 | 0/1 | 10.6 | 0.53 | 0/1 |
-| Sniper | 2 | 1.59 | 0.119 | 1/2 | 14.6 | 1.16 | 1/2 |
+| Sniper | 2 | 1.59 | 0.119 | 1/2 | 14.6 | 1.16 | 2/2 |
 | Canal Fighter | 1 | 2.68 | 0.149 | 0/1 | 18.0 | 1.00 | 1/1 |
 | Tank | 1 | 2.86 | 0.191 | 1/1 | 33.6 | 2.24 | 1/1 |
 | Disruptor | 3 | 1.63 | 0.102 | 1/3 | 11.5 | 0.72 | 1/3 |
@@ -242,7 +242,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 7 | 1.43 | 0.142 | 2/7 | 9.7 | 1.08 | 5/7 |
 | Specialist | 4 | 2.23 | 0.131 | 3/4 | 13.4 | 0.82 | 3/4 |
 
-#### Damage Dealer  *(bars: E/Duc 0.196, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -273,12 +273,12 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | [Angel of the Blooded Rose](/factions/the-vatican/angel-of-the-blooded-rose/) | 2.68 | 0.134 | – | 10.6 | 0.53 | – |
 
-#### Sniper  *(bars: E/Duc 0.126, ATK2K/Duc 1.12)*
+#### Sniper  *(bars: E/Duc 0.135, ATK2K/Duc 1.09)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Scorpio Marksman](/factions/the-vatican/scorpio-marksman/) | 2.44 | 0.163 | ✓ | 18.4 | 1.23 | ✓ |
-| [Maltese Squire](/factions/the-vatican/maltese-squire/) | 0.75 | 0.075 | – | 10.9 | 1.09 | – |
+| [Maltese Squire](/factions/the-vatican/maltese-squire/) | 0.75 | 0.075 | – | 10.9 | 1.09 | ✓ |
 
 #### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*
 
