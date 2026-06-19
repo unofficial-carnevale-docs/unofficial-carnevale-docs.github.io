@@ -27,15 +27,15 @@ nav_section: Factions
 
 [Ethereal](/compendium/character-abilities/#ethereal)
 
-**The Other Side of the Coin** — (1AP): if both Fate and Justice are on board as friendly chars, swap positions
+**The Other Side of the Coin** — (1AP): If both Fate and Justice are on the board (as friendly characters), swap their positions.
 
-**Justice Served** — during deployment, pick one enemy char; Justice re-rolls all failed dice when making Combat actions against that char, including the Destiny Die
+**Justice Served** — During deployment, pick 1 enemy character. Justice re-rolls all failed dice rolls when making Combat actions against this character, including the Destiny Dice!
 
 ## Capability
 
 EDPA **3.90** · EDPA/Duc **0.217** · ATK2K **12.4** · ATK2K/Duc **0.69**
 
-*Damage Dealer median: EDPA **2.97** · EDPA/Duc **0.196** · ATK2K **10.9** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.95** · EDPA/Duc **0.195** · ATK2K **10.8** · ATK2K/Duc **0.73***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -47,11 +47,11 @@ EDPA **3.90** · EDPA/Duc **0.217** · ATK2K **12.4** · ATK2K/Duc **0.69**
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 4.30 | 4.01 |
-| Balanced (Dex4/Prot3) | 3.90 | 2.97 |
-| Evasive (Dex6/Prot2) | 3.04 | 2.54 |
+| Balanced (Dex4/Prot3) | 3.90 | 2.95 |
+| Evasive (Dex6/Prot2) | 3.04 | 2.52 |
 | Armoured (Dex4/Prot5) | 3.59 | 2.17 |
-| Tank (Dex4/Prot5/US5) | 1.92 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 2.75 | 2.14 |
+| Tank (Dex4/Prot5/US5) | 1.92 | 1.90 |
+| Parry (Dex5/Prot3/Parry2) | 2.75 | 2.13 |
 
 *Sustained: sword of balancex2*
 
@@ -62,10 +62,10 @@ EDPA **3.90** · EDPA/Duc **0.217** · ATK2K **12.4** · ATK2K/Duc **0.69**
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
-| Baseline (Atk3) | 1.13 | 12.4 | 10.9 |
+| Baseline (Atk3) | 1.13 | 12.4 | 10.8 |
 | Elite (Atk5, Dmg+1) | 3.38 | 4.1 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 6.4 | 6.3 |
-| Drown (Atk3) | 1.56 | 9.0 | 7.2 |
+| Drown (Atk3) | 1.56 | 9.0 | 7.4 |
 
 </div>
 </div>

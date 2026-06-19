@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Frenzied](/compendium/character-abilities/#frenzied), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x)
 
-**Rejuvenated** — this character starts the game with only 5 Life Points remaining. However, if they start any turn with 6 or more Life Points, they increase their MOVEMENT, DEXTERITY, ATTACK, and MIND by 1 until the start of their next turn.
+**Rejuvenated** — This character starts the game with only 5 Life Points remaining. However, if they start any turn with 6 or more Life Points, they increase their MOVEMENT, DEXTERITY, ATTACK, and MIND by 1 until the start of their next turn.
 
 ## Capability
 

@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Mage(2)](/compendium/character-abilities/#mage-x)
 
-**Protective Bubble** — (1AP): pick a number 1–6. Until end of round, chars (friendly and enemy) within that many inches of Fadhila gain Universal Shielding(4) and Expert Protection(4).
+**Protective Bubble** — (1AP): Pick a number from 1-6. Until the end of the round, any characters (friendly and enemy) gain Universal Shielding(4) and Expert Protection(4) while within that many inches of Fadhila.
 
 ## Capability
 

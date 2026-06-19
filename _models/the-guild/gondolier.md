@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Brave](/compendium/character-abilities/#brave), [Fast Swimmer(1)](/compendium/character-abilities/#fast-swimmer-x)
 
-**Sculler** — for each character with this ability in your gang, you may purchase 1 extra Gondola from the Equipment list. This character may be deployed in water or on a Gondola and may also re-roll failed dice rolls when making Row actions.
+**Sculler** — For each character with this ability, you may purchase 1 extra Gondola from the Equipment list. This character may be deployed in water or on a Gondola and may also re-roll failed dice rolls when making Row actions.
 
 ## Capability
 

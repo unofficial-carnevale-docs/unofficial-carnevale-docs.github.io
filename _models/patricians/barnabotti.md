@@ -28,7 +28,7 @@ nav_section: Factions
 
 [Companion(Councillor)](/compendium/character-abilities/#companion-x), [First Strike(1)](/compendium/character-abilities/#first-strike-x)
 
-**Inferiority Complex** — this character cannot use the ORDER or COUNTER Commands.
+**Inferiority Complex** — This character cannot use the ORDER or COUNTER Commands.
 
 ## Capability
 

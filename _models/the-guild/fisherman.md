@@ -28,7 +28,7 @@ nav_section: Factions
 
 [Expert Offence(1)](/compendium/character-abilities/#expert-offence-x), [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Hunter](/compendium/character-abilities/#hunter)
 
-**Bring it Down!** — PULSE: one friendly character within 6" gains Hunter until the end of the game.
+**Bring it Down!** — PULSE: One friendly character within 6" gains Hunter until the end of the game.
 
 ## Capability
 

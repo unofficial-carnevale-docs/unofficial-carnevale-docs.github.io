@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Infiltration](/compendium/character-abilities/#infiltration), [Mindless](/compendium/character-abilities/#mindless), [Pickpocket](/compendium/character-abilities/#pickpocket)
 
-**Nexus** — any character with the Doctor keyword within 6" and line of sight may use this character's Will Points as if they were their own.
+**Nexus** — Any character with the Doctor keyword within 6" and line of sight may use this character's Will Points as if they were their own.
 
 ## Capability
 

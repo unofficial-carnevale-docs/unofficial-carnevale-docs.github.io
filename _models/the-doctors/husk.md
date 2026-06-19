@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x), [Mindless](/compendium/character-abilities/#mindless)
 
-**Corpse** — if this character takes 4 or more Damage in one action (before making a Protection Roll), add 2 extra Damage to the attack.
+**Corpse** — If this character takes 4 or more Damage in one action (before making a Protection roll), add 2 extra Damage to the attack.
 
 ## Capability
 

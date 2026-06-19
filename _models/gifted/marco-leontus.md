@@ -26,7 +26,7 @@ nav_section: Factions
 ### Abilities
 
 
-**The Mask Makes the Noble** — at start of game, select friendly char for a Mask — gains either (A) +2 starting CP; or (B) Boat Crew + Bodyguard(Leader). Can only give a single Mask; Unique Gifted without Mindless cannot receive a Mask.
+**The Mask Makes the Noble** — At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks. For the entirety of the game that character gains one of the following: Increase their starting Command Points by 2; Boat Crew and Bodyguard(Leader). A character can only be given a single Mask. Unique characters without Faction(Gifted) and Mindless characters cannot be given a Mask.
 
 ## Capability
 

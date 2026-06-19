@@ -28,15 +28,15 @@ nav_section: Factions
 
 [Brave](/compendium/character-abilities/#brave), [Companion(End of Days)](/compendium/character-abilities/#companion-x), [Mindless](/compendium/character-abilities/#mindless)
 
-**Start the Horrorshow!** — AURA: end of round, friendly chars with End of Days keyword in LOS gain +1 ATTACK
+**Start the Horrorshow!** — AURA: Until the end of the round, any friendly characters with the End of Days keyword in line of sight gain +1 ATTACK.
 
-**Do As I Say, Not As I Do** — all other friendly chars with End of Days keyword lose Mindless for entire game, even if this char is killed. This char still keeps Mindless.
+**Do As I Say, Not As I Do** — All other friendly characters with the End of Days keyword lose Mindless for the entire game, even if this character is killed. This character still keeps Mindless.
 
 ## Capability
 
 EDPA **2.20** · EDPA/Duc **0.100** · ATK2K **8.0** · ATK2K/Duc **0.36**
 
-*Damage Dealer median: EDPA **2.97** · EDPA/Duc **0.196** · ATK2K **10.9** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.95** · EDPA/Duc **0.195** · ATK2K **10.8** · ATK2K/Duc **0.73***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -48,11 +48,11 @@ EDPA **2.20** · EDPA/Duc **0.100** · ATK2K **8.0** · ATK2K/Duc **0.36**
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 2.50 | 4.01 |
-| Balanced (Dex4/Prot3) | 2.20 | 2.97 |
-| Evasive (Dex6/Prot2) | 1.58 | 2.54 |
+| Balanced (Dex4/Prot3) | 2.20 | 2.95 |
+| Evasive (Dex6/Prot2) | 1.58 | 2.52 |
 | Armoured (Dex4/Prot5) | 1.50 | 2.17 |
-| Tank (Dex4/Prot5/US5) | 0.67 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 1.39 | 2.14 |
+| Tank (Dex4/Prot5/US5) | 0.67 | 1.90 |
+| Parry (Dex5/Prot3/Parry2) | 1.39 | 2.13 |
 
 *Sustained: staff of creditx2*
 
@@ -63,10 +63,10 @@ EDPA **2.20** · EDPA/Duc **0.100** · ATK2K **8.0** · ATK2K/Duc **0.36**
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
-| Baseline (Atk3) | 1.50 | 8.0 | 10.9 |
+| Baseline (Atk3) | 1.50 | 8.0 | 10.8 |
 | Elite (Atk5, Dmg+1) | 3.81 | 3.1 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.5 | 6.3 |
-| Drown (Atk3) | 1.90 | 6.3 | 7.2 |
+| Drown (Atk3) | 1.90 | 6.3 | 7.4 |
 
 </div>
 </div>

@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless)
 
-**Living Sacrifice** — any character with the House of Virtue keyword within 6" and line of sight may use this character's Life Points as if they were their own Will Points, costing 2 Life Points per Will Point. This ability can be used even if it would kill this character. If a Will Point granted by this ability would kill this character and is used on a Cast Spell action, the destiny die is counted as automatically rolling a 10.
+**Living Sacrifice** — Any character with the House of Virtue keyword within 6" and line of sight may use this character's Life Points as if they were their own Will Points, costing 2 Life Points per Will Point. This ability can be used even if it would kill this character. If a Will Point granted by this ability would kill this character and be used on a Cast Spell action, the destiny dice is counted as automatically rolling a 10.
 
 ## Capability
 

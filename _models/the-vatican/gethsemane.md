@@ -29,13 +29,13 @@ nav_section: Factions
 
 [Acrobatic(2)](/compendium/character-abilities/#acrobatic-x), [Brave](/compendium/character-abilities/#brave), [Brawler(1)](/compendium/character-abilities/#brawler-x), [Bulky](/compendium/character-abilities/#bulky), [Companion(Invoker)](/compendium/character-abilities/#companion-x), [Frenzied](/compendium/character-abilities/#frenzied), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive)
 
-**Stoneskin** — whenever takes Damage, reduce amount by 3 (min 1); if hit by Poisoned weapon, roll 2 dice, choose 1 to shrug off poison
+**Stoneskin** — Whenever this character takes damage, reduce the amount of damage caused by 3 (to a minimum of 1). In addition, if this character is hit by a Poisoned weapon, roll 2 dice and choose 1 to see if they shrug off the poison.
 
-**Feline Indifference** — cannot be picked as target for magic; not affected by magic effects (other chars touched by same spell still affected)
+**Feline Indifference** — This character cannot be picked as a target for magic and is not affected by the effects of magic (other characters affected by magic are still affected).
 
-**Serpentine** — can move through spaces smaller than base to min 2"; must fit where it ends turn
+**Serpentine** — This character is able to move through spaces smaller than its base to a minimum of 2". It must be able to fit where it ends its turn.
 
-**Atonement from Above** — before applying Stoneskin, if this char would take Damage from falling, all other chars (friendly and enemy) within 3" also take that Damage; when charging from above, placed on top of chars underneath — controlling player moves them to base contact
+**Atonement from Above** — Before applying Stoneskin, if this character would take damage from falling, all other characters (friendly and enemy) within 3" also take that much damage. When this character charges from above, it may be placed on top of characters underneath it. Any characters underneath it are moved by their controlling player so that they are in base contact with this character.
 
 ## Capability
 

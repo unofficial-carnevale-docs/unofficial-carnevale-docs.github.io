@@ -2,7 +2,7 @@
 layout: model
 title: La Signora
 permalink: /factions/gifted/la-signora/
-description: "Unique support: generates a re-roll pool for all friendly characters; high starting WP and WP regen, moderate combat stats."
+description: "Unique support: she generates a re-roll pool for all friendly characters in LOS at the start of the round. She has a strong WP regen option but moderate combat stats."
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
@@ -29,11 +29,11 @@ nav_section: Factions
 
 [Bulky](/compendium/character-abilities/#bulky), [Parry(2)](/compendium/character-abilities/#parry-x)
 
-**Search of Satisfaction** — PULSE: count every char (friendly and enemy) within 3"; replenish that many WP
+**Search of Satisfaction** — PULSE: Add up to every character (friendly or enemy) within 3" of this character. She replenishes that many Will Points.
 
-**All Eyes On Me** — for every friendly in LOS (including self), add a re-roll to the "All Eyes On Me Pool"; friendly chars may use these re-rolls (one re-roll per die)
+**All Eyes On Me** — For every friendly character in line of sight to this character (including this character) at the start of the round, add a re-roll to your All Eyes On Me Pool. Until the end of the round, any friendly character may use these re-rolls on any roll – one re-roll per dice.
 
-**Cheat** — if only char with Leader keyword in gang, loses Hero. If gang contains Il Capitano, loses Leader.
+**Cheat** — If this is the only character with the Leader keyword in the gang, this character loses the Hero keyword. However, if the gang contains Il Capitano, this character loses the Leader keyword.
 
 ## Capability
 

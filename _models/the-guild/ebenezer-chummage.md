@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Brawler(2)](/compendium/character-abilities/#brawler-x), [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x), [Fast Swimmer(1)](/compendium/character-abilities/#fast-swimmer-x), [Hunter](/compendium/character-abilities/#hunter)
 
-**Hearty Fish Soup** — PULSE: all Trade chars within 6" gain Brave and Expert Protection(1) until end of this char's next turn
+**Hearty Fish Soup** — PULSE: All friendly characters with the Trade Keyword within 6" gain Brave and Expert Protection (1) until the end of this characters next turn.
 
-**A Choice Cut** — when kills a char with Monster keyword, replenishes 1CP
+**A Choice Cut** — When this character kills a character with the Monster keyword, it replenishes 1CP.
 
-**Gifts of Dried Meats** — starts game with 3 Dried Meats counters; end of activation, may use one to have another friendly in base contact replenish 2LP
+**Gifts of Dried Meats** — This character starts the game with 3 Dried Meats counters. At the end of its activation, you may use a Dried Meats counter to have another friendly character in base contact with this character replenish 2 Life Points.
 
 ## Capability
 

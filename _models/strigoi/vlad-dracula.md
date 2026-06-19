@@ -2,7 +2,7 @@
 layout: model
 title: Vlad Dracula
 permalink: /factions/strigoi/vlad-dracula/
-description: "Strong versatile fighter with very high mobility; can play as an assassin or sit with the Vampires to become near-unkillable (every Vampire gains Bodyguard(Leader)); lets his Brides be fielded as Henchmen."
+description: "Strong versatile fighter with very high mobility, but he only has a conditionnal Vampiric Attack. He can play as an assassin or sit with Vampires to become near-unkillable as every Vampire gains Bodyguard (Leader). He allows his Brides to be fielded as Henchmen."
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Expert Protection(2)](/compendium/character-abilities/#expert-protection-x), [Frenzied](/compendium/character-abilities/#frenzied)
 
-**Transformation** — PULSE: remove and place on solid ground within 8", at least 3" from enemies; cannot use in base contact
+**Transformation** — PULSE: Remove this character and place it anywhere on solid ground within 8", at least 3" away from any enemy characters. This ability cannot be used while in base contact with an enemy character.
 
-**Connoisseur** — vs Hero = gains Vampiric Attack(1); vs Leader = gains Vampiric Attack(3)
+**Connoisseur** — Vlad will not drink the blood of just anyone. When attacking a character with the Hero keyword, he gains Vampiric Attack (1). When attacking a character with the Leader keyword, he gains Vampiric Attack (3).
 
-**Master Bloodline** — all friendly Vampire chars in LOS gain Bodyguard(Vlad Dracula) and Companion(Vlad Dracula)
+**Master Bloodline** — All friendly characters with the Vampire keyword in line of sight to this character gain Bodyguard (Vlad Dracula) and Companion (Vlad Dracula).
 
 ## Capability
 

@@ -26,11 +26,11 @@ nav_section: Factions
 ### Abilities
 
 
-**Gun Laying** — (1AP): pick a friendly character within 6" and line of sight. Until the end of that character's next activation, it gains -2 Evasion against targets outside of base contact with it.
+**Gun Laying** — (1AP): Pick a friendly character within 6" and line of sight. Until the end of that character's next activation, it gains -2 Evasion against targets outside of base contact with it.
 
-**Nautical Bearings** — any friendly character making a Combat action within 3" with a weapon that has a range of 6" or higher increases their range by 6".
+**Nautical Bearings** — Any friendly character that makes a Combat action within 3" with a weapon that has a range of 6" or higher increases their range by 6".
 
-**Maps and Charts** — whenever this character uses a Plan command, draw 2 extra Agendas, take a look, and discard 2 of your choice.
+**Maps and Charts** — Whenever this character uses a Plan command, draw 2 extra Agendas, take a look, and discard 2 of your choice.
 
 ## Capability
 

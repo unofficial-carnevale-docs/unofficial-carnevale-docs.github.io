@@ -26,9 +26,9 @@ nav_section: Factions
 ### Abilities
 
 
-**Extortion** — AURA: until the end of the round, any friendly characters with the Henchman keyword within 6" gain Bodyguard(Hero).
+**Extortion** — AURA: Until the end of the round, any friendly characters with the Henchman keyword within 6" gain Bodyguard (Hero).
 
-**Instigator** — all friendly characters with the Trade keyword gain +1 ATTACK while within 6" of one or more characters with this special rule. Characters with the Instigator rule are unaffected.
+**Instigator** — All friendly characters with Companion (Trade) gain +1 ATTACK while within 6" of one or more characters with this special rule. Characters with the Instigator rule are unaffected.
 
 ## Capability
 

@@ -28,7 +28,7 @@ nav_section: Factions
 
 [Expert Grappler(1)](/compendium/character-abilities/#expert-grappler-x), [Fast Swimmer(1)](/compendium/character-abilities/#fast-swimmer-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Drag to the Depths** — if a Combat action with Mutated Limbs results in an enemy character losing Life Points, move that character into base contact with this character, ignoring Attacks of Opportunity.
+**Drag to the Depths** — If a Combat action with Mutated Limbs results in an enemy character losing Life Points, move that character into base contact with this character, ignoring attacks of opportunity.
 
 ## Capability
 

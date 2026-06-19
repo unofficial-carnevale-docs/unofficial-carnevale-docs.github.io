@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Frenzied](/compendium/character-abilities/#frenzied), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
 
-**Fanged Visage** — at start of game, select another friendly char to wear one of her Masks (see Mask System above). Can only give a single Mask; Unique Gifted chars without Mindless cannot receive a Mask.
+**Fanged Visage** — At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks. For the entirety of the game that character gains one of the following: Frenzied and Vampiric Attack(2) but reduce Will Points to 0; First Strike(1) and Vampiric Attack(1). A character can only be given a single Mask. Unique characters without Faction(Gifted) and Mindless characters cannot be given a Mask.
 
 ## Capability
 

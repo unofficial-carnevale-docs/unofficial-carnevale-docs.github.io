@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Concealment(2)](/compendium/character-abilities/#concealment-x), [Frenzied](/compendium/character-abilities/#frenzied), [Infiltration](/compendium/character-abilities/#infiltration), [Slippery](/compendium/character-abilities/#slippery), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x)
 
-**Romani Fury** — PULSE: every friendly character with the Bride keyword gains Expert Offence(3) until end of round.
+**Romani Fury** — PULSE: Every friendly character with the Bride keyword gains Expert Offence (3) until the end of the round.
 
-**Procession of Brides** — while building your Gang, if it contains Vlad Dracula, this character counts as having the Henchman keyword instead of the Hero keyword for the purposes of Frequency.
+**Procession of Brides** — While building your Gang, if it contains Vlad Dracula, this character counts as having the Henchman keyword instead of the Hero keyword for the purposes of Frequency.
 
 ## Capability
 

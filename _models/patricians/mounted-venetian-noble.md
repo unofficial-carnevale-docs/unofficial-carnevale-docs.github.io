@@ -2,7 +2,7 @@
 layout: model
 title: Mounted Venetian Noble
 permalink: /factions/patricians/mounted-venetian-noble/
-description: "Fast cavalry assassin; can make nearby allies move."
+description: "Fast cavalry assassin that can make nearby allies move, making her a versatile leader."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
@@ -29,11 +29,11 @@ nav_section: Factions
 
 [Engage](/compendium/character-abilities/#engage), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Limited Movement](/compendium/character-abilities/#limited-movement)
 
-**Do Try To Keep Up!** — once per round, before this character makes a Run/Climb, choose 1 other friendly char with Councillor, Soldier, or Animal keyword within 3"; after this character completes that Run/Climb, the chosen char makes an out-of-sequence Run/Climb (cannot cause AoOs, but may require a Disengage)
+**Do Try To Keep Up!** — Once per round, before this character makes a Run/Climb action, you may choose 1 other friendly character with the Councillor, Soldier, or Animal keyword within 3". After this character completes that Run/Climb action, the chosen character makes an out of sequence Run/Climb action. This out of sequence action cannot cause Attacks of Opportunity from charging, but may require a character to Disengage as normal.
 
-**Venetian Drive** — PULSE: this character gains First Strike(2) until end of round, but reduces its Protection to 1
+**Venetian Drive** — PULSE: This character gains First Strike (2) until the end of the round, however it reduces its PROTECTION to 1.
 
-**Gleeful Charge** — when making an AoO caused by charging, the Gilded Sabre's Evasion becomes -2 for that AoO
+**Gleeful Charge** — When this character makes an Attack of Opportunity due to charging, Gilded Sabre's Evasion becomes -2 for that Attack of Opportunity.
 
 ## Capability
 

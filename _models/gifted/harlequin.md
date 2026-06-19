@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Acrobatic(3)](/compendium/character-abilities/#acrobatic-x), [Slippery](/compendium/character-abilities/#slippery)
 
-**Mischievous** — whenever an enemy char uses a WP within 3" of this char, roll a die; on 7+ the WP is still discarded but has no effect
+**Mischievous** — Whenever an enemy character uses a Will Point within 3" of this character, roll a dice. On a 7+ the Will Point is still discarded, but there is no effect.
 
-**Maximum Fastness** — cannot have more than a +1 modifier to DEXTERITY (Evasion/Reaction dice gained from spending WP are unaffected)
+**Maximum Fastness** — This character cannot have more than a +1 modifier to its DEXTERITY (e.g. due to Evasion or Reactions). Dice gained through spending Will Points are unaffected.
 
 ## Capability
 

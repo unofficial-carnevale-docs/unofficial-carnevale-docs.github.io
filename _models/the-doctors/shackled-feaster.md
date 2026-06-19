@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Frenzied](/compendium/character-abilities/#frenzied), [Mindless](/compendium/character-abilities/#mindless), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x)
 
-**Regenerating** — this character's Vampiric Attack special rule can cause it to gain Life Points above its starting value. If they start their turn with 10 or more Life Points, they increase their ATTACK by 2 until the start of their next turn.
+**Regenerating** — This character's Vampiric Attack special rule can cause it to gain Life Points above its starting value. If they start their turn with 10 or more Life Points, they increase their ATTACK by 2 until the start of their next turn.
 
 ## Capability
 

@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Companion(Councillor)](/compendium/character-abilities/#companion-x), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x)
 
-**Business or Pleasure?** — any friendly character with Councillor keyword that has 0 Command Points replenishes 1CP if they start their turn within 6" and line of sight of this character
+**Business or Pleasure?** — Any friendly character with the Councillor keyword with 0 Command Points remaining replenishes 1 Command Point if they start their turn within 6" and line of sight of this character.
 
 ## Capability
 

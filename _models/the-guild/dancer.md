@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Slippery](/compendium/character-abilities/#slippery)
 
-**Communicative Dance** — PULSE: pick one friendly within 3" and one other friendly with House of Virtue keyword in LOS; both make an immediate Run/Climb; cannot be used to charge, but can disengage
+**Communicative Dance** — PULSE: Pick one friendly character within 3" and one different friendly character with the House of Virtue keyword within line of sight. Both of those characters make an immediate Run/Climb action. This movement cannot be used to charge, but can be used to disengage.
 
 ## Capability
 

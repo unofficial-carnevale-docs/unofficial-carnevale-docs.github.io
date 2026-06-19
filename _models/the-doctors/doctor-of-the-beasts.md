@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Hunter](/compendium/character-abilities/#hunter)
 
-**Overcharged Discipline** — PULSE: one friendly with Animal keyword within 6" gains Berserk until end of game
+**Overcharged Discipline** — PULSE: One friendly character with the Animal keyword within 6" gains Berserk until the end of the game.
 
-**Beast Master** — all friendlies with Animal keyword gain Companion(Doctor) while in LOS of this char
+**Beast Master** — All friendly characters with the Animal keyword gain Companion (Doctor) while in line of sight of this character.
 
 ## Capability
 

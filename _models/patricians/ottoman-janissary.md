@@ -28,7 +28,7 @@ nav_section: Factions
 
 [Bodyguard(Leader)](/compendium/character-abilities/#bodyguard-x), [Brawler(1)](/compendium/character-abilities/#brawler-x), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
 
-**Barbary Discipline** — AURA: until the end of the round, all friendly characters within 6" gain +2 MOVEMENT if their Run/Climb action is used to charge.
+**Barbary Discipline** — AURA: Until the end of the round, all friendly characters within 6" gain +2 MOVEMENT if their Run/Climb action is used to charge.
 
 ## Capability
 

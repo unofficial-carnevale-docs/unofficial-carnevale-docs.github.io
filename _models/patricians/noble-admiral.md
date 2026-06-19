@@ -2,7 +2,7 @@
 layout: model
 title: Noble Admiral
 permalink: /factions/patricians/noble-admiral/
-description: "High-alpha twin-pistol shooter; Boat/Naval synergy."
+description: "Medium-range sniper with Boat synergy."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
@@ -29,19 +29,19 @@ nav_section: Factions
 
 [Boat Crew](/compendium/character-abilities/#boat-crew), [Expert Marksman(2)](/compendium/character-abilities/#expert-marksman-x), [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x)
 
-**Naval Discipline** — PULSE: other friendly chars on same Boat replenish 1WP; other friendly chars with Boat Crew on same Boat replenish 2WP
+**Naval Discipline** — PULSE: Other friendly characters on the same Boat as this character replenish 1 Will Point. Other friendly characters with Boat Crew on the same Boat as this character instead replenish 2 Will Points.
 
-**Raise a Crew** — all friendly chars may be set up on a Boat
+**Raise a Crew** — All friendly characters may be set up on a Boat.
 
-**Twin Pistols** — weapons share the Reload ability; may make 2 Combat actions with Rifled Duelling Pistol or 1 with Twin Rifled Duelling Pistols in one round
+**Twin Pistols** — This character's weapons share the Reload ability - you may make 2 Combat actions with the Rifled Duelling Pistol or 1 with Twin Rifled Duelling Pistols in one round.
 
-**Unwieldy** — may only make Combat actions with Twin Rifled Duelling Pistols as the first action of turn (including AoOs)
+**Unwieldy** — This character may only make Combat actions with the Twin Rifled Duelling Pistols as the first action of their turn (including using it for Attacks of Opportunity).
 
 ## Capability
 
-EDPA **3.74** · EDPA/Duc **0.197** · ATK2K **14.9** · ATK2K/Duc **0.78**
+EDPA **1.91** · EDPA/Duc **0.101** · ATK2K **14.9** · ATK2K/Duc **0.78**
 
-*Damage Dealer median: EDPA **2.97** · EDPA/Duc **0.196** · ATK2K **10.9** · ATK2K/Duc **0.73***
+*Sniper median: EDPA **1.87** · EDPA/Duc **0.135** · ATK2K **13.7** · ATK2K/Duc **1.09***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -52,14 +52,14 @@ EDPA **3.74** · EDPA/Duc **0.197** · ATK2K **14.9** · ATK2K/Duc **0.78**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 4.78 | 4.01 |
-| Balanced (Dex4/Prot3) | 3.74 | 2.97 |
-| Evasive (Dex6/Prot2) | 3.48 | 2.54 |
-| Armoured (Dex4/Prot5) | 2.91 | 2.17 |
-| Tank (Dex4/Prot5/US5) | 2.53 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 3.41 | 2.14 |
+| Soft (Dex3/Prot1) | 2.52 | 2.68 |
+| Balanced (Dex4/Prot3) | 1.91 | 1.87 |
+| Evasive (Dex6/Prot2) | 1.81 | 1.74 |
+| Armoured (Dex4/Prot5) | 1.62 | 1.44 |
+| Tank (Dex4/Prot5/US5) | 1.48 | 1.24 |
+| Parry (Dex5/Prot3/Parry2) | 1.80 | 1.70 |
 
-*Sustained: twin rifled duelling pistolsx1+rifled duelling pistolx2*
+*Sustained: twin rifled duelling pistolsx1*
 
 </div>
 <div>
@@ -68,10 +68,10 @@ EDPA **3.74** · EDPA/Duc **0.197** · ATK2K **14.9** · ATK2K/Duc **0.78**
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
-| Baseline (Atk3) | 0.87 | 14.9 | 10.9 |
-| Elite (Atk5, Dmg+1) | 2.94 | 4.4 | 3.7 |
+| Baseline (Atk3) | 0.87 | 14.9 | 13.7 |
+| Elite (Atk5, Dmg+1) | 2.94 | 4.4 | 4.1 |
 | Penetrator (Atk3, Pen−3) | 1.89 | 6.9 | 6.3 |
-| Drown (Atk3) | 1.56 | 8.3 | 7.2 |
+| Drown (Atk3) | 1.56 | 8.3 | 6.9 |
 
 </div>
 </div>

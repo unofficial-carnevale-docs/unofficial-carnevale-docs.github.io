@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Bulky](/compendium/character-abilities/#bulky), [Companion(Invoker)](/compendium/character-abilities/#companion-x), [Fear(0)](/compendium/character-abilities/#fear-x), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive)
 
-**Stoneskin** — whenever takes Damage, reduce amount by 3 (min 1); if hit by Poisoned weapon, roll 2 dice, choose 1 to shrug off poison
+**Stoneskin** — Whenever this character takes Damage, reduce the amount of Damage caused by 3 (to a minimum of 1). In addition, if this character is hit by a Poisoned weapon, roll 2 dice and choose 1 to see if they shrug off the poison.
 
 ## Capability
 

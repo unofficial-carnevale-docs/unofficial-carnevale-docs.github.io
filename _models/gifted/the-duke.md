@@ -2,7 +2,7 @@
 layout: model
 title: The Duke
 permalink: /factions/gifted/the-duke/
-description: "High-mobility assassin."
+description: "High-mobility assassin with a teleport action."
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
@@ -29,9 +29,9 @@ nav_section: Factions
 
 [Aerial Attack](/compendium/character-abilities/#aerial-attack), [Bodyguard(Henchman)](/compendium/character-abilities/#bodyguard-x), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Infiltration](/compendium/character-abilities/#infiltration)
 
-**Disappear** — (2AP): if in base contact with enemy, all chars in base contact are hit by a Smoke weapon. Place The Duke anywhere out of base contact within 12". Does not cause AoOs.
+**Disappear** — (2AP): If this character is in base contact with any enemy characters, it may Disappear in a cloud of smoke. All characters in base contact are counted as being hit with a weapon with the Smoke ability. Place The Duke anywhere out of base contact within 12". This does not cause Attacks of Opportunity.
 
-**Inspiring Hero** — if only char with Leader in gang, loses Hero. If another Leader also in gang, loses Leader.
+**Inspiring Hero** — If this is the only character with the Leader keyword in the gang, this character loses the Hero keyword. However, if there is another character with the Leader keyword, this character loses the Leader keyword.
 
 ## Capability
 

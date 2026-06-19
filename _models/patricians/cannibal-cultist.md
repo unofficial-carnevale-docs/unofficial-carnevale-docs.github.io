@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Frenzied](/compendium/character-abilities/#frenzied), [Mindless](/compendium/character-abilities/#mindless)
 
-**Flesheater** — if this character makes a Combat action against a target in base contact that causes it to lose at least 1 Life Point, it replenishes 1 Will Point.
+**Flesheater** — If this character makes a Combat action against a target in base contact that causes it to lose at least 1 Life Point, it replenishes 1 Will Point.
 
-**The Hunger** — if this character starts its turn within 4" of one or more enemy characters, it must attempt to move into base contact with one of them.
+**The Hunger** — If this character starts its turn within 4" of one or more enemy characters, it must attempt to move into base contact with one of them.
 
 ## Capability
 

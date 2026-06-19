@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x)
 
-**Shepherd** — this character gains +2 ATTACK when making Grapple actions against characters with a larger base size.
+**Shepherd** — This character gains +2 ATTACK when making Grapple actions against characters with a larger base size.
 
 ## Capability
 

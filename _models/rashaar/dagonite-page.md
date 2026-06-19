@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Corrupted Relic** — whenever an enemy character within 6" and Line of Sight of this character makes a Basic roll, they must re-roll a single Ace in that roll.
+**Corrupted Relic** — Whenever an enemy character within 6" and Line of Sight of this character makes a Basic roll, they must re-roll a single Ace in that roll.
 
 ## Capability
 

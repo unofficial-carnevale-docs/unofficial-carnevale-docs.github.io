@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Parry(1)](/compendium/character-abilities/#parry-x), [Pickpocket](/compendium/character-abilities/#pickpocket), [Slippery](/compendium/character-abilities/#slippery), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
 
-**Collector of Treasures** — when building gang, may purchase a second Artifact (also has its Unique requirement removed). If killed while carrying an Artifact, place a marker (30mm base) in base contact for each Artifact; remove Don Gregorio. Any char ending an action in base contact with a marker may claim and carry that Artifact.
+**Collector of Treasures** — When building your gang, if it contains this character, you may purchase a second Artifact. This character may also have a purchased Artifact as if it did not have the Unique keyword. If this character is killed while carrying an Artifact, place a marker (use a 30mm base) for that Artifact in base contact with this character, then remove this character from the board. Any character that ends an action in base contact with one of these markers may remove that marker to claim and carry that Artifact.
 
-**Little Gremlin Cornelius** — automatically carries this Artifact at game start (does not count toward Artifact limits). A char with this Artifact gains Cornelius' Bite weapon and Pickpocket.
+**Little Gremlin Cornelius** — This character automatically carries this Artifact at the start of the game (not counting towards Artifact limits). A character with this Artifact gains the Cornelius' Bite weapon and Pickpocket special rule.
 
-**Rings of Puissance** — automatically carries this Artifact at game start (does not count toward Artifact limits). A char with this Artifact gains Slippery and Universal Shielding(0). *(US(0) = can make Protection Rolls against all damage types using base Protection stat, no bonus dice)*
+**Rings of Puissance** — This character automatically carries this Artifact at the start of the game (not counting towards Artifact limits). A character with this Artifact gains Slippery and Universal Shielding (0).
 
 ## Capability
 

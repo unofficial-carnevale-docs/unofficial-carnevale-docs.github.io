@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Companion(Hydra)](/compendium/character-abilities/#companion-x), [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x), [First Strike(1)](/compendium/character-abilities/#first-strike-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless)
 
-**Spawn** — *(costs 3LP)*: place one Infant Kraken in base contact with this character. The new Infant Kraken acts just like any other friendly character and can be activated this round as normal. This ability may only be used once each round and only if this character has 4 or more Life Points remaining.
+**Spawn** — *(costs 3LP)*: Place a new Infant Kraken in base contact with this character. The new Infant Kraken acts just like any other friendly character, and can be activated this round as normal. This ability may only be used once each round and only if this character has 4 or more Life Points remaining.
 
-**Living Vessel** — when this character is killed, before removing it from the game, make a Basic MIND Roll. Place one Infant Kraken in base contact with this character, plus one additional Infant Kraken in base contact with one of the new Infant Krakens for each Ace in the roll. The new Infant Krakens act just like any other friendly character and can be activated as normal this round.
+**Living Vessel** — When this character is killed, before removing it from the game, make a basic MIND roll. Place an Infant Kraken in base contact with this character, plus an additional Infant Kraken in base contact with one of the new Infant Krakens for each Ace in the roll. The new Infant Krakens act just like any other friendly character and can be activated as normal this round.
 
 ## Capability
 

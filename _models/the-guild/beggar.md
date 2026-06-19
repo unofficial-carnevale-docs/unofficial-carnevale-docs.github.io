@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Concealment(2)](/compendium/character-abilities/#concealment-x)
 
-**Whispers on the Street** — for every friendly character with this ability in your gang at the start of the round, add a re-roll to your Mob Mentality Pool. Until the end of the round, any friendly character may use these re-rolls on any roll — one re-roll per die.
+**Whispers on the Street** — For every friendly character with this ability in your gang at the start of the round, add a re-roll to your Mob Mentality Pool. Until the end of the round, any friendly character may use these re-rolls on any roll - one re-roll per dice.
 
-**Hidden in Plain Sight** — this character can be deployed anywhere on the board at ground level, at least 6" away from any enemy characters or objectives.
+**Hidden in Plain Sight** — This character can be deployed anywhere on the board at ground level, at least 6" away from any enemy characters or objectives.
 
 ## Capability
 

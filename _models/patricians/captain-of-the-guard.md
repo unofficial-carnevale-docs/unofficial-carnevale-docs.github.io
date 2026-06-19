@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Bodyguard(Officer)](/compendium/character-abilities/#bodyguard-x), [Companion(Officer)](/compendium/character-abilities/#companion-x)
 
-**Take Aim!** — AURA: until end of round, all friendly chars with Soldier keyword within 6" gain Expert Marksman(1) and Expert Offence(1)
+**Take Aim!** — AURA: Until the end of the round, all friendly characters with the Soldier keyword within 6" gain Expert Marksman (1) and Expert Offence (1).
 
-**Chain of Command** — may only use ORDER or COUNTER Commands on characters with the Soldier keyword
+**Chain of Command** — This character may only use the ORDER or COUNTER Commands on characters with the Soldier keyword.
 
 ## Capability
 

@@ -28,7 +28,7 @@ nav_section: Factions
 
 [Mindless](/compendium/character-abilities/#mindless), [Parry(3)](/compendium/character-abilities/#parry-x), [Slippery](/compendium/character-abilities/#slippery), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Mucus** — this character gains +4 DEXTERITY for any Combat actions (including Attacks of Opportunity) if the attacker is within 3". Additionally, any enemy character within 3" of this character suffers -1 to their MOVEMENT and DEXTERITY.
+**Mucus** — This character gains +4 DEXTERITY for any Combat actions (including Attacks of Opportunity) if the attacker is within 3". Additionally, any enemy character within 3" of this character suffers -1 to their MOVEMENT and DEXTERITY.
 
 ## Capability
 

@@ -26,7 +26,7 @@ nav_section: Factions
 ### Abilities
 
 
-**There's Coin in it for You** — PULSE: one friendly character with the Henchman keyword in line of sight within 6" gains First Strike(2) until the end of the round.
+**There's Coin in it for You** — PULSE: One friendly character with the Henchman keyword in line of sight within 6" gains First Strike (2) until the end of the round.
 
 ## Capability
 

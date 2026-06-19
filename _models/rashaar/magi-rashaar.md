@@ -2,7 +2,7 @@
 layout: model
 title: Magi-Rashaar
 permalink: /factions/rashaar/magi-rashaar/
-description: "Best offensive caster among leaders (Kraken's Breath); fragile."
+description: "Simply the best caster of the game, but very fragile."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
@@ -28,15 +28,15 @@ nav_section: Factions
 
 [Expert Sorcerer(2)](/compendium/character-abilities/#expert-sorcerer-x), [Fast Swimmer(1)](/compendium/character-abilities/#fast-swimmer-x), [Mage(3)](/compendium/character-abilities/#mage-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Fury of Dagon** — PULSE: one friendly in LOS within 6" gains First Strike(2)
+**Fury of Dagon** — PULSE: Pick a friendly character in line of sight within 6". That character gains First Strike (2) until the end of their next turn.
 
-**Rent-born** — each round, one friendly char (including self) may subtract 1 from the Cost of a Magic Spell cast that round (min 0)
+**Rent-born** — Each round, one friendly character (including this one) may subtract 1 from the Cost of a Magic Spell to attempt to cast (to a minimum of 0).
 
 ## Capability
 
 EDPA **6.41** · EDPA/Duc **0.267** · ATK2K **10.6** · ATK2K/Duc **0.44**
 
-*Damage Dealer median: EDPA **2.97** · EDPA/Duc **0.196** · ATK2K **10.9** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.95** · EDPA/Duc **0.195** · ATK2K **10.8** · ATK2K/Duc **0.73***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -48,11 +48,11 @@ EDPA **6.41** · EDPA/Duc **0.267** · ATK2K **10.6** · ATK2K/Duc **0.44**
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 7.33 | 4.01 |
-| Balanced (Dex4/Prot3) | 6.41 | 2.97 |
-| Evasive (Dex6/Prot2) | 6.88 | 2.54 |
+| Balanced (Dex4/Prot3) | 6.41 | 2.95 |
+| Evasive (Dex6/Prot2) | 6.88 | 2.52 |
 | Armoured (Dex4/Prot5) | 5.55 | 2.17 |
-| Tank (Dex4/Prot5/US5) | 5.55 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 6.41 | 2.14 |
+| Tank (Dex4/Prot5/US5) | 5.55 | 1.90 |
+| Parry (Dex5/Prot3/Parry2) | 6.41 | 2.13 |
 
 *Spell:summon vermin*
 
@@ -63,7 +63,7 @@ EDPA **6.41** · EDPA/Duc **0.267** · ATK2K **10.6** · ATK2K/Duc **0.44**
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
-| Baseline (Atk3) | 1.13 | 10.6 | 10.9 |
+| Baseline (Atk3) | 1.13 | 10.6 | 10.8 |
 | Elite (Atk5, Dmg+1) | 3.38 | 3.5 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.5 | 6.3 |
 

@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Acrobatic(2)](/compendium/character-abilities/#acrobatic-x)
 
-**Lookout** — once per round, this character may use a single ORDER or COUNTER Command for 0 Command Points if it is at least 3" above the target character. Those Commands may still only be done once per round as usual.
+**Lookout** — Once per round, this character may use a single ORDER or COUNTER Command for 0 Command Points if it is at least 3" above the target character. However, those Commands may still only be done once per round as usual.
 
 ## Capability
 

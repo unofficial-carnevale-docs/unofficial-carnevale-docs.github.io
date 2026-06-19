@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Mage(2)](/compendium/character-abilities/#mage-x), [Universal Shielding(2)](/compendium/character-abilities/#universal-shielding-x)
 
-**Water Affinity** — always knows Waves of Force in addition to regular allowance, even if choosing a different discipline. May use Cast Spell action while in water.
+**Water Affinity** — This character always knows the magic spell Waves of Force in addition to its regular allowance, even if choosing to take spells from a different discipline. This character may use the Cast Spell action while in water.
 
 ## Capability
 

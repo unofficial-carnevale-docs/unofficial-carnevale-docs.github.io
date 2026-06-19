@@ -29,15 +29,15 @@ nav_section: Factions
 
 [Bulky](/compendium/character-abilities/#bulky), [Companion(End of Days)](/compendium/character-abilities/#companion-x), [First Strike(2)](/compendium/character-abilities/#first-strike-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless)
 
-**Uncoordinated Assault** — after Combat, may make a single 0AP AoO using a weapon it didn't attack with; AoOs from this rule cannot cause further AoOs
+**Uncoordinated Assault** — After this character makes a Combat action, it may make a single 0AP Attack of Opportunity using a weapon it did not attack with in that Combat action. Attacks of Opportunity from this rule cannot cause additional Attacks of Opportunity and do not count as Attacks of Opportunity from charging & charging from above.
 
-**Levatevi di Mezzo, Imbecilli!** — may freely move over other chars during Run/Climb but cannot overlap. Ignores normal rules for disengaging. At end of Run/Climb, makes Basic DEXTERITY roll — each Ace = each char (friendly and enemy) moved over loses 1LP; Fumble = this char gets Stunned.
+**Levatevi di Mezzo, Imbecilli!** — This character may freely move over other characters as part of a Run/Climb action, but cannot end its action overlapping any other character. While making a Run/Climb action, this character ignores the normal rules for disengaging. At the end of this character's Run/Climb actions, make a Basic DEXTERITY roll. For each ace rolled, each character (friendly and enemy) moved over loses 1 Life Point. If the roll is a Fumble, this character receives a Stun counter.
 
 ## Capability
 
 EDPA **5.96** · EDPA/Duc **0.175** · ATK2K **17.0** · ATK2K/Duc **0.50**
 
-*Damage Dealer median: EDPA **2.97** · EDPA/Duc **0.196** · ATK2K **10.9** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.95** · EDPA/Duc **0.195** · ATK2K **10.8** · ATK2K/Duc **0.73***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -49,11 +49,11 @@ EDPA **5.96** · EDPA/Duc **0.175** · ATK2K **17.0** · ATK2K/Duc **0.50**
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 8.49 | 4.01 |
-| Balanced (Dex4/Prot3) | 5.96 | 2.97 |
-| Evasive (Dex6/Prot2) | 5.02 | 2.54 |
+| Balanced (Dex4/Prot3) | 5.96 | 2.95 |
+| Evasive (Dex6/Prot2) | 5.02 | 2.52 |
 | Armoured (Dex4/Prot5) | 4.41 | 2.17 |
-| Tank (Dex4/Prot5/US5) | 4.09 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 4.43 | 2.14 |
+| Tank (Dex4/Prot5/US5) | 4.09 | 1.90 |
+| Parry (Dex5/Prot3/Parry2) | 4.43 | 2.13 |
 
 *Sustained: bird kickx2 +bottle burner(free aoo/ap)*
 
@@ -64,10 +64,10 @@ EDPA **5.96** · EDPA/Duc **0.175** · ATK2K **17.0** · ATK2K/Duc **0.50**
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
-| Baseline (Atk3) | 1.77 | 17.0 | 10.9 |
+| Baseline (Atk3) | 1.77 | 17.0 | 10.8 |
 | Elite (Atk5, Dmg+1) | 4.31 | 7.0 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 2.50 | 12.0 | 6.3 |
-| Drown (Atk3) | 1.56 | 19.2 | 7.2 |
+| Drown (Atk3) | 1.56 | 19.2 | 7.4 |
 
 </div>
 </div>

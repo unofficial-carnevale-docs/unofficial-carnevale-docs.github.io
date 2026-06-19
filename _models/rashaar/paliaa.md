@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Mage(1)](/compendium/character-abilities/#mage-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Gift of the Elder Gods** — PULSE: until end of round, all friendly characters with the Henchman keyword gain +1 ATTACK while they are within 6" and line of sight of any number of other friendly characters with the Monster keyword.
+**Gift of the Elder Gods** — PULSE: Until the end of the round, all friendly characters with the Henchman keyword gain +1 ATTACK while they are within 6" and line of sight of any number of other friendly characters with the Monster keyword.
 
 ## Capability
 

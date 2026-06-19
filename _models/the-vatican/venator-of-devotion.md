@@ -28,9 +28,9 @@ nav_section: Factions
 
 [Expert Offence(1)](/compendium/character-abilities/#expert-offence-x), [Hunter](/compendium/character-abilities/#hunter), [Universal Shielding(4)](/compendium/character-abilities/#universal-shielding-x)
 
-**Killing Blow** — if this character causes an enemy character to lose more Life Points than they have left (i.e. they'd go to minus numbers), this character replenishes all of its Will Points.
+**Killing Blow** — If this character causes an enemy character to lose more Life Points than they have left (ie. they'd go to minus numbers), this character replenishes all of its Will Points.
 
-**Full Plate** — if this character enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
+**Full Plate** — If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
 
 ## Capability
 

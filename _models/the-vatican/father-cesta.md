@@ -2,7 +2,7 @@
 layout: model
 title: Father Cesta
 permalink: /factions/the-vatican/father-cesta/
-description: "Construct enabler — every ability feeds Constructs (Impart Will, Gates of Heaven WP×2); build around Constructs."
+description: "Flighing mage with lots of buffs for Constructs, notably removing their Mindless attribute."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Flight](/compendium/character-abilities/#flight), [Mage(2)](/compendium/character-abilities/#mage-x), [Slippery](/compendium/character-abilities/#slippery), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
 
-**Gates of Heaven** — PULSE: whenever a friendly Construct char in LOS within 6" uses WP to increase a roll, it counts as 2 WP
+**Gates of Heaven** — PULSE: At the end of the round, whenever a friendly character with the Construct keyword in line of sight within 6" uses a Will Point to increase a roll, it instead counts as 2 Will Points.
 
-**Impart Will** — at start of game, all friendly Construct chars increase starting WP by 1
+**Impart Will** — At the start of the game, all friendly characters with the Construct keyword increase their starting Will Points by 1.
 
-**Masterful Summoning** — friendly Construct chars lose Mindless for the rest of the game, even if Father Cesta is killed
+**Masterful Summoning** — Friendly characters with the Construct keyword lose Mindless for the rest of the game, even if this character is killed.
 
 ## Capability
 

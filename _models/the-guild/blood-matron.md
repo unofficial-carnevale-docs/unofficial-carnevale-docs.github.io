@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Mindless](/compendium/character-abilities/#mindless), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x)
 
-**Go For the Eyes** — when Critical scored by Pithing Needle in Combat, Stun counter applied cannot be removed for rest of game, unaffected by spells or abilities
+**Go For the Eyes** — When a critical is scored by Pithing Needle in a Combat action, the applied Stun counter cannot be removed for the rest of the game and is unaffected by any spells or abilities.
 
-**Prey Upon** — at start of game, nominate enemy char as Prey; when making Combat against Prey, it counts as a Critical if Destiny Die is 9 or 10 and at least 1 Ace in roll
+**Prey Upon** — At the start of the game, nominate an enemy character to be this character's Prey. When this character makes a Combat action against its Prey, that combat action is a critical if the Destiny Dice is a 9 or a 10 and there is at least 1 other Ace in that roll.
 
 ## Capability
 

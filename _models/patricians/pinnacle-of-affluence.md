@@ -2,7 +2,7 @@
 layout: model
 title: Pinnacle of Affluence
 permalink: /factions/patricians/pinnacle-of-affluence/
-description: "Highest command output over the course of the game; a pure anchor + grappler at premium cost, with no offensive capability."
+description: "The most expensive leader of the game. His cost is justified by being the highest command output character over the course of the game. He has weak stats but has a Poisoned template attack and gives every friendly models Bodyguard (Pinnacle of Affluence)."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
@@ -30,11 +30,11 @@ nav_section: Factions
 
 [Bulky](/compendium/character-abilities/#bulky), [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x), [Limited Movement](/compendium/character-abilities/#limited-movement)
 
-**You there! Do something!** — AURA: other friendlies starting turn in LOS within 6" gain First Strike(2)
+**You there! Do something!** — AURA: Until the end of the round, other friendly characters that start their turn within 6" and line of sight of this character gain First Strike (2). Characters can only be affected by this Command Ability once each game round.
 
-**Stop them, damn you!** — friendly chars in LOS gain Bodyguard(Pinnacle of Affluence)
+**Stop them, damn you! I don't care what it takes!** — Friendly characters in line of sight of this character gain Bodyguard (Pinnacle of Affluence).
 
-**Bask in my Magnificence!** — replenishes all CP; may use each type of Command twice per round
+**Bask in my Magnificence!** — This character replenishes all of its Command Points at the start of each of its character turns and may use each type of Command (PLAN, COUNTER, etc.) twice per game round.
 
 ## Capability
 

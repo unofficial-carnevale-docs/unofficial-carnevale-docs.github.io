@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x)
 
-**Thirsty** — any time a friendly or enemy character successfully casts a Magic Spell, after resolving all effects, this character replenishes 1 Will Point.
+**Thirsty** — Any time a friendly or enemy character successfully casts a Magic Spell, after resolving all effects, this character replenishes 1 Will Point.
 
 ## Capability
 

@@ -2,7 +2,7 @@
 layout: model
 title: Capodecina
 permalink: /factions/the-guild/capodecina/
-description: Fast infiltrating assassin-leader. Build around the Trade sub-faction, notably giving them Companion (Trade).
+description: "Fast infiltrating assassin-leader. Build around the Trade sub-faction, notably giving them Companion (Trade)."
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
@@ -28,9 +28,9 @@ nav_section: Factions
 
 [Aerial Attack](/compendium/character-abilities/#aerial-attack), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Infiltration](/compendium/character-abilities/#infiltration)
 
-**Fight For the Guild!** — PULSE: one friendly model with Trade keyword in LOS replenishes 2 WP instead of 1 from Companion, until end of game.
+**Fight For the Guild!** — PULSE: One friendly character in line of sight with the Trade keyword replenishes 2 Will Points instead of 1 from Companion until the end of the game.
 
-**Rise Up** — All friendly models with Trade keyword gain Companion(Trade) as long as this model is on the board.
+**Rise Up** — All friendly characters with the Trade keyword gain Companion (Trade) as long as this character is on the board.
 
 ## Capability
 
@@ -54,7 +54,7 @@ EDPA **3.29** · EDPA/Duc **0.165** · ATK2K **13.4** · ATK2K/Duc **0.67**
 | Tank (Dex4/Prot5/US5) | 2.48 | 2.05 |
 | Parry (Dex5/Prot3/Parry2) | 2.22 | 2.77 |
 
-*Sustained: Twin Blades×3*
+*Sustained: twin bladesx3*
 
 </div>
 <div>

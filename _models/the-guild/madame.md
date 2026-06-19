@@ -29,11 +29,11 @@ nav_section: Factions
 
 [Concealment(1)](/compendium/character-abilities/#concealment-x), [Parry(2)](/compendium/character-abilities/#parry-x), [Slippery](/compendium/character-abilities/#slippery)
 
-**Don't Let Them Take You!** — PULSE: one friendly char (not self) in LOS within 3" gains Parry(2) until end of game
+**Don't Let Them Take You!** — PULSE: One other friendly character in line of sight within 3" (not including this one) gains Parry (2) until the end of the game.
 
-**Strike When They're Vulnerable** — AURA: end of round, other friendly House of Virtue chars in LOS gain Pen-2 on their weapons
+**Strike When They're Vulnerable** — AURA: Until the end of the round, any other friendly characters with the House of Virtue keyword in line of sight (not including this one) gain Penetration -2 on their weapons.
 
-**My Girls & Boys** — while this char is on board, all chars with House of Virtue keyword gain Companion(House of Virtue)
+**My Girls & Boys** — While this character is on the board, all characters with the House of Virtue keyword gain Companion (House of Virtue).
 
 ## Capability
 

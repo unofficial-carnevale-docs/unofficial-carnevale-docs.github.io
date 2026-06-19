@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Frenzied](/compendium/character-abilities/#frenzied), [Primitive](/compendium/character-abilities/#primitive)
 
-**Healer** — (1AP): pick a character within 3" and make a basic MIND Roll. That character replenishes 2 Life Points for each Ace rolled.
+**Healer** — - 1AP: Pick a character within 3" and make a basic MIND roll. That character replenishes 2 Life Points for each Ace rolled.
 
 ## Capability
 

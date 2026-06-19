@@ -28,7 +28,7 @@ nav_section: Factions
 
 [Aerial Attack](/compendium/character-abilities/#aerial-attack), [Infiltration](/compendium/character-abilities/#infiltration), [Pickpocket](/compendium/character-abilities/#pickpocket)
 
-**Get to the Roof** — PULSE: one friendly character with the Henchman keyword within 6" gains Acrobatic(3) until the end of the game.
+**Get to the Roof** — PULSE: One friendly character with the Henchman keyword within 6" gains Acrobatic (3) until the end of the game.
 
 ## Capability
 

@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Frenzied](/compendium/character-abilities/#frenzied), [Limited Movement](/compendium/character-abilities/#limited-movement), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Dead Weights** — this character is not deployed like normal. Instead, at the end of the first round, deploy it anywhere on the board in water at least 3" away from any enemy characters in water. From that point on they take turns just like normal.
+**Dead Weights** — This character is not deployed like normal. Instead, at the end of the first round, deploy it anywhere on the board in water at least 3" away from any enemy characters in water. From that point on they take turns just like normal.
 
 ## Capability
 

@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Mage(1)](/compendium/character-abilities/#mage-x)
 
-**Take the Oath** — at start of game, select another friendly char to wear one of his Masks — that char's starting WP +2 and gains Companion(Francisco De Lorme). Friendly chars within 6" and LOS may use that char's WP as if their own. Can only give a single Mask; Unique Gifted without Mindless cannot receive a Mask.
+**Take the Oath** — At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks. For the entirety of the game that character increases their starting Will Points by 2 and gains Companion(Francisco De Lorme). Any friendly character within 6" and line of sight of them may use that character's Will Points as if they were their own. A character can only be given a single Mask. Unique characters without Faction(Gifted) and Mindless characters cannot be given a Mask.
 
 ## Capability
 

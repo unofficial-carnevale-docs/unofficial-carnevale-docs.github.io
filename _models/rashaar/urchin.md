@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Mindless](/compendium/character-abilities/#mindless), [Pickpocket](/compendium/character-abilities/#pickpocket)
 
-**Unassuming** — if this character successfully disengages and does not use the action to charge another enemy character, make a 0AP Attack of Opportunity with this character before moving.
+**Unassuming** — If this character disengages successfully and does not use the action to charge another enemy character, make a 0AP Attack of Opportunity with this character before moving.
 
 ## Capability
 

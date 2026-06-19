@@ -27,11 +27,11 @@ nav_section: Factions
 
 [Concealment(2)](/compendium/character-abilities/#concealment-x), [Mindless](/compendium/character-abilities/#mindless)
 
-**Bait** — friendly characters may attack this character as if it were an enemy. If a friendly character kills this character, it loses the Mindless rule for the rest of the game.
+**Bait** — Friendly characters may attack this character as if it were an enemy. If a friendly character kills this character, it loses the Mindless rule for the rest of the game.
 
-**Piercing Wail** — any enemy characters within 6" of this character have -1 DEXTERITY.
+**Piercing Wail** — Any enemy characters within 6" of this character have -1 DEXTERITY.
 
-**Unsightly** — this character can be deployed anywhere on the board at ground level, at least 6" away from any enemy characters or objectives.
+**Unsightly** — This character can be deployed anywhere on the board at ground level, at least 6" away from any enemy characters or objectives.
 
 ## Capability
 

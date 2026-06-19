@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Fear(0)](/compendium/character-abilities/#fear-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Mask of Dagon** — at the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks. That character gains one of the following: Water Creature and the Monster keyword; OR Fear(0) and +1 ATTACK. A character can only be given a single Mask. Unique characters without Faction (Gifted) and Mindless characters cannot be given a Mask.
+**Mask of Dagon** — At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks. For the entirety of the game that character gains one of the following: Water Creature and the Monster keyword; Fear (0) and +1 ATTACK. A character can only be given a single Mask. Unique characters without Faction (Gifted) and Mindless characters cannot be given a Mask.
 
 ## Capability
 

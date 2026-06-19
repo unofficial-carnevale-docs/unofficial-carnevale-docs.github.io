@@ -2,7 +2,7 @@
 layout: model
 title: Sir Tiburcio
 permalink: /factions/rashaar/sir-tiburcio/
-description: "Durable tank; worse than the faction standard in water (slow, no usable weapon)."
+description: "Durable tank, slower than the faction standard in water and without an aquatic weapon, but he has the statline of a Full Plate character without the disadvantages."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Brawler(1)](/compendium/character-abilities/#brawler-x), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Fast Swimmer(1)](/compendium/character-abilities/#fast-swimmer-x), [Universal Shielding(4)](/compendium/character-abilities/#universal-shielding-x)
 
-**Shield to the Enlightened** — PULSE: until end of round, all friendly characters within 3" gain Universal Shielding(3); additionally all friendly characters with the Feral keyword within 3" gain Expert Protection(1)
+**Shield to the Enlightened** — PULSE: Until the end of the round, all friendly characters within 3" gain Universal Shielding (3). Additionally, until the end of the round, all friendly characters with the Feral Keyword within 3" gain Expert Protection (1).
 
-**Vatican Apostate** — this character may re-roll the destiny dice when making Attack or Protection rolls
+**Vatican Apostate** — This character can re-roll the destiny dice when making Attack or Protection rolls.
 
-**Dead Weight** — this character gains +1 Protection while in water (in addition to any cover bonuses), but cannot make Dive actions
+**Dead Weight** — This character gains +1 PROTECTION while in water (in addition to any cover bonuses), but cannot make Dive actions.
 
 ## Capability
 

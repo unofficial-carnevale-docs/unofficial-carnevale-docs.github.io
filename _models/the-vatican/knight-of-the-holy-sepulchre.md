@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Brawler(1)](/compendium/character-abilities/#brawler-x), [Frenzied](/compendium/character-abilities/#frenzied), [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless), [Universal Shielding(4)](/compendium/character-abilities/#universal-shielding-x)
 
-**Hasten Your Steps, The Faithless Must Be Cleansed** — PULSE: all other friendly characters within 3" gain +1 MOVEMENT until the end of the round.
+**Hasten Your Steps, The Unfaithful Must Be Cleansed** — PULSE: All other friendly characters within 3" gain +1 MOVEMENT until the end of the round.
 
-**Full Plate** — if this character enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
+**Full Plate** — If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
 
 ## Capability
 

@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Engage](/compendium/character-abilities/#engage), [Fast Swimmer(4)](/compendium/character-abilities/#fast-swimmer-x), [Mage(2)](/compendium/character-abilities/#mage-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Hypnotic Song** — AURA: until the end of the round, any enemy characters within 6" of this character have -2 MIND.
+**Hypnotic Song** — AURA: Until the end of the round, any enemy characters within 6" of this character have -2 MIND.
 
-**Dragging Down** — this character may re-roll failed dice rolls when making Drown actions.
+**Dragging Down** — This character may re-roll failed dice rolls when making Drown actions.
 
 ## Capability
 

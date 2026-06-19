@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Slippery](/compendium/character-abilities/#slippery)
 
-**Confusing Exit** — when this character successfully disengages, any enemy characters that were in base contact receive a Stunned counter.
+**Confusing Exit** — When this character successfully disengages, any enemy characters that were in base contact receive a Stunned counter.
 
 ## Capability
 

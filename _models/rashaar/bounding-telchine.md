@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Primitive](/compendium/character-abilities/#primitive), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Leaper** — when this character makes a successful Jump action, add 2" to the movement distance.
+**Leaper** — When this character makes a successful Jump action, add 2" to the movement distance.
 
 ## Capability
 

@@ -2,7 +2,7 @@
 layout: model
 title: The Flame That Burns Underwater
 permalink: /factions/rashaar/the-flame-that-burns-underwater/
-description: "Pricey LP22 grappling centerpiece with heavy AoE damage and reliable Drown."
+description: "Really expensive leader, but she's an insane grappler and drowner with heavy AoE damage."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
@@ -29,11 +29,11 @@ nav_section: Factions
 
 [Bulky](/compendium/character-abilities/#bulky), [Expert Grappler(3)](/compendium/character-abilities/#expert-grappler-x), [Fast Swimmer(3)](/compendium/character-abilities/#fast-swimmer-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Hydra's Gifts** — PULSE: every other char within 2" loses 2LP and gains +2 Dexterity
+**Hydra's Gifts** — PULSE: Mutating tentacles emerge from flesh nearby. Every other character (friendly and enemy, not including this one) within 2" loses 2 Life Points and gains +2 DEXTERITY until the end of the round.
 
-**Dragging Down** — may re-roll failed Drown roll dice
+**Dragging Down** — This character may re-roll failed dice rolls when making Drown actions.
 
-**Brawling Tentacles** — Combat action with this weapon applies the roll to every char (friendly and enemy) in base contact simultaneously
+**Brawling Tentacles** — The Flame's tentacles thrash around, hitting anyone that gets close! When making a Combat action with this weapon, roll once, and apply the roll to every character (friendly and enemy) in base contact.
 
 ## Capability
 

@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Engage](/compendium/character-abilities/#engage), [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x)
 
-**Stride Through the Void** — (1AP): this char gains Ethereal until end of its turn
+**Stride Through the Void** — (1AP): This character gains Ethereal until the end of its turn.
 
-**Drag Through the Void** — targets of this char's Grapple actions may be moved as if they had the Ethereal rule
+**Drag Through the Void** — Targets of this characters Grapple actions may be moved as if they had the Ethereal special rule.
 
 ## Capability
 

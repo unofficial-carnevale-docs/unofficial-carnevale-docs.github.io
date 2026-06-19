@@ -27,7 +27,7 @@ nav_section: Factions
 
 [First Strike(2)](/compendium/character-abilities/#first-strike-x)
 
-**Paying Off My Debts** — when this character kills an enemy character with a Combat action, add 1 re-roll to your Mob Mentality pool.
+**Paying Off My Debts** — When this character kills an enemy character with a Combat action, add 1 re-roll to your Mob Mentality pool.
 
 ## Capability
 

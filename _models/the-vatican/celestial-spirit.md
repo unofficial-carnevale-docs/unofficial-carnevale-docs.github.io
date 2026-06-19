@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Companion(Invoker)](/compendium/character-abilities/#companion-x), [Ethereal](/compendium/character-abilities/#ethereal), [Fear(0)](/compendium/character-abilities/#fear-x), [Mindless](/compendium/character-abilities/#mindless)
 
-**Enspirit** — *(costs 4LP)*: this character may use the ORDER command on friendly characters with the Construct keyword, consuming 4 Life Points instead of 1 Command Point. Can be used even if it would kill this character. If this character uses its last Life Points on this ability, the target replenishes 1 Will Point.
+**Enspirit** — *(costs 4LP)*: This character may use the ORDER command on friendly characters with the Construct Keyword, consuming 4 Life Points instead of 1 Command Point. This can be used even if it would kill this character. If this character uses its last Life Points on this ability, the target replenishes 1 Will Point.
 
 ## Capability
 

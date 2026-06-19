@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Boat Crew](/compendium/character-abilities/#boat-crew)
 
-**Grappling Hook** — this character never takes damage from Falling.
+**Grappling Hook** — This character never takes damage from Falling.
 
 ## Capability
 

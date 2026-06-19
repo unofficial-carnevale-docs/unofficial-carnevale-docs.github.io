@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Bulky](/compendium/character-abilities/#bulky), [Brawler(2)](/compendium/character-abilities/#brawler-x), [Fast Swimmer(3)](/compendium/character-abilities/#fast-swimmer-x), [Fear(-3)](/compendium/character-abilities/#fear-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Serpentine** — this character can move through spaces smaller than its base to a minimum of 2"; it must be able to fit where it ends its turn
+**Serpentine** — This character is able to move through spaces smaller than its base to a minimum of 2". It must be able to fit where it ends its turn.
 
-**Swallow Whole** — when this character makes a Combat action (not an AoO) against a target character with a Size of 40mm or less and rolls at least 5 Aces, instead of calculating Damage as normal, immediately remove the target character from play as a casualty
+**Swallow Whole** — When this character makes a Combat action (not an Attack of Opportunity) against a target character with a Size of 40mm or less and rolls at least 5 Aces, instead of calculating Damage as normal, immediately remove the target character from play as a casualty.
 
 ## Capability
 

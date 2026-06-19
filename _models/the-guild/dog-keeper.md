@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Companion(Dog)](/compendium/character-abilities/#companion-x), [Engage](/compendium/character-abilities/#engage)
 
-**"Encouragement"** — this character may only use the ORDER or COUNTER Commands on characters with the Henchman keyword.
+**"Encouragement"** — This character may only use the ORDER or COUNTER Commands on characters with the Henchman keyword.
 
 ## Capability
 

@@ -2,7 +2,7 @@
 layout: model
 title: Janissary Chorbaji
 permalink: /factions/patricians/janissary-chorbaji/
-description: "Durable fighter that buffs Ottomans; gains CP when Ottomans kill."
+description: "Durable Ottoman commander build around this subfaction."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Brawler(1)](/compendium/character-abilities/#brawler-x), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
 
-**Coordinated Attack** — PULSE: all friendly chars with Ottoman keyword within 3" (including self) gain First Strike(2) until end of round
+**Coordinated Attack** — PULSE: All friendly characters with the Ottoman keyword within 3" (including this one) gain First Strike (2) until the end of the round.
 
-**Disciplined Momentum** — when a friendly char with Ottoman keyword within 6" and LOS kills an enemy char, this character replenishes 1 lost Command Point
+**Disciplined Momentum** — When a friendly character with the Ottoman keyword within 6" and line of sight kills an enemy character, this character replenishes 1 lost Command Point.
 
-**Martial Elite** — friendly chars with Ottoman keyword within 6" may use their Expert Offence ability on the Destiny Die
+**Martial Elite** — Friendly characters with the Ottoman keyword within 6" may use their Expert Offence ability on the Destiny Die.
 
 ## Capability
 

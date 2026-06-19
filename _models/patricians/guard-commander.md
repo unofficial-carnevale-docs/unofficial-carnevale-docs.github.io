@@ -2,7 +2,7 @@
 layout: model
 title: Guard Commander
 permalink: /factions/patricians/guard-commander/
-description: "Durable Parry fighter that also buffs Officers/Soldiers."
+description: "Durable Parry fighter that buffs Soldiers."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
@@ -28,9 +28,9 @@ nav_section: Factions
 
 [Brave](/compendium/character-abilities/#brave), [Parry(2)](/compendium/character-abilities/#parry-x)
 
-**Take Arms** — PULSE: all friendly Soldier chars within 3" gain +1 ATTACK
+**Take Arms** — PULSE: Until the end of the round, all friendly characters with the Soldier keyword within 3" gain +1 ATTACK.
 
-**Aim Fire!** — PULSE: friendly Soldier chars in LOS gain Expert Marksman(1) until end of round
+**Aim Fire!** — PULSE: Any friendly characters with the Soldier keyword in line of sight gain Expert Marksman (1) until the end of the round.
 
 ## Capability
 

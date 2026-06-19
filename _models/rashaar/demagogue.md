@@ -27,11 +27,11 @@ nav_section: Factions
 
 [Brave](/compendium/character-abilities/#brave), [Fear(0)](/compendium/character-abilities/#fear-x)
 
-**Prove Yourselves to Dagon!** — AURA: until end of round, any friendly character that starts a Run/Climb action within 6" gains +2 MOVE for that action, provided they charge
+**Prove Yourselves to Dagon!** — AURA: Until the end of the round, any friendly character that starts a Run/Climb action within 6" gains +2 MOVE for that action provided they charge.
 
-**Eldritch Incense** — any friendly character making a Combat action within 3" gains Fear(0) for that action
+**Eldritch Incense** — Any friendly character making a Combat action within 3" gains Fear (0) for that action.
 
-**Burned Flesh** — if a Combat action with the Burning Brand results in no Protection roll for the target, add 2 to the Damage
+**Burned Flesh** — If a Combat action with the Burning Brand results in no Protection roll for the target, add 2 to the Damage.
 
 ## Capability
 

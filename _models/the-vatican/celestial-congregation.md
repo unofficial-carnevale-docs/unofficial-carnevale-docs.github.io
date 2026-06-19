@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Companion(Invoker)](/compendium/character-abilities/#companion-x), [Ethereal](/compendium/character-abilities/#ethereal), [Fear(-1)](/compendium/character-abilities/#fear-x), [Mindless](/compendium/character-abilities/#mindless)
 
-**Ensoul** — *(costs 3LP)*: one other friendly character with the Construct keyword without this ability replenishes 3 Life Points. Only once per turn. Can be used even if it would kill this character. If this character uses its last Life Points on this ability, the target replenishes 5 Life Points instead.
+**Ensoul** — *(costs 3LP)*: One other friendly character with the Construct keyword without this ability replenishes 3 Life Points. This ability can only be used once in each of its turns, but can be used even if it would kill this character. If this character uses its last Life Points on this ability, the target replenishes 5 Life Points instead.
 
 ## Capability
 

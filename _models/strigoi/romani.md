@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Mage(0)](/compendium/character-abilities/#mage-x), [Slippery](/compendium/character-abilities/#slippery)
 
-**Tarot** — when using more than one character with this ability, each must select magic from a different Discipline until all are represented.
+**Tarot** — When using more than one model with this ability, each must select magic from a different Discipline until all are represented.
 
 ## Capability
 

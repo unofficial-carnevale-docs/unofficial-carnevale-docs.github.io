@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Mage(1)](/compendium/character-abilities/#mage-x), [Universal Shielding(2)](/compendium/character-abilities/#universal-shielding-x)
 
-**Keeper of the Fire of the Persecution** — any friendly characters without this ability within 3" of this character gain +1 Damage on their weapons.
+**Keeper of the Fire of the Persecution** — Any friendly characters without this ability within 3" gain +1 Damage on their weapons.
 
 ## Capability
 

@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Brave](/compendium/character-abilities/#brave), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Universal Shielding(6)](/compendium/character-abilities/#universal-shielding-x)
 
-**Walk Through The Fire And You Will Not Be Burned** — (1AP): summons holy flame — place Blast marker over this char. End of round, any enemy at least partially touched loses 3LP. If Burning Saint enters water after using, cancelled. Chars only affected once per round regardless of how many Burning Saints use it.
+**Walk Through The Fire And You Will Not Be Burned** — (1AP): The Saint summons holy flame around her! At the end of the round, place the Blast marker over this character. Any enemy character at least partially touched by this template (and within 1" vertically of the Burning Saint) loses 3 Life Points. If the Burning Saint enters water after using this ability it is cancelled. Characters may only be affected by this ability once per round, no matter how many times it's used by any number of Burning Saints!
 
-**Full Plate** — Stunned on entering water.
+**Full Plate** — If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
 
 ## Capability
 

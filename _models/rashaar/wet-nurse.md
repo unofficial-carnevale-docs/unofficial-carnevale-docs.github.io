@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Companion(Hydra)](/compendium/character-abilities/#companion-x), [Concealment(1)](/compendium/character-abilities/#concealment-x)
 
-**Surrogate** — friendly characters with the Hydra keyword within 6" and line of sight may use this character's Will Points as if they were their own.
+**Surrogate** — Friendly characters with the Hydra keyword within 6" and line of sight may use this character's Will Points as if they were their own.
 
-**Kraken Nurse** — when you place a new Infant Kraken in line of sight of this character, this character recovers 1 lost Will Point.
+**Kraken Nurse** — When you place a new Infant Kraken in line of sight of this character, this character recovers 1 lost Will Point.
 
 ## Capability
 

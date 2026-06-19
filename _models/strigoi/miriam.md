@@ -27,11 +27,11 @@ nav_section: Factions
 
 [Frenzied](/compendium/character-abilities/#frenzied), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
 
-**Eastern Swiftness** — PULSE: every friendly with Bride keyword gains 1AP until end of round
+**Eastern Swiftness** — PULSE: Every friendly character with the Bride keyword gains 1 AP until the end of the round.
 
-**Procession of Brides** — if gang contains Vlad Dracula, counts as Henchman instead of Hero for Frequency purposes
+**Procession of Brides** — While building your Gang, if it contains Vlad Dracula, this character counts as having the Henchman keyword instead of the Hero keyword for the purposes of Frequency.
 
-**Sisters of Gelò** — replenishes 1CP at start of each character turn if LOS to any other friendly Bride
+**Sisters of Gelò** — This character replenishes 1 Command Point at the start of each character turn if it has line of sight to any other friendly character with the Bride keyword.
 
 ## Capability
 

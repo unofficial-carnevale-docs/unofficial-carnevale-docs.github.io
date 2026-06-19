@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Companion(Doctor)](/compendium/character-abilities/#companion-x)
 
-**Apprenticeship** — when choosing this character, pick one character in your gang with both the Doctor and Hero keywords to be this character's mentor. Choose one Character Ability, unique skill, or weapon profile that mentor has for this character to gain. A character can only be a mentor to one Apprentice Doctor. If choosing the Mage ability, the disciplines available are the same as the mentor. If choosing a weapon with a relevant unique rule, that rule is taken as well (such as Unstable on Alchemical Bombs).
+**Apprenticeship** — When choosing this character, pick one character in your gang with both the Doctor and Hero keywords to be this character's mentor. Choose one Character Ability, unique skill, or weapon profile that mentor has for this character to gain. A character can only be a mentor to one Apprentice Doctor. If choosing the Mage ability, the disciplines available are the same as the mentor. If choosing a weapon with a relevant unique rule, that rule is taken as well (such as Unstable on Alchemical Bombs).
 
 ## Capability
 

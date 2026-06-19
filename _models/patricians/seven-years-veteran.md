@@ -28,13 +28,13 @@ nav_section: Factions
 
 [Brave](/compendium/character-abilities/#brave), [Expert Marksman(1)](/compendium/character-abilities/#expert-marksman-x), [Expert Offence(1)](/compendium/character-abilities/#expert-offence-x)
 
-**Inspiring** — whenever a friendly character with the Soldier keyword in line of sight within 6" uses one of its own Will Points (not those from other characters), it instead counts as 2 Will Points.
+**Inspiring** — Whenever another friendly character with the Soldier keyword in line of sight within 6" of this character uses one of its own Will Points (and not those from other characters), it instead counts as 2 Will Points.
 
 ## Capability
 
 EDPA **3.13** · EDPA/Duc **0.209** · ATK2K **14.9** · ATK2K/Duc **0.99**
 
-*Damage Dealer median: EDPA **2.97** · EDPA/Duc **0.196** · ATK2K **10.9** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.95** · EDPA/Duc **0.195** · ATK2K **10.8** · ATK2K/Duc **0.73***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -46,11 +46,11 @@ EDPA **3.13** · EDPA/Duc **0.209** · ATK2K **14.9** · ATK2K/Duc **0.99**
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 4.39 | 4.01 |
-| Balanced (Dex4/Prot3) | 3.13 | 2.97 |
-| Evasive (Dex6/Prot2) | 2.76 | 2.54 |
+| Balanced (Dex4/Prot3) | 3.13 | 2.95 |
+| Evasive (Dex6/Prot2) | 2.76 | 2.52 |
 | Armoured (Dex4/Prot5) | 2.32 | 2.17 |
-| Tank (Dex4/Prot5/US5) | 2.32 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 2.67 | 2.14 |
+| Tank (Dex4/Prot5/US5) | 2.32 | 1.90 |
+| Parry (Dex5/Prot3/Parry2) | 2.67 | 2.13 |
 
 *Sustained: infantry sabrex2*
 
@@ -61,10 +61,10 @@ EDPA **3.13** · EDPA/Duc **0.209** · ATK2K **14.9** · ATK2K/Duc **0.99**
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
-| Baseline (Atk3) | 0.87 | 14.9 | 10.9 |
+| Baseline (Atk3) | 0.87 | 14.9 | 10.8 |
 | Elite (Atk5, Dmg+1) | 2.94 | 4.4 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 1.89 | 6.9 | 6.3 |
-| Drown (Atk3) | 1.56 | 8.3 | 7.2 |
+| Drown (Atk3) | 1.56 | 8.3 | 7.4 |
 
 </div>
 </div>

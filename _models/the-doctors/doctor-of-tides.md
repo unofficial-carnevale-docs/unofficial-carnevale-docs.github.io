@@ -28,9 +28,9 @@ nav_section: Factions
 
 [Limited Movement](/compendium/character-abilities/#limited-movement), [Universal Shielding(2)](/compendium/character-abilities/#universal-shielding-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Long Dive** — PULSE: all friendly chars with an Underwater Counter gain an additional Underwater Counter
+**Long Dive** — PULSE: All friendly characters with an Underwater Counter gain an additional Underwater Counter.
 
-**Deep Dive** — when making a Dive action, may spend 1WP; if so, automatically score a Critical without rolling
+**Deep Dive** — Whenever this character makes a Dive action, you may spend 1 Will Point. If you do, you automatically score a Critical without rolling any dice.
 
 ## Capability
 

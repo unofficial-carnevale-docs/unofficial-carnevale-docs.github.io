@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Concealment(2)](/compendium/character-abilities/#concealment-x), [First Strike(2)](/compendium/character-abilities/#first-strike-x)
 
-**Stride Through the Void** — (1AP): this char gains Ethereal until end of its turn
+**Stride Through the Void** — (1AP): This character gains Ethereal until the end of its turn.
 
 ## Capability
 

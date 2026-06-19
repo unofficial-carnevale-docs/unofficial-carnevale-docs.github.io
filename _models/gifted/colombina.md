@@ -26,7 +26,7 @@ nav_section: Factions
 ### Abilities
 
 
-**All According to Plan** — once per round, when any character with line of sight to this character (including herself) is about to make a roll with at least 1 die, you can decide to score a single Ace instead of rolling.
+**All According to Plan** — Colombina has a plan, and provided everyone plays their role, it'll all work out in the end. Once per round, when any character with line of sight to this character (including herself) is about to make a roll with at least 1 dice, you can decide to score a single Ace instead of rolling.
 
 ## Capability
 

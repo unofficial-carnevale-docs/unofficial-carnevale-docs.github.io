@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Brave](/compendium/character-abilities/#brave), [Universal Shielding(4)](/compendium/character-abilities/#universal-shielding-x)
 
-**Rally to the Light!** — AURA: end of round, friendly chars in LOS gain Companion(Black Lamp) and Brave
+**Rally to the Light!** — AURA: Until the end of the round, any friendly characters in line of sight gain Companion (Black Lamp) and Brave.
 
-**The Lamp** — may attempt to Dispel magic as if Mage(3) and Expert Sorcerer(3); enemy chars may not use WP when within 3" of this char
+**The Lamp** — This character may attempt to Dispel magic spells as if it has Mage (3) and Expert Sorcerer (3). In addition, enemy characters may not use Will Points when within 3" of this character.
 
 ## Capability
 

@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Hunter](/compendium/character-abilities/#hunter), [Mage(2)](/compendium/character-abilities/#mage-x)
 
-**Arcane Totem** — knows every spell (including the Cantrip) from Wild Magic Discipline. Each spell costs 0 Will Points to cast, but may only be attempted once per game. If this character ever fails to cast a spell, another spell is also removed at random.
+**Arcane Totem** — This character knows every spell (including the Cantrip) from the Wild Magic Discipline. Each spell costs 0 Will Points to cast, but may only be attempted once per game. In addition, if this character ever fails to cast a spell, another spell is also removed at random.
 
 ## Capability
 

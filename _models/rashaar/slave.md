@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Mindless](/compendium/character-abilities/#mindless)
 
-**Feast for Dagon** — if this character ends its turn in base contact with a friendly character with the Monster keyword, you may choose to remove it from play as a casualty. The Monster character immediately replenishes 5 Life Points.
+**Feast for Dagon** — If this character ends its turn in base contact with a friendly character with the Monster keyword, you may choose to remove it from play as a casualty. The Monster character immediately replenishes 5 Life Points.
 
 ## Capability
 

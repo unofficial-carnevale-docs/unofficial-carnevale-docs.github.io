@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Berserk](/compendium/character-abilities/#berserk), [Companion(Doctor)](/compendium/character-abilities/#companion-x), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive)
 
-**Locomotive Nexus Link** — whenever makes Combat, total up Damage caused (before Protection rolls); that many chars within 6" with Nexus ability replenish 1 WP
+**Locomotive Nexus Link** — Whenever this character makes a Combat action, total up the amount of Damage caused (before Protection rolls). That many characters within 6" with the Nexus ability replenish 1 Will Point.
 
-**Pain Suppression** — whenever takes Damage from a Combat action, reduce amount by 1 (min 1)
+**Pain Suppression** — Whenever this character takes Damage from a Combat action, reduce the amount of Damage caused by 1 (to a minimum of 1).
 
 ## Capability
 

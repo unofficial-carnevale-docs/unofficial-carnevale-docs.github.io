@@ -2,7 +2,7 @@
 layout: model
 title: Wallachian Hospodar
 permalink: /factions/strigoi/wallachian-hospodar/
-description: "Tanky fighter; small incentive to play Soldiers."
+description: "Very durable fighter but with a Full Plate (weak near water). He also gives a small buff to Soldiers, but nothing worth of orienting the full gang around it."
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Frenzied](/compendium/character-abilities/#frenzied), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
 
-**Defensive Lines** — PULSE: until end of round, all other friendly characters within 3" gain Universal Shielding(2).
+**Defensive Lines** — PULSE: Until the end of the round, all other friendly characters within 3" gain Universal Shielding (2).
 
-**Warlord** — friendly characters with the Soldier keyword may use this character's MIND instead of their own while they are in Line of Sight of this character.
+**Warlord** — Friendly characters with the Soldier keyword may use this character's MIND instead of their own while they are in Line of Sight of this character.
 
-**Full Plate** — if this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
+**Full Plate** — If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
 
 ## Capability
 

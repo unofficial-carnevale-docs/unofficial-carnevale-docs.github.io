@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Concealment(2)](/compendium/character-abilities/#concealment-x), [Slippery](/compendium/character-abilities/#slippery)
 
-**Transfusion** — (1WP): one friendly character in base contact replenishes 1 Life Point OR one enemy character loses 1 Life Point. If an enemy character is killed by this Life Point loss, this character replenishes 2 Will Points. This may be done once during each of its turns.
+**Transfusion** — - 1WP: One friendly character in base contact replenishes 1 Life Point or one enemy character loses 1 Life Point. If an enemy character is killed by this life loss, this character replenishes 2 Will Points. This character may do this once during each of its turns.
 
-**Bucket of Blood** — at the start of the game, when selecting spells, you may select a Blood Rites spell not known by any other friendly Mage for this character to store. While this character is within line of sight of a friendly Mage, that Mage can cast the stored spell as if it were their own.
+**Bucket of Blood** — At the start of the game, when selecting spells, you may select a Blood Rites spell not known by any other friendly Mage for this character to store. While this character is within line of sight to a friendly Mage, that character can cast the stored spell as if it were their own.
 
 ## Capability
 

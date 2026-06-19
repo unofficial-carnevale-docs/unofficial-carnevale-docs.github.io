@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Flight](/compendium/character-abilities/#flight), [Frenzied](/compendium/character-abilities/#frenzied), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
 
-**Born of Blood** — whenever any char (friendly or enemy) is killed within 3", replenishes 3LP
+**Born of Blood** — Whenever any character (friendly or enemy) is killed within 3", this character replenishes 3 Life Points.
 
-**Heavenly Vision** — whenever a friendly in LOS is instructed to replenish WP, increase the amount replenished by 1
+**Heavenly Vision** — Whenever a friendly character in line of sight within 6" is instructed to replenish Will Points, increase the amount replenished by 1.
 
 ## Capability
 

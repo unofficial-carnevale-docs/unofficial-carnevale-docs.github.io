@@ -2,7 +2,7 @@
 layout: model
 title: Blood Crone
 permalink: /factions/strigoi/blood-crone/
-description: "Cheap, flexible caster-leader (knows all cantrips; 0AP cantrip)."
+description: "Cheap, flexible, but very slow caster-leader. She knows all cantrips of the game and can cast one per turn for 0AP, giving her really good Action economy."
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Mage(3)](/compendium/character-abilities/#mage-x), [Slippery](/compendium/character-abilities/#slippery)
 
-**Clairvoyancy** — AURA: end of round, friendly chars within 6" may re-roll 1 die on any roll (not Destiny Die)
+**Clairvoyancy** — AURA: Until the end of the round, any friendly characters within 6" may re-roll 1 dice on any of their rolls. Note that this does not include the Destiny dice!
 
-**Major Arcana** — when picking spells, always knows all Cantrips from all Disciplines (even those she can't access)
+**Major Arcana** — When picking spells, this character always knows all Cantrips from all Disciplines (even those she doesn't have access to).
 
-**Minor Incanta** — may cast a Cantrip for 0AP once per character turn; standard rules apply
+**Minor Incanta** — This character may cast a Cantrip for 0AP once per character turn. All the standard rules for casting spells apply.
 
 ## Capability
 

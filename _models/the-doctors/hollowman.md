@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Frenzied](/compendium/character-abilities/#frenzied), [Mindless](/compendium/character-abilities/#mindless)
 
-**Blood Nexus** — every time this character loses Life Points (including from the Frenzied rule), you may replenish that many Will Points from all characters within 6" with the Nexus ability.
+**Blood Nexus** — Every time this character loses Life Points (including from the Frenzied rule), you may replenish that many Will Points from all characters within 6" with the Nexus ability.
 
-**Death Throes Overload** — when this character dies, every character with the Doctor keyword within 6" replenishes 2 Will Points.
+**Death Throes Overload** — When this character dies, every character with the Doctor keyword within 6" replenishes 2 Will Points.
 
 ## Capability
 

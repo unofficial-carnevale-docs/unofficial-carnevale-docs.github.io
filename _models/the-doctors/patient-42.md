@@ -27,15 +27,15 @@ nav_section: Factions
 
 [Berserk](/compendium/character-abilities/#berserk), [Engage](/compendium/character-abilities/#engage), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive)
 
-**Nexus** — any char with Doctor keyword within 6" and LOS may use this char's WP as if their own
+**Nexus** — Any character with the Doctor keyword within 6" and line of sight may use this character's Will Points as if they were their own.
 
-**Madness Infused Muscle** — if rolls no Aces on a Primitive roll, instead of receiving Stunned, makes Run/Climb toward nearest char (friendly or enemy) then makes a Combat action; replenishes 1WP and activates normally with full AP
+**Madness Infused Muscle** — If this character rolls no Aces for its Primitive rolls, instead of receiving a Stunned counter, it makes a Run/Climb action towards the nearest other character (friendly or enemy) and then makes a Combat action against it. This character then replenishes 1 Will Point and activates as normal (with full AP).
 
 ## Capability
 
 EDPA **2.52** · EDPA/Duc **0.180** · ATK2K **11.4** · ATK2K/Duc **0.81**
 
-*Damage Dealer median: EDPA **2.97** · EDPA/Duc **0.196** · ATK2K **10.9** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.95** · EDPA/Duc **0.195** · ATK2K **10.8** · ATK2K/Duc **0.73***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -47,11 +47,11 @@ EDPA **2.52** · EDPA/Duc **0.180** · ATK2K **11.4** · ATK2K/Duc **0.81**
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 3.70 | 4.01 |
-| Balanced (Dex4/Prot3) | 2.52 | 2.97 |
-| Evasive (Dex6/Prot2) | 2.20 | 2.54 |
+| Balanced (Dex4/Prot3) | 2.52 | 2.95 |
+| Evasive (Dex6/Prot2) | 2.20 | 2.52 |
 | Armoured (Dex4/Prot5) | 1.73 | 2.17 |
-| Tank (Dex4/Prot5/US5) | 1.41 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 1.66 | 2.14 |
+| Tank (Dex4/Prot5/US5) | 1.41 | 1.90 |
+| Parry (Dex5/Prot3/Parry2) | 1.66 | 2.13 |
 
 *Sustained: bladed limbsx2*
 
@@ -62,10 +62,10 @@ EDPA **2.52** · EDPA/Duc **0.180** · ATK2K **11.4** · ATK2K/Duc **0.81**
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
-| Baseline (Atk3) | 1.23 | 11.4 | 10.9 |
+| Baseline (Atk3) | 1.23 | 11.4 | 10.8 |
 | Elite (Atk5, Dmg+1) | 3.32 | 4.2 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 1.90 | 7.4 | 6.3 |
-| Drown (Atk3) | 1.56 | 9.0 | 7.2 |
+| Drown (Atk3) | 1.56 | 9.0 | 7.4 |
 
 </div>
 </div>

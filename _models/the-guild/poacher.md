@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Concealment(1)](/compendium/character-abilities/#concealment-x), [Infiltration](/compendium/character-abilities/#infiltration)
 
-**Rope Arrow** — (2AP): pick a point on a piece of vertical terrain within 12" at least 1" below this character. Move this character to that point as if moving down a zipline.
+**Rope Arrow** — - 2AP: Pick a point on a piece of vertical terrain within 12" at least 1" below this character. Move the character to that point as if moving down a zipline.
 
 ## Capability
 

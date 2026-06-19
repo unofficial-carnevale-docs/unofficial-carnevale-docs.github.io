@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Mage(1)](/compendium/character-abilities/#mage-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Dragging Down** — this character may re-roll failed dice rolls when making Drown actions.
+**Dragging Down** — This character may re-roll failed dice rolls when making Drown actions.
 
 ## Capability
 

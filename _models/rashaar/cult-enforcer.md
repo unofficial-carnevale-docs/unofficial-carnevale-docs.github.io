@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x)
 
-**Bolster Your Faith** — AURA: until end of round, all friendly characters within 3" gain +1 Protection
+**Bolster Your Faith** — AURA: Until the end of the round, all friendly characters within 3" gain +1 PROTECTION.
 
 ## Capability
 

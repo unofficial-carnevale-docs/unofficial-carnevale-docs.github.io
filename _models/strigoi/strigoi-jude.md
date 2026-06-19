@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Frenzied](/compendium/character-abilities/#frenzied), [Mage(2)](/compendium/character-abilities/#mage-x), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
 
-**Judgement** — PULSE: pick enemy char within 6"; that char is Judged until end of round. Friendly chars may re-roll their entire Attack Roll (including Destiny Dice) against any Judged char. Friendly Mage attempting to Dispel a Judged char's spell counts their Mage(X) as 1 higher.
+**Judgement** — PULSE: Pick an enemy character within 6". That character is Judged until the end of the round. Friendly characters may re-roll their entire Attack Roll (all of it - including the Destiny dice) against an enemy Judged character. When a friendly Mage attempts to Dispel a spell cast by a Judged character, count their Mage (X) level as 1 higher.
 
-**Cast Sentence** — whenever a char Judged by this char is killed, this char replenishes 3 Life Points or 1 Command Point.
+**Cast Sentence** — Whenever a character Judged by this character is killed, this character replenishes 3 Life Points or 1 Command Point.
 
 ## Capability
 

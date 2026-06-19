@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Parry(2)](/compendium/character-abilities/#parry-x)
 
-**Affirmation** — at the start of this character's turn, pick one character with the Councillor keyword in line of sight. Both this character and that character replenish 1 Will Point.
+**Affirmation** — At the start of this character's turn, pick one character with the Councillor keyword in line of sight. Both this character and that character replenish 1 Will Point.
 
 ## Capability
 

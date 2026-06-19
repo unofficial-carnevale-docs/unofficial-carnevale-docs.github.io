@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Mage(2)](/compendium/character-abilities/#mage-x), [Slippery](/compendium/character-abilities/#slippery)
 
-**Minor Arcana** — when picking spells for this character, you must also choose 1 additional Cantrip for it to know from a different available Discipline.
+**Minor Arcana** — When picking spells for this character, you must also choose 1 additional Cantrip for it to know from a different available Discipline.
 
-**Cartomancy** — if this character successfully casts a Cantrip, this character or any friendly character within 6" replenishes 1 Will Point.
+**Cartomancy** — If this character successfully casts a Cantrip, this character or any friendly character within 6" replenishes 1 Will Point.
 
 ## Capability
 

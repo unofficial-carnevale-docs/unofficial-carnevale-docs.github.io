@@ -26,7 +26,7 @@ nav_section: Factions
 ### Abilities
 
 
-**Everyman** — if a friendly character is charged within 6" of one or more characters with this rule, you may choose to swap them with one friendly Pierrot that isn't in base contact with an enemy. This is done before any Attacks of Opportunity.
+**Everyman** — If a friendly character is charged within 6" of one or more characters with this rule, you may choose to swap them with one friendly Pierrot that isn't in base contact with an enemy. This is done before any Attacks of Opportunity. Turns out it was Pierrot all along!
 
 ## Capability
 

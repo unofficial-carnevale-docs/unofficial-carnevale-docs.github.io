@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x), [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Patient Hunter** — if this character exits water and charges in the same action, it counts as charging from above
+**Patient Hunter** — If this character exits water and charges in the same action, it counts as charging from above.
 
 ## Capability
 

@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Barbed Tongue** — the Tongue Harpoon's Knockback moves the target directly towards this character rather than away.
+**Barbed Tongue** — The Tongue Harpoon's Knockback moves the target directly towards this character rather than away.
 
-**Feeder** — this character's Vampiric Attack special rule activates even if it isn't in base contact with its target.
+**Feeder** — This character's Vampiric Attack special rule activates even if it isn't in base contact with its target.
 
 ## Capability
 

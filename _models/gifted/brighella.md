@@ -27,13 +27,13 @@ nav_section: Factions
 
 [Expert Marksman(1)](/compendium/character-abilities/#expert-marksman-x)
 
-**Always Scheming** — when a friendly character with the Leader keyword uses a Command while in line of sight, Brighella gains 1AP until the end of the round. No character can use more than 3AP in one round.
+**Always Scheming** — When a friendly character with the Leader keyword uses a Command while in line of sight, Brighella gains 1AP until the end of the round. Remember that no character can use more than 3AP in one round!
 
 ## Capability
 
 EDPA **1.80** · EDPA/Duc **0.139** · ATK2K **7.3** · ATK2K/Duc **0.56**
 
-*Damage Dealer median: EDPA **2.97** · EDPA/Duc **0.196** · ATK2K **10.9** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.95** · EDPA/Duc **0.195** · ATK2K **10.8** · ATK2K/Duc **0.73***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -45,11 +45,11 @@ EDPA **1.80** · EDPA/Duc **0.139** · ATK2K **7.3** · ATK2K/Duc **0.56**
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 2.80 | 4.01 |
-| Balanced (Dex4/Prot3) | 1.80 | 2.97 |
-| Evasive (Dex6/Prot2) | 1.67 | 2.54 |
+| Balanced (Dex4/Prot3) | 1.80 | 2.95 |
+| Evasive (Dex6/Prot2) | 1.67 | 2.52 |
 | Armoured (Dex4/Prot5) | 1.11 | 2.17 |
-| Tank (Dex4/Prot5/US5) | 0.85 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 1.55 | 2.14 |
+| Tank (Dex4/Prot5/US5) | 0.85 | 1.90 |
+| Parry (Dex5/Prot3/Parry2) | 1.55 | 2.13 |
 
 *Sustained: atrezzo crossbowx2*
 
@@ -60,10 +60,10 @@ EDPA **1.80** · EDPA/Duc **0.139** · ATK2K **7.3** · ATK2K/Duc **0.56**
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
-| Baseline (Atk3) | 1.50 | 7.3 | 10.9 |
+| Baseline (Atk3) | 1.50 | 7.3 | 10.8 |
 | Elite (Atk5, Dmg+1) | 3.81 | 2.9 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.0 | 6.3 |
-| Drown (Atk3) | 1.90 | 5.8 | 7.2 |
+| Drown (Atk3) | 1.90 | 5.8 | 7.4 |
 
 </div>
 </div>

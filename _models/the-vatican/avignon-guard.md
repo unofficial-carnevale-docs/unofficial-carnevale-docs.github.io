@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Brawler(1)](/compendium/character-abilities/#brawler-x), [Universal Shielding(4)](/compendium/character-abilities/#universal-shielding-x)
 
-**Full Plate** — if this char enters water, receives Stunned counter only removed if ends turn out of water
+**Full Plate** — If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
 
 ## Capability
 

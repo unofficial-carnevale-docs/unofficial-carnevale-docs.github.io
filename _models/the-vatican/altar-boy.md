@@ -29,7 +29,7 @@ nav_section: Factions
 
 **Spurring Incense** — (1AP): until the end of the round, any friendly character that starts its action within 6" of this character gains First Strike(2) for that action and any subsequent Attacks of Opportunity.
 
-**Censer Bearer** — any friendly character that starts its turn within 6" and line of sight of this character replenishes 1 Will Point. Characters cannot be affected by multiple Censer Bearer instances in one turn.
+**Censer Bearer** — Any friendly character that starts its turn within 6" and in line of sight of this character replenishes 1 Will Point. Characters with the Censer Bearer rule cannot be affected by this rule (from their own or other Censer Bearers). Characters cannot be affected by multiple instances of this rule in one turn.
 
 ## Capability
 

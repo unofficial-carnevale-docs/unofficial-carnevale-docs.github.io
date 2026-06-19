@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Bodyguard(Doctor)](/compendium/character-abilities/#bodyguard-x), [Universal Shielding(2)](/compendium/character-abilities/#universal-shielding-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Deep Dive** — whenever this character makes a Dive action, you may spend 1 Will Point. If you do, you automatically score a Critical without rolling any dice.
+**Deep Dive** — Whenever this character makes a Dive action, you may spend 1 Will Point. If you do, you automatically score a Critical without rolling any dice.
 
 ## Capability
 

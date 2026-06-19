@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Expert Grappler(3)](/compendium/character-abilities/#expert-grappler-x), [Mindless](/compendium/character-abilities/#mindless)
 
-**Shattered Nexus** — when this character is reduced to 0 Will Points, after the current action is finished, place the Blast Marker over its head. Every character under the marker (including this one) takes 3 Damage, with Protection Rolls as normal. If this character survives, it replenishes 3 Will Points.
+**Shattered Nexus** — When this character is reduced to 0 Will Points, after the current action is finished, place the Blast Marker over its head. Every character under the marker (including this one) takes 3 Damage, with Protection Rolls as normal. If this character survives, it replenishes 3 Will Points.
 
 ## Capability
 

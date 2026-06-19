@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Frenzied](/compendium/character-abilities/#frenzied), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
 
-**Devil Incarnate** — this character may attempt to Dispel magic spells as if it has Mage(2). In addition, enemy characters may not use Will Points when in base contact with this character.
+**Devil Incarnate** — This character may attempt to Dispel magic spells as if it has Mage (2). In addition, enemy characters may not use Will Points when in base contact with this character.
 
 ## Capability
 

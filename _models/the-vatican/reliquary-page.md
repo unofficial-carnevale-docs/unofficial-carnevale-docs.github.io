@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Slippery](/compendium/character-abilities/#slippery)
 
-**Relics of Malta** — once per each of their turns, any friendly character within 6" and line of sight of a friendly character with this rule may re-roll 1 single die on any roll they make. This character is affected by its own Relics of Malta rule.
+**Relics of Malta** — Once per each of their turns, any friendly character within 6" and line of sight of a friendly character with this rule may re-roll 1 single dice on any roll they make. This character is affected by its own Relics of Malta rule.
 
 ## Capability
 

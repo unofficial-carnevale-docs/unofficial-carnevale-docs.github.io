@@ -2,7 +2,7 @@
 layout: model
 title: Patriarch Bishop de Bernis
 permalink: /factions/the-vatican/patriarch-bishop-de-bernis/
-description: "Best mage of the faction; gives gang-wide WP regen."
+description: "Best mage of the faction that gives gang-wide WP regen via Companion (Leader). He's mainly a support bot has access to Summon Vermin meaning he can be a good damage dealer against non armored ennemies."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
@@ -28,9 +28,9 @@ nav_section: Factions
 
 [Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Mage(3)](/compendium/character-abilities/#mage-x), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
 
-**He Will Strengthen You and Protect You** — AURA: end of round, friendly chars within 3" gain Universal Shielding(3)
+**He Will Strengthen You and Protect You** — AURA: Until the end of the round, any friendly characters within 3" gain Universal Shielding(3).
 
-**Patriarch Bishop** — all friendly Faction(The Vatican) chars gain Companion(Leader) while in LOS of this char
+**Patriarch Bishop** — All friendly characters with the Faction(The Vatican) keyword gain Companion(Leader) while in line of sight of this character.
 
 ## Capability
 

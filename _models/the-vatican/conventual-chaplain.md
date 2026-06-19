@@ -26,7 +26,7 @@ nav_section: Factions
 ### Abilities
 
 
-**Psychic Communion** — whenever this char or any char with LOS to this char uses ORDER or COUNTER Commands, ignore any other LOS restrictions
+**Psychic Communion** — Whenever this character or any other character with line of sight to this character uses the ORDER or COUNTER Commands, they ignore any other restrictions about line of sight.
 
 ## Capability
 

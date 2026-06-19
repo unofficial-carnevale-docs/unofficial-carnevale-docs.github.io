@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Brave](/compendium/character-abilities/#brave), [Companion(Emissary of Mother Hydra)](/compendium/character-abilities/#companion-x), [Engage](/compendium/character-abilities/#engage), [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Part of the Whole** — can only be taken with the Emissary; cannot move or be moved further than 6" from it. At end of each enemy turn, if this character is further than 6" from the Emissary, it moves the shortest distance to be within 6", ignoring disengaging or charging. If the Emissary is killed, this character is also killed.
+**Part of the Whole** — This character can only be taken with the Emissary of Mother Hydra and cannot move or be moved further than 6" from it. At the end of each enemy turn, if this character is further than 6" away from the Emissary, it moves the shortest distance to be within 6" of it, ignoring disengaging or charging. If the Emissary is killed, this character is also killed.
 
 ## Capability
 

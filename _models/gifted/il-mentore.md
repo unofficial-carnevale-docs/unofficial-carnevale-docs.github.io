@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Pickpocket](/compendium/character-abilities/#pickpocket), [Slippery(2)](/compendium/character-abilities/#slippery)
 
-**Mask of Many Faces** — at start of game, select friendly char for a Mask (see Mask System). Can only give a single Mask; Unique Gifted without Mindless cannot receive a Mask.
+**Mask of Many Faces** — At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks. For the entirety of the game that character gains one of the following: Pickpocket and Slippery(2); Aerial Attack and Infiltrate. A character can only be given a single Mask. Unique characters without Faction(Gifted) and Mindless characters cannot be given a Mask.
 
 ## Capability
 

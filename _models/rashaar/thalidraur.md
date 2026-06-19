@@ -2,7 +2,7 @@
 layout: model
 title: Thalidraur
 permalink: /factions/rashaar/thalidraur/
-description: "Big melee monster; very slow unless in water; very low CP, but turns kills into WP+CP."
+description: "Big expensive melee monster that's very slow unless he's in water. He has very low CP but regenerates CP and WP when someone dies nearby."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Fear(-2)](/compendium/character-abilities/#fear-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Hide of The Deep** — AURA: until end of round, all friendly characters within 3" gain Expert Protection(2)
+**Hide of The Deep** — AURA: Until the end of the round, all friendly characters within 3" of this character gain Expert Protection (2).
 
-**Foetid Pheromones** — other friendly characters that start their activation within 6" of this character gain First Strike(1) until end of their activation
+**Foetid Pheromones** — Other friendly characters that start their activation within 6" of this character gain First Strike (1) until the end of their activation.
 
-**Lead Through Fear** — whenever another character (friendly or enemy) is killed within 6" of this character, this character replenishes 1 Command Point and 1 Will Point
+**Lead Through Fear** — Whenever another character (friendly or enemy) is killed within 6" of this character, this character replenishes 1 Command Point and 1 Will Point.
 
 ## Capability
 

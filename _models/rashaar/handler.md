@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Brave](/compendium/character-abilities/#brave), [Hunter](/compendium/character-abilities/#hunter)
 
-**Herding** — any friendly character with the Monster keyword that starts a Run/Climb action within 2" of one or more characters with this rule gains +2 MOVE for that action
+**Herding** — Any friendly character with the Monster keyword that starts a Run/Climb action within 2" of one or more characters with this rule gains +2 MOVE for that action.
 
-**Encouragement** — friendly characters with the Feral keyword that start their turn within 6" and line of sight of this character automatically pass their Primitive roll
+**Encouragement** — Friendly characters with the Feral keyword that start their turn within 6" and line of sight of this character automatically pass their Primitive roll.
 
 ## Capability
 

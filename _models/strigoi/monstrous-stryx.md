@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Bulky](/compendium/character-abilities/#bulky), [Flight](/compendium/character-abilities/#flight), [Frenzied](/compendium/character-abilities/#frenzied), [Mindless](/compendium/character-abilities/#mindless), [Slippery](/compendium/character-abilities/#slippery), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x)
 
-**Aerial Aggression** — when moving into base contact from 3"+ above or below, that enemy skips Protection roll for this char's Attacks of Opportunity
+**Aerial Aggression** — When this character moves into base contact with an enemy character that is either 3" above or 3" below it at the start of the action, that enemy character skips their Protection roll for this character's Attack of Opportunity.
 
-**Rip and Tear** — when Monstrous Claws Combat vs enemy with full LP, may re-roll any failed dice for Combat against that char for rest of activation
+**Rip and Tear** — When this character makes a Combat action with Monstrous Claws against an enemy character with full Life Points, for the rest of this character's activation, it may re-roll any failed dice for Combat actions against that enemy character.
 
-**Serpentine** — can move through spaces smaller than base to min 2"; must fit where it ends turn
+**Serpentine** — This character is able to move through spaces smaller than its base to a minimum of 2". It must be able to fit where it ends its turn.
 
 ## Capability
 

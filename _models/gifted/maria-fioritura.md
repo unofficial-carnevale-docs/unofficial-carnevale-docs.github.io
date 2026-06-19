@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Mage(2)](/compendium/character-abilities/#mage-x)
 
-**Creative Creation** — (unique spell, Cost 2, Diff 7, not usable by other chars): Place 1 Painted Protector anywhere within 3" of this char; the Painted Protector counts as a friendly char and may take a turn that round normally.
+**Creative Creation** — (unique spell, Cost 2, Diff 7, not usable by other chars): Place 1 Painted Protector anywhere within 3" of this character. A Painted Protector counts as a friendly character and may take a turn that round as normal.
 
 ## Capability
 

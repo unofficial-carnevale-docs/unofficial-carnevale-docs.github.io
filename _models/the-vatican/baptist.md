@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Mage(2)](/compendium/character-abilities/#mage-x), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
 
-**Blessed Water** — (1AP): place Blast marker in water in LOS within 8". Friendly chars treat area as solid ground. Enemy chars treat as water. Water Creature chars can be drowned while on marker. Remove at end of round.
+**Blessed Water** — (1AP): Place the Blast marker in water in line of sight within 8". The area under the Blast marker is treated as solid ground for friendly characters. Enemy characters treat the area as water, and characters with the Water Creature rule can be drowned while at least partially on the marker. Remove the marker at the end of the round.
 
 ## Capability
 

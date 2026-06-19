@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Concealment(2)](/compendium/character-abilities/#concealment-x), [Universal Shielding(2)](/compendium/character-abilities/#universal-shielding-x)
 
-**Probable Statistics** — (1WP): change the result of the Destiny Die in any roll (yours or opponent's) for a char within 6" and LOS to either 1 or 10
+**Probable Statistics** — (1WP): Change the result of the Destiny Dice in any roll (for you or your opponent) for a character within 6" and line of sight to either a 1 or a 10.
 
 ## Capability
 

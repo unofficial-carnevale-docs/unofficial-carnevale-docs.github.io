@@ -27,11 +27,11 @@ nav_section: Factions
 
 [Fast Swimmer(1)](/compendium/character-abilities/#fast-swimmer-x), [Mage(2)](/compendium/character-abilities/#mage-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Dagonite Baptism** — *(unique spell, Cost 1, Difficulty 6)*: total up every Ace rolled, then pick one enemy character in line of sight within 3"; that character loses that many Life Points plus 1. This spell cannot be used by other characters; this character knows it in addition to any other spells.
+**Dagonite Baptism** — *(unique spell, Cost 1, Difficulty 6)*: Total up every Ace rolled then pick one enemy character in line of sight within 3". That character loses that many Life Points plus 1. This spell cannot be used by other characters. She knows this in addition to any other spells.
 
-**Fanaticism For Dagon** — PULSE: friendly characters in line of sight within 3" lose 1LP and gain Frenzied until the end of the round
+**Fanaticism For Dagon** — PULSE: Friendly characters in line of sight within 3" lose 1 Life Point and gain Frenzied until the end of the round.
 
-**Truth of Dagon** — whenever an enemy character in line of sight loses life due to Drowning or Dagonite Baptism, it must roll a Basic MIND Roll; if it rolls no Aces, it receives a Stunned counter
+**Truth of Dagon** — Whenever an enemy character in line of sight loses life due to Drowning or Dagonite Baptism, it must roll a Basic MIND roll. If it rolls no Aces, it receives a Stunned counter.
 
 ## Capability
 

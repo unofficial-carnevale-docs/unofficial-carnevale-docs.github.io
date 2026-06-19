@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Frenzied](/compendium/character-abilities/#frenzied), [Primitive](/compendium/character-abilities/#primitive), [Vampiric Attack(3)](/compendium/character-abilities/#vampiric-attack-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Brain Leech** — when replenishing LP via Vampiric Attack, target lowers any abilities with a number by 1 until end of game (min 0)
+**Brain Leech** — When this character replenishes Life Points due to the Vampiric Attack ability, the target character lowers any abilities with a number down by 1 until the end of the game, to a minimum of 0. For example Acrobatic (3) becomes Acrobatic (2).
 
 ## Capability
 

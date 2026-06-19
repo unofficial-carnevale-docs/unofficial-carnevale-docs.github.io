@@ -2,7 +2,7 @@
 layout: model
 title: Voice of Dagon
 permalink: /factions/rashaar/voice-of-dagon/
-description: "One of the highest effective Command outputs in the game; modest combat but a good disruptor with a Stun template attack."
+description: "One of the highest effective Command outputs in the game, otherwise a modest combattant but with a good armor-piercing Stun template attack."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
@@ -29,9 +29,9 @@ nav_section: Factions
 
 [Universal Shielding(4)](/compendium/character-abilities/#universal-shielding-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Blessing of Dagon** — AURA: until end of round, any friendly characters within 6" gain Expert Offence(2)
+**Blessing of Dagon** — AURA: Until the end of the round, any friendly characters within 6" gain Expert Offence (2).
 
-**Herald of an Old God** — whenever this character uses an ORDER or COUNTER Command, roll a die; on 7+ this Command does not use a Command Point
+**Herald of an Old God** — Whenever this character uses an ORDER or COUNTER Command, roll a dice. On a 7+ this Command doesn't use a Command Point.
 
 ## Capability
 

@@ -27,7 +27,7 @@ nav_section: Factions
 
 [First Strike(1)](/compendium/character-abilities/#first-strike-x), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Climber** — this character always counts as rolling at least one Ace when making Climb rolls.
+**Climber** — This character always counts as rolling at least one Ace when making Climb rolls.
 
 ## Capability
 

@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Frenzied](/compendium/character-abilities/#frenzied), [Mindless](/compendium/character-abilities/#mindless)
 
-**Unstable Wretch** — from the start of the second round onwards, at the end of this character's turn all characters (friendly and enemy, including this character) within 3" lose 1 Life Point.
+**Unstable Wretch** — From the start of the second round onwards, at the end of this character's turn all characters (friendly and enemy, including this character) within 3" lose 1 Life Point.
 
-**Bereft of Will** — other characters within 3" cannot use Will Points (including Frenzied and Will Points of other characters). When this character dies, all other characters within 3" lose 1 Will Point.
+**Bereft of Will** — Other characters within 3" cannot use Will Points (including Frenzied and Will Points of other characters, even if they are outside of 3"). When this character dies, all other characters within 3" lose 1 Will Point.
 
 ## Capability
 

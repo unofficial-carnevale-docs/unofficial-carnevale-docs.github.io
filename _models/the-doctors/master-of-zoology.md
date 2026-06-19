@@ -2,7 +2,7 @@
 layout: model
 title: Master of Zoology
 permalink: /factions/the-doctors/master-of-zoology/
-description: "Very durable; build around a beast-heavy list."
+description: "Very durable Hunter with a good armor-piercing Stun weapon. Build around Beasts, giving them Companion (Doctor)."
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Expert Protection(2)](/compendium/character-abilities/#expert-protection-x), [Hunter](/compendium/character-abilities/#hunter)
 
-**Protective Field** — AURA: end of round, friendly chars within 3" gain Universal Shielding(4)
+**Protective Field** — AURA: Until the end of the round, any friendly characters within 3" gain Universal Shielding (4).
 
-**Beast Master** — all friendly chars with Animal keyword gain Companion(Doctor) while in LOS of this char
+**Beast Master** — All friendly characters with the Animal keyword gain Companion (Doctor) while in line of sight of this character.
 
-**Voltaic Shield** — if enemy makes Combat against this char in base contact and does not cause LP loss, that enemy loses 3 LP
+**Voltaic Shield** — If an enemy character makes a Combat action against this character in base contact and they don't lose any Life Points from the attack, the enemy character loses 3 Life Points.
 
 ## Capability
 

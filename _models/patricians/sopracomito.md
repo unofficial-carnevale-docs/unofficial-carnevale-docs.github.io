@@ -2,7 +2,7 @@
 layout: model
 title: Sopracomito
 permalink: /factions/patricians/sopracomito/
-description: "Cheapest leader; only 2 AP and low command, but a WP battery that can move Soldiers."
+description: "Cheapest leader of the game. He has only 2 AP and low command, but he's a WP battery that can make Soldiers move."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Boat Crew](/compendium/character-abilities/#boat-crew)
 
-**Wages Are Here** — PULSE: any friendly char within 6" with Soldier keyword in LOS that isn't in base contact with an enemy may make an immediate Run/Climb for 0AP; must move into base contact with this character (does not cause AoOs); chars that move into base contact replenish 1WP
+**Wages Are Here** — PULSE: Any friendly character in line of sight with the Soldier keyword that aren't in base contact with an enemy may immediately make a Run/Climb action for 0AP, but must move into base contact with this character. This move does not cause Attacks of Opportunity. Any characters that move into base contact immediately replenish 1 Will Point.
 
-**Pay Out** — any friendly char within 6" may use this character's Will Points as if they were their own
+**Pay Out** — Any friendly character within 6" may use this character's Will Points as if they were their own.
 
-**Second in Command** — if this is the only char with Leader keyword in the gang, loses Hero keyword and no other Sopracomitos may be chosen; if another Leader is also in the gang, loses Leader keyword
+**Second in Command** — If this is the only character with the Leader keyword in the gang, this character loses the Hero keyword and no other Sopracomitos may be chosen. However, if there is another character with the Leader keyword, this character loses the Leader keyword.
 
 ## Capability
 

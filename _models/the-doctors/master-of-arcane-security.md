@@ -2,7 +2,7 @@
 layout: model
 title: Master of Arcane Security
 permalink: /factions/the-doctors/master-of-arcane-security/
-description: "Expensive but strong, versatile AoE bruiser."
+description: "Expensive and strong versatile combattant but with a Full Plate (weak near water)."
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
@@ -29,11 +29,11 @@ nav_section: Factions
 
 [Bulky](/compendium/character-abilities/#bulky), [Expert Marksman(2)](/compendium/character-abilities/#expert-marksman-x), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x)
 
-**Electrical Stimulation** — PULSE: all friendly chars within 3" gain +1 ATTACK until end of round
+**Electrical Stimulation** — PULSE: All friendly characters within 3" gain +1 ATTACK until the end of the round.
 
-**Auxiliary Systems** — at start of this char's turn, gains +2 to either MOVE, DEX, or PROT until end of round (player's choice each turn)
+**Auxiliary Systems** — At the start of this character's turn, it gains +2 to either its MOVEMENT, DEXTERITY, or PROTECTION until the end of the round.
 
-**Full Plate** — if this char ever enters water, receives Stunned counter only removed if ends turn out of water
+**Full Plate** — If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
 
 ## Capability
 

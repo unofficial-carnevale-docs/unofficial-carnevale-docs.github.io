@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Mage(2)](/compendium/character-abilities/#mage-x)
 
-**Biological Studies** — AURA: end of round, friendly chars within 6" gain Penetration -2 on their weapons
+**Biological Studies** — AURA: Until the end of the round, any friendly characters within 6" gain Penetration -2 on their weapons.
 
-**Purifying Ungents** — friendly chars within 6" are immune to Stun; end of each friendly char's turn, remove Stun counters from friendlies within 6"
+**Purifying Ungents** — While within 6" of this character, friendly characters are immune to the Stun Ability. At the end of each friendly character's turn, remove any Stun counters from friendly characters within 6" of this character.
 
-**Plague-infused Anatomy** — if an enemy kills a friendly char while either is in base contact and within 6" of this char, the enemy receives a Stunned counter
+**Plague-infused Anatomy** — The Plague Doctor has laced their test subjects with a virulent new plague, activated at a moment's notice! If an enemy character kills a friendly character in base contact while either are within 6" of this character, the enemy receives a Stunned counter.
 
 ## Capability
 

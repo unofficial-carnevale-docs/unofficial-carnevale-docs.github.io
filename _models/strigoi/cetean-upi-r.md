@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Expert Grappler(3)](/compendium/character-abilities/#expert-grappler-x), [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Frenzied](/compendium/character-abilities/#frenzied), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Hydrodynamic** — Dexterity increases to 5 while in water
+**Hydrodynamic** — This character increases its DEXTERITY to 5 while in water.
 
 ## Capability
 

@@ -27,11 +27,11 @@ nav_section: Factions
 
 [Bulky](/compendium/character-abilities/#bulky), [Fast Swimmer(3)](/compendium/character-abilities/#fast-swimmer-x), [Fear(-4)](/compendium/character-abilities/#fear-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Grasp of the Abyss** — a gang that includes this character automatically also includes the following (counting toward Henchmen taken): 1 Maw Tentacle, 1 Lash Tentacle, 1 Dagger Tentacle, 1 Thorn Tentacle. You may pay an additional 12d to take 2 of each Tentacle type instead. After completing this character's activation, place each of its remaining Tentacles within 3" of it.
+**Grasp of the Abyss** — A gang that includes this character also automatically includes the following (and count towards Henchman taken): 1 Maw Tentacles, 1 Lash Tentacles, 1 Dagger Tentacles, 1 Thorn Tentacles. You may pay an additional 12 Ducats to take 2 of each Tentacle instead. After you complete this character's activation, place each of its remaining Tentacles within 3" of it.
 
-**Rip Apart** — when one of this character's Tentacles kills an enemy character, this character replenishes 1 Will Point
+**Rip Apart** — When one of this character's Tentacles kills an enemy character, this character replenishes 1 Will Point.
 
-**Serpentine** — can move through spaces smaller than its base to a minimum of 2"; must be able to fit where it ends its turn
+**Serpentine** — This character is able to move through spaces smaller than its base to a minimum of 2". It must be able to fit where it ends its turn.
 
 ## Capability
 

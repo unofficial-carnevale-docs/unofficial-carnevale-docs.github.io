@@ -29,17 +29,17 @@ nav_section: Factions
 
 [Acrobatic(2)](/compendium/character-abilities/#acrobatic-x), [Expert Marksman(2)](/compendium/character-abilities/#expert-marksman-x), [Pickpocket](/compendium/character-abilities/#pickpocket), [Slippery](/compendium/character-abilities/#slippery)
 
-**Thieves Guild Training** — PULSE: one friendly char within 6" gains Pickpocket until end of game
+**Thieves Guild Training** — PULSE: One friendly character within 6" gains Pickpocket until the end of the game.
 
-**Take it for the Guild!** — any friendly in LOS replenishes 2WP instead of 1 when Pickpocketing
+**Take it for the Guild!** — Any friendly characters in line of sight replenish 2 Will Points instead of 1 when Pickpocketing.
 
-**A Hero Among Thieves** — if only char with Leader keyword in gang, loses Hero. If another Leader char is also in gang, loses Leader.
+**A Hero Among Thieves** — If this is the only character with the Leader keyword in the gang, this character loses the Hero keyword. However, if there is another character with the Leader keyword, this character loses the Leader keyword.
 
 ## Capability
 
 EDPA **3.92** · EDPA/Duc **0.170** · ATK2K **18.4** · ATK2K/Duc **0.80**
 
-*Damage Dealer median: EDPA **2.97** · EDPA/Duc **0.196** · ATK2K **10.9** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.95** · EDPA/Duc **0.195** · ATK2K **10.8** · ATK2K/Duc **0.73***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -51,11 +51,11 @@ EDPA **3.92** · EDPA/Duc **0.170** · ATK2K **18.4** · ATK2K/Duc **0.80**
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 5.20 | 4.01 |
-| Balanced (Dex4/Prot3) | 3.92 | 2.97 |
-| Evasive (Dex6/Prot2) | 3.40 | 2.54 |
+| Balanced (Dex4/Prot3) | 3.92 | 2.95 |
+| Evasive (Dex6/Prot2) | 3.40 | 2.52 |
 | Armoured (Dex4/Prot5) | 3.06 | 2.17 |
-| Tank (Dex4/Prot5/US5) | 2.81 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 2.96 | 2.14 |
+| Tank (Dex4/Prot5/US5) | 2.81 | 1.90 |
+| Parry (Dex5/Prot3/Parry2) | 2.96 | 2.13 |
 
 *Sustained: concealed pistolx1+gilded swordx2*
 
@@ -66,10 +66,10 @@ EDPA **3.92** · EDPA/Duc **0.170** · ATK2K **18.4** · ATK2K/Duc **0.80**
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
-| Baseline (Atk3) | 0.71 | 18.4 | 10.9 |
+| Baseline (Atk3) | 0.71 | 18.4 | 10.8 |
 | Elite (Atk5, Dmg+1) | 2.47 | 5.3 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 1.59 | 8.2 | 6.3 |
-| Drown (Atk3) | 1.19 | 10.9 | 7.2 |
+| Drown (Atk3) | 1.19 | 10.9 | 7.4 |
 
 </div>
 </div>

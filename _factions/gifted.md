@@ -9,6 +9,8 @@ toc:
     anchor: faction-overview
   - title: Faction Command
     anchor: faction-command
+  - title: Faction special ability: Masks
+    anchor: faction-special-ability-masks
   - title: Magic Access
     anchor: magic-access
   - title: Roster
@@ -33,6 +35,20 @@ A mercenary/allied faction of unique individuals who can join **any gang**. The 
 Replaces the entire roll — not a bonus, complete control. Use to deny the opponent a key activation window (protect an exposed model, secure a double-activation before they can respond, or pre-empt a charge). Costs 1 CP with no refund mechanic. Arguably the strongest Faction Command in the game because initiative sequencing determines who gets to act first out of every round.
 
 </div>
+
+## Faction special ability: Masks
+
+Several Gifted characters grant **Masks** to other friendly chars at game start:
+
+| Mask Giver | Options |
+|-----------|---------|
+| Artisan Elena | (A) Frenzied + Vampiric Attack(2) + WP→0; or (B) First Strike(1) + Vampiric Attack(1) |
+| Francisco De Lorme | Target: +2 starting WP + Companion(Francisco De Lorme); chars in LOS within 6" may use that char's WP |
+| Il Mentore | (A) Pickpocket + Slippery(2); or (B) Aerial Attack + Infiltrate |
+| Marco Leontus | (A) +2 starting CP; or (B) Boat Crew + Bodyguard(Leader) |
+| Master Gerhard | Universal Shielding(2) on target |
+
+Rules: one Mask per char; Unique Gifted chars without Mindless cannot receive a Mask. (Mindless can.) Masks from Painted Protector's creator (Maria Fioritura) are a separate mechanic.
 
 ## Magic Access
 

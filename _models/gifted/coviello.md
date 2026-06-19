@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Acrobatic(2)](/compendium/character-abilities/#acrobatic-x)
 
-**Annoying Tune** — all enemy characters have -1 DEXTERITY while within 3" of Coviello. However, all enemy characters within 3" may re-roll 1 failed die roll in Combat actions when Coviello is the target.
+**Annoying Tune** — All enemy characters have -1 DEXTERITY while within 3" of Coviello. However, all enemy characters within 3" may re-roll 1 failed dice roll in Combat actions when Coviello is the target.
 
 ## Capability
 

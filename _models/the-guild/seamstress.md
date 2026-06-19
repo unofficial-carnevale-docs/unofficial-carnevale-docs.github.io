@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Mage(1)](/compendium/character-abilities/#mage-x)
 
-**Entwined Magics** — when picking spells for this character, the additional spells granted by Expert Sorcerer may be from any discipline it has access to (though it does not gain an additional cantrip if it is different).
+**Entwined Magics** — When picking spells for this character, the additional spells granted by Expert Sorcerer may be from any discipline it has access to (though it does not gain an additional cantrip if it is different).
 
 ## Capability
 

@@ -2,7 +2,7 @@
 layout: model
 title: Exorcist
 permalink: /factions/the-vatican/exorcist/
-description: "Mediocre combatant but a counter-pick vs casters; Exorcism gives a permanent +3 damage vs WP-0 models (notably Frenzied Strigoi)."
+description: "Mediocre combatant, it's a Disruptor with a permanent +3 damage vs WP-0 models, making him a good counterpick in certain situations (notably against Strigoi)."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Fear(-2)](/compendium/character-abilities/#fear-x)
 
-**Fear the Lord** — PULSE: pick 1 enemy within 6". Until end of round, whenever that char is hit by Combat, attacker gains Fear(-2)
+**Fear the Lord** — PULSE: Pick 1 enemy character within 6". Until the end of the round, whenever that character is hit by a Combat action, the attacker gains Fear(-2).
 
-**Helm of Penitence** — may attempt to Dispel magic as if Mage(3); enemy chars may not use WP when within 3" of this char
+**Helm of Penitence** — This character may attempt to Dispel magic spells as if it has Mage(3). In addition, enemy characters may not use Will Points when within 3" of this character.
 
-**Exorcism** — when Divine Touch causes at least 1 Damage, target loses 1WP; if target has 0WP remaining, attack instead does +3 Damage
+**Exorcism** — When making a Combat action with Divine Touch, if it causes at least 1 Damage, the target loses 1 Will Point. If the target has 0 Will Points remaining, the attack instead does +3 Damage.
 
 ## Capability
 

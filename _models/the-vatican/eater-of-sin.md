@@ -27,11 +27,11 @@ nav_section: Factions
 
 [Brave](/compendium/character-abilities/#brave), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
 
-**Let Your Sins Be Absolved** — when Combat with Compelled Confession causes at least 1 Damage, target loses 1WP
+**Let Your Sins Be Absolved** — When making a Combat action with Compelled Confession, if it causes at least 1 Damage, the target loses 1 Will Point.
 
-**Communion for the Sinless** — when kills an enemy with 0WP remaining, replenishes 2WP
+**Communion for the Sinless** — When this character kills an enemy character that has 0 Will Points remaining (after absolving its sins), it replenishes 2 Will Points.
 
-**He Searches Your Soul Alone** — enemy chars that can draw LOS to this char cannot use the MIND value of other chars
+**He Searches Your Soul Alone** — Enemy characters that can draw line of sight to this character cannot use the MIND value of other characters.
 
 ## Capability
 

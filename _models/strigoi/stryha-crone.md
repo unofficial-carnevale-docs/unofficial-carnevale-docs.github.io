@@ -2,7 +2,7 @@
 layout: model
 title: Stryha Crone
 permalink: /factions/strigoi/stryha-crone/
-description: "Fragile anti-armor alpha-striker; gives 3 models Infiltration to enable a turn-1 strike or terrain control."
+description: "Fragile anti-armor alpha-striker. She gives 3 models Infiltration to enable a strong alpha strike or terrain control."
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
@@ -28,9 +28,9 @@ nav_section: Factions
 
 [Concealment(2)](/compendium/character-abilities/#concealment-x), [Flight](/compendium/character-abilities/#flight), [Frenzied](/compendium/character-abilities/#frenzied), [Infiltration](/compendium/character-abilities/#infiltration), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
 
-**Natural Camouflage** — PULSE: pick one friendly character within 6". That character gains Concealment(+2) until end of game. A character can only be affected by this Command Ability once.
+**Natural Camouflage** — PULSE: Pick one friendly character within 6". That character gains Concealment (+2) until the end of the game. A character can only be affected by this Command Ability once.
 
-**Carrion** — before deployment, choose 3 friendly characters. They gain Infiltration.
+**Carrion** — Before deployment, choose 3 friendly characters. They gain Infiltration.
 
 ## Capability
 

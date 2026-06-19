@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Bulky](/compendium/character-abilities/#bulky), [Companion(End of Days)](/compendium/character-abilities/#companion-x), [First Strike(2)](/compendium/character-abilities/#first-strike-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless), [Slippery](/compendium/character-abilities/#slippery)
 
-**Toot Toot Toot... Charge!** — PULSE: up to 2 friendly characters within 3" may make an immediate Run/Climb action, but this movement must be used to charge an enemy (doesn't have to be the same enemy).
+**Toot Toot Toot... Charge!** — PULSE: Up to 2 friendly characters within 3" may make an immediate Run/Climb action, but this movement must be used to charge an enemy (doesn't have to be the same enemy!).
 
-**Doot** — whenever this character makes a Combat action with its Trumpet weapon, all friendly characters within 3" replenish 1 Will Point.
+**Doot** — Whenever this character makes a Combat action with its Trumpet weapon, all friendly characters within 3" cheer and replenish 1 Will Point.
 
 ## Capability
 

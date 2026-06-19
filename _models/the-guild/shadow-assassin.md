@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Slippery](/compendium/character-abilities/#slippery)
 
-**Fade to the Shadow** — (2AP): if this character is within 1" of impassable terrain, it can be removed from the board and then placed back down within 1" of another piece of impassable terrain on ground level at least 6" away from enemy characters.
+**Fade to the Shadow** — - 2AP: If this character is within 1" of impassable terrain, they can be removed from the board and then placed back down within 1" of another piece of impassable terrain on ground level at least 6" away from enemy characters.
 
 ## Capability
 

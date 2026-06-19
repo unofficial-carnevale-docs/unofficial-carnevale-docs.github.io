@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Fear(-1)](/compendium/character-abilities/#fear-x)
 
-**Sculler** — for each character with this ability in your gang, you may purchase 1 extra Gondola from the Equipment list. This character may be deployed in water or on a Gondola and may also re-roll failed dice rolls when making Row actions.
+**Sculler** — For each character with this ability, you may purchase 1 extra Gondola from the Equipment list. This character may be deployed in water or on a Gondola and may also re-roll failed dice rolls when making Row actions.
 
-**Dredge** — when this character makes a Row action, any friendly characters with the Water Creature special rule in base contact with the Gondola at the start of its movement may be placed in base contact with the Gondola at the end of its movement.
+**Dredge** — When this character makes a Row action, any friendly characters with the Water Creature special rule in base contact with the Gondola at the start of its movement may be placed in base contact with the Gondola at the end of its movement.
 
 ## Capability
 

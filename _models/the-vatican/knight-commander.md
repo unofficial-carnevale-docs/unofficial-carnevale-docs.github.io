@@ -2,7 +2,7 @@
 layout: model
 title: Knight Commander
 permalink: /factions/the-vatican/knight-commander/
-description: "Really strong all-round fighter; small incentive to play Hospitallers (too elite to field as a full sub-faction)."
+description: "Really strong all-round fighter with high damage and high protection but with a Full Plate (weak near water). He also gives a small buff to Hospitallers, but nothing worth of orienting the full gang around it."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Brave](/compendium/character-abilities/#brave), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Hunter](/compendium/character-abilities/#hunter), [Universal Shielding(4)](/compendium/character-abilities/#universal-shielding-x)
 
-**Fight Until the Last** — PULSE (out of sequence, start of round before initiative): pick 1 friendly in LOS within 6". If that char is reduced to 0LP before their turn, they are not removed — removed only after their turn is complete
+**Fight Until the Last** — PULSE: This Command Ability is used out of sequence, at the start of the round before rolling initiative. Pick 1 friendly character in line of sight within 6". If that character is reduced to 0 Life Points before they take their turn, they are not removed from the board. Instead they are only removed after their turn is complete.
 
-**Destined For Victory** — all friendly Hospitaller chars may re-roll the Destiny Die on re-rolls as long as this char is on board
+**Destined For Victory** — All friendly characters with the Hospitaller keyword may choose to re-roll the Destiny Dice when making re-rolls as long as this character is on the board.
 
-**Full Plate** — if this char enters water, receives Stunned counter only removed if ends turn out of water
+**Full Plate** — If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
 
 ## Capability
 

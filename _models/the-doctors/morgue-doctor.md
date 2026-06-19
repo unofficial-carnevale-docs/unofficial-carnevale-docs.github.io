@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Mage(2)](/compendium/character-abilities/#mage-x)
 
-**Power Over Death** — PULSE (out of sequence, when any other friendly within 3" is killed): Basic MIND Roll. Success = each Ace rolled, target replenishes 2LP. Fail = no effect. Critical = each Ace rolled, target replenishes 4LP. Tumble = this char loses half remaining LP (rounding up).
+**Power Over Death** — PULSE: This Command Ability is used out of sequence, when any other friendly character within 3" is killed. Make a Basic MIND Roll: Success — For each Ace rolled, the target character replenishes 2 Life Points. Fail — No effect. Critical — For each Ace rolled, the target character replenishes 4 Life Points. Tumble — This character loses half its remaining Life Points (rounding up).
 
 ## Capability
 

@@ -27,11 +27,11 @@ nav_section: Factions
 
 [Brawler(2)](/compendium/character-abilities/#brawler-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless)
 
-**Nexus** — any character with the Doctor keyword within 6" and line of sight may use this character's Will Points as if they were their own.
+**Nexus** — Any character with the Doctor keyword within 6" and line of sight may use this character's Will Points as if they were their own.
 
-**Detonation** — when placing the Blast template for Soul Bombard, it must be centred over this character (and is also hit).
+**Detonation** — When placing the Blast template for Soul Bombard, it must be centred over this character (and is also hit).
 
-**Explosive Mind** — whenever this character loses Will Points (through using them itself or being used as part of the Nexus special rule), after the action is resolved, it must immediately make an out of sequence Combat action using Soul Bombard. This is done only once per action. Combat actions caused by Explosive Mind cannot cause additional Combat actions.
+**Explosive Mind** — Whenever this character loses Will Points (through using them itself or being used as part of the Nexus special rule), after the action is resolved, it must immediately make an out of sequence Combat action using Soul Bombard. This is done only once per action. Combat actions caused by Explosive Mind cannot cause additional Combat actions.
 
 ## Capability
 

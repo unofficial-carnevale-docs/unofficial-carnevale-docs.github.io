@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Companion(Invoker)](/compendium/character-abilities/#companion-x), [Fear(-1)](/compendium/character-abilities/#fear-x), [Flight](/compendium/character-abilities/#flight), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
 
-**Burn With The Fire of Charity** — while within 6" of this char, friendly chars are immune to Stun, Poisoned, and their own Full Plate abilities; end of each friendly char's turn, remove Stun counters from friendly chars within 6"
+**Burn With The Fire of Charity** — While within 6" of this character, friendly characters are immune to the Stun, Poisoned, and their own Full Plate abilities. At the end of each friendly character's turn, remove any Stun counters from friendly characters within 6" of this character.
 
 ## Capability
 

@@ -27,11 +27,11 @@ nav_section: Factions
 
 [Acrobatic(2)](/compendium/character-abilities/#acrobatic-x), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [First Strike(1)](/compendium/character-abilities/#first-strike-x), [Parry(2)](/compendium/character-abilities/#parry-x)
 
-**Undying Deathseeker** — when this character is killed, do not remove it from the board; it remains in play but cannot be targeted or chosen. At the start of the next round, make a Basic MIND Roll (Will Points may be used as normal). If successful, this character comes back to life with 7 Life Points. If unsuccessful, the character is completely dead and removed from the board.
+**Undying Deathseeker** — When this character is killed, do not remove it from the board, it remains in play but cannot be targeted or chosen. At the start of the next round, make a Basic MIND Roll (Will Points may be used as normal). If successful, this character comes back to life with 7 Life Points. If the MIND Roll is unsuccessful, the character is completely dead and removed from the board.
 
-**Ronin** — this character cannot receive ORDER or COUNTER Commands.
+**Ronin** — This character cannot receive ORDER or COUNTER Commands.
 
-**Hōfuku Kōgeki** — if this character's Undying Deathseeker roll is a critical, it may make either a 0AP Attack of Opportunity against an enemy character in base contact, or it may make a 0AP Run/Climb action but must end in base contact with an enemy character.
+**Hōfuku Kōgeki** — If this character's Undying Deathseeker roll is a critical, it may make either a 0AP Attack of Opportunity against an enemy character in base contact, or it may make a 0AP Run/Climb action, but must end this action in base contact with an enemy character.
 
 ## Capability
 

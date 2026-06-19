@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Boat Crew](/compendium/character-abilities/#boat-crew), [Concealment(1)](/compendium/character-abilities/#concealment-x)
 
-**Smuggling** — when you achieve an Agenda, one friendly character within 6" and line of sight replenishes 1 Command Point.
+**Smuggling** — When you achieve an Agenda, one character within 6" and line of sight replenishes 1 Command Point.
 
 ## Capability
 

@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Companion(End of Days)](/compendium/character-abilities/#companion-x), [Mindless](/compendium/character-abilities/#mindless)
 
-**Fancy a Tipple?** — AURA: end of round, friendly chars within 3" gain Brave and First Strike(1)
+**Fancy a Tipple?** — AURA: Until the end of the round, any friendly characters within 3" gain Brave and First Strike (1).
 
-**Keep it Flowing** — any enemy in base contact with this char can be the target of a Drown action, regardless of water
+**Keep it Flowing** — Any enemy character in base contact with this character can be the target of a Drown action, regardless of whether they're in water.
 
-**Flambé** — may only use Flaming Bottles when within 3" of a Pulcinella Firebreather
+**Flambé** — This character may only use Flaming Bottles when within 3" of a Pulcinella Firebreather.
 
 ## Capability
 

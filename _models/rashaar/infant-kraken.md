@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Concealment(2)](/compendium/character-abilities/#concealment-x), [Primitive](/compendium/character-abilities/#primitive), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**One Mind** — when this character makes a Combat action, it gains +1 to its ATTACK for every other Infant Kraken in base contact with the target.
+**One Mind** — When this character makes a Combat action, it gains +1 to its ATTACK for every other Infant Kraken in base contact with the target.
 
-**Writhe Inside** — when this character successfully damages an enemy character (after its Protection roll), you may remove this character from the game as if it were killed. If you do, place it on the damaged character's card. For the rest of the game, that character always counts as having a Stun counter.
+**Writhe Inside** — When this character successfully damages an enemy character (after its Protection roll), you may remove this character from the game as if it were killed. If you do, place it on the damaged character's card. For the rest of the game, that character always counts as having a Stun counter.
 
 ## Capability
 

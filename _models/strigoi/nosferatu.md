@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Concealment(1)](/compendium/character-abilities/#concealment-x), [Frenzied](/compendium/character-abilities/#frenzied), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
 
-**Shadow Walker** — PULSE: pick one friendly character with the Vampire keyword within 1". Remove this character and place them anywhere within 8" of this character, out of base contact. This placement does not cause Attacks of Opportunity.
+**Shadow Walker** — PULSE: Pick one friendly character with the Vampire keyword within 1". Remove this character and place them anywhere out of base contact within 8" of this character. This placement does not cause Attacks of Opportunity.
 
 ## Capability
 

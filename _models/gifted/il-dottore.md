@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Engage](/compendium/character-abilities/#engage)
 
-**Bored to Inaction** — any character (friendly or enemy) within 3" of Il Dottore does not benefit from any Commands used on them, including any Command Abilities they may be in range of. Il Dottore can be the target of Commands as normal.
+**Bored to Inaction** — Any character (friendly or enemy) within 3" of Il Dottore must listen to him drone on. These characters do not benefit from any Commands used on them, including any Command Abilities they may be in range of. Il Dottore finds himself extremely interesting, and so can be the target of Commands as normal.
 
 ## Capability
 

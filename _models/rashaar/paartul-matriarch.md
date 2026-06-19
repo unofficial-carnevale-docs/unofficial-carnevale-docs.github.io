@@ -2,7 +2,7 @@
 layout: model
 title: Paartul Matriarch
 permalink: /factions/rashaar/paartul-matriarch/
-description: "No personal offense unless set up; unique body-spawning, and supports Feral characters."
+description: "She has weak stats but the unique ability to summon one Crybaby per turn, small annoying bodies that can be attacked by allies to loose Mindless. Build around Feral monsters, notably giving them Companion (Leader)."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
@@ -28,11 +28,11 @@ nav_section: Factions
 
 [Bulky](/compendium/character-abilities/#bulky), [Fear(-1)](/compendium/character-abilities/#fear-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Birth** — PULSE: place one Crybaby within 6" of this character; the new Crybaby acts just like any other friendly character and may be activated this round as normal
+**Birth** — PULSE: Place one Crybaby within 6" of this character. The new Crybaby acts just like any other friendly character, and can be activated this round as normal.
 
-**Matriarch** — all friendly characters with the Feral keyword gain Companion(Leader) as long as this character is on the board
+**Matriarch** — All friendly characters with the Feral keyword gain Companion (Leader) as long as this character is on the board.
 
-**Postpartum** — if one or more Crybabies are killed within 6" of this character during a round, it gains +3 ATTACK for the rest of that round
+**Postpartum** — If one or more Crybabies are killed within 6" of this character, it gains +3 ATT for the rest of the round.
 
 ## Capability
 

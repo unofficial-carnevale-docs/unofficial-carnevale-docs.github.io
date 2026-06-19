@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Brave](/compendium/character-abilities/#brave), [Universal Shielding(5)](/compendium/character-abilities/#universal-shielding-x)
 
-**Holy Relic** — any other friendly starting their turn within 6" of this char replenishes 1WP
+**Holy Relic** — Any other friendly character (not including this one) that starts their turn within 6" of this character replenishes 1 Will Point.
 
-**Righteous Zeal** — every friendly gains Brave while in LOS of this char
+**Righteous Zeal** — Every friendly character gains Brave while in line of sight of this character.
 
 ## Capability
 

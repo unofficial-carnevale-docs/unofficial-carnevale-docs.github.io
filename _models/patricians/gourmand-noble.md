@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Engage](/compendium/character-abilities/#engage), [Fear(0)](/compendium/character-abilities/#fear-x), [Mindless](/compendium/character-abilities/#mindless)
 
-**The Other, Other White Meat** — AURA: until end of round, every other friendly character in line of sight gains the Flesheater ability while in line of sight of this character
+**The Other, Other White Meat** — AURA: Until the end of the round, every other friendly character in line of sight gains the Flesheater ability while in line of sight of this character.
 
-**Flesheater** — if this character makes a Combat action against a target in base contact that causes it to lose at least 1 Life Point, it replenishes 1 Will Point
+**Flesheater** — If this character makes a Combat action against a target in base contact that causes it to lose at least 1 Life Point, it replenishes 1 Will Point.
 
 ## Capability
 

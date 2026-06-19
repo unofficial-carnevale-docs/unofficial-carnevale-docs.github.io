@@ -28,7 +28,7 @@ nav_section: Factions
 
 [Companion(Vampire)](/compendium/character-abilities/#companion-x)
 
-**Bloodletting** — at the start of a friendly Vampire character's turn, if they are within 3" of this character, they may drain blood. The Vampire character gains 1AP to use during their turn, and the Thrall loses 4 Life Points. This may only be done if the Thrall has at least 4 Life Points remaining, and can result in them dying.
+**Bloodletting** — At the start of a friendly character with the *Vampire* keyword's turn, if they are within 3" of this character they may drain blood. The *Vampire* character gains 1AP to use during their turn, and the Thrall loses 4 Life Points. This may only be done if the Thrall has **at least** 4 Life Points remaining, and can result in them dying!
 
 ## Capability
 

@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Pickpocket](/compendium/character-abilities/#pickpocket)
 
-**Hoarded Wealth** — at the end of each round, if this character hasn't used any Will Points during that round, he gains 1 Will Point. This can take him above his starting number.
+**Hoarded Wealth** — At the end of each round, if this character hasn't used any Will Points during that round, he gains 1 Will Point. This can take him above his starting number.
 
 ## Capability
 

@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Brave](/compendium/character-abilities/#brave), [First Strike(1)](/compendium/character-abilities/#first-strike-x), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
 
-**The End is Near** — at the start of each of this character's turns, this character loses 2 Life Points and gains +1 to either MOVEMENT, DEXTERITY, or ATTACK for the rest of the game.
+**The End is Near** — At the start of each of this character's turns, this character loses 2 Life Points and gains +1 to either MOVEMENT, DEXTERITY, or ATTACK for the rest of the game.
 
 ## Capability
 

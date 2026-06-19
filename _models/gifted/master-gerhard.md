@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
 
-**Armourer** — at start of game, select friendly char for a Mask — gains Universal Shielding(2). Also: whenever this char makes Combat against a char with 0WP remaining, if attack deals at least 1 Damage, increase Damage by 1 (before Protection rolls). Can only give a single Mask; Unique Gifted without Mindless cannot receive a Mask.
+**Armourer** — At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks. For the entirety of the game that character gains one of the following: Universal Shielding(2). Whenever this character makes a Combat action against a character with 0 Will Points remaining, if the attack deals at least 1 Damage, increase the damage caused by 1 (before any Protection rolls). A character can only be given a single Mask. Unique characters without Faction(Gifted) and Mindless characters cannot be given a Mask.
 
 ## Capability
 

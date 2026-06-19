@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Mage(2)](/compendium/character-abilities/#mage-x), [Slippery](/compendium/character-abilities/#slippery)
 
-**Soothsaying** — PULSE: for every enemy char in LOS, add a re-roll to Soothsaying Pool; friendly chars may use these re-rolls on any roll this round (one per die)
+**Soothsaying** — PULSE: For every enemy character in line of sight to this character, add a re-roll to your Soothsaying Pool. Until the end of the round, any friendly character may use these re-rolls on any roll this round - one re-roll per dice.
 
-**Premonition** — whenever rolling dice for this char, may re-roll the Destiny Die
+**Premonition** — Whenever rolling dice for this character, you may re-roll the Destiny Dice.
 
 ## Capability
 

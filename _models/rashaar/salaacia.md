@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Fast Swimmer(1)](/compendium/character-abilities/#fast-swimmer-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Dimensional Pool** — after resolving an attack with the Water Portal, leave the blast marker in place. Until the end of the round the space beneath counts as water.
+**Dimensional Pool** — After resolving an attack with the Water Portal, leave the the blast marker in place. Until the end of the round the space beneath counts as water.
 
-**Gusher** — this character can make Drown actions against opponents no matter whether they're in water or not. Additionally, it gains +2 ATTACK when making a Drown action.
+**Gusher** — This character can make Drown actions against opponents no matter whether they're in water or not. Additionally, it gains +2 ATTACK when making a Drown action.
 
 ## Capability
 

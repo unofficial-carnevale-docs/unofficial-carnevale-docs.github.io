@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Concealment(1)](/compendium/character-abilities/#concealment-x)
 
-**Split Personalities** — at the start of this character's turn, he puts on a mask. Pick one of the following for the Mask Maker to gain until the start of his next turn: Fear(-2); Slippery; Vampiric Attack(2); Water Creature.
+**Split Personalities** — At the start of this character's turn, he puts on a mask. Pick one of the following for the Mask Maker to gain until the start of his next turn: Fear(-2), Slippery, Vampiric Attack(2), Water Creature.
 
 ## Capability
 

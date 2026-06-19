@@ -27,9 +27,9 @@ nav_section: Factions
 
 [Ethereal](/compendium/character-abilities/#ethereal), [Mindless](/compendium/character-abilities/#mindless), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
 
-**A Light in the Dark** — every time another char uses 2+ of their own WP in a single action, this char replenishes 2WP. Additionally, this char may use more than 2WP to increase a roll.
+**A Light in the Dark** — Every time another character uses 2 of their own Will Points (and not those from other characters) in a single action, this character replenishes 2 Will Points. Additionally, this character may use more than 2 Will Points to increase a roll.
 
-**Reflected Reality** — unless this char has been killed, every time you draw Agendas, draw one extra, look, then discard one.
+**Reflected Reality** — Unless this character has been killed, every time you draw Agendas, draw one extra, take a look, and then discard one.
 
 ## Capability
 

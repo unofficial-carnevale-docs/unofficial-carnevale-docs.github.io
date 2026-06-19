@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Engage](/compendium/character-abilities/#engage), [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x), [Fear(-1)](/compendium/character-abilities/#fear-x), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x), [Water Creature](/compendium/character-abilities/#water-creature)
 
-**Climbing Suckers** — when this character makes a DEXTERITY roll as part of a Run/Climb action, it counts all fumbles as failures.
+**Climbing Suckers** — When this character makes a DEXTERITY roll as part of a Run/Climb action, it counts all fumbles as failures.
 
 ## Capability
 

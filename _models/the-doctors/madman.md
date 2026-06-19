@@ -27,7 +27,7 @@ nav_section: Factions
 
 [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless)
 
-**Nexus** — any character with the Doctor keyword within 6" and line of sight may use this character's Will Points as if they were their own.
+**Nexus** — Any character with the Doctor keyword within 6" and line of sight may use this character's Will Points as if they were their own.
 
 ## Capability
 

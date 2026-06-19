@@ -29,9 +29,9 @@ nav_section: Factions
 
 [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Parry(2)](/compendium/character-abilities/#parry-x)
 
-**Toughen Up** — AURA: end of round, friendly chars within 6" gain Expert Protection(3)
+**Toughen Up** — AURA: Until the end of the round, any friendly characters within 6" gain Expert Protection (3).
 
-**Born to Swim** — other friendly chars add +2 to Fast Swimmer value; chars without Fast Swimmer gain Fast Swimmer(2)
+**Born to Swim** — Other friendly characters add +2 to their Fast Swimmer number as long as this character is on the board. Friendly characters without Fast Swimmer instead gain Fast Swimmer (2).
 
 ## Capability
 
