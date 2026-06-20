@@ -218,10 +218,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| [Patriarch Bishop de Bernis](/factions/the-vatican/patriarch-bishop-de-bernis/) | Support (mage) / Damage Dealer (magic) | 5.37 | 10.6 | 0.224 | 0.44 |
-| [Father Cesta](/factions/the-vatican/father-cesta/) | Support (mage, Constructs) | 3.24 | 8.8 | 0.135 | 0.37 |
+| [Patriarch Bishop de Bernis](/factions/the-vatican/patriarch-bishop-de-bernis/) | Support (mage) / Damage Dealer (magic) | 2.60 | 10.6 | 0.108 | 0.44 |
+| [Father Cesta](/factions/the-vatican/father-cesta/) | Support (mage, Constructs) | 2.40 | 8.8 | 0.100 | 0.37 |
 | [Exorcist](/factions/the-vatican/exorcist/) | Disruptor | 1.13 | 14.9 | 0.057 | 0.74 |
-| [Inquisitor](/factions/the-vatican/inquisitor/) | Damage Dealer (magic) / Support (offensive, magic) | 4.94 | 14.1 | 0.225 | 0.64 |
+| [Inquisitor](/factions/the-vatican/inquisitor/) | Damage Dealer (magic) / Support (offensive, magic) | 3.26 | 14.1 | 0.148 | 0.64 |
 | [Knight Commander](/factions/the-vatican/knight-commander/) | Brawler | 4.74 | 22.4 | 0.226 | 1.07 |
 
 #### Summary of troops
@@ -230,31 +230,31 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Role | n | EDPA med | EDPA/Duc med | above E/Duc bar | ATK2K med | ATK2K/Duc med | above A2/Duc bar |
 |---|---|---|---|---|---|---|---|
-| Damage Dealer | 7 | 3.29 | 0.224 | 5/7 | 13.7 | 0.88 | 5/7 |
+| Damage Dealer | 7 | 3.13 | 0.206 | 7/7 | 13.7 | 0.88 | 5/7 |
 | Brawler | 8 | 3.70 | 0.215 | 5/8 | 22.9 | 1.32 | 4/8 |
 | Assassin | 1 | 2.68 | 0.134 | 0/1 | 10.6 | 0.53 | 0/1 |
 | Sniper | 2 | 1.59 | 0.119 | 1/2 | 14.6 | 1.16 | 2/2 |
 | Canal Fighter | 1 | 2.68 | 0.149 | 0/1 | 18.0 | 1.00 | 1/1 |
 | Tank | 1 | 2.86 | 0.191 | 1/1 | 33.6 | 2.24 | 1/1 |
 | Disruptor | 3 | 1.63 | 0.102 | 1/3 | 11.5 | 0.72 | 1/3 |
-| Support | 12 | 1.25 | 0.126 | 7/12 | 9.7 | 0.72 | 4/12 |
+| Support | 12 | 1.25 | 0.122 | 7/12 | 9.7 | 0.72 | 4/12 |
 | Objective Runner | 1 | 1.50 | 0.136 | 1/1 | 10.9 | 0.99 | 1/1 |
 | Line Fighter | 7 | 1.43 | 0.142 | 2/7 | 9.7 | 1.08 | 5/7 |
 | Specialist | 4 | 2.23 | 0.131 | 3/4 | 13.4 | 0.82 | 3/4 |
 
-#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.184, ATK2K/Duc 0.73)*
 
 *ATK2K median overstates this role: typical 13.7, average 12.3, with 2 models well below the pack (down to 6.9), so the durability floor is lower than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Prelate of the Flaming Sword](/factions/the-vatican/prelate-of-the-flaming-sword/) | 4.52 | 0.301 | ✓ | 18.0 | 1.20 | ✓ |
-| [Stigmatist](/factions/the-vatican/stigmatist/) | 3.34 | 0.257 | ✓ | 7.3 | 0.56 | – |
 | [Executioner](/factions/the-vatican/executioner/) | 2.97 | 0.247 | ✓ | 6.9 | 0.58 | – |
 | [Templar Marshal](/factions/the-vatican/templar-marshal/) | 3.13 | 0.224 | ✓ | 13.7 | 0.98 | ✓ |
 | [Inquisition Commissioner](/factions/the-vatican/inquisition-commissioner/) | 3.29 | 0.206 | ✓ | 13.7 | 0.86 | ✓ |
-| [Felix Baumgartner](/factions/the-vatican/felix-baumgartner/) | 3.29 | 0.194 | – | 14.9 | 0.88 | ✓ |
-| [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/) | 2.40 | 0.185 | – | 11.5 | 0.88 | ✓ |
+| [Felix Baumgartner](/factions/the-vatican/felix-baumgartner/) | 3.29 | 0.194 | ✓ | 14.9 | 0.88 | ✓ |
+| [Stigmatist](/factions/the-vatican/stigmatist/) | 2.49 | 0.192 | ✓ | 7.3 | 0.56 | – |
+| [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/) | 2.40 | 0.185 | ✓ | 11.5 | 0.88 | ✓ |
 
 #### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
 
@@ -269,7 +269,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Knight of the Holy Sepulchre](/factions/the-vatican/knight-of-the-holy-sepulchre/) | 3.25 | 0.191 | – | 28.8 | 1.69 | ✓ |
 | [Gethsemane](/factions/the-vatican/gethsemane/) | 4.10 | 0.111 | – | 26.3 | 0.71 | – |
 
-#### Assassin  *(bars: E/Duc 0.198, ATK2K/Duc 0.59)*
+#### Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -308,17 +308,15 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
 
-*EDPA median understates this role: typical 1.25, average 1.48, with 4 models well above the pack (up to 3.24), so the offensive ceiling is higher than the median suggests.*
-
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Celestial Congregation](/factions/the-vatican/celestial-congregation/) | 2.91 | 0.194 | ✓ | 11.0 | 0.73 | – |
 | [Silere Priest](/factions/the-vatican/silere-priest/) | 3.10 | 0.194 | ✓ | 11.2 | 0.70 | – |
-| [Galilean Priest](/factions/the-vatican/galilean-priest/) | 3.24 | 0.191 | ✓ | 9.7 | 0.57 | – |
 | [Conventual Chaplain](/factions/the-vatican/conventual-chaplain/) | 1.99 | 0.153 | ✓ | 9.7 | 0.75 | – |
 | [Celestial Spirit](/factions/the-vatican/celestial-spirit/) | 1.50 | 0.150 | ✓ | 8.7 | 0.87 | ✓ |
 | [Cherubim](/factions/the-vatican/cherubim/) | 1.01 | 0.126 | ✓ | 4.5 | 0.56 | – |
 | [Cross-bearing Deacon](/factions/the-vatican/cross-bearing-deacon/) | 1.75 | 0.125 | ✓ | 18.0 | 1.29 | ✓ |
+| [Galilean Priest](/factions/the-vatican/galilean-priest/) | 2.04 | 0.120 | ✓ | 9.7 | 0.57 | – |
 | [Reliquary Page](/factions/the-vatican/reliquary-page/) | 0.44 | 0.049 | – | 8.7 | 0.97 | ✓ |
 | [Lacrimosa](/factions/the-vatican/lacrimosa/) | 0.44 | 0.044 | – | 8.8 | 0.88 | ✓ |
 | [Altar Boy](/factions/the-vatican/altar-boy/) | 0.44 | 0.040 | – | 6.5 | 0.59 | – |
@@ -331,7 +329,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | [Inquisitorial Spy](/factions/the-vatican/inquisitorial-spy/) | 1.50 | 0.136 | ✓ | 10.9 | 0.99 | ✓ |
 
-#### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
+#### Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*
 
 *ATK2K median understates this role: typical 9.7, average 11.9, with 1 model well above the pack (up to 18.0), so the durability ceiling is higher than the median suggests.*
 

@@ -33,11 +33,9 @@ nav_section: Factions
 
 ## Capability
 
-EDPA **4.38** · EDPA/Duc **0.274** · ATK2K **9.7** · ATK2K/Duc **0.61**
+EDPA **2.66** · EDPA/Duc **0.166** · ATK2K **9.7** · ATK2K/Duc **0.61**
 
 *Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
-
-*Upper EDPA outlier: among this faction's Supports the median is 1.75, but this model reaches 4.38, so the role median understates models like this.*
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -46,16 +44,16 @@ EDPA **4.38** · EDPA/Duc **0.274** · ATK2K **9.7** · ATK2K/Duc **0.61**
 
 ### EDPA by target
 
-*Best spell: Summon Vermin*
+*Sustained: spell:summon verminx1+spell:groundsnapx1*
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 5.31 | 2.49 |
-| Balanced (Dex4/Prot3) | 4.38 | 1.46 |
-| Evasive (Dex6/Prot2) | 4.83 | 1.30 |
-| Armoured (Dex4/Prot5) | 3.55 | 0.87 |
-| Tank (Dex4/Prot5/US5) | 3.55 | 0.67 |
-| Parry (Dex5/Prot3/Parry2) | 4.38 | 0.92 |
+| Soft (Dex3/Prot1) | 3.54 | 2.41 |
+| Balanced (Dex4/Prot3) | 2.66 | 1.46 |
+| Evasive (Dex6/Prot2) | 3.06 | 1.30 |
+| Armoured (Dex4/Prot5) | 2.03 | 0.87 |
+| Tank (Dex4/Prot5/US5) | 2.11 | 0.67 |
+| Parry (Dex5/Prot3/Parry2) | 2.66 | 0.92 |
 
 
 </div>
@@ -71,6 +69,25 @@ EDPA **4.38** · EDPA/Duc **0.274** · ATK2K **9.7** · ATK2K/Duc **0.61**
 | Elite (Atk5, Dmg+1) | 3.38 | 3.3 | 3.3 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.0 | 5.3 |
 | Drown (Atk3) | 1.90 | 5.8 | 5.8 |
+
+</div>
+</div>
+
+<div class="model-pairs">
+<div>
+
+### Burst EDPA by target
+
+*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
+
+| Target | Burst EDPA | Median |
+|---|---|---|
+| Soft (Dex3/Prot1) | 5.31 | 2.50 |
+| Balanced (Dex4/Prot3) | 4.38 | 1.50 |
+| Evasive (Dex6/Prot2) | 4.83 | 1.30 |
+| Armoured (Dex4/Prot5) | 3.55 | 0.87 |
+| Tank (Dex4/Prot5/US5) | 3.55 | 0.67 |
+| Parry (Dex5/Prot3/Parry2) | 4.38 | 0.93 |
 
 </div>
 </div>

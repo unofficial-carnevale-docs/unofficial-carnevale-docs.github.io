@@ -31,11 +31,11 @@ nav_section: Factions
 
 ## Capability
 
-EDPA **3.73** · EDPA/Duc **0.207** · ATK2K **10.6** · ATK2K/Duc **0.59**
+EDPA **2.31** · EDPA/Duc **0.128** · ATK2K **10.6** · ATK2K/Duc **0.59**
 
 *Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
 
-*Upper EDPA outlier: among this faction's Supports the median is 1.13, but this model reaches 3.73, so the role median understates models like this.*
+*Upper EDPA outlier: among this faction's Supports the median is 1.13, but this model reaches 2.31, so the role median understates models like this.*
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -44,16 +44,16 @@ EDPA **3.73** · EDPA/Duc **0.207** · ATK2K **10.6** · ATK2K/Duc **0.59**
 
 ### EDPA by target
 
-*Best spell: Summon Vermin*
+*Sustained: spell:summon verminx1+spell:groundsnapx1*
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 4.63 | 2.49 |
-| Balanced (Dex4/Prot3) | 3.73 | 1.46 |
-| Evasive (Dex6/Prot2) | 4.18 | 1.30 |
-| Armoured (Dex4/Prot5) | 2.93 | 0.87 |
-| Tank (Dex4/Prot5/US5) | 2.93 | 0.67 |
-| Parry (Dex5/Prot3/Parry2) | 3.73 | 0.92 |
+| Soft (Dex3/Prot1) | 3.14 | 2.41 |
+| Balanced (Dex4/Prot3) | 2.31 | 1.46 |
+| Evasive (Dex6/Prot2) | 2.72 | 1.30 |
+| Armoured (Dex4/Prot5) | 1.68 | 0.87 |
+| Tank (Dex4/Prot5/US5) | 1.68 | 0.67 |
+| Parry (Dex5/Prot3/Parry2) | 2.31 | 0.92 |
 
 
 </div>
@@ -69,6 +69,25 @@ EDPA **3.73** · EDPA/Duc **0.207** · ATK2K **10.6** · ATK2K/Duc **0.59**
 | Elite (Atk5, Dmg+1) | 3.38 | 3.5 | 3.3 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.5 | 5.3 |
 | Drown (Atk3) | 2.30 | 5.2 | 5.8 |
+
+</div>
+</div>
+
+<div class="model-pairs">
+<div>
+
+### Burst EDPA by target
+
+*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
+
+| Target | Burst EDPA | Median |
+|---|---|---|
+| Soft (Dex3/Prot1) | 4.63 | 2.50 |
+| Balanced (Dex4/Prot3) | 3.73 | 1.50 |
+| Evasive (Dex6/Prot2) | 4.18 | 1.30 |
+| Armoured (Dex4/Prot5) | 2.93 | 0.87 |
+| Tank (Dex4/Prot5/US5) | 2.93 | 0.67 |
+| Parry (Dex5/Prot3/Parry2) | 3.73 | 0.93 |
 
 </div>
 </div>

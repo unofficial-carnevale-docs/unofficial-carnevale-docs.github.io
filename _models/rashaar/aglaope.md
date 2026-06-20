@@ -31,7 +31,7 @@ nav_section: Factions
 
 ## Capability
 
-EDPA **2.75** · EDPA/Duc **0.229** · ATK2K **6.3** · ATK2K/Duc **0.53**
+EDPA **1.59** · EDPA/Duc **0.133** · ATK2K **6.3** · ATK2K/Duc **0.53**
 
 *Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
 
@@ -42,16 +42,16 @@ EDPA **2.75** · EDPA/Duc **0.229** · ATK2K **6.3** · ATK2K/Duc **0.53**
 
 ### EDPA by target
 
-*Best spell: Summon Vermin*
+*Sustained: spell:summon verminx1+unarmedx1*
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 3.64 | 2.49 |
-| Balanced (Dex4/Prot3) | 2.75 | 1.46 |
-| Evasive (Dex6/Prot2) | 3.19 | 1.30 |
-| Armoured (Dex4/Prot5) | 2.00 | 0.87 |
-| Tank (Dex4/Prot5/US5) | 2.00 | 0.67 |
-| Parry (Dex5/Prot3/Parry2) | 2.75 | 0.92 |
+| Soft (Dex3/Prot1) | 2.32 | 2.41 |
+| Balanced (Dex4/Prot3) | 1.59 | 1.46 |
+| Evasive (Dex6/Prot2) | 1.83 | 1.30 |
+| Armoured (Dex4/Prot5) | 1.12 | 0.87 |
+| Tank (Dex4/Prot5/US5) | 1.16 | 0.67 |
+| Parry (Dex5/Prot3/Parry2) | 1.52 | 0.92 |
 
 
 </div>
@@ -66,6 +66,25 @@ EDPA **2.75** · EDPA/Duc **0.229** · ATK2K **6.3** · ATK2K/Duc **0.53**
 | Baseline (Atk3) | 1.59 | 6.3 | 9.7 |
 | Elite (Atk5, Dmg+1) | 3.80 | 2.6 | 3.3 |
 | Penetrator (Atk3, Pen−3) | 1.90 | 5.3 | 5.3 |
+
+</div>
+</div>
+
+<div class="model-pairs">
+<div>
+
+### Burst EDPA by target
+
+*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
+
+| Target | Burst EDPA | Median |
+|---|---|---|
+| Soft (Dex3/Prot1) | 3.64 | 2.50 |
+| Balanced (Dex4/Prot3) | 2.75 | 1.50 |
+| Evasive (Dex6/Prot2) | 3.19 | 1.30 |
+| Armoured (Dex4/Prot5) | 2.00 | 0.87 |
+| Tank (Dex4/Prot5/US5) | 2.00 | 0.67 |
+| Parry (Dex5/Prot3/Parry2) | 2.75 | 0.93 |
 
 </div>
 </div>

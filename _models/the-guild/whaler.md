@@ -33,7 +33,7 @@ nav_section: Factions
 
 EDPA **4.22** · EDPA/Duc **0.248** · ATK2K **10.0** · ATK2K/Duc **0.59**
 
-*Damage Dealer median: EDPA **2.95** · EDPA/Duc **0.195** · ATK2K **10.8** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.88** · EDPA/Duc **0.184** · ATK2K **10.8** · ATK2K/Duc **0.73***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -46,10 +46,10 @@ EDPA **4.22** · EDPA/Duc **0.248** · ATK2K **10.0** · ATK2K/Duc **0.59**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 5.58 | 4.01 |
-| Balanced (Dex4/Prot3) | 4.22 | 2.95 |
+| Soft (Dex3/Prot1) | 5.58 | 3.79 |
+| Balanced (Dex4/Prot3) | 4.22 | 2.88 |
 | Evasive (Dex6/Prot2) | 3.61 | 2.52 |
-| Armoured (Dex4/Prot5) | 3.40 | 2.17 |
+| Armoured (Dex4/Prot5) | 3.40 | 2.15 |
 | Tank (Dex4/Prot5/US5) | 3.40 | 1.90 |
 | Parry (Dex5/Prot3/Parry2) | 3.75 | 2.13 |
 

@@ -191,7 +191,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
 | [Vlad Dracula](/factions/strigoi/vlad-dracula/) | Brawler | 5.08 | 50.3 | 0.188 | 1.86 |
-| [Blood Crone](/factions/strigoi/blood-crone/) | Support (mage) / Damage Dealer (magic) | 4.94 | 11.5 | 0.274 | 0.64 |
+| [Blood Crone](/factions/strigoi/blood-crone/) | Support (mage) / Damage Dealer (magic) | 3.72 | 11.5 | 0.207 | 0.64 |
 | [Noble Strigoi](/factions/strigoi/noble-strigoi/) | Damage Dealer (melee) / Support (Vampire) | 2.32 | 18.4 | 0.111 | 0.88 |
 | [Stryha Crone](/factions/strigoi/stryha-crone/) | Assassin (flying, infiltration) | 3.90 | 7.6 | 0.177 | 0.35 |
 | [Wallachian Hospodar](/factions/strigoi/wallachian-hospodar/) | Brawler (durable) | 3.10 | 35.1 | 0.148 | 1.67 |
@@ -202,39 +202,39 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Role | n | EDPA med | EDPA/Duc med | above E/Duc bar | ATK2K med | ATK2K/Duc med | above A2/Duc bar |
 |---|---|---|---|---|---|---|---|
-| Damage Dealer | 10 | 3.00 | 0.176 | 4/10 | 9.4 | 0.57 | 2/10 |
-| Assassin | 3 | 3.52 | 0.133 | 0/3 | 10.0 | 0.52 | 0/3 |
+| Damage Dealer | 10 | 2.88 | 0.168 | 3/10 | 9.4 | 0.57 | 2/10 |
+| Assassin | 3 | 3.52 | 0.133 | 1/3 | 10.0 | 0.52 | 0/3 |
 | Canal Fighter | 4 | 3.02 | 0.205 | 3/4 | 7.8 | 0.63 | 0/4 |
 | Tank | 1 | 3.10 | 0.194 | 1/1 | 22.9 | 1.43 | 0/1 |
 | Disruptor | 1 | 1.75 | 0.125 | 1/1 | 13.0 | 0.93 | 1/1 |
 | Harasser | 2 | 1.06 | 0.114 | 1/2 | 4.7 | 0.58 | 0/2 |
 | Support | 5 | 1.75 | 0.145 | 4/5 | 9.7 | 0.65 | 1/5 |
 | Objective Runner | 1 | 1.13 | 0.094 | 1/1 | 8.8 | 0.73 | 0/1 |
-| Line Fighter | 6 | 1.66 | 0.157 | 4/6 | 9.3 | 0.86 | 2/6 |
-| Specialist | 3 | 1.63 | 0.181 | 3/3 | 9.7 | 0.66 | 1/3 |
+| Line Fighter | 6 | 1.61 | 0.157 | 4/6 | 9.3 | 0.86 | 2/6 |
+| Specialist | 3 | 1.63 | 0.152 | 3/3 | 9.7 | 0.66 | 1/3 |
 
-#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.184, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Wallachian Impaler](/factions/strigoi/wallachian-impaler/) | 4.74 | 0.263 | ✓ | 12.4 | 0.69 | – |
 | [Hulking Moroi](/factions/strigoi/hulking-moroi/) | 3.59 | 0.256 | ✓ | 7.9 | 0.56 | – |
 | [Highborn Servant](/factions/strigoi/highborn-servant/) | 2.68 | 0.206 | ✓ | 12.4 | 0.95 | ✓ |
-| [Cibele](/factions/strigoi/cibele/) | 3.78 | 0.199 | ✓ | 9.8 | 0.52 | – |
 | [Moon Eater](/factions/strigoi/moon-eater/) | 4.10 | 0.178 | – | 9.0 | 0.39 | – |
 | [Zoryi](/factions/strigoi/zoryi/) | 3.31 | 0.174 | – | 16.8 | 0.88 | ✓ |
+| [Cibele](/factions/strigoi/cibele/) | 3.09 | 0.163 | – | 9.8 | 0.52 | – |
 | [Varcolae](/factions/strigoi/varcolae/) | 2.60 | 0.153 | – | 8.8 | 0.52 | – |
 | [Reaper](/factions/strigoi/reaper/) | 1.75 | 0.135 | – | 7.6 | 0.58 | – |
 | [Strige](/factions/strigoi/strige/) | 1.75 | 0.125 | – | 6.3 | 0.45 | – |
 | [Strigoi Sluger](/factions/strigoi/strigoi-sluger/) | 2.13 | 0.118 | – | 10.3 | 0.57 | – |
 
-#### Assassin  *(bars: E/Duc 0.198, ATK2K/Duc 0.59)*
+#### Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*
 
 *ATK2K median understates this role: typical 10.0, average 12.3, with 1 model well above the pack (up to 17.0), so the durability ceiling is higher than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| [Strzyga](/factions/strigoi/strzyga/) | 3.52 | 0.196 | – | 10.0 | 0.56 | – |
+| [Strzyga](/factions/strigoi/strzyga/) | 3.52 | 0.196 | ✓ | 10.0 | 0.56 | – |
 | [Monstrous Stryx](/factions/strigoi/monstrous-stryx/) | 5.31 | 0.133 | – | 17.0 | 0.42 | – |
 | [Ceres](/factions/strigoi/ceres/) | 1.75 | 0.092 | – | 9.8 | 0.52 | – |
 
@@ -268,11 +268,9 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
 
-*EDPA median understates this role: typical 1.75, average 2.22, with 1 model well above the pack (up to 4.38), so the offensive ceiling is higher than the median suggests.*
-
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| [Tarot Reader](/factions/strigoi/tarot-reader/) | 4.38 | 0.274 | ✓ | 9.7 | 0.61 | – |
+| [Tarot Reader](/factions/strigoi/tarot-reader/) | 2.66 | 0.166 | ✓ | 9.7 | 0.61 | – |
 | [Thrall](/factions/strigoi/thrall/) | 1.32 | 0.147 | ✓ | 8.8 | 0.98 | ✓ |
 | [Nosferatu](/factions/strigoi/nosferatu/) | 1.89 | 0.145 | ✓ | 8.8 | 0.68 | – |
 | [Seer](/factions/strigoi/seer/) | 1.75 | 0.117 | ✓ | 9.7 | 0.65 | – |
@@ -284,7 +282,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | [Poenari Scout](/factions/strigoi/poenari-scout/) | 1.13 | 0.094 | ✓ | 8.8 | 0.73 | – |
 
-#### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
+#### Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*
 
 *ATK2K median understates this role: typical 9.3, average 10.9, with 1 model well above the pack (up to 23.3), so the durability ceiling is higher than the median suggests.*
 
@@ -294,16 +292,16 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Common Strigoi](/factions/strigoi/common-strigoi/) | 2.17 | 0.167 | ✓ | 11.9 | 0.92 | – |
 | [Starved Dhampir](/factions/strigoi/starved-dhampir/) | 1.13 | 0.161 | ✓ | 5.7 | 0.81 | – |
 | [Giurgiu Guard](/factions/strigoi/giurgiu-guard/) | 1.99 | 0.153 | ✓ | 23.3 | 1.79 | ✓ |
-| [Romani](/factions/strigoi/romani/) | 1.33 | 0.148 | – | 6.7 | 0.74 | – |
 | [Newborn Strigoi](/factions/strigoi/newborn-strigoi/) | 1.13 | 0.141 | – | 5.3 | 0.66 | – |
+| [Romani](/factions/strigoi/romani/) | 1.23 | 0.137 | – | 6.7 | 0.74 | – |
 
 #### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
 
-*EDPA median understates this role: typical 1.63, average 2.24, with 1 model well above the pack (up to 3.58), so the offensive ceiling is higher than the median suggests.*
+*EDPA median understates this role: typical 1.63, average 1.95, with 1 model well above the pack (up to 2.73), so the offensive ceiling is higher than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| [Strigoi Jude](/factions/strigoi/strigoi-jude/) | 3.58 | 0.199 | ✓ | 10.6 | 0.59 | – |
 | [Ferryman](/factions/strigoi/ferryman/) | 1.63 | 0.181 | ✓ | 9.7 | 1.08 | ✓ |
+| [Strigoi Jude](/factions/strigoi/strigoi-jude/) | 2.73 | 0.152 | ✓ | 10.6 | 0.59 | – |
 | [Al Naibii](/factions/strigoi/al-naibii/) | 1.50 | 0.136 | ✓ | 7.3 | 0.66 | – |
 

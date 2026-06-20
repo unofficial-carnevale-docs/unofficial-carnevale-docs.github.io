@@ -202,11 +202,11 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| [Doctor of the Mind](/factions/the-doctors/doctor-of-the-mind/) | Damage Dealer (magic) | 5.01 | 19.4 | 0.228 | 0.88 |
-| [Master of Necromantic Studies](/factions/the-doctors/master-of-necromantic-studies/) | Damage Dealer (magic) | 3.78 | 12.6 | 0.164 | 0.55 |
+| [Doctor of the Mind](/factions/the-doctors/doctor-of-the-mind/) | Damage Dealer (magic) | 3.31 | 19.4 | 0.150 | 0.88 |
+| [Master of Necromantic Studies](/factions/the-doctors/master-of-necromantic-studies/) | Damage Dealer (magic) | 2.77 | 12.6 | 0.120 | 0.55 |
 | [Master of Arcane Security](/factions/the-doctors/master-of-arcane-security/) | Brawler | 3.37 | 27.0 | 0.125 | 1.00 |
 | [Master of Zoology](/factions/the-doctors/master-of-zoology/) | Support (Beast Master) / Tank | 3.59 | 36.7 | 0.179 | 1.84 |
-| [Plague Doctor](/factions/the-doctors/plague-doctor/) | Support (magic) | 3.73 | 14.9 | 0.178 | 0.71 |
+| [Plague Doctor](/factions/the-doctors/plague-doctor/) | Support (magic) | 2.66 | 14.9 | 0.127 | 0.71 |
 
 #### Summary of troops
 
@@ -214,7 +214,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Role | n | EDPA med | EDPA/Duc med | above E/Duc bar | ATK2K med | ATK2K/Duc med | above A2/Duc bar |
 |---|---|---|---|---|---|---|---|
-| Damage Dealer | 13 | 2.77 | 0.189 | 6/13 | 11.4 | 0.75 | 8/13 |
+| Damage Dealer | 13 | 2.77 | 0.189 | 7/13 | 11.4 | 0.75 | 8/13 |
 | Brawler | 1 | 2.41 | 0.161 | 0/1 | 13.2 | 0.88 | 0/1 |
 | Assassin | 1 | 2.89 | 0.222 | 1/1 | 7.3 | 0.56 | 0/1 |
 | Canal Fighter | 7 | 2.68 | 0.149 | 3/7 | 12.6 | 0.97 | 4/7 |
@@ -226,17 +226,17 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 5 | 1.13 | 0.126 | 2/5 | 9.8 | 0.88 | 2/5 |
 | Specialist | 7 | 1.13 | 0.113 | 3/7 | 6.7 | 0.73 | 4/7 |
 
-#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.184, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Monstrosity](/factions/the-doctors/monstrosity/) | 2.93 | 0.326 | ✓ | 5.0 | 0.56 | – |
 | [Doctor of Poisons](/factions/the-doctors/doctor-of-poisons/) | 4.08 | 0.314 | ✓ | 9.7 | 0.75 | ✓ |
 | [Basilisk](/factions/the-doctors/basilisk/) | 3.86 | 0.297 | ✓ | 12.2 | 0.94 | ✓ |
-| [Doctor of the Firmament](/factions/the-doctors/doctor-of-the-firmament/) | 4.71 | 0.294 | ✓ | 11.4 | 0.71 | – |
+| [Doctor of the Firmament](/factions/the-doctors/doctor-of-the-firmament/) | 4.25 | 0.266 | ✓ | 11.4 | 0.71 | – |
 | [Lion](/factions/the-doctors/lion/) | 2.77 | 0.231 | ✓ | 9.8 | 0.82 | ✓ |
-| [Doctor of Blood](/factions/the-doctors/doctor-of-blood/) | 3.58 | 0.224 | ✓ | 13.7 | 0.86 | ✓ |
-| [Alchemist Doctor](/factions/the-doctors/alchemist-doctor/) | 2.46 | 0.189 | – | 11.9 | 0.92 | ✓ |
+| [Doctor of Blood](/factions/the-doctors/doctor-of-blood/) | 3.10 | 0.194 | ✓ | 13.7 | 0.86 | ✓ |
+| [Alchemist Doctor](/factions/the-doctors/alchemist-doctor/) | 2.46 | 0.189 | ✓ | 11.9 | 0.92 | ✓ |
 | [Manticore](/factions/the-doctors/manticore/) | 1.63 | 0.181 | – | 6.7 | 0.74 | ✓ |
 | [Patient 42](/factions/the-doctors/patient-42/) | 2.52 | 0.180 | – | 11.4 | 0.81 | ✓ |
 | [Unleashed Madman](/factions/the-doctors/unleashed-madman/) | 2.11 | 0.141 | – | 9.8 | 0.65 | – |
@@ -250,7 +250,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | [The Being](/factions/the-doctors/the-being/) | 2.41 | 0.161 | – | 13.2 | 0.88 | – |
 
-#### Assassin  *(bars: E/Duc 0.198, ATK2K/Duc 0.59)*
+#### Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -303,7 +303,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Morgue Doctor](/factions/the-doctors/morgue-doctor/) | 1.50 | 0.100 | – | 10.6 | 0.71 | – |
 | [Nurse](/factions/the-doctors/nurse/) | 0.62 | 0.089 | – | 6.7 | 0.96 | ✓ |
 
-#### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
+#### Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*
 
 *ATK2K median overstates this role: typical 9.8, average 8.3, with 1 model well below the pack (down to 2.9), so the durability floor is lower than the median suggests.*
 

@@ -35,11 +35,11 @@ nav_section: Factions
 
 ## Capability
 
-EDPA **0.62** · EDPA/Duc **0.034** · ATK2K **8.8** · ATK2K/Duc **0.49**
+EDPA **1.77** · EDPA/Duc **0.098** · ATK2K **8.8** · ATK2K/Duc **0.49**
 
 *Canal Fighter median: EDPA **2.68** · EDPA/Duc **0.151** · ATK2K **12.6** · ATK2K/Duc **0.80***
 
-*Lower EDPA outlier: among this faction's Canal Fighters the median is 2.68, but this model is only 0.62, so the role median overstates models like this.*
+*Lower EDPA outlier: among this faction's Canal Fighters the median is 2.68, but this model is only 1.77, so the role median overstates models like this.*
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -48,16 +48,16 @@ EDPA **0.62** · EDPA/Duc **0.034** · ATK2K **8.8** · ATK2K/Duc **0.49**
 
 ### EDPA by target
 
-*Sustained: staffx2*
+*Sustained: spell:dagonite baptismx1+staffx1*
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 1.39 | 3.79 |
-| Balanced (Dex4/Prot3) | 0.62 | 2.68 |
-| Evasive (Dex6/Prot2) | 0.58 | 2.20 |
-| Armoured (Dex4/Prot5) | 0.32 | 1.92 |
-| Tank (Dex4/Prot5/US5) | 0.32 | 1.50 |
-| Parry (Dex5/Prot3/Parry2) | 0.36 | 1.69 |
+| Soft (Dex3/Prot1) | 2.16 | 3.45 |
+| Balanced (Dex4/Prot3) | 1.77 | 2.68 |
+| Evasive (Dex6/Prot2) | 1.75 | 2.20 |
+| Armoured (Dex4/Prot5) | 1.62 | 1.92 |
+| Tank (Dex4/Prot5/US5) | 1.62 | 1.65 |
+| Parry (Dex5/Prot3/Parry2) | 1.64 | 1.69 |
 
 
 </div>
@@ -72,6 +72,25 @@ EDPA **0.62** · EDPA/Duc **0.034** · ATK2K **8.8** · ATK2K/Duc **0.49**
 | Baseline (Atk3) | 1.13 | 8.8 | 12.6 |
 | Elite (Atk5, Dmg+1) | 3.38 | 3.0 | 4.1 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 4.6 | 6.5 |
+
+</div>
+</div>
+
+<div class="model-pairs">
+<div>
+
+### Burst EDPA by target
+
+*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
+
+| Target | Burst EDPA | Median |
+|---|---|---|
+| Soft (Dex3/Prot1) | 2.93 | 3.79 |
+| Balanced (Dex4/Prot3) | 2.93 | 2.79 |
+| Evasive (Dex6/Prot2) | 2.93 | 2.30 |
+| Armoured (Dex4/Prot5) | 2.93 | 2.02 |
+| Tank (Dex4/Prot5/US5) | 2.93 | 1.79 |
+| Parry (Dex5/Prot3/Parry2) | 2.93 | 1.73 |
 
 </div>
 </div>

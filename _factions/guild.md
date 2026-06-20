@@ -225,7 +225,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Role | n | EDPA med | EDPA/Duc med | above E/Duc bar | ATK2K med | ATK2K/Duc med | above A2/Duc bar |
 |---|---|---|---|---|---|---|---|
-| Damage Dealer | 10 | 3.59 | 0.238 | 8/10 | 9.6 | 0.60 | 2/10 |
+| Damage Dealer | 10 | 3.40 | 0.208 | 7/10 | 9.6 | 0.60 | 2/10 |
 | Brawler | 1 | 2.68 | 0.206 | 1/1 | 14.9 | 1.15 | 0/1 |
 | Assassin | 2 | 3.70 | 0.243 | 1/2 | 13.0 | 0.87 | 2/2 |
 | Sniper | 2 | 1.58 | 0.118 | 1/2 | 13.2 | 1.07 | 1/2 |
@@ -237,18 +237,18 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 5 | 1.13 | 0.141 | 2/5 | 9.7 | 0.96 | 1/5 |
 | Specialist | 4 | 2.31 | 0.159 | 3/4 | 10.1 | 0.79 | 3/4 |
 
-#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.184, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| [Baba-Yaga](/factions/the-guild/baba-yaga/) | 5.46 | 0.287 | ✓ | 9.5 | 0.50 | – |
 | [Shipwright](/factions/the-guild/shipwright/) | 3.41 | 0.284 | ✓ | 11.5 | 0.96 | ✓ |
 | [Barber](/factions/the-guild/barber/) | 3.38 | 0.282 | ✓ | 11.9 | 0.99 | ✓ |
 | [Whaler](/factions/the-guild/whaler/) | 4.22 | 0.248 | ✓ | 10.0 | 0.59 | – |
-| [Witch](/factions/the-guild/witch/) | 3.85 | 0.241 | ✓ | 9.7 | 0.61 | – |
-| [Bloodletter](/factions/the-guild/bloodletter/) | 3.78 | 0.236 | ✓ | 7.3 | 0.46 | – |
+| [Bloodletter](/factions/the-guild/bloodletter/) | 3.82 | 0.239 | ✓ | 7.3 | 0.46 | – |
+| [Baba-Yaga](/factions/the-guild/baba-yaga/) | 3.98 | 0.209 | ✓ | 9.5 | 0.50 | – |
 | [Brute](/factions/the-guild/brute/) | 2.68 | 0.206 | ✓ | 9.3 | 0.72 | – |
 | [Death Duellist](/factions/the-guild/death-duellist/) | 2.75 | 0.196 | ✓ | 8.9 | 0.64 | – |
+| [Witch](/factions/the-guild/witch/) | 2.93 | 0.183 | – | 9.7 | 0.61 | – |
 | [Ostrich Chariot?!](/factions/the-guild/ostrich-chariot/) | 5.96 | 0.175 | – | 17.0 | 0.50 | – |
 | [Firebreather](/factions/the-guild/firebreather/) | 1.10 | 0.110 | – | 6.0 | 0.60 | – |
 
@@ -258,7 +258,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | [Butcher](/factions/the-guild/butcher/) | 2.68 | 0.206 | ✓ | 14.9 | 1.15 | – |
 
-#### Assassin  *(bars: E/Duc 0.198, ATK2K/Duc 0.59)*
+#### Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -318,7 +318,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Beggar](/factions/the-guild/beggar/) | 0.44 | 0.073 | – | 7.3 | 1.22 | ✓ |
 | [Pilferer](/factions/the-guild/pilferer/) | 0.62 | 0.062 | – | 8.3 | 0.83 | ✓ |
 
-#### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
+#### Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*
 
 *EDPA median understates this role: typical 1.13, average 1.40, with 1 model well above the pack (up to 1.99), so the offensive ceiling is higher than the median suggests.*
 

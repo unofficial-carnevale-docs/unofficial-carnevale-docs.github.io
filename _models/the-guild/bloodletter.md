@@ -33,9 +33,9 @@ nav_section: Factions
 
 ## Capability
 
-EDPA **3.78** · EDPA/Duc **0.236** · ATK2K **7.3** · ATK2K/Duc **0.46**
+EDPA **3.82** · EDPA/Duc **0.239** · ATK2K **7.3** · ATK2K/Duc **0.46**
 
-*Damage Dealer median: EDPA **2.95** · EDPA/Duc **0.195** · ATK2K **10.8** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.88** · EDPA/Duc **0.184** · ATK2K **10.8** · ATK2K/Duc **0.73***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -44,16 +44,16 @@ EDPA **3.78** · EDPA/Duc **0.236** · ATK2K **7.3** · ATK2K/Duc **0.46**
 
 ### EDPA by target
 
-*Best spell: Kraken's Breath*
+*Sustained: spell:boiling veinsx1+spell:kraken's breathx1*
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 4.03 | 4.01 |
-| Balanced (Dex4/Prot3) | 3.78 | 2.95 |
-| Evasive (Dex6/Prot2) | 4.03 | 2.52 |
-| Armoured (Dex4/Prot5) | 2.87 | 2.17 |
-| Tank (Dex4/Prot5/US5) | 2.41 | 1.90 |
-| Parry (Dex5/Prot3/Parry2) | 3.78 | 2.13 |
+| Soft (Dex3/Prot1) | 4.08 | 3.79 |
+| Balanced (Dex4/Prot3) | 3.82 | 2.88 |
+| Evasive (Dex6/Prot2) | 4.08 | 2.52 |
+| Armoured (Dex4/Prot5) | 2.92 | 2.15 |
+| Tank (Dex4/Prot5/US5) | 2.50 | 1.90 |
+| Parry (Dex5/Prot3/Parry2) | 3.82 | 2.13 |
 
 
 </div>

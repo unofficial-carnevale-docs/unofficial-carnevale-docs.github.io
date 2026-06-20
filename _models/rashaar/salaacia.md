@@ -50,11 +50,11 @@ EDPA **0.57** · EDPA/Duc **0.036** · ATK2K **12.5** · ATK2K/Duc **0.78**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 1.09 | 3.79 |
+| Soft (Dex3/Prot1) | 1.09 | 3.45 |
 | Balanced (Dex4/Prot3) | 0.57 | 2.68 |
 | Evasive (Dex6/Prot2) | 0.48 | 2.20 |
 | Armoured (Dex4/Prot5) | 0.33 | 1.92 |
-| Tank (Dex4/Prot5/US5) | 0.33 | 1.50 |
+| Tank (Dex4/Prot5/US5) | 0.33 | 1.65 |
 | Parry (Dex5/Prot3/Parry2) | 0.46 | 1.69 |
 
 
@@ -84,11 +84,11 @@ EDPA **0.57** · EDPA/Duc **0.036** · ATK2K **12.5** · ATK2K/Duc **0.78**
 | Target | Burst EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 2.19 | 3.79 |
-| Balanced (Dex4/Prot3) | 1.13 | 2.68 |
-| Evasive (Dex6/Prot2) | 0.97 | 2.20 |
-| Armoured (Dex4/Prot5) | 0.67 | 1.92 |
-| Tank (Dex4/Prot5/US5) | 0.67 | 1.50 |
-| Parry (Dex5/Prot3/Parry2) | 0.92 | 1.69 |
+| Balanced (Dex4/Prot3) | 1.13 | 2.79 |
+| Evasive (Dex6/Prot2) | 0.97 | 2.30 |
+| Armoured (Dex4/Prot5) | 0.67 | 2.02 |
+| Tank (Dex4/Prot5/US5) | 0.67 | 1.79 |
+| Parry (Dex5/Prot3/Parry2) | 0.92 | 1.73 |
 
 </div>
 </div>

@@ -112,7 +112,6 @@ Cheapest leader of the game. He has only 2 AP and low command, but he's a WP bat
 **Mages**
 
 - [Moon](/factions/patricians/moon/) is a spellcasting assassin that doubles as a support piece, bringing damage & life-drain, stat buffs & dice manipulation. It's Mindless (can't score primaries). Also flies over terrain.
-- [Adventuring Noble](/factions/patricians/adventuring-noble/) is an Arcane Totem specialist. Its niche is to drop an Arcane Totem zone. Also extra Penetration vs bigger bases.
 
 **Damage Dealer**
 
@@ -151,6 +150,7 @@ Cheapest leader of the game. He has only 2 AP and low command, but he's a WP bat
 **Specialist**
 
 - [Don Gregorio Morisini](/factions/patricians/don-gregorio-morisini/) is an Artifact objective specialist. Its niche is to carry an Artifact for scenario value. Also steals WP/objectives on disengage; slips out of melee freely.
+- [Adventuring Noble](/factions/patricians/adventuring-noble/) is an Arcane Totem specialist. Its niche is to drop an Arcane Totem zone. Also extra Penetration vs bigger bases.
 
 ### Henchmen
 
@@ -219,9 +219,9 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Role | n | EDPA med | EDPA/Duc med | above E/Duc bar | ATK2K med | ATK2K/Duc med | above A2/Duc bar |
 |---|---|---|---|---|---|---|---|
-| Damage Dealer | 9 | 2.13 | 0.164 | 2/9 | 12.4 | 0.97 | 8/9 |
+| Damage Dealer | 9 | 2.13 | 0.164 | 3/9 | 12.4 | 0.97 | 8/9 |
 | Brawler | 3 | 3.01 | 0.194 | 1/3 | 19.5 | 1.35 | 2/3 |
-| Assassin | 2 | 3.67 | 0.237 | 2/2 | 9.8 | 0.63 | 2/2 |
+| Assassin | 2 | 3.28 | 0.213 | 1/2 | 9.8 | 0.63 | 2/2 |
 | Sniper | 3 | 1.87 | 0.135 | 2/3 | 13.7 | 0.91 | 1/3 |
 | Canal Fighter | 1 | 1.99 | 0.166 | 1/1 | 8.8 | 0.73 | 0/1 |
 | Harasser | 2 | 1.65 | 0.222 | 1/2 | 8.1 | 0.87 | 1/2 |
@@ -230,7 +230,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 7 | 1.50 | 0.167 | 5/7 | 9.7 | 1.03 | 6/7 |
 | Specialist | 2 | 2.55 | 0.151 | 2/2 | 13.8 | 0.80 | 1/2 |
 
-#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.184, ATK2K/Duc 0.73)*
 
 *EDPA median understates this role: typical 2.13, average 2.36, with 2 models well above the pack (up to 3.48), so the offensive ceiling is higher than the median suggests.*
 
@@ -238,7 +238,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | [Fencing Master](/factions/patricians/fencing-master/) | 3.48 | 0.217 | ✓ | 18.4 | 1.15 | ✓ |
 | [Seven Years Veteran](/factions/patricians/seven-years-veteran/) | 3.13 | 0.209 | ✓ | 14.9 | 0.99 | ✓ |
-| [Submissive Noble](/factions/patricians/submissive-noble/) | 3.23 | 0.190 | – | 12.4 | 0.73 | ✓ |
+| [Submissive Noble](/factions/patricians/submissive-noble/) | 3.23 | 0.190 | ✓ | 12.4 | 0.73 | ✓ |
 | [Janissary Sapper](/factions/patricians/janissary-sapper/) | 2.86 | 0.179 | – | 19.5 | 1.22 | ✓ |
 | [Syphilitic Noble](/factions/patricians/syphilitic-noble/) | 2.13 | 0.164 | – | 12.6 | 0.97 | ✓ |
 | [Butler](/factions/patricians/butler/) | 1.63 | 0.163 | – | 9.7 | 0.97 | ✓ |
@@ -256,12 +256,12 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Ottoman Janissary](/factions/patricians/ottoman-janissary/) | 3.29 | 0.194 | – | 19.5 | 1.15 | – |
 | [Venetian Heavy Guard](/factions/patricians/venetian-heavy-guard/) | 3.01 | 0.188 | – | 47.9 | 2.99 | ✓ |
 
-#### Assassin  *(bars: E/Duc 0.198, ATK2K/Duc 0.59)*
+#### Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Sun](/factions/patricians/sun/) | 3.63 | 0.242 | ✓ | 9.8 | 0.65 | ✓ |
-| [Moon](/factions/patricians/moon/) | 3.70 | 0.231 | ✓ | 9.8 | 0.61 | ✓ |
+| [Moon](/factions/patricians/moon/) | 2.93 | 0.183 | – | 9.8 | 0.61 | ✓ |
 
 #### Sniper  *(bars: E/Duc 0.135, ATK2K/Duc 1.09)*
 
@@ -301,7 +301,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | [Ottoman Rigger](/factions/patricians/ottoman-rigger/) | 1.13 | 0.094 | ✓ | 11.3 | 0.94 | ✓ |
 
-#### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
+#### Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*
 
 *EDPA median understates this role: typical 1.50, average 1.66, with a wide spread (1.13 to 1.99), so the offensive ceiling is higher than the median suggests.*
 

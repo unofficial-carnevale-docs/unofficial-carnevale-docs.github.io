@@ -38,7 +38,7 @@ nav_section: Factions
 
 EDPA **5.31** · EDPA/Duc **0.133** · ATK2K **17.0** · ATK2K/Duc **0.42**
 
-*Assassin median: EDPA **3.58** · EDPA/Duc **0.198** · ATK2K **10.3** · ATK2K/Duc **0.59***
+*Assassin median: EDPA **3.23** · EDPA/Duc **0.193** · ATK2K **10.3** · ATK2K/Duc **0.59***
 
 *Upper ATK2K outlier: among this faction's Assassins the median is 10.0, but this model reaches 17.0, so the role median understates models like this.*
 
@@ -54,11 +54,11 @@ EDPA **5.31** · EDPA/Duc **0.133** · ATK2K **17.0** · ATK2K/Duc **0.42**
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 6.10 | 4.15 |
-| Balanced (Dex4/Prot3) | 5.31 | 3.58 |
+| Balanced (Dex4/Prot3) | 5.31 | 3.23 |
 | Evasive (Dex6/Prot2) | 4.53 | 2.79 |
-| Armoured (Dex4/Prot5) | 4.37 | 2.74 |
-| Tank (Dex4/Prot5/US5) | 3.52 | 2.05 |
-| Parry (Dex5/Prot3/Parry2) | 3.97 | 2.77 |
+| Armoured (Dex4/Prot5) | 4.37 | 2.61 |
+| Tank (Dex4/Prot5/US5) | 3.52 | 2.01 |
+| Parry (Dex5/Prot3/Parry2) | 3.97 | 2.67 |
 
 
 </div>

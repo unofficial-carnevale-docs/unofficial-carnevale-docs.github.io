@@ -45,7 +45,7 @@ EDPA **1.13** · EDPA/Duc **0.113** · ATK2K **7.3** · ATK2K/Duc **0.73**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 2.19 | 2.49 |
+| Soft (Dex3/Prot1) | 2.19 | 2.41 |
 | Balanced (Dex4/Prot3) | 1.13 | 1.46 |
 | Evasive (Dex6/Prot2) | 0.97 | 1.30 |
 | Armoured (Dex4/Prot5) | 0.67 | 0.87 |

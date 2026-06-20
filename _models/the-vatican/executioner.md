@@ -33,7 +33,7 @@ nav_section: Factions
 
 EDPA **2.97** · EDPA/Duc **0.247** · ATK2K **6.9** · ATK2K/Duc **0.58**
 
-*Damage Dealer median: EDPA **2.95** · EDPA/Duc **0.195** · ATK2K **10.8** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.88** · EDPA/Duc **0.184** · ATK2K **10.8** · ATK2K/Duc **0.73***
 
 *Lower ATK2K outlier: among this faction's Damage Dealers the median is 13.7, but this model is only 6.9, so the role median overstates models like this.*
 
@@ -48,10 +48,10 @@ EDPA **2.97** · EDPA/Duc **0.247** · ATK2K **6.9** · ATK2K/Duc **0.58**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 4.23 | 4.01 |
-| Balanced (Dex4/Prot3) | 2.97 | 2.95 |
+| Soft (Dex3/Prot1) | 4.23 | 3.79 |
+| Balanced (Dex4/Prot3) | 2.97 | 2.88 |
 | Evasive (Dex6/Prot2) | 2.54 | 2.52 |
-| Armoured (Dex4/Prot5) | 2.17 | 2.17 |
+| Armoured (Dex4/Prot5) | 2.17 | 2.15 |
 | Tank (Dex4/Prot5/US5) | 2.17 | 1.90 |
 | Parry (Dex5/Prot3/Parry2) | 1.69 | 2.13 |
 

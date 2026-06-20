@@ -31,7 +31,7 @@ nav_section: Factions
 
 EDPA **1.99** · EDPA/Duc **0.153** · ATK2K **23.3** · ATK2K/Duc **1.79**
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.150** · ATK2K **9.7** · ATK2K/Duc **0.97***
+*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
 
 *Upper ATK2K outlier: among this faction's Line Fighters the median is 9.3, but this model reaches 23.3, so the role median understates models like this.*
 
@@ -48,7 +48,7 @@ EDPA **1.99** · EDPA/Duc **0.153** · ATK2K **23.3** · ATK2K/Duc **1.79**
 |---|---|---|
 | Soft (Dex3/Prot1) | 3.18 | 2.50 |
 | Balanced (Dex4/Prot3) | 1.99 | 1.46 |
-| Evasive (Dex6/Prot2) | 1.76 | 1.30 |
+| Evasive (Dex6/Prot2) | 1.76 | 1.29 |
 | Armoured (Dex4/Prot5) | 1.32 | 0.86 |
 | Tank (Dex4/Prot5/US5) | 1.32 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 1.25 | 0.81 |

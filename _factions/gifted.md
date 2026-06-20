@@ -185,7 +185,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Role | n | EDPA med | EDPA/Duc med | above E/Duc bar | ATK2K med | ATK2K/Duc med | above A2/Duc bar |
 |---|---|---|---|---|---|---|---|
-| Damage Dealer | 11 | 2.68 | 0.155 | 4/11 | 11.3 | 0.72 | 5/11 |
+| Damage Dealer | 11 | 2.68 | 0.155 | 3/11 | 11.3 | 0.72 | 5/11 |
 | Brawler | 1 | 2.68 | 0.179 | 0/1 | 19.8 | 1.32 | 1/1 |
 | Assassin | 1 | 3.99 | 0.200 | 1/1 | 16.6 | 0.83 | 1/1 |
 | Control | 2 | 1.71 | 0.119 | 1/2 | 8.7 | 0.62 | 0/2 |
@@ -194,15 +194,15 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Objective Runner | 3 | 0.44 | 0.044 | 1/3 | 6.7 | 0.67 | 1/3 |
 | Specialist | 9 | 1.50 | 0.102 | 2/9 | 10.6 | 0.66 | 3/9 |
 
-#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.184, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Zovena Vela](/factions/gifted/zovena-vela/) | 3.99 | 0.266 | ✓ | 10.9 | 0.73 | ✓ |
 | [Justice](/factions/gifted/justice/) | 3.90 | 0.217 | ✓ | 12.4 | 0.69 | – |
-| [Fate](/factions/gifted/fate/) | 3.80 | 0.211 | ✓ | 12.4 | 0.69 | – |
 | [Innamorati](/factions/gifted/innamorati/) | 2.68 | 0.206 | ✓ | 9.7 | 0.75 | ✓ |
 | [Mezzetino](/factions/gifted/mezzetino/) | 1.99 | 0.181 | – | 11.3 | 1.03 | ✓ |
+| [Fate](/factions/gifted/fate/) | 3.19 | 0.177 | – | 12.4 | 0.69 | – |
 | [Burattino](/factions/gifted/burattino/) | 2.32 | 0.155 | – | 5.3 | 0.35 | – |
 | [Brighella](/factions/gifted/brighella/) | 1.80 | 0.139 | – | 7.3 | 0.56 | – |
 | [The Aberration](/factions/gifted/the-aberration/) | 2.90 | 0.126 | – | 19.4 | 0.84 | ✓ |
@@ -216,7 +216,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | [Starspawn](/factions/gifted/starspawn/) | 2.68 | 0.179 | – | 19.8 | 1.32 | ✓ |
 
-#### Assassin  *(bars: E/Duc 0.198, ATK2K/Duc 0.59)*
+#### Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -237,13 +237,13 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
 
-*EDPA median understates this role: typical 1.13, average 1.91, with 1 model well above the pack (up to 3.73), so the offensive ceiling is higher than the median suggests.*
+*EDPA median understates this role: typical 1.13, average 1.44, with 1 model well above the pack (up to 2.31), so the offensive ceiling is higher than the median suggests.*
 
 *ATK2K median understates this role: typical 10.6, average 11.6, with 1 model well above the pack (up to 17.0), so the durability ceiling is higher than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| [Maria Fioritura](/factions/gifted/maria-fioritura/) | 3.73 | 0.207 | ✓ | 10.6 | 0.59 | – |
+| [Maria Fioritura](/factions/gifted/maria-fioritura/) | 2.31 | 0.128 | ✓ | 10.6 | 0.59 | – |
 | [Colombina](/factions/gifted/colombina/) | 1.13 | 0.113 | ✓ | 7.3 | 0.73 | – |
 | [Fadhila](/factions/gifted/fadhila/) | 0.87 | 0.046 | – | 17.0 | 0.89 | ✓ |
 
@@ -259,7 +259,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| [Francisco De Lorme](/factions/gifted/francisco-de-lorme/) | 2.69 | 0.168 | ✓ | 8.1 | 0.51 | – |
+| [Francisco De Lorme](/factions/gifted/francisco-de-lorme/) | 2.45 | 0.153 | ✓ | 8.1 | 0.51 | – |
 | [The Mask Maker](/factions/gifted/the-mask-maker/) | 1.75 | 0.125 | ✓ | 12.6 | 0.90 | ✓ |
 | [Pierrot](/factions/gifted/pierrot/) | 0.87 | 0.109 | – | 5.3 | 0.66 | – |
 | [Master Gerhard](/factions/gifted/master-gerhard/) | 1.70 | 0.106 | – | 13.7 | 0.86 | ✓ |

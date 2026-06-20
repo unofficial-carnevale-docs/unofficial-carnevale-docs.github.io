@@ -36,11 +36,9 @@ nav_section: Factions
 
 ## Capability
 
-EDPA **4.94** · EDPA/Duc **0.274** · ATK2K **11.5** · ATK2K/Duc **0.64**
+EDPA **3.72** · EDPA/Duc **0.207** · ATK2K **11.5** · ATK2K/Duc **0.64**
 
 *Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
-
-*Upper EDPA outlier: among this faction's Supports the median is 1.75, but this model reaches 4.94, so the role median understates models like this.*
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -49,16 +47,16 @@ EDPA **4.94** · EDPA/Duc **0.274** · ATK2K **11.5** · ATK2K/Duc **0.64**
 
 ### EDPA by target
 
-*Best spell: Kraken's Breath*
+*Sustained: spell:kraken's breathx1+spell:blood drainx1+spell:mother hydra's clawsx1+free-cantripx1*
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 4.94 | 2.49 |
-| Balanced (Dex4/Prot3) | 4.94 | 1.46 |
-| Evasive (Dex6/Prot2) | 4.94 | 1.30 |
-| Armoured (Dex4/Prot5) | 4.22 | 0.87 |
-| Tank (Dex4/Prot5/US5) | 2.94 | 0.67 |
-| Parry (Dex5/Prot3/Parry2) | 4.94 | 0.92 |
+| Soft (Dex3/Prot1) | 3.84 | 2.41 |
+| Balanced (Dex4/Prot3) | 3.72 | 1.46 |
+| Evasive (Dex6/Prot2) | 3.84 | 1.30 |
+| Armoured (Dex4/Prot5) | 3.14 | 0.87 |
+| Tank (Dex4/Prot5/US5) | 2.07 | 0.67 |
+| Parry (Dex5/Prot3/Parry2) | 3.72 | 0.92 |
 
 
 </div>
@@ -74,6 +72,25 @@ EDPA **4.94** · EDPA/Duc **0.274** · ATK2K **11.5** · ATK2K/Duc **0.64**
 | Elite (Atk5, Dmg+1) | 3.38 | 3.8 | 3.3 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.9 | 5.3 |
 | Drown (Atk3) | 2.30 | 5.7 | 5.8 |
+
+</div>
+</div>
+
+<div class="model-pairs">
+<div>
+
+### Burst EDPA by target
+
+*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
+
+| Target | Burst EDPA | Median |
+|---|---|---|
+| Soft (Dex3/Prot1) | 6.79 | 2.50 |
+| Balanced (Dex4/Prot3) | 6.51 | 1.50 |
+| Evasive (Dex6/Prot2) | 6.79 | 1.30 |
+| Armoured (Dex4/Prot5) | 5.05 | 0.87 |
+| Tank (Dex4/Prot5/US5) | 3.34 | 0.67 |
+| Parry (Dex5/Prot3/Parry2) | 6.51 | 0.93 |
 
 </div>
 </div>

@@ -31,9 +31,9 @@ nav_section: Factions
 
 ## Capability
 
-EDPA **1.33** · EDPA/Duc **0.148** · ATK2K **6.7** · ATK2K/Duc **0.74**
+EDPA **1.23** · EDPA/Duc **0.137** · ATK2K **6.7** · ATK2K/Duc **0.74**
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.150** · ATK2K **9.7** · ATK2K/Duc **0.97***
+*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -42,16 +42,16 @@ EDPA **1.33** · EDPA/Duc **0.148** · ATK2K **6.7** · ATK2K/Duc **0.74**
 
 ### EDPA by target
 
-*Best spell: Cantrip of the Devil*
+*Sustained: spell:cantrip of the devilx1+knifex1*
 
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 2.19 | 2.50 |
-| Balanced (Dex4/Prot3) | 1.33 | 1.46 |
-| Evasive (Dex6/Prot2) | 1.56 | 1.30 |
-| Armoured (Dex4/Prot5) | 0.71 | 0.86 |
+| Balanced (Dex4/Prot3) | 1.23 | 1.46 |
+| Evasive (Dex6/Prot2) | 1.27 | 1.29 |
+| Armoured (Dex4/Prot5) | 0.69 | 0.86 |
 | Tank (Dex4/Prot5/US5) | 0.67 | 0.67 |
-| Parry (Dex5/Prot3/Parry2) | 1.33 | 0.81 |
+| Parry (Dex5/Prot3/Parry2) | 0.96 | 0.81 |
 
 
 </div>
@@ -67,6 +67,25 @@ EDPA **1.33** · EDPA/Duc **0.148** · ATK2K **6.7** · ATK2K/Duc **0.74**
 | Elite (Atk5, Dmg+1) | 3.81 | 2.6 | 3.3 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 4.6 | 5.0 |
 | Drown (Atk3) | 1.90 | 5.3 | 5.8 |
+
+</div>
+</div>
+
+<div class="model-pairs">
+<div>
+
+### Burst EDPA by target
+
+*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
+
+| Target | Burst EDPA | Median |
+|---|---|---|
+| Soft (Dex3/Prot1) | 2.19 | 2.50 |
+| Balanced (Dex4/Prot3) | 1.33 | 1.46 |
+| Evasive (Dex6/Prot2) | 1.56 | 1.30 |
+| Armoured (Dex4/Prot5) | 0.71 | 0.86 |
+| Tank (Dex4/Prot5/US5) | 0.67 | 0.67 |
+| Parry (Dex5/Prot3/Parry2) | 1.33 | 0.81 |
 
 </div>
 </div>

@@ -33,11 +33,11 @@ nav_section: Factions
 
 ## Capability
 
-EDPA **3.58** · EDPA/Duc **0.199** · ATK2K **10.6** · ATK2K/Duc **0.59**
+EDPA **2.73** · EDPA/Duc **0.152** · ATK2K **10.6** · ATK2K/Duc **0.59**
 
 *Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
 
-*Upper EDPA outlier: among this faction's Specialists the median is 1.63, but this model reaches 3.58, so the role median understates models like this.*
+*Upper EDPA outlier: among this faction's Specialists the median is 1.63, but this model reaches 2.73, so the role median understates models like this.*
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -46,16 +46,16 @@ EDPA **3.58** · EDPA/Duc **0.199** · ATK2K **10.6** · ATK2K/Duc **0.59**
 
 ### EDPA by target
 
-*Best spell: Kraken's Breath*
+*Sustained: spell:kraken's breathx1+spell:mother hydra's clawsx1*
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 3.83 | 2.50 |
-| Balanced (Dex4/Prot3) | 3.58 | 1.56 |
-| Evasive (Dex6/Prot2) | 3.83 | 1.35 |
-| Armoured (Dex4/Prot5) | 2.71 | 1.05 |
+| Soft (Dex3/Prot1) | 3.01 | 2.50 |
+| Balanced (Dex4/Prot3) | 2.73 | 1.56 |
+| Evasive (Dex6/Prot2) | 2.86 | 1.35 |
+| Armoured (Dex4/Prot5) | 2.30 | 1.05 |
 | Tank (Dex4/Prot5/US5) | 1.89 | 0.67 |
-| Parry (Dex5/Prot3/Parry2) | 3.58 | 0.96 |
+| Parry (Dex5/Prot3/Parry2) | 2.73 | 0.96 |
 
 
 </div>
@@ -71,6 +71,25 @@ EDPA **3.58** · EDPA/Duc **0.199** · ATK2K **10.6** · ATK2K/Duc **0.59**
 | Elite (Atk5, Dmg+1) | 3.38 | 3.5 | 3.3 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.5 | 5.0 |
 | Drown (Atk3) | 1.90 | 6.3 | 5.8 |
+
+</div>
+</div>
+
+<div class="model-pairs">
+<div>
+
+### Burst EDPA by target
+
+*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
+
+| Target | Burst EDPA | Median |
+|---|---|---|
+| Soft (Dex3/Prot1) | 3.83 | 2.50 |
+| Balanced (Dex4/Prot3) | 3.58 | 1.56 |
+| Evasive (Dex6/Prot2) | 3.83 | 1.35 |
+| Armoured (Dex4/Prot5) | 2.71 | 1.05 |
+| Tank (Dex4/Prot5/US5) | 1.89 | 0.67 |
+| Parry (Dex5/Prot3/Parry2) | 3.58 | 0.96 |
 
 </div>
 </div>

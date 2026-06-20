@@ -31,7 +31,7 @@ nav_section: Factions
 
 EDPA **2.17** · EDPA/Duc **0.167** · ATK2K **11.9** · ATK2K/Duc **0.92**
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.150** · ATK2K **9.7** · ATK2K/Duc **0.97***
+*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -46,7 +46,7 @@ EDPA **2.17** · EDPA/Duc **0.167** · ATK2K **11.9** · ATK2K/Duc **0.92**
 |---|---|---|
 | Soft (Dex3/Prot1) | 3.39 | 2.50 |
 | Balanced (Dex4/Prot3) | 2.17 | 1.46 |
-| Evasive (Dex6/Prot2) | 1.83 | 1.30 |
+| Evasive (Dex6/Prot2) | 1.83 | 1.29 |
 | Armoured (Dex4/Prot5) | 1.45 | 0.86 |
 | Tank (Dex4/Prot5/US5) | 1.45 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 1.23 | 0.81 |

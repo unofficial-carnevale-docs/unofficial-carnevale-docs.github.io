@@ -205,7 +205,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
 | [The Flame That Burns Underwater](/factions/rashaar/the-flame-that-burns-underwater/) | Canal Fighter | 2.68 | 27.0 | 0.089 | 0.90 |
-| [Magi-Rashaar](/factions/rashaar/magi-rashaar/) | Damage Dealer (magic, Blood Rites) / Support (magic) | 6.41 | 10.6 | 0.267 | 0.44 |
+| [Magi-Rashaar](/factions/rashaar/magi-rashaar/) | Damage Dealer (magic, Blood Rites) / Support (magic) | 3.53 | 10.6 | 0.147 | 0.44 |
 | [Paartul Matriarch](/factions/rashaar/paartul-matriarch/) | Specialist (spawner) | 0.87 | 16.1 | 0.035 | 0.64 |
 | [Sir Tiburcio](/factions/rashaar/sir-tiburcio/) | Tank | 3.40 | 25.6 | 0.148 | 1.11 |
 | [Thalidraur](/factions/rashaar/thalidraur/) | Brawler | 4.58 | 24.5 | 0.176 | 0.94 |
@@ -217,25 +217,27 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Role | n | EDPA med | EDPA/Duc med | above E/Duc bar | ATK2K med | ATK2K/Duc med | above A2/Duc bar |
 |---|---|---|---|---|---|---|---|
-| Damage Dealer | 4 | 2.96 | 0.216 | 3/4 | 12.1 | 0.93 | 2/4 |
+| Damage Dealer | 4 | 2.54 | 0.198 | 2/4 | 12.1 | 0.93 | 2/4 |
 | Brawler | 3 | 3.75 | 0.208 | 2/3 | 42.6 | 1.39 | 2/3 |
 | Canal Fighter | 9 | 2.68 | 0.098 | 4/9 | 14.9 | 0.81 | 5/9 |
 | Tank | 2 | 1.97 | 0.096 | 0/2 | 21.4 | 1.09 | 0/2 |
 | Control | 1 | 2.32 | 0.097 | 0/1 | 16.1 | 0.67 | 1/1 |
-| Support | 6 | 1.85 | 0.113 | 3/6 | 8.8 | 0.73 | 3/6 |
+| Support | 6 | 1.54 | 0.106 | 3/6 | 8.8 | 0.73 | 3/6 |
 | Objective Runner | 3 | 1.13 | 0.097 | 3/3 | 5.3 | 0.62 | 0/3 |
 | Line Fighter | 4 | 1.68 | 0.162 | 2/4 | 9.6 | 0.76 | 1/4 |
 | Specialist | 9 | 1.13 | 0.088 | 1/9 | 2.6 | 0.64 | 2/9 |
 
-#### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.184, ATK2K/Duc 0.73)*
+
+*EDPA median understates this role: typical 2.54, average 2.83, with 1 model well above the pack (up to 4.37), so the offensive ceiling is higher than the median suggests.*
 
 *ATK2K median understates this role: typical 12.1, average 13.7, with 1 model well above the pack (up to 22.9), so the durability ceiling is higher than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| [Dagonite Priest](/factions/rashaar/dagonite-priest/) | 3.58 | 0.239 | ✓ | 10.6 | 0.71 | – |
 | [Raadru](/factions/rashaar/raadru/) | 4.37 | 0.218 | ✓ | 22.9 | 1.15 | ✓ |
 | [Dagonite Zealot](/factions/rashaar/dagonite-zealot/) | 2.35 | 0.214 | ✓ | 7.7 | 0.70 | – |
+| [Dagonite Priest](/factions/rashaar/dagonite-priest/) | 2.73 | 0.182 | – | 10.6 | 0.71 | – |
 | [Dagon Officiant](/factions/rashaar/dagon-officiant/) | 1.86 | 0.169 | – | 13.7 | 1.25 | ✓ |
 
 #### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
@@ -248,19 +250,19 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*
 
-*EDPA median overstates this role: typical 2.68, average 2.38, with 4 models well below the pack (down to 0.57), so the offensive floor is lower than the median suggests.*
+*EDPA median overstates this role: typical 2.68, average 2.42, with 4 models well below the pack (down to 0.57), so the offensive floor is lower than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Lesser Ugdru](/factions/rashaar/lesser-ugdru/) | 3.10 | 0.221 | ✓ | 14.9 | 1.06 | ✓ |
-| [Sirena](/factions/rashaar/sirena/) | 3.70 | 0.206 | ✓ | 7.6 | 0.42 | – |
 | [Karcharos](/factions/rashaar/karcharos/) | 3.60 | 0.200 | ✓ | 17.2 | 0.96 | ✓ |
 | [Caandru Eel](/factions/rashaar/caandru-eel/) | 2.68 | 0.191 | ✓ | 15.6 | 1.11 | ✓ |
+| [Sirena](/factions/rashaar/sirena/) | 2.93 | 0.163 | ✓ | 7.6 | 0.42 | – |
+| [The Drowned Nun](/factions/rashaar/the-drowned-nun/) | 1.77 | 0.098 | – | 8.8 | 0.49 | – |
 | [Emissary of Mother Hydra](/factions/rashaar/emissary-of-mother-hydra/) | 4.98 | 0.098 | – | 36.8 | 0.72 | – |
 | [Half-Breed](/factions/rashaar/half-breed/) | 1.42 | 0.089 | – | 13.0 | 0.81 | ✓ |
 | [Bulbous Toad](/factions/rashaar/bulbous-toad/) | 0.71 | 0.055 | – | 16.0 | 1.23 | ✓ |
 | [Salaacia](/factions/rashaar/salaacia/) | 0.57 | 0.036 | – | 12.5 | 0.78 | – |
-| [The Drowned Nun](/factions/rashaar/the-drowned-nun/) | 0.62 | 0.034 | – | 8.8 | 0.49 | – |
 
 #### Tank  *(bars: E/Duc 0.154, ATK2K/Duc 1.53)*
 
@@ -279,9 +281,9 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| [Aglaope](/factions/rashaar/aglaope/) | 2.75 | 0.229 | ✓ | 6.3 | 0.53 | – |
 | [Handler](/factions/rashaar/handler/) | 2.68 | 0.223 | ✓ | 9.7 | 0.81 | ✓ |
 | [Demagogue](/factions/rashaar/demagogue/) | 2.20 | 0.147 | ✓ | 8.8 | 0.59 | – |
+| [Aglaope](/factions/rashaar/aglaope/) | 1.59 | 0.133 | ✓ | 6.3 | 0.53 | – |
 | [Paliaa](/factions/rashaar/paliaa/) | 1.50 | 0.079 | – | 14.9 | 0.78 | ✓ |
 | [Dagonite Page](/factions/rashaar/dagonite-page/) | 0.62 | 0.048 | – | 8.8 | 0.68 | – |
 | [Wet Nurse](/factions/rashaar/wet-nurse/) | 0.44 | 0.044 | – | 8.8 | 0.88 | ✓ |
@@ -294,7 +296,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Bounding Telchine](/factions/rashaar/bounding-telchine/) | 0.87 | 0.097 | ✓ | 6.9 | 0.77 | – |
 | [Advanced Hybrid](/factions/rashaar/advanced-hybrid/) | 1.13 | 0.094 | ✓ | 5.3 | 0.44 | – |
 
-#### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
+#### Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|

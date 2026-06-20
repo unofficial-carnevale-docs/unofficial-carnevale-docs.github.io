@@ -34,9 +34,9 @@ nav_section: Factions
 
 ## Capability
 
-EDPA **4.94** · EDPA/Duc **0.225** · ATK2K **14.1** · ATK2K/Duc **0.64**
+EDPA **3.26** · EDPA/Duc **0.148** · ATK2K **14.1** · ATK2K/Duc **0.64**
 
-*Damage Dealer median: EDPA **2.95** · EDPA/Duc **0.195** · ATK2K **10.8** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.88** · EDPA/Duc **0.184** · ATK2K **10.8** · ATK2K/Duc **0.73***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -88,6 +88,22 @@ EDPA **4.94** · EDPA/Duc **0.225** · ATK2K **14.1** · ATK2K/Duc **0.64**
 | Armoured (Dex4/Prot5) | 4.02 | 3.87 |
 | Tank (Dex4/Prot5/US5) | 4.02 | 3.87 |
 | Parry (Dex5/Prot3/Parry2) | 4.84 | 4.71 |
+
+</div>
+<div>
+
+### Burst EDPA by target
+
+*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
+
+| Target | Burst EDPA | Median |
+|---|---|---|
+| Soft (Dex3/Prot1) | 4.94 | 4.02 |
+| Balanced (Dex4/Prot3) | 4.94 | 3.14 |
+| Evasive (Dex6/Prot2) | 4.94 | 2.69 |
+| Armoured (Dex4/Prot5) | 4.22 | 2.32 |
+| Tank (Dex4/Prot5/US5) | 2.94 | 1.92 |
+| Parry (Dex5/Prot3/Parry2) | 4.94 | 2.24 |
 
 </div>
 </div>
