@@ -229,6 +229,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
 
+*ATK2K median understates this role: typical 12.1, average 13.7, with 1 model well above the pack (up to 22.9), so the durability ceiling is higher than the median suggests.*
+
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Dagonite Priest](/factions/rashaar/dagonite-priest/) | 3.58 | 0.239 | ✓ | 10.6 | 0.71 | – |
@@ -245,6 +247,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Morgraur](/factions/rashaar/morgraur/) | 5.06 | 0.074 | – | 55.2 | 0.81 | – |
 
 #### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*
+
+*EDPA median overstates this role: typical 2.68, average 2.38, with 4 models well below the pack (down to 0.57), so the offensive floor is lower than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -300,6 +304,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Lesser Rhyll](/factions/rashaar/lesser-rhyll/) | 1.36 | 0.105 | – | 9.7 | 0.75 | – |
 
 #### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
+
+*EDPA median understates this role: typical 1.13, average 1.30, with 4 models well above the pack (up to 2.86), so the offensive ceiling is higher than the median suggests.*
+
+*ATK2K median understates this role: typical 2.6, average 5.6, with 3 models well above the pack (up to 20.6), so the durability ceiling is higher than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|

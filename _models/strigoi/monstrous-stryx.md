@@ -40,6 +40,8 @@ EDPA **5.31** · EDPA/Duc **0.133** · ATK2K **17.0** · ATK2K/Duc **0.42**
 
 *Assassin median: EDPA **3.58** · EDPA/Duc **0.198** · ATK2K **10.3** · ATK2K/Duc **0.59***
 
+*Upper ATK2K outlier: among this faction's Assassins the median is 10.0, but this model reaches 17.0, so the role median understates models like this.*
+
 [How these metrics are computed →](/mechanics/combat/)
 
 <div class="model-pairs">

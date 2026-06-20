@@ -232,6 +232,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
 
+*EDPA median understates this role: typical 2.13, average 2.36, with 2 models well above the pack (up to 3.48), so the offensive ceiling is higher than the median suggests.*
+
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Fencing Master](/factions/patricians/fencing-master/) | 3.48 | 0.217 | ✓ | 18.4 | 1.15 | ✓ |
@@ -245,6 +247,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Ottoman Archer](/factions/patricians/ottoman-archer/) | 1.13 | 0.113 | – | 9.7 | 0.97 | ✓ |
 
 #### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
+
+*ATK2K median understates this role: typical 19.5, average 27.4, with 1 model well above the pack (up to 47.9), so the durability ceiling is higher than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -298,6 +302,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Ottoman Rigger](/factions/patricians/ottoman-rigger/) | 1.13 | 0.094 | ✓ | 11.3 | 0.94 | ✓ |
 
 #### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
+
+*EDPA median understates this role: typical 1.50, average 1.66, with a wide spread (1.13 to 1.99), so the offensive ceiling is higher than the median suggests.*
+
+*ATK2K median understates this role: typical 9.7, average 10.9, with a wide spread (8.8 to 14.2), so the durability ceiling is higher than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|

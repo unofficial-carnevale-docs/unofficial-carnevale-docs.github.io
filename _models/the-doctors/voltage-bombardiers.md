@@ -39,6 +39,8 @@ EDPA **4.14** · EDPA/Duc **0.345** · ATK2K **6.7** · ATK2K/Duc **0.56**
 
 *Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
 
+*Upper EDPA outlier: among this faction's Specialists the median is 1.13, but this model reaches 4.14, so the role median understates models like this.*
+
 [How these metrics are computed →](/mechanics/combat/)
 
 <div class="model-pairs">

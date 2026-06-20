@@ -35,6 +35,8 @@ EDPA **2.97** · EDPA/Duc **0.247** · ATK2K **6.9** · ATK2K/Duc **0.58**
 
 *Damage Dealer median: EDPA **2.95** · EDPA/Duc **0.195** · ATK2K **10.8** · ATK2K/Duc **0.73***
 
+*Lower ATK2K outlier: among this faction's Damage Dealers the median is 13.7, but this model is only 6.9, so the role median overstates models like this.*
+
 [How these metrics are computed →](/mechanics/combat/)
 
 <div class="model-pairs">

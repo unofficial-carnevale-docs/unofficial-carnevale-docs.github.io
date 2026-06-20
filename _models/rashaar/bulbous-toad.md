@@ -37,6 +37,8 @@ EDPA **0.71** · EDPA/Duc **0.055** · ATK2K **16.0** · ATK2K/Duc **1.23**
 
 *Canal Fighter median: EDPA **2.68** · EDPA/Duc **0.151** · ATK2K **12.6** · ATK2K/Duc **0.80***
 
+*Lower EDPA outlier: among this faction's Canal Fighters the median is 2.68, but this model is only 0.71, so the role median overstates models like this.*
+
 [How these metrics are computed →](/mechanics/combat/)
 
 <div class="model-pairs">

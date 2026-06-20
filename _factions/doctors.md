@@ -258,6 +258,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*
 
+*EDPA median overstates this role: typical 2.68, average 2.28, with 3 models well below the pack (down to 0.85), so the offensive floor is lower than the median suggests.*
+
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Crocodile](/factions/the-doctors/crocodile/) | 2.91 | 0.208 | ✓ | 14.9 | 1.06 | ✓ |
@@ -303,6 +305,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
 
+*ATK2K median overstates this role: typical 9.8, average 8.3, with 1 model well below the pack (down to 2.9), so the durability floor is lower than the median suggests.*
+
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Husk](/factions/the-doctors/husk/) | 0.87 | 0.217 | ✓ | 2.9 | 0.72 | – |
@@ -312,6 +316,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Lab Assistant](/factions/the-doctors/lab-assistant/) | 1.13 | 0.113 | – | 7.3 | 0.73 | – |
 
 #### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
+
+*EDPA median understates this role: typical 1.13, average 1.35, with 1 model well above the pack (up to 4.14), so the offensive ceiling is higher than the median suggests.*
+
+*ATK2K median understates this role: typical 6.7, average 8.5, with 1 model well above the pack (up to 18.4), so the durability ceiling is higher than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|

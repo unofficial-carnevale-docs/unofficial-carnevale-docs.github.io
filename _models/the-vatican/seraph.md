@@ -35,6 +35,10 @@ EDPA **2.68** · EDPA/Duc **0.158** · ATK2K **29.6** · ATK2K/Duc **1.74**
 
 *Disruptor median: EDPA **1.69** · EDPA/Duc **0.113** · ATK2K **12.2** · ATK2K/Duc **0.82***
 
+*Upper EDPA outlier: among this faction's Disruptors the median is 1.63, but this model reaches 2.68, so the role median understates models like this.*
+
+*Upper ATK2K outlier: among this faction's Disruptors the median is 11.5, but this model reaches 29.6, so the role median understates models like this.*
+
 [How these metrics are computed →](/mechanics/combat/)
 
 <div class="model-pairs">

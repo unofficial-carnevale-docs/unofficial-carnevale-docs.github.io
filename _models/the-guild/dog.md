@@ -33,6 +33,8 @@ EDPA **1.68** · EDPA/Duc **0.336** · ATK2K **3.8** · ATK2K/Duc **0.76**
 
 *Harasser median: EDPA **1.63** · EDPA/Duc **0.121** · ATK2K **8.8** · ATK2K/Duc **0.76***
 
+*Lower ATK2K outlier: among this faction's Harassers the median is 8.8, but this model is only 3.8, so the role median overstates models like this.*
+
 [How these metrics are computed →](/mechanics/combat/)
 
 <div class="model-pairs">

@@ -230,6 +230,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Assassin  *(bars: E/Duc 0.198, ATK2K/Duc 0.59)*
 
+*ATK2K median understates this role: typical 10.0, average 12.3, with 1 model well above the pack (up to 17.0), so the durability ceiling is higher than the median suggests.*
+
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Strzyga](/factions/strigoi/strzyga/) | 3.52 | 0.196 | – | 10.0 | 0.56 | – |
@@ -266,6 +268,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
 
+*EDPA median understates this role: typical 1.75, average 2.22, with 1 model well above the pack (up to 4.38), so the offensive ceiling is higher than the median suggests.*
+
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Tarot Reader](/factions/strigoi/tarot-reader/) | 4.38 | 0.274 | ✓ | 9.7 | 0.61 | – |
@@ -282,6 +286,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
 
+*ATK2K median understates this role: typical 9.3, average 10.9, with 1 model well above the pack (up to 23.3), so the durability ceiling is higher than the median suggests.*
+
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Targoveti](/factions/strigoi/targoveti/) | 1.99 | 0.199 | ✓ | 12.6 | 1.26 | ✓ |
@@ -292,6 +298,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Newborn Strigoi](/factions/strigoi/newborn-strigoi/) | 1.13 | 0.141 | – | 5.3 | 0.66 | – |
 
 #### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
+
+*EDPA median understates this role: typical 1.63, average 2.24, with 1 model well above the pack (up to 3.58), so the offensive ceiling is higher than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|

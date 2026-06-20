@@ -35,6 +35,8 @@ EDPA **0.87** · EDPA/Duc **0.217** · ATK2K **2.9** · ATK2K/Duc **0.72**
 
 *Line Fighter median: EDPA **1.46** · EDPA/Duc **0.150** · ATK2K **9.7** · ATK2K/Duc **0.97***
 
+*Lower ATK2K outlier: among this faction's Line Fighters the median is 9.8, but this model is only 2.9, so the role median overstates models like this.*
+
 [How these metrics are computed →](/mechanics/combat/)
 
 <div class="model-pairs">

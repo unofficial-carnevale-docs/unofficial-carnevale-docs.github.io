@@ -35,6 +35,8 @@ EDPA **2.19** · EDPA/Duc **0.156** · ATK2K **11.3** · ATK2K/Duc **0.81**
 
 *Objective Runner median: EDPA **1.13** · EDPA/Duc **0.094** · ATK2K **7.7** · ATK2K/Duc **0.79***
 
+*Upper EDPA outlier: among this faction's Objective Runners the median is 0.62, but this model reaches 2.19, so the role median understates models like this.*
+
 [How these metrics are computed →](/mechanics/combat/)
 
 <div class="model-pairs">

@@ -237,6 +237,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
 
+*EDPA median understates this role: typical 1.13, average 1.91, with 1 model well above the pack (up to 3.73), so the offensive ceiling is higher than the median suggests.*
+
+*ATK2K median understates this role: typical 10.6, average 11.6, with 1 model well above the pack (up to 17.0), so the durability ceiling is higher than the median suggests.*
+
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Maria Fioritura](/factions/gifted/maria-fioritura/) | 3.73 | 0.207 | ✓ | 10.6 | 0.59 | – |

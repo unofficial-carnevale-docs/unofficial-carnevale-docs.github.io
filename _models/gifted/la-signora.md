@@ -41,6 +41,8 @@ EDPA **1.50** · EDPA/Duc **0.083** · ATK2K **17.7** · ATK2K/Duc **0.98**
 
 *Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
 
+*Upper ATK2K outlier: among this faction's Supports the median is 10.6, but this model reaches 17.7, so the role median understates models like this.*
+
 [How these metrics are computed →](/mechanics/combat/)
 
 <div class="model-pairs">

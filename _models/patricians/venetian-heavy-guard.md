@@ -34,6 +34,8 @@ EDPA **3.01** · EDPA/Duc **0.188** · ATK2K **47.9** · ATK2K/Duc **2.99**
 
 *Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
 
+*Upper ATK2K outlier: among this faction's Brawlers the median is 19.5, but this model reaches 47.9, so the role median understates models like this.*
+
 [How these metrics are computed →](/mechanics/combat/)
 
 <div class="model-pairs">

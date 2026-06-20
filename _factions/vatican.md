@@ -244,6 +244,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Damage Dealer  *(bars: E/Duc 0.195, ATK2K/Duc 0.73)*
 
+*ATK2K median overstates this role: typical 13.7, average 12.3, with 2 models well below the pack (down to 6.9), so the durability floor is lower than the median suggests.*
+
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Prelate of the Flaming Sword](/factions/the-vatican/prelate-of-the-flaming-sword/) | 4.52 | 0.301 | ✓ | 18.0 | 1.20 | ✓ |
@@ -294,6 +296,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Disruptor  *(bars: E/Duc 0.113, ATK2K/Duc 0.82)*
 
+*EDPA median understates this role: typical 1.63, average 1.81, with 1 model well above the pack (up to 2.68), so the offensive ceiling is higher than the median suggests.*
+
+*ATK2K median understates this role: typical 11.5, average 16.3, with 1 model well above the pack (up to 29.6), so the durability ceiling is higher than the median suggests.*
+
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Seraph](/factions/the-vatican/seraph/) | 2.68 | 0.158 | ✓ | 29.6 | 1.74 | ✓ |
@@ -301,6 +307,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Witch Finder](/factions/the-vatican/witch-finder/) | 1.13 | 0.094 | – | 7.9 | 0.66 | – |
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
+
+*EDPA median understates this role: typical 1.25, average 1.48, with 4 models well above the pack (up to 3.24), so the offensive ceiling is higher than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -324,6 +332,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Inquisitorial Spy](/factions/the-vatican/inquisitorial-spy/) | 1.50 | 0.136 | ✓ | 10.9 | 0.99 | ✓ |
 
 #### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
+
+*ATK2K median understates this role: typical 9.7, average 11.9, with 1 model well above the pack (up to 18.0), so the durability ceiling is higher than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|

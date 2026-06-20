@@ -287,6 +287,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*
 
+*ATK2K median overstates this role: typical 8.8, average 7.5, with 1 model well below the pack (down to 3.8), so the durability floor is lower than the median suggests.*
+
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Dog](/factions/the-guild/dog/) | 1.68 | 0.336 | ✓ | 3.8 | 0.76 | ✓ |
@@ -308,6 +310,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 #### Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*
 
+*EDPA median understates this role: typical 0.62, average 1.08, with 1 model well above the pack (up to 2.19), so the offensive ceiling is higher than the median suggests.*
+
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Dancer](/factions/the-guild/dancer/) | 2.19 | 0.156 | ✓ | 11.3 | 0.81 | ✓ |
@@ -315,6 +319,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Pilferer](/factions/the-guild/pilferer/) | 0.62 | 0.062 | – | 8.3 | 0.83 | ✓ |
 
 #### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
+
+*EDPA median understates this role: typical 1.13, average 1.40, with 1 model well above the pack (up to 1.99), so the offensive ceiling is higher than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
