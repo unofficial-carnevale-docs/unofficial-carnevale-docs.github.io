@@ -9,7 +9,7 @@ toc:
     anchor: faction-overview
   - title: Faction Command
     anchor: faction-command
-  - title: Faction special ability: Masks
+  - title: "Faction special ability: Masks"
     anchor: faction-special-ability-masks
   - title: Magic Access
     anchor: magic-access
