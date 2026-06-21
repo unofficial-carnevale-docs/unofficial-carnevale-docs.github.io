@@ -2,7 +2,7 @@
 layout: model
 title: Il Capitano
 permalink: /factions/gifted/il-capitano/
-description: "High-output glass cannon for his cost. He's a really good support, making allies move and giving all the gang Companion (Il Capitano). But he only have Mind 2, and forces every friendly model in LOS to use it."
+description: "High-output glass cannon for his cost. He's a really good support, making allies move and giving the whole gang Companion (Il Capitano). But he only has Mind 2, and forces every friendly model in LOS to use it."
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
@@ -36,7 +36,7 @@ nav_section: Factions
 
 EDPA **4.29** · EDPA/Duc **0.226** · ATK2K **8.7** · ATK2K/Duc **0.46**
 
-*Damage Dealer median: EDPA **2.88** · EDPA/Duc **0.184** · ATK2K **10.8** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -49,11 +49,11 @@ EDPA **4.29** · EDPA/Duc **0.226** · ATK2K **8.7** · ATK2K/Duc **0.46**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 5.48 | 3.79 |
-| Balanced (Dex4/Prot3) | 4.29 | 2.88 |
-| Evasive (Dex6/Prot2) | 3.97 | 2.52 |
-| Armoured (Dex4/Prot5) | 3.45 | 2.15 |
-| Tank (Dex4/Prot5/US5) | 3.45 | 1.90 |
+| Soft (Dex3/Prot1) | 5.48 | 3.83 |
+| Balanced (Dex4/Prot3) | 4.29 | 2.92 |
+| Evasive (Dex6/Prot2) | 3.97 | 2.54 |
+| Armoured (Dex4/Prot5) | 3.45 | 2.17 |
+| Tank (Dex4/Prot5/US5) | 3.45 | 1.92 |
 | Parry (Dex5/Prot3/Parry2) | 3.15 | 2.13 |
 
 
@@ -69,7 +69,7 @@ EDPA **4.29** · EDPA/Duc **0.226** · ATK2K **8.7** · ATK2K/Duc **0.46**
 | Baseline (Atk3) | 1.50 | 8.7 | 10.8 |
 | Elite (Atk5, Dmg+1) | 3.81 | 3.4 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.9 | 6.3 |
-| Drown (Atk3) | 1.56 | 8.3 | 7.4 |
+| Drown (Atk3) | 1.56 | 8.3 | 7.7 |
 
 </div>
 </div>

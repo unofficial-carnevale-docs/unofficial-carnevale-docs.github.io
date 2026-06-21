@@ -2,7 +2,7 @@
 layout: model
 title: Pinnacle of Affluence
 permalink: /factions/patricians/pinnacle-of-affluence/
-description: "The most expensive leader of the game. His cost is justified by being the highest command output character over the course of the game. He has weak stats but has a Poisoned template attack and gives every friendly models Bodyguard (Pinnacle of Affluence)."
+description: "The most expensive leader of the game. His cost is justified by being the highest command output character over the course of the game. He has weak stats but has a Poisoned Template attack and gives every friendly model Bodyguard (Pinnacle of Affluence)."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions

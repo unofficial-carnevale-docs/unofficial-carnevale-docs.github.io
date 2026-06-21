@@ -2,7 +2,7 @@
 layout: model
 title: Knight Commander
 permalink: /factions/the-vatican/knight-commander/
-description: "Really strong all-round fighter with high damage and high protection but with a Full Plate (weak near water). He also gives a small buff to Hospitallers, but nothing worth of orienting the full gang around it."
+description: "Really strong all-round fighter with high damage and high protection but with a Full Plate (weak near water). He also gives a small buff to Hospitallers, but nothing worth building the gang around."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions

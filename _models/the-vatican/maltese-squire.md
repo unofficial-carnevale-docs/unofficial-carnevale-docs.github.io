@@ -31,7 +31,9 @@ nav_section: Factions
 
 EDPA **0.75** · EDPA/Duc **0.075** · ATK2K **10.9** · ATK2K/Duc **1.09**
 
-*Sniper median: EDPA **1.87** · EDPA/Duc **0.135** · ATK2K **13.7** · ATK2K/Duc **1.09***
+*Sniper median: EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **11.5** · ATK2K/Duc **0.99***
+
+*Lower EDPA outlier: among this faction's Snipers the median is 2.40, but this model is only 0.75, so the role median overstates models like this.*
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -44,11 +46,11 @@ EDPA **0.75** · EDPA/Duc **0.075** · ATK2K **10.9** · ATK2K/Duc **1.09**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 1.25 | 2.68 |
+| Soft (Dex3/Prot1) | 1.25 | 2.74 |
 | Balanced (Dex4/Prot3) | 0.75 | 1.87 |
 | Evasive (Dex6/Prot2) | 0.65 | 1.74 |
 | Armoured (Dex4/Prot5) | 0.44 | 1.44 |
-| Tank (Dex4/Prot5/US5) | 0.33 | 1.24 |
+| Tank (Dex4/Prot5/US5) | 0.33 | 1.27 |
 | Parry (Dex5/Prot3/Parry2) | 0.61 | 1.70 |
 
 
@@ -61,8 +63,8 @@ EDPA **0.75** · EDPA/Duc **0.075** · ATK2K **10.9** · ATK2K/Duc **1.09**
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
-| Baseline (Atk3) | 0.92 | 10.9 | 13.7 |
-| Elite (Atk5, Dmg+1) | 2.90 | 3.5 | 4.1 |
+| Baseline (Atk3) | 0.92 | 10.9 | 11.5 |
+| Elite (Atk5, Dmg+1) | 2.90 | 3.5 | 3.8 |
 | Penetrator (Atk3, Pen−3) | 1.90 | 5.3 | 6.3 |
 | Drown (Atk3) | 1.90 | 5.3 | 6.9 |
 

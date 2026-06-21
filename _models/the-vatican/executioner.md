@@ -33,9 +33,7 @@ nav_section: Factions
 
 EDPA **2.97** · EDPA/Duc **0.247** · ATK2K **6.9** · ATK2K/Duc **0.58**
 
-*Damage Dealer median: EDPA **2.88** · EDPA/Duc **0.184** · ATK2K **10.8** · ATK2K/Duc **0.73***
-
-*Lower ATK2K outlier: among this faction's Damage Dealers the median is 13.7, but this model is only 6.9, so the role median overstates models like this.*
+*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -48,11 +46,11 @@ EDPA **2.97** · EDPA/Duc **0.247** · ATK2K **6.9** · ATK2K/Duc **0.58**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 4.23 | 3.79 |
-| Balanced (Dex4/Prot3) | 2.97 | 2.88 |
-| Evasive (Dex6/Prot2) | 2.54 | 2.52 |
-| Armoured (Dex4/Prot5) | 2.17 | 2.15 |
-| Tank (Dex4/Prot5/US5) | 2.17 | 1.90 |
+| Soft (Dex3/Prot1) | 4.23 | 3.83 |
+| Balanced (Dex4/Prot3) | 2.97 | 2.92 |
+| Evasive (Dex6/Prot2) | 2.54 | 2.54 |
+| Armoured (Dex4/Prot5) | 2.17 | 2.17 |
+| Tank (Dex4/Prot5/US5) | 2.17 | 1.92 |
 | Parry (Dex5/Prot3/Parry2) | 1.69 | 2.13 |
 
 
@@ -68,7 +66,7 @@ EDPA **2.97** · EDPA/Duc **0.247** · ATK2K **6.9** · ATK2K/Duc **0.58**
 | Baseline (Atk3) | 1.89 | 6.9 | 10.8 |
 | Elite (Atk5, Dmg+1) | 4.31 | 3.0 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.9 | 6.3 |
-| Drown (Atk3) | 1.56 | 8.3 | 7.4 |
+| Drown (Atk3) | 1.56 | 8.3 | 7.7 |
 
 </div>
 </div>

@@ -2,7 +2,7 @@
 layout: model
 title: Patriarch Bishop de Bernis
 permalink: /factions/the-vatican/patriarch-bishop-de-bernis/
-description: "Best mage of the faction that gives gang-wide WP regen via Companion (Leader). He's mainly a support bot has access to Summon Vermin meaning he can be a good damage dealer against non armored ennemies."
+description: "Best mage of the faction, gives gang-wide WP regen via Companion (Leader). He's mainly a support but has access to Summon Vermin, meaning he can be a good damage dealer against non-armoured enemies."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions

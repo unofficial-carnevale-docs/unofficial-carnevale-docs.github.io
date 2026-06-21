@@ -2,7 +2,7 @@
 layout: model
 title: Father Cesta
 permalink: /factions/the-vatican/father-cesta/
-description: "Flighing mage with lots of buffs for Constructs, notably removing their Mindless attribute."
+description: "Flying mage with lots of buffs for Constructs, notably removing their Mindless attribute."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions

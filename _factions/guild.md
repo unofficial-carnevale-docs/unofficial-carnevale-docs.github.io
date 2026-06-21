@@ -228,7 +228,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Damage Dealer | 10 | 3.40 | 0.208 | 7/10 | 9.6 | 0.60 | 2/10 |
 | Brawler | 1 | 2.68 | 0.206 | 1/1 | 14.9 | 1.15 | 0/1 |
 | Assassin | 2 | 3.70 | 0.243 | 1/2 | 13.0 | 0.87 | 2/2 |
-| Sniper | 2 | 1.58 | 0.118 | 1/2 | 13.2 | 1.07 | 1/2 |
+| Sniper | 2 | 1.58 | 0.118 | 1/2 | 13.2 | 1.07 | 2/2 |
 | Canal Fighter | 2 | 2.29 | 0.180 | 1/2 | 11.7 | 0.97 | 2/2 |
 | Disruptor | 1 | 2.13 | 0.125 | 1/1 | 16.0 | 0.94 | 1/1 |
 | Harasser | 4 | 1.38 | 0.115 | 1/4 | 8.8 | 0.74 | 2/4 |
@@ -237,7 +237,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 5 | 1.13 | 0.141 | 2/5 | 9.7 | 0.96 | 1/5 |
 | Specialist | 4 | 2.31 | 0.159 | 3/4 | 10.1 | 0.79 | 3/4 |
 
-#### Damage Dealer  *(bars: E/Duc 0.184, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -265,11 +265,11 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Rialto Assassin](/factions/the-guild/rialto-assassin/) | 4.74 | 0.296 | ✓ | 14.1 | 0.88 | ✓ |
 | [Shadow Assassin](/factions/the-guild/shadow-assassin/) | 2.66 | 0.190 | – | 11.9 | 0.85 | ✓ |
 
-#### Sniper  *(bars: E/Duc 0.135, ATK2K/Duc 1.09)*
+#### Sniper  *(bars: E/Duc 0.156, ATK2K/Duc 0.99)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| [Baroni](/factions/the-guild/baroni/) | 2.41 | 0.161 | ✓ | 14.9 | 0.99 | – |
+| [Baroni](/factions/the-guild/baroni/) | 2.41 | 0.161 | ✓ | 14.9 | 0.99 | ✓ |
 | [Arbalest](/factions/the-guild/arbalest/) | 0.75 | 0.075 | – | 11.4 | 1.14 | ✓ |
 
 #### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*

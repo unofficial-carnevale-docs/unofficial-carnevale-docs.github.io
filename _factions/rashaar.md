@@ -227,7 +227,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 4 | 1.68 | 0.162 | 2/4 | 9.6 | 0.76 | 1/4 |
 | Specialist | 9 | 1.13 | 0.088 | 1/9 | 2.6 | 0.64 | 2/9 |
 
-#### Damage Dealer  *(bars: E/Duc 0.184, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*
 
 *EDPA median understates this role: typical 2.54, average 2.83, with 1 model well above the pack (up to 4.37), so the offensive ceiling is higher than the median suggests.*
 

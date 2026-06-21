@@ -2,7 +2,7 @@
 layout: model
 title: Inquisitor
 permalink: /factions/the-vatican/inquisitor/
-description: "Very aggressive Frienzied caster. He has access to Blood Rites making him a strong damage dealer, but he has a low HP pool and no way to regenerate them."
+description: "Very aggressive Frenzied caster. He has access to Blood Rites, making him a strong damage dealer, but he has a low LP pool and no way to regenerate them."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
@@ -36,7 +36,7 @@ nav_section: Factions
 
 EDPA **3.26** · EDPA/Duc **0.148** · ATK2K **14.1** · ATK2K/Duc **0.64**
 
-*Damage Dealer median: EDPA **2.88** · EDPA/Duc **0.184** · ATK2K **10.8** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -68,7 +68,7 @@ EDPA **3.26** · EDPA/Duc **0.148** · ATK2K **14.1** · ATK2K/Duc **0.64**
 | Baseline (Atk3) | 0.92 | 14.1 | 10.8 |
 | Elite (Atk5, Dmg+1) | 2.90 | 4.5 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 0.92 | 14.1 | 6.3 |
-| Drown (Atk3) | 1.90 | 6.9 | 7.4 |
+| Drown (Atk3) | 1.90 | 6.9 | 7.7 |
 
 </div>
 </div>
@@ -103,7 +103,7 @@ EDPA **3.26** · EDPA/Duc **0.148** · ATK2K **14.1** · ATK2K/Duc **0.64**
 | Evasive (Dex6/Prot2) | 4.94 | 2.69 |
 | Armoured (Dex4/Prot5) | 4.22 | 2.32 |
 | Tank (Dex4/Prot5/US5) | 2.94 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 4.94 | 2.24 |
+| Parry (Dex5/Prot3/Parry2) | 4.94 | 2.23 |
 
 </div>
 </div>

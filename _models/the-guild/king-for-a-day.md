@@ -2,7 +2,7 @@
 layout: model
 title: King For a Day
 permalink: /factions/the-guild/king-for-a-day/
-description: "Cheap anti-armor damage dealer, but he only has AP2 and low command. Build around the End of Days sub-faction, notably removing their Mindless attribute."
+description: "Cheap anti-armour damage dealer, but he only has AP2 and low command. Build around the End of Days sub-faction, notably removing their Mindless attribute."
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
@@ -36,7 +36,7 @@ nav_section: Factions
 
 EDPA **2.20** · EDPA/Duc **0.100** · ATK2K **8.0** · ATK2K/Duc **0.36**
 
-*Damage Dealer median: EDPA **2.88** · EDPA/Duc **0.184** · ATK2K **10.8** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -49,11 +49,11 @@ EDPA **2.20** · EDPA/Duc **0.100** · ATK2K **8.0** · ATK2K/Duc **0.36**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 2.50 | 3.79 |
-| Balanced (Dex4/Prot3) | 2.20 | 2.88 |
-| Evasive (Dex6/Prot2) | 1.58 | 2.52 |
-| Armoured (Dex4/Prot5) | 1.50 | 2.15 |
-| Tank (Dex4/Prot5/US5) | 0.67 | 1.90 |
+| Soft (Dex3/Prot1) | 2.50 | 3.83 |
+| Balanced (Dex4/Prot3) | 2.20 | 2.92 |
+| Evasive (Dex6/Prot2) | 1.58 | 2.54 |
+| Armoured (Dex4/Prot5) | 1.50 | 2.17 |
+| Tank (Dex4/Prot5/US5) | 0.67 | 1.92 |
 | Parry (Dex5/Prot3/Parry2) | 1.39 | 2.13 |
 
 
@@ -69,7 +69,7 @@ EDPA **2.20** · EDPA/Duc **0.100** · ATK2K **8.0** · ATK2K/Duc **0.36**
 | Baseline (Atk3) | 1.50 | 8.0 | 10.8 |
 | Elite (Atk5, Dmg+1) | 3.81 | 3.1 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.5 | 6.3 |
-| Drown (Atk3) | 1.90 | 6.3 | 7.4 |
+| Drown (Atk3) | 1.90 | 6.3 | 7.7 |
 
 </div>
 </div>

@@ -213,7 +213,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 6 | 1.61 | 0.157 | 4/6 | 9.3 | 0.86 | 2/6 |
 | Specialist | 3 | 1.63 | 0.152 | 3/3 | 9.7 | 0.66 | 1/3 |
 
-#### Damage Dealer  *(bars: E/Duc 0.184, ATK2K/Duc 0.73)*
+#### Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|

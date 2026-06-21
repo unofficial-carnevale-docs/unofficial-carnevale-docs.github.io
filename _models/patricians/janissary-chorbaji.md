@@ -2,7 +2,7 @@
 layout: model
 title: Janissary Chorbaji
 permalink: /factions/patricians/janissary-chorbaji/
-description: "Durable Ottoman commander build around this subfaction."
+description: "Durable Ottoman commander built around this sub-faction."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions

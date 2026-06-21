@@ -2,7 +2,7 @@
 layout: model
 title: Prince of Thieves
 permalink: /factions/the-guild/prince-of-thieves/
-description: "Flexible aggressive hero-leader with good command. He is a strong solo, but is a less good commander than the other leaders, he doesn't give as useful gang-wide buff."
+description: "Flexible aggressive hero-leader with good command. He is a strong solo, but a less effective commander than the other leaders: he doesn't give as useful a gang-wide buff."
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
@@ -39,7 +39,7 @@ nav_section: Factions
 
 EDPA **3.92** · EDPA/Duc **0.170** · ATK2K **18.4** · ATK2K/Duc **0.80**
 
-*Damage Dealer median: EDPA **2.88** · EDPA/Duc **0.184** · ATK2K **10.8** · ATK2K/Duc **0.73***
+*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -52,11 +52,11 @@ EDPA **3.92** · EDPA/Duc **0.170** · ATK2K **18.4** · ATK2K/Duc **0.80**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 5.20 | 3.79 |
-| Balanced (Dex4/Prot3) | 3.92 | 2.88 |
-| Evasive (Dex6/Prot2) | 3.40 | 2.52 |
-| Armoured (Dex4/Prot5) | 3.06 | 2.15 |
-| Tank (Dex4/Prot5/US5) | 2.81 | 1.90 |
+| Soft (Dex3/Prot1) | 5.20 | 3.83 |
+| Balanced (Dex4/Prot3) | 3.92 | 2.92 |
+| Evasive (Dex6/Prot2) | 3.40 | 2.54 |
+| Armoured (Dex4/Prot5) | 3.06 | 2.17 |
+| Tank (Dex4/Prot5/US5) | 2.81 | 1.92 |
 | Parry (Dex5/Prot3/Parry2) | 2.96 | 2.13 |
 
 
@@ -72,7 +72,7 @@ EDPA **3.92** · EDPA/Duc **0.170** · ATK2K **18.4** · ATK2K/Duc **0.80**
 | Baseline (Atk3) | 0.71 | 18.4 | 10.8 |
 | Elite (Atk5, Dmg+1) | 2.47 | 5.3 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 1.59 | 8.2 | 6.3 |
-| Drown (Atk3) | 1.19 | 10.9 | 7.4 |
+| Drown (Atk3) | 1.19 | 10.9 | 7.7 |
 
 </div>
 </div>
@@ -91,7 +91,7 @@ EDPA **3.92** · EDPA/Duc **0.170** · ATK2K **18.4** · ATK2K/Duc **0.80**
 | Evasive (Dex6/Prot2) | 3.62 | 2.69 |
 | Armoured (Dex4/Prot5) | 3.31 | 2.32 |
 | Tank (Dex4/Prot5/US5) | 3.31 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 3.70 | 2.24 |
+| Parry (Dex5/Prot3/Parry2) | 3.70 | 2.23 |
 
 </div>
 </div>

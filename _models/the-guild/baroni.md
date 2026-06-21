@@ -38,7 +38,7 @@ nav_section: Factions
 
 EDPA **2.41** · EDPA/Duc **0.161** · ATK2K **14.9** · ATK2K/Duc **0.99**
 
-*Sniper median: EDPA **1.87** · EDPA/Duc **0.135** · ATK2K **13.7** · ATK2K/Duc **1.09***
+*Sniper median: EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **11.5** · ATK2K/Duc **0.99***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -51,11 +51,11 @@ EDPA **2.41** · EDPA/Duc **0.161** · ATK2K **14.9** · ATK2K/Duc **0.99**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 2.91 | 2.68 |
+| Soft (Dex3/Prot1) | 2.91 | 2.74 |
 | Balanced (Dex4/Prot3) | 2.41 | 1.87 |
 | Evasive (Dex6/Prot2) | 2.34 | 1.74 |
 | Armoured (Dex4/Prot5) | 1.97 | 1.44 |
-| Tank (Dex4/Prot5/US5) | 1.78 | 1.24 |
+| Tank (Dex4/Prot5/US5) | 1.78 | 1.27 |
 | Parry (Dex5/Prot3/Parry2) | 2.27 | 1.70 |
 
 
@@ -68,8 +68,8 @@ EDPA **2.41** · EDPA/Duc **0.161** · ATK2K **14.9** · ATK2K/Duc **0.99**
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
-| Baseline (Atk3) | 0.87 | 14.9 | 13.7 |
-| Elite (Atk5, Dmg+1) | 2.94 | 4.4 | 4.1 |
+| Baseline (Atk3) | 0.87 | 14.9 | 11.5 |
+| Elite (Atk5, Dmg+1) | 2.94 | 4.4 | 3.8 |
 | Penetrator (Atk3, Pen−3) | 1.89 | 6.9 | 6.3 |
 | Drown (Atk3) | 1.90 | 6.9 | 6.9 |
 

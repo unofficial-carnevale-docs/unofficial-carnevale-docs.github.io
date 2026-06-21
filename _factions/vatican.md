@@ -56,7 +56,7 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 | Line Fighter | Damage Dealer | Assassin | Sniper | Brawler | Tank | Canal Fighter |
 |---|---|---|---|---|---|---|
-| 7 | 7 | 1 | 2 | 8 | 1 | 1 |
+| 7 | 6 | 1 | 3 | 8 | 1 | 1 |
 
 | Support | Harasser | Control | Disruptor | Objective Runner | Specialist |
 |---|---|---|---|---|---|
@@ -159,54 +159,51 @@ Really strong all-round fighter with high damage and high protection but with a 
 
 **Mages**
 
-- [Lacrimosa](/factions/the-vatican/lacrimosa/) is a support piece, bringing healing & shielding.
-
-**Damage Dealer**
-
-- [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/) is a mid-range high-burst damage dealer. It's **Mindless** (can't score primaries) and one shot per turn (**Reload**).
+- [Lacrimosa](/factions/the-vatican/lacrimosa/) is a support mage that heals in a small zone around her when she exploits her Frienzied ability.
 
 **Brawler**
 
-- [Knight of Malta](/factions/the-vatican/knight-of-malta/) is a brawler.
+- [Knight of Malta](/factions/the-vatican/knight-of-malta/) is a standard Hospitaller brawler.
 
 **Sniper**
 
-- [Maltese Squire](/factions/the-vatican/maltese-squire/) is a long-range sniper. It's low on damage and pricey for its output.
+- [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/) is a short-range construct sniper.
+- [Maltese Squire](/factions/the-vatican/maltese-squire/) is a cheap but not very cost-effective long-range sniper.
 
 **Canal Fighter**
 
-- [Thalassic Messenger](/factions/the-vatican/thalassic-messenger/) is a drown canal fighter. It's tough for its role, but self-stun-prone (**Primitive**). Also fast through water; at home in water.
+- [Thalassic Messenger](/factions/the-vatican/thalassic-messenger/) is the only fighter of the faction that's efficient in water. It's expensive but really good at Drowing.
 
 **Disruptor**
 
-- [Witch Finder](/factions/the-vatican/witch-finder/) is a WP lockout disruptor. Also a strong grappler/drowner; pins fleeing enemies.
+- [Witch Finder](/factions/the-vatican/witch-finder/) is a WP lockout Disruptor that's also a strong grappler.
 
 **Support**
 
-- [Celestial Congregation](/factions/the-vatican/celestial-congregation/) is an offensive support piece. It's **Mindless** (can't score primaries). Also rattles low-Mind foes.
-- [Altar Boy](/factions/the-vatican/altar-boy/) is a support piece.
-- [Celestial Spirit](/factions/the-vatican/celestial-spirit/) is a support piece. It's **Mindless** (can't score primaries). Also rattles low-Mind foes.
-- [Reliquary Page](/factions/the-vatican/reliquary-page/) is a support piece. Also slips out of melee freely.
-- [Cherubim](/factions/the-vatican/cherubim/) is a **Companion** chain extender support piece. It's fragile and **Mindless** (can't score primaries). Also rattles low-Mind foes.
+- [Celestial Congregation](/factions/the-vatican/celestial-congregation/) is an offensive support piece that heals Constructs at the cost of its own life.
+- [Altar Boy](/factions/the-vatican/altar-boy/) is a fragile but agile support piece with a WP regeneration and a First Strike aura.
+- [Celestial Spirit](/factions/the-vatican/celestial-spirit/) is a cheap but fragile support that sacrifice itself to give actions to other constructs.
+- [Reliquary Page](/factions/the-vatican/reliquary-page/) is a cheap agile support with a reroll aura.
+- [Cherubim](/factions/the-vatican/cherubim/) is a cheap model that extends the **Companion** ability of allies to itself.
 
 **Objective Runner**
 
-- [Inquisitorial Spy](/factions/the-vatican/inquisitorial-spy/) is an objective runner. Also steals WP/objectives on disengage; deploys forward.
+- [Inquisitorial Spy](/factions/the-vatican/inquisitorial-spy/) is an infiltrator that generates one reroll for the gang.
 
 **Line Fighter**
 
-- [Bishop Guard](/factions/the-vatican/bishop-guard/) is a line fighter. It's high-output and tough for its role.
-- [Redemptionist](/factions/the-vatican/redemptionist/) is a line fighter. It's pricey for its output.
-- [Chevaleresse](/factions/the-vatican/chevaleresse/) is a line fighter. It's high-output and tough for its role.
-- [Priest](/factions/the-vatican/priest/) is a disruptive line fighter.
+- [Bishop Guard](/factions/the-vatican/bishop-guard/) is a cost-effective line fighter with Bodyguard (Leader).
+- [Redemptionist](/factions/the-vatican/redemptionist/) is a Frenzied line fighter. It needs a bit of healing to reveal its full potential
+- [Chevaleresse](/factions/the-vatican/chevaleresse/) is a cost-effective line fighter with Bodyguard (Henchman).
+- [Priest](/factions/the-vatican/priest/) is a cheap line fighter with a stun weapon.
 - [Crucifier](/factions/the-vatican/crucifier/) is an armour-piercing line fighter.
-- [French Infantryman](/factions/the-vatican/french-infantryman/) is a line fighter. It's pricey for its output and **Mindless** (can't score primaries).
-- [Martyr](/factions/the-vatican/martyr/) is a line fighter. It's **Mindless** (can't score primaries).
+- [French Infantryman](/factions/the-vatican/french-infantryman/) is a cheap but not very cost-effective line fighter with a knockback weapon.
+- [Martyr](/factions/the-vatican/martyr/) is a very cheap line fighter.
 
 **Specialist**
 
-- [Thomas Thieme](/factions/the-vatican/thomas-thieme/) is an anti-vampire bodyguard specialist. Its niche is to counter Vampire/Strigoi gangs specifically. Also extra Penetration vs bigger bases.
-- [Stalker](/factions/the-vatican/stalker/) is a ranged Counter trigger specialist. Its niche is to make reactive, out-of-sequence attacks (Counter). Also deploys forward.
+- [Thomas Thieme](/factions/the-vatican/thomas-thieme/) is Felix Baumgartner's Bodyguard, he's a hunter with a good attack against models without any WP.
+- [Stalker](/factions/the-vatican/stalker/) is a ranged Counter trigger infiltrator: COUNTER commands are free when used on it.
 
 ## Roster value
 
@@ -230,10 +227,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Role | n | EDPA med | EDPA/Duc med | above E/Duc bar | ATK2K med | ATK2K/Duc med | above A2/Duc bar |
 |---|---|---|---|---|---|---|---|
-| Damage Dealer | 7 | 3.13 | 0.206 | 7/7 | 13.7 | 0.88 | 5/7 |
+| Damage Dealer | 6 | 3.21 | 0.215 | 6/6 | 13.7 | 0.87 | 4/6 |
 | Brawler | 8 | 3.70 | 0.215 | 5/8 | 22.9 | 1.32 | 4/8 |
 | Assassin | 1 | 2.68 | 0.134 | 0/1 | 10.6 | 0.53 | 0/1 |
-| Sniper | 2 | 1.59 | 0.119 | 1/2 | 14.6 | 1.16 | 2/2 |
+| Sniper | 3 | 2.40 | 0.163 | 2/3 | 11.5 | 1.09 | 2/3 |
 | Canal Fighter | 1 | 2.68 | 0.149 | 0/1 | 18.0 | 1.00 | 1/1 |
 | Tank | 1 | 2.86 | 0.191 | 1/1 | 33.6 | 2.24 | 1/1 |
 | Disruptor | 3 | 1.63 | 0.102 | 1/3 | 11.5 | 0.72 | 1/3 |
@@ -242,9 +239,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 7 | 1.43 | 0.142 | 2/7 | 9.7 | 1.08 | 5/7 |
 | Specialist | 4 | 2.23 | 0.131 | 3/4 | 13.4 | 0.82 | 3/4 |
 
-#### Damage Dealer  *(bars: E/Duc 0.184, ATK2K/Duc 0.73)*
-
-*ATK2K median overstates this role: typical 13.7, average 12.3, with 2 models well below the pack (down to 6.9), so the durability floor is lower than the median suggests.*
+#### Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -254,7 +249,6 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Inquisition Commissioner](/factions/the-vatican/inquisition-commissioner/) | 3.29 | 0.206 | ✓ | 13.7 | 0.86 | ✓ |
 | [Felix Baumgartner](/factions/the-vatican/felix-baumgartner/) | 3.29 | 0.194 | ✓ | 14.9 | 0.88 | ✓ |
 | [Stigmatist](/factions/the-vatican/stigmatist/) | 2.49 | 0.192 | ✓ | 7.3 | 0.56 | – |
-| [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/) | 2.40 | 0.185 | ✓ | 11.5 | 0.88 | ✓ |
 
 #### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
 
@@ -275,10 +269,15 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | [Angel of the Blooded Rose](/factions/the-vatican/angel-of-the-blooded-rose/) | 2.68 | 0.134 | – | 10.6 | 0.53 | – |
 
-#### Sniper  *(bars: E/Duc 0.135, ATK2K/Duc 1.09)*
+#### Sniper  *(bars: E/Duc 0.156, ATK2K/Duc 0.99)*
+
+*EDPA median overstates this role: typical 2.40, average 1.86, with 1 model well below the pack (down to 0.75), so the offensive floor is lower than the median suggests.*
+
+*ATK2K median understates this role: typical 11.5, average 13.6, with 1 model well above the pack (up to 18.4), so the durability ceiling is higher than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
+| [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/) | 2.40 | 0.185 | ✓ | 11.5 | 0.88 | – |
 | [Scorpio Marksman](/factions/the-vatican/scorpio-marksman/) | 2.44 | 0.163 | ✓ | 18.4 | 1.23 | ✓ |
 | [Maltese Squire](/factions/the-vatican/maltese-squire/) | 0.75 | 0.075 | – | 10.9 | 1.09 | ✓ |
 

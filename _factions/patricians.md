@@ -51,7 +51,7 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 | Line Fighter | Damage Dealer | Assassin | Sniper | Brawler | Tank | Canal Fighter |
 |---|---|---|---|---|---|---|
-| 7 | 9 | 2 | 3 | 3 | 0 | 1 |
+| 7 | 8 | 2 | 4 | 3 | 0 | 1 |
 
 | Support | Harasser | Control | Disruptor | Objective Runner | Specialist |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@ The most expensive leader of the game. His cost is justified by being the highes
 
 Durable **Parry** fighter that buffs Soldiers.
 
-#### [Noble Admiral - Sniper (mid-range)](/factions/patricians/noble-admiral/)
+#### [Noble Admiral - Sniper (short-range)](/factions/patricians/noble-admiral/)
 
 Medium-range sniper with Boat synergy.
 
@@ -111,89 +111,89 @@ Cheapest leader of the game. He has only 2 AP and low command, but he's a WP bat
 
 **Mages**
 
-- [Moon](/factions/patricians/moon/) is a spellcasting assassin that doubles as a support piece, bringing damage & life-drain, stat buffs & dice manipulation. It's Mindless (can't score primaries). Also flies over terrain.
+- [Moon](/factions/patricians/moon/) is a flying spellcasting assassin or support piece in function of her Discipline choice. Best when played with Sun for WP regen.
 
 **Damage Dealer**
 
-- [Submissive Noble](/factions/patricians/submissive-noble/) is a melee damage dealer. It brings a Frenzy burst (+53%).
-- [Janissary Sapper](/factions/patricians/janissary-sapper/) is a mid-range area-effect damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's tough for its role, but one shot per turn (Reload).
-- [Fencing Master](/factions/patricians/fencing-master/) is a melee armour-piercing damage dealer. It's tough for its role. Also pins fleeing enemies.
-- [Seven Years Veteran](/factions/patricians/seven-years-veteran/) is a damage dealer.
-- [Ottoman Cannoneer](/factions/patricians/ottoman-cannoneer/) is an area-effect armour-piercing damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload).
-- [Syphilitic Noble](/factions/patricians/syphilitic-noble/) is a melee damage dealer. It's Mindless (can't score primaries). Also pins fleeing enemies.
+- [Submissive Noble](/factions/patricians/submissive-noble/) is an expensive Frenzied melee damage dealer with high burst and the ability to move every ally in base contact.
+- [Janissary Sapper](/factions/patricians/janissary-sapper/) is an expensive short-range area-effect damage dealer. It can give its attack to nearby Ottoman Archers.
+- [Fencing Master](/factions/patricians/fencing-master/) is an exepensive melee armour-piercing damage dealer that can bypass Universal shielding.
+- [Seven Years Veteran](/factions/patricians/seven-years-veteran/) is a damage dealer with an aura that multiplies the Will efficiency of nearby Soldiers.
+- [Ottoman Cannoneer](/factions/patricians/ottoman-cannoneer/) is an area-effect armour-piercing damage dealer.
+- [Syphilitic Noble](/factions/patricians/syphilitic-noble/) is a Frenzied melee damage dealer.
 
 **Brawler**
 
-- [Ottoman Janissary](/factions/patricians/ottoman-janissary/) is a brawler.
-- [Venetian Heavy Guard](/factions/patricians/venetian-heavy-guard/) is a brawler. It's tough for its role.
+- [Ottoman Janissary](/factions/patricians/ottoman-janissary/) is an expensive brawler with Bodyguard (Leader) and an aura that speeds up allied charges.
+- [Venetian Heavy Guard](/factions/patricians/venetian-heavy-guard/) is an expensive brawler, one of the toughest model of the game for its cost.
 
 **Assassin**
 
-- [Sun](/factions/patricians/sun/) is a ranged armour-piercing assassin. It's cost-efficient, but Mindless (can't score primaries).
+- [Sun](/factions/patricians/sun/) is an agile short-range armour-piercing assassin with a knockback weapon. It's cost-efficient, and at his best when played with Moon for WP regen.
 
 **Sniper**
 
-- [Venetian Spy](/factions/patricians/venetian-spy/) is a long-range sniper. Also deploys forward.
-- [Naval Lieutenant](/factions/patricians/naval-lieutenant/) is a mid-range sniper. It's high-output and cost-efficient. Also fast through water; crews boats for WP.
+- [Venetian Spy](/factions/patricians/venetian-spy/) is an expensive long-range sniper with Infiltration.
+- [Naval Lieutenant](/factions/patricians/naval-lieutenant/) is a cost-efficient mid-range sniper with high damage output.
 
 **Harasser**
 
-- [Cat Burglar](/factions/patricians/cat-burglar/) is a harasser. Also steals WP/objectives on disengage; deploys forward.
+- [Cat Burglar](/factions/patricians/cat-burglar/) is a very agile harasser, better quality and price than most of its category.
 
 **Support**
 
-- [Foreign Dignitary](/factions/patricians/foreign-dignitary/) is a support piece that doubles as a damage dealer.
-- [Captain of the Guard](/factions/patricians/captain-of-the-guard/) is a support piece that doubles as a damage dealer.
-- [Gourmand Noble](/factions/patricians/gourmand-noble/) is a support piece. It's Mindless (can't score primaries). Also pins fleeing enemies; rattles low-Mind foes.
-- [Wayfinder](/factions/patricians/wayfinder/) is a support piece.
+- [Foreign Dignitary](/factions/patricians/foreign-dignitary/) is a support piece with good damage and a CP regeneration aura for Councillors.
+- [Captain of the Guard](/factions/patricians/captain-of-the-guard/) is a melee damage dealer that supports Soldiers.
+- [Gourmand Noble](/factions/patricians/gourmand-noble/) has a Command ability that gives allies WP regen when they deal damage, but he only has 1 base CP.
+- [Wayfinder](/factions/patricians/wayfinder/) is a support piece that buffs allied ranged damage dealers.
 
 **Specialist**
 
-- [Don Gregorio Morisini](/factions/patricians/don-gregorio-morisini/) is an Artifact objective specialist. Its niche is to carry an Artifact for scenario value. Also steals WP/objectives on disengage; slips out of melee freely.
-- [Adventuring Noble](/factions/patricians/adventuring-noble/) is an Arcane Totem specialist. Its niche is to drop an Arcane Totem zone. Also extra Penetration vs bigger bases.
+- [Don Gregorio Morisini](/factions/patricians/don-gregorio-morisini/) is an expensive model that allows to purchase a second Artifact.
+- [Adventuring Noble](/factions/patricians/adventuring-noble/) knows all the spells from the Wild Magic discipline but can only attempt each one once per game for 0 WP.
 
 ### Henchmen
 
 **Damage Dealer**
 
-- [Noble Seafarer](/factions/patricians/noble-seafarer/) is a mid-range damage dealer. It's one shot per turn (Reload). Also fast through water; crews boats for WP.
-- [Ottoman Archer](/factions/patricians/ottoman-archer/) is a mid-range damage dealer. It's low on damage and pricey for its output. Also crews boats for WP.
-- [Butler](/factions/patricians/butler/) is a mid-range damage dealer. It's low on damage.
+- [Ottoman Archer](/factions/patricians/ottoman-archer/) is a cheap but not very cost effective mid-range damage dealer.
+- [Butler](/factions/patricians/butler/) is a cheap mid-range damage dealer.
 
 **Brawler**
 
-- [Hired Muscle](/factions/patricians/hired-muscle/) is a brawler. Also a strong grappler/drowner.
+- [Hired Muscle](/factions/patricians/hired-muscle/) is a brawler that's good at grappling.
 
 **Sniper**
 
-- [Guard Marksman](/factions/patricians/guard-marksman/) is a long-range sniper.
+- [Noble Seafarer](/factions/patricians/noble-seafarer/) is a short-range sniper.
+- [Guard Marksman](/factions/patricians/guard-marksman/) is a cheap long-range sniper.
 
 **Canal Fighter**
 
-- [Naval Ensign](/factions/patricians/naval-ensign/) is a canal fighter. Also extra Penetration vs bigger bases; fast through water.
+- [Naval Ensign](/factions/patricians/naval-ensign/) is a hunter canal fighter.
 
 **Harasser**
 
-- [Hunting Hound](/factions/patricians/hunting-hound/) is a harasser. It's Mindless (can't score primaries). Also pins fleeing enemies.
+- [Hunting Hound](/factions/patricians/hunting-hound/) is a very cheap and fragile fast harasser with good damage and Engage.
 
 **Support**
 
-- [Merchant](/factions/patricians/merchant/) is a support piece.
-- [Guard Sentry](/factions/patricians/guard-sentry/) is a support piece.
+- [Merchant](/factions/patricians/merchant/) is a support with 3 CP that can buff Henchmen charges.
+- [Guard Sentry](/factions/patricians/guard-sentry/) is a support that can use a free ORDER or COUNTER when above its target.
 
 **Objective Runner**
 
-- [Ottoman Rigger](/factions/patricians/ottoman-rigger/) is an objective runner. Also crews boats for WP.
+- [Ottoman Rigger](/factions/patricians/ottoman-rigger/) is an agile objective runner that never looses LP when falling.
 
 **Line Fighter**
 
-- [Cortigiane](/factions/patricians/cortigiane/) is a support line fighter. It's tough for its role, but pricey for its output.
-- [Barnabotti](/factions/patricians/barnabotti/) is a line fighter. It's high-output.
-- [Ottoman Pirate](/factions/patricians/ottoman-pirate/) is a line fighter. It's high-output. Also crews boats for WP.
-- [City Guard](/factions/patricians/city-guard/) is a line fighter. It's high-output and tough for its role.
-- [Naval Recruit](/factions/patricians/naval-recruit/) is a line fighter. Also fast through water.
-- [Household Staff](/factions/patricians/household-staff/) is a line fighter. It's pricey for its output.
-- [Cannibal Cultist](/factions/patricians/cannibal-cultist/) is a line fighter. It's Mindless (can't score primaries).
+- [Cortigiane](/factions/patricians/cortigiane/) is a tough line fighter that regenerates the WP of nearby Councillors.
+- [Barnabotti](/factions/patricians/barnabotti/) is a high damage line fighter with a mid-range attack.
+- [Ottoman Pirate](/factions/patricians/ottoman-pirate/) is a high damage line fighter with good survivability.
+- [City Guard](/factions/patricians/city-guard/) is a cheap but high quality line fighter.
+- [Naval Recruit](/factions/patricians/naval-recruit/) is a cheap Fast Swimmer line fighter.
+- [Household Staff](/factions/patricians/household-staff/) is a cheap line fighter with low damages but a stun weapon.
+- [Cannibal Cultist](/factions/patricians/cannibal-cultist/) is a cheap Frenzied line fighter that restores WP on damage, but it must attempt to charge nearby enemies.
 
 ## Roster value
 
@@ -207,7 +207,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|
 | [Pinnacle of Affluence](/factions/patricians/pinnacle-of-affluence/) | Support (command) | 1.77 | 22.0 | 0.055 | 0.69 |
 | [Guard Commander](/factions/patricians/guard-commander/) | Brawler / Support (Officer) | 3.51 | 22.7 | 0.175 | 1.14 |
-| [Noble Admiral](/factions/patricians/noble-admiral/) | Sniper (mid-range) | 1.91 | 14.9 | 0.101 | 0.78 |
+| [Noble Admiral](/factions/patricians/noble-admiral/) | Sniper (short-range) | 1.91 | 14.9 | 0.101 | 0.78 |
 | [Venetian Noble](/factions/patricians/venetian-noble/) | Damage Dealer (melee) | 3.74 | 18.4 | 0.178 | 0.88 |
 | [Mounted Venetian Noble](/factions/patricians/mounted-venetian-noble/) | Assassin (melee, fast) | 3.99 | 20.6 | 0.166 | 0.86 |
 | [Janissary Chorbaji](/factions/patricians/janissary-chorbaji/) | Brawler / Support (Ottoman) | 2.02 | 21.0 | 0.088 | 0.91 |
@@ -219,10 +219,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Role | n | EDPA med | EDPA/Duc med | above E/Duc bar | ATK2K med | ATK2K/Duc med | above A2/Duc bar |
 |---|---|---|---|---|---|---|---|
-| Damage Dealer | 9 | 2.13 | 0.164 | 3/9 | 12.4 | 0.97 | 8/9 |
+| Damage Dealer | 8 | 2.50 | 0.171 | 3/8 | 12.5 | 0.97 | 7/8 |
 | Brawler | 3 | 3.01 | 0.194 | 1/3 | 19.5 | 1.35 | 2/3 |
 | Assassin | 2 | 3.28 | 0.213 | 1/2 | 9.8 | 0.63 | 2/2 |
-| Sniper | 3 | 1.87 | 0.135 | 2/3 | 13.7 | 0.91 | 1/3 |
+| Sniper | 4 | 1.87 | 0.145 | 2/4 | 12.1 | 0.86 | 1/4 |
 | Canal Fighter | 1 | 1.99 | 0.166 | 1/1 | 8.8 | 0.73 | 0/1 |
 | Harasser | 2 | 1.65 | 0.222 | 1/2 | 8.1 | 0.87 | 1/2 |
 | Support | 6 | 1.68 | 0.129 | 3/6 | 11.2 | 0.90 | 5/6 |
@@ -230,9 +230,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 7 | 1.50 | 0.167 | 5/7 | 9.7 | 1.03 | 6/7 |
 | Specialist | 2 | 2.55 | 0.151 | 2/2 | 13.8 | 0.80 | 1/2 |
 
-#### Damage Dealer  *(bars: E/Duc 0.184, ATK2K/Duc 0.73)*
-
-*EDPA median understates this role: typical 2.13, average 2.36, with 2 models well above the pack (up to 3.48), so the offensive ceiling is higher than the median suggests.*
+#### Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -242,7 +240,6 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Janissary Sapper](/factions/patricians/janissary-sapper/) | 2.86 | 0.179 | – | 19.5 | 1.22 | ✓ |
 | [Syphilitic Noble](/factions/patricians/syphilitic-noble/) | 2.13 | 0.164 | – | 12.6 | 0.97 | ✓ |
 | [Butler](/factions/patricians/butler/) | 1.63 | 0.163 | – | 9.7 | 0.97 | ✓ |
-| [Noble Seafarer](/factions/patricians/noble-seafarer/) | 1.87 | 0.156 | – | 9.7 | 0.81 | ✓ |
 | [Ottoman Cannoneer](/factions/patricians/ottoman-cannoneer/) | 1.82 | 0.121 | – | 8.5 | 0.57 | – |
 | [Ottoman Archer](/factions/patricians/ottoman-archer/) | 1.13 | 0.113 | – | 9.7 | 0.97 | ✓ |
 
@@ -263,12 +260,13 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Sun](/factions/patricians/sun/) | 3.63 | 0.242 | ✓ | 9.8 | 0.65 | ✓ |
 | [Moon](/factions/patricians/moon/) | 2.93 | 0.183 | – | 9.8 | 0.61 | ✓ |
 
-#### Sniper  *(bars: E/Duc 0.135, ATK2K/Duc 1.09)*
+#### Sniper  *(bars: E/Duc 0.156, ATK2K/Duc 0.99)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Naval Lieutenant](/factions/patricians/naval-lieutenant/) | 2.54 | 0.169 | ✓ | 13.7 | 0.91 | – |
-| [Guard Marksman](/factions/patricians/guard-marksman/) | 1.62 | 0.135 | ✓ | 13.7 | 1.14 | ✓ |
+| [Noble Seafarer](/factions/patricians/noble-seafarer/) | 1.87 | 0.156 | ✓ | 9.7 | 0.81 | – |
+| [Guard Marksman](/factions/patricians/guard-marksman/) | 1.62 | 0.135 | – | 13.7 | 1.14 | ✓ |
 | [Venetian Spy](/factions/patricians/venetian-spy/) | 1.87 | 0.117 | – | 10.6 | 0.66 | – |
 
 #### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*

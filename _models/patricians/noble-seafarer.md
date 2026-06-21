@@ -32,7 +32,7 @@ nav_section: Factions
 
 EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **9.7** · ATK2K/Duc **0.81**
 
-*Damage Dealer median: EDPA **2.88** · EDPA/Duc **0.184** · ATK2K **10.8** · ATK2K/Duc **0.73***
+*Sniper median: EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **11.5** · ATK2K/Duc **0.99***
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -45,12 +45,12 @@ EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **9.7** · ATK2K/Duc **0.81**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 3.01 | 3.79 |
-| Balanced (Dex4/Prot3) | 1.87 | 2.88 |
-| Evasive (Dex6/Prot2) | 1.58 | 2.52 |
-| Armoured (Dex4/Prot5) | 1.27 | 2.15 |
-| Tank (Dex4/Prot5/US5) | 1.27 | 1.90 |
-| Parry (Dex5/Prot3/Parry2) | 1.43 | 2.13 |
+| Soft (Dex3/Prot1) | 3.01 | 2.74 |
+| Balanced (Dex4/Prot3) | 1.87 | 1.87 |
+| Evasive (Dex6/Prot2) | 1.58 | 1.74 |
+| Armoured (Dex4/Prot5) | 1.27 | 1.44 |
+| Tank (Dex4/Prot5/US5) | 1.27 | 1.27 |
+| Parry (Dex5/Prot3/Parry2) | 1.43 | 1.70 |
 
 
 </div>
@@ -62,10 +62,10 @@ EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **9.7** · ATK2K/Duc **0.81**
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
-| Baseline (Atk3) | 1.13 | 9.7 | 10.8 |
-| Elite (Atk5, Dmg+1) | 3.38 | 3.3 | 3.7 |
+| Baseline (Atk3) | 1.13 | 9.7 | 11.5 |
+| Elite (Atk5, Dmg+1) | 3.38 | 3.3 | 3.8 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.0 | 6.3 |
-| Drown (Atk3) | 1.90 | 5.8 | 7.4 |
+| Drown (Atk3) | 1.90 | 5.8 | 6.9 |
 
 </div>
 </div>
@@ -79,12 +79,12 @@ EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **9.7** · ATK2K/Duc **0.81**
 
 | Target | Burst EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 3.83 | 4.02 |
-| Balanced (Dex4/Prot3) | 2.60 | 3.14 |
-| Evasive (Dex6/Prot2) | 2.18 | 2.69 |
-| Armoured (Dex4/Prot5) | 1.88 | 2.32 |
-| Tank (Dex4/Prot5/US5) | 1.88 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 2.25 | 2.24 |
+| Soft (Dex3/Prot1) | 3.83 | 4.78 |
+| Balanced (Dex4/Prot3) | 2.60 | 3.74 |
+| Evasive (Dex6/Prot2) | 2.18 | 3.48 |
+| Armoured (Dex4/Prot5) | 1.88 | 2.88 |
+| Tank (Dex4/Prot5/US5) | 1.88 | 2.48 |
+| Parry (Dex5/Prot3/Parry2) | 2.25 | 3.40 |
 
 </div>
 </div>
