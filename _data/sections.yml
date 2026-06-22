@@ -16,3 +16,7 @@ magic:
 factions:
   title: Factions
   url: /factions/
+
+tools:
+  title: Tools
+  url: /tools/

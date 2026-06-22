@@ -1,6 +1,6 @@
 ---
 title: Will Points
-nav_order: 1
+nav_order: 2
 is_ref: true
 next_doc:
   title: Offense & Defense Modifiers
@@ -15,7 +15,7 @@ next_doc:
 
 ---
 
-## TLDR: What WP is worth (best to worst)
+## TL;DR: What WP is worth (best to worst)
 
 - **On an attack:** the best use. More dice = more hits and more damage. Fully boosting a key attack
   can lift its damage by roughly half.

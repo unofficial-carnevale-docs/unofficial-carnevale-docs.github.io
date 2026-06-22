@@ -8,6 +8,18 @@ permalink: /mechanics/
 
 Reference documents explaining how specific game systems work and what they are worth mathematically.
 
+### Distance and Jumps
+
+How distances are measured in three dimensions, jump mechanics and expected distances by DEX and base size, chained jumps, and controlled landings.
+
+[Distance and Jumps →](/mechanics/distance-and-jumps/)
+
+### Height and Line of Sight
+
+How elevation creates blind zones at ground level, with the formula and reference table for common building heights and observer positions.
+
+[Height and Line of Sight →](/mechanics/height-and-los/)
+
 ### Will Points
 
 A full breakdown of the Will Point economy: the expected value of spending WP on each action type, every source of WP replenishment in the game, and every anti-WP effect.

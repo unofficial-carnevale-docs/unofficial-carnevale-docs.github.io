@@ -1,0 +1,46 @@
+<div class="calc" markdown="0">
+  <p class="calc-header">Blind Zone Calculator</p>
+  <div class="calc-body">
+    <div class="calc-controls">
+      <div class="calc-fields">
+        <div class="calc-row">
+          <label for="los-H">Building height (H)</label>
+          <div class="calc-input">
+            <input id="los-H" type="number" min="0" step="0.5" value="3">
+            <span class="calc-unit">"</span>
+          </div>
+        </div>
+        <div class="calc-row">
+          <label for="los-a">Observer from edge (a)</label>
+          <div class="calc-input">
+            <input id="los-a" type="number" min="0" step="0.5" value="2">
+            <span class="calc-unit">"</span>
+          </div>
+        </div>
+        <div class="calc-row">
+          <label for="los-T">Target model height (T)</label>
+          <div class="calc-input">
+            <input id="los-T" type="number" min="0" step="0.1" value="1.4">
+            <span class="calc-unit">"</span>
+          </div>
+        </div>
+        <div class="calc-row">
+          <label for="los-h">Observer model height (h)</label>
+          <div class="calc-input">
+            <input id="los-h" type="number" min="0.1" step="0.1" value="1.4">
+            <span class="calc-unit">"</span>
+          </div>
+        </div>
+      </div>
+      <div class="los-calc-result" id="los-result">
+        <span class="los-calc-number" id="los-number">—</span>
+        <span class="los-calc-desc" id="los-desc"></span>
+      </div>
+    </div>
+    <figure class="calc-figure">
+      <svg id="los-diagram" viewBox="0 0 480 320" preserveAspectRatio="xMidYMid meet"
+           role="img" aria-label="Side-view cross-section of the line of sight and blind zone"></svg>
+      <figcaption>Side-view cross-section. Updates as you change the values.</figcaption>
+    </figure>
+  </div>
+</div>

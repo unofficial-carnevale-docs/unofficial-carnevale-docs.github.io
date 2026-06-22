@@ -39,6 +39,9 @@ collections:
   models:
     output: true
     permalink: /factions/:path/   # _models/guild/bravo.md → /factions/guild/bravo/
+  tools:
+    output: true
+    permalink: /tools/:name/
 
 # ── Front matter defaults ──────────────────────────────────────────────
 defaults:
@@ -54,6 +57,8 @@ defaults:
     values: { layout: doc, section: factions }
   - scope: { type: models }
     values: { layout: model, section: factions }
+  - scope: { type: tools }
+    values: { layout: doc, section: tools }
   - scope: { path: "" }
     values: { layout: default }
 

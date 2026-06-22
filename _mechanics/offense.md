@@ -1,7 +1,7 @@
 ---
 title: "Offense Modifiers"
 description: Relative value of every offense and defense lever, normalized so they can be compared head-to-head.
-nav_order: 2
+nav_order: 3
 is_ref: true
 ---
 
@@ -29,7 +29,7 @@ P(Ace) per attack die by target Dexterity: Dex 3 = 0.8 · Dex 4 = 0.7 · Dex 5 =
 6. **Fear is a low-average, high-variance accuracy rider, not a damage staple**: on a trigger it re-rolls *all* your missed attack dice (a bigger swing than Expert Offence), but the trigger rate collapses against MIND 3+ targets (≈22%) and is zero against Brave. It is a conditional damage bonus that pays off against low-MIND gangs, **not** a control effect (it does nothing to the target's movement, actions, or status and only helps your own attack land).
 7. **Poisoned is the strongest offensive rider here, when the hit lands.** The extra LP bypasses Protection entirely, triggers 60% of the time, and **scales with the target's base size** (+1.8 vs 30mm up to +3.6 vs 60mm+), making it anti-tank / anti-monster. The catch: it is gated on the attack first dealing ≥1 LP, a poisoned weapon that can't break armour does nothing.
 
-## TLDR: What's best when?
+## TL;DR: What's best when?
 
 | Situation | Best pick | Why |
 |-----------|-----------|-----|

@@ -1,7 +1,7 @@
 ---
 title: "Defense Modifiers"
 description: Relative value of every defense lever, normalized so they can be compared head-to-head.
-nav_order: 3
+nav_order: 4
 is_ref: true
 ---
 
@@ -22,7 +22,7 @@ All figures use the reference engagement unless stated:
 
 ---
 
-## TLDR: What's best when?
+## TL;DR: What's best when?
 
 | Threat | Best pick | Why |
 |--------|-----------|-----|

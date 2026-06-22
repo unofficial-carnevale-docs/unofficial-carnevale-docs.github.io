@@ -96,7 +96,7 @@ The defender columns below are the standard capability-model archetypes:
 | pen_proof_tank | 4 | 5 | 13 | high Prot + Universal Shielding (caps Penetration); Universal Shielding 5 |
 | parry | 5 | 3 | 12 | high DEX + Parry (re-rolls attacker Aces); Parry 2 |
 
-### TLDR
+### TL;DR
 
 - Caster MIND 4-5 / Mage(2) / 2 AP: Kraken's Breath > Mother Hydra's Claws
 - Caster MIND 5-6 / Mage(3) / 3 AP: Kraken's Breath > Blood Drain > Mother Hydra's Claws

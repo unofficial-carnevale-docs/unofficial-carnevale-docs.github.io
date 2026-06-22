@@ -181,6 +181,21 @@
     </div>
     {% endif %}
 
+  {% elsif sec == 'tools' %}
+    {% assign tools_pages = site.tools | sort: "nav_order" %}
+    <div class="sidebar-section">
+      <p class="sidebar-section-title">Tools</p>
+      <ul>
+        {% for p in tools_pages %}
+        <li>
+          <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
+            {{ p.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
   {% elsif sec == 'factions' %}
     <div class="sidebar-section">
       <p class="sidebar-section-title">Factions</p>
