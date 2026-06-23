@@ -194,27 +194,38 @@ When making a roll, you will have a table to refer to. These tables show how to 
 
 ### Types of Rolls
 
-#### Basic Rolls
+Basic Rolls
+{: .entry-title}
 
 Basic Rolls are based on a character's statistics and are used in situations where only one model is involved. When making a Basic Roll you use one of the character's statistics as the number of dice to be rolled. Unless otherwise stated **the result needed for an Ace is 7 or higher.**
+{: .entry-note}
 
-#### Opposed Rolls
+Opposed Rolls
+{: .entry-title}
 
 Opposed Rolls are when two characters make a Basic Roll using the same attribute. Unless otherwise stated **the result needed for an Ace is 7 or higher.**
+{: .entry-note}
 
 The targeted character's player rolls first. Add up their Aces and subtract that number from the active player's roll, which is then treated just like a Basic Roll. Note that the targeted character cannot score Criticals or Fumbles.
+{: .entry-note}
 
-#### Attack Rolls
+Attack Rolls
+{: .entry-title}
 
 Attack Rolls use a character's ATTACK stat, and are mostly used for Combat actions. **The result needed for an Ace is equal to or higher than the target's DEXTERITY value.**
+{: .entry-note}
 
-#### Magic Rolls
+Magic Rolls
+{: .entry-title}
 
 Magic Rolls use a character's MIND stat, and are mostly used for Cast Spell actions. **The result needed for an Ace is equal to or higher than the spell's Difficulty.** Each spell has a different Difficulty value.
+{: .entry-note}
 
-#### Protection Rolls
+Protection Rolls
+{: .entry-title}
 
 Protection Rolls use a character's PROTECTION stat, and are used to save against Damage. **The result needed for a Protection Roll to be an Ace is 7 or higher unless otherwise stated.** Whenever a character takes Damage, make a Protection Roll and consult the table below:
+{: .entry-note}
 
 | Result | Effect |
 |---|---|
@@ -846,17 +857,26 @@ Crumbling buildings litter the streets. Access points in ruins (such as doors an
 
 Obstacles are generally scatter terrain, such as barrels, fences, carriages etc. Any piece of terrain that is 3" in height or smaller that isn't solid ground is counted as an obstacle. Jumping onto an obstacle awards you a **0AP Chained Jump** once per character turn. There are broadly three types of Obstacle:
 
-#### Small
+
+Small
+{: .entry-title}
 
 Any piece of terrain that is too small for a character to be placed on, but that could feasibly be climbed on, such as a barrel or a gondola pole. These obstacles can be moved or jumped onto, but a character cannot end its turn on one. If it does so, move the character the shortest distance possible off the Obstacle.
+{: .entry-note}
 
-#### Large
+
+Large
+{: .entry-title}
 
 Any Obstacle that is large enough for a character to be placed onto, like a fountain or stack of boxes. Large Obstacles follow the normal rules for solid ground or Vertical Terrain as well as being Obstacles.
+{: .entry-note}
 
-#### Debris
+
+Debris
+{: .entry-title}
 
 Debris is always in water. A character may swim freely through debris, and may climb out of the water onto debris (just like climbing out of a canal), but cannot end its turn on debris. If it does so, immediately move the character the shortest distance possible into the water around the debris.
+{: .entry-note}
 
 ### Barricades
 
