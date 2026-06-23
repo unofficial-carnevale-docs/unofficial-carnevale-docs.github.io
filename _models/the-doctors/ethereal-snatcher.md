@@ -35,7 +35,7 @@ meta: "Hero · Size 40"
 
 <div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.89</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.126</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">16.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.07</span><span class="k">ATK2K/Duc</span></div></div>
 
-<div class="metric-median" markdown="0"><p class="metric-median-cap">Control median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.09</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.67</span><span class="k">ATK2K/Duc</span></div></div></div>
+<div class="metric-median" markdown="0"><p class="metric-median-cap muted-note">Control median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.09</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.67</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

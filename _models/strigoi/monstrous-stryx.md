@@ -38,7 +38,7 @@ meta: "Hero · Unique · Vampire · Size 75"
 
 <div class="metric-tiles" markdown="0"><div class="tile"><span class="v">5.31</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.133</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">17.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.42</span><span class="k">ATK2K/Duc</span></div></div>
 
-<div class="metric-median" markdown="0"><p class="metric-median-cap">Assassin median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.193</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div></div>
+<div class="metric-median" markdown="0"><p class="metric-median-cap muted-note">Assassin median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.193</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper ATK2K outlier: among this faction's Assassins the median is 10.0, but this model reaches 17.0, so the role median understates models like this.*
 

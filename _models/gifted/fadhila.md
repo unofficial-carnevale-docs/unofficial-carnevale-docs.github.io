@@ -33,7 +33,7 @@ meta: "Hero · Unique · Discipline(<a href=\"/magic/divinity/\" class=\"disc-di
 
 <div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.046</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">17.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.89</span><span class="k">ATK2K/Duc</span></div></div>
 
-<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
+<div class="metric-median" markdown="0"><p class="metric-median-cap muted-note">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper ATK2K outlier: among this faction's Supports the median is 10.6, but this model reaches 17.0, so the role median understates models like this.*
 

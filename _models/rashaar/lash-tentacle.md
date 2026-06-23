@@ -33,7 +33,7 @@ meta: "Henchman *(free with Emissary of Mother Hydra)* · Size 30"
 
 <div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.77</span><span class="k">EDPA</span></div><div class="tile"><span class="v">—</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">2.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">—</span><span class="k">ATK2K/Duc</span></div></div>
 
-<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
+<div class="metric-median" markdown="0"><p class="metric-median-cap muted-note">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper EDPA outlier: among this faction's Specialists the median is 1.13, but this model reaches 1.77, so the role median understates models like this.*
 

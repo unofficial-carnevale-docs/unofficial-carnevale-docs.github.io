@@ -32,7 +32,7 @@ meta: "Hero · Soldier · Size 40"
 
 <div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.01</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.188</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">47.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">2.99</span><span class="k">ATK2K/Duc</span></div></div>
 
-<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
+<div class="metric-median" markdown="0"><p class="metric-median-cap muted-note">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper ATK2K outlier: among this faction's Brawlers the median is 19.5, but this model reaches 47.9, so the role median understates models like this.*
 

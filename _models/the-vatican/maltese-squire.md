@@ -31,7 +31,7 @@ meta: "Henchman · Hospitaller · Size 30"
 
 <div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.75</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.075</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.09</span><span class="k">ATK2K/Duc</span></div></div>
 
-<div class="metric-median" markdown="0"><p class="metric-median-cap">Sniper median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.156</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div></div>
+<div class="metric-median" markdown="0"><p class="metric-median-cap muted-note">Sniper median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.156</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Lower EDPA outlier: among this faction's Snipers the median is 2.40, but this model is only 0.75, so the role median overstates models like this.*
 

@@ -31,7 +31,7 @@ meta: "Hero · Monster · Size 50"
 
 <div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.37</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.218</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">22.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.15</span><span class="k">ATK2K/Duc</span></div></div>
 
-<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
+<div class="metric-median" markdown="0"><p class="metric-median-cap muted-note">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper EDPA outlier: among this faction's Damage Dealers the median is 2.54, but this model reaches 4.37, so the role median understates models like this.*
 
