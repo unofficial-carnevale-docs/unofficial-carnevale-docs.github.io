@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/the-being/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 15
+meta: "Hero · Unique · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · Unique</strong><span>Size 40 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,21 +21,21 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Brutal Fists | melee | — | — | [Stun](/compendium/weapon-abilities/#stun) |
+| Brutal Fists | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Berserk](/compendium/character-abilities/#berserk), [Companion(Doctor)](/compendium/character-abilities/#companion-x), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#berserk">Berserk</a><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Doctor)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a></div>
 
-**Locomotive Nexus Link** — Whenever this character makes a Combat action, total up the amount of Damage caused (before Protection rolls). That many characters within 6" with the Nexus ability replenish 1 Will Point.
+**Locomotive Nexus Link** - Whenever this character makes a Combat action, total up the amount of Damage caused (before Protection rolls). That many characters within 6" with the Nexus ability replenish 1 Will Point.
 
-**Pain Suppression** — Whenever this character takes Damage from a Combat action, reduce the amount of Damage caused by 1 (to a minimum of 1).
+**Pain Suppression** - Whenever this character takes Damage from a Combat action, reduce the amount of Damage caused by 1 (to a minimum of 1).
 
 ## Capability
 
-EDPA **2.41** · EDPA/Duc **0.161** · ATK2K **13.2** · ATK2K/Duc **0.88**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.41</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.161</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">13.2</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.88</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

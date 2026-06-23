@@ -2,13 +2,12 @@
 layout: model
 title: Harbourmaster
 permalink: /factions/the-guild/harbourmaster/
-description: "Durable Parry frontline fighter. She has a Fast Swimmer gang buff."
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 21
+meta: "Leader · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader</strong><span>Size 30 · 21 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,22 +21,23 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Clockwork Pistol | 6" | +1 | −1 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(2)](/compendium/weapon-abilities/#reload-x) |
-| Sailor's Knife | melee | — | −1 | [Aquatic](/compendium/weapon-abilities/#aquatic) |
+| Clockwork Pistol | 6" | +1 | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
+| Sailor's Knife | melee | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 
-[Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Parry(2)](/compendium/character-abilities/#parry-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(2)</a><a class="chip" href="/compendium/character-abilities/#parry-x">Parry(2)</a></div>
 
-**Toughen Up** — AURA: Until the end of the round, any friendly characters within 6" gain Expert Protection (3).
+**Toughen Up (AURA)** - Until the end of the round, any friendly characters within 6" gain Expert Protection (3).
+{: .cmd-ability}
 
-**Born to Swim** — Other friendly characters add +2 to their Fast Swimmer number as long as this character is on the board. Friendly characters without Fast Swimmer instead gain Fast Swimmer (2).
+**Born to Swim** - Other friendly characters add +2 to their Fast Swimmer number as long as this character is on the board. Friendly characters without Fast Swimmer instead gain Fast Swimmer (2).
 
 ## Capability
 
-EDPA **2.51** · EDPA/Duc **0.119** · ATK2K **22.7** · ATK2K/Duc **1.08**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.51</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.119</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">22.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.08</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

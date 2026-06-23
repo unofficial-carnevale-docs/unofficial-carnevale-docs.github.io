@@ -5,9 +5,9 @@ permalink: /factions/the-guild/witch/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 16
+meta: "Hero · House of Virtue · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-rites\">Blood Rites</a>, <a href=\"/magic/runes-of-sovereignty/\" class=\"disc-runes-sovereignty\">Runes of Sovereignty</a>, <a href=\"/magic/wild-magic/\" class=\"disc-wild-magic\">Wild Magic</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · House of Virtue · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Mage(2)](/compendium/character-abilities/#mage-x), [Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(2)</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
-**Blood Rights** — - 1AP: Pick one character within 3" (friendly or enemy). That character loses 1 Life Points and this character replenishes 1 Will Points.
+**Blood Rights** - - 1AP: Pick one character within 3" (friendly or enemy). That character loses 1 Life Points and this character replenishes 1 Will Points.
 
 ## Capability
 
-EDPA **2.93** · EDPA/Duc **0.183** · ATK2K **9.7** · ATK2K/Duc **0.61**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.93</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.183</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.61</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -85,22 +85,6 @@ EDPA **2.93** · EDPA/Duc **0.183** · ATK2K **9.7** · ATK2K/Duc **0.61**
 | Armoured (Dex4/Prot5) | 2.81 | 2.90 |
 | Tank (Dex4/Prot5/US5) | 2.17 | 2.69 |
 | Parry (Dex5/Prot3/Parry2) | 3.70 | 3.80 |
-
-</div>
-<div>
-
-### Burst EDPA by target
-
-*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
-
-| Target | Burst EDPA | Median |
-|---|---|---|
-| Soft (Dex3/Prot1) | 3.97 | 4.02 |
-| Balanced (Dex4/Prot3) | 3.70 | 3.14 |
-| Evasive (Dex6/Prot2) | 3.97 | 2.69 |
-| Armoured (Dex4/Prot5) | 2.81 | 2.32 |
-| Tank (Dex4/Prot5/US5) | 2.17 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 3.70 | 2.23 |
 
 </div>
 </div>

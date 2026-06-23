@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/warden/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 13
+meta: "Hero · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Mace | melee | +1 | — | [Knockback](/compendium/weapon-abilities/#knockback) |
+| Mace | melee | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
 
 ### Abilities
 
-[Bodyguard(Doctor)](/compendium/character-abilities/#bodyguard-x), [Expert Protection(2)](/compendium/character-abilities/#expert-protection-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bodyguard-x">Bodyguard(Doctor)</a><a class="chip" href="/compendium/character-abilities/#expert-protection-x">Expert Protection(2)</a></div>
 
 ## Capability
 
-EDPA **2.29** · EDPA/Duc **0.176** · ATK2K **25.3** · ATK2K/Duc **1.95**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.29</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.176</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">25.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.95</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Tank median: EDPA **2.45** · EDPA/Duc **0.154** · ATK2K **23.7** · ATK2K/Duc **1.53***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Tank median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.45</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.154</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">23.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.53</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

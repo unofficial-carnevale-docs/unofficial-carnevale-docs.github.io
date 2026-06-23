@@ -5,9 +5,9 @@ permalink: /factions/the-guild/pulcinella/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 8
+meta: "Henchman · End of Days · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · End of Days</strong><span>Size 30 · 8 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Club | melee | — | — | [Stun](/compendium/weapon-abilities/#stun) |
+| Club | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Companion(End of Days)](/compendium/character-abilities/#companion-x), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(End of Days)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
 ## Capability
 
-EDPA **1.13** · EDPA/Duc **0.141** · ATK2K **6.0** · ATK2K/Duc **0.75**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.141</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">6.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Line Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

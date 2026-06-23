@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/knight-of-malta/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 14
+meta: "Henchman · Hospitaller · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Hospitaller</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,13 +25,13 @@ nav_section: Factions
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave), [Companion(Hospitaller)](/compendium/character-abilities/#companion-x), [Expert Protection(2)](/compendium/character-abilities/#expert-protection-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Hospitaller)</a><a class="chip" href="/compendium/character-abilities/#expert-protection-x">Expert Protection(2)</a></div>
 
 ## Capability
 
-EDPA **2.68** · EDPA/Duc **0.191** · ATK2K **23.3** · ATK2K/Duc **1.66**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.191</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">23.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.66</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

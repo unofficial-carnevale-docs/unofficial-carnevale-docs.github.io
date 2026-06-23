@@ -5,9 +5,9 @@ permalink: /factions/strigoi/monstrous-stryx/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 40
+meta: "Hero · Unique · Vampire · Size 75"
 ---
-
-<p class="model-meta"><strong>Hero · Unique · Vampire</strong><span>Size 75 · 40 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,23 +22,23 @@ nav_section: Factions
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Monstrous Claws | melee | +2 | −2 | — |
-| Baleful Screech | 6" | — | — | [Blast](/compendium/weapon-abilities/#blast), [Harmless](/compendium/weapon-abilities/#harmless), [Stun](/compendium/weapon-abilities/#stun) |
+| Baleful Screech | 6" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#blast">Blast</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#harmless">Harmless</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Bulky](/compendium/character-abilities/#bulky), [Flight](/compendium/character-abilities/#flight), [Frenzied](/compendium/character-abilities/#frenzied), [Mindless](/compendium/character-abilities/#mindless), [Slippery](/compendium/character-abilities/#slippery), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#flight">Flight</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(2)</a></div>
 
-**Aerial Aggression** — When this character moves into base contact with an enemy character that is either 3" above or 3" below it at the start of the action, that enemy character skips their Protection roll for this character's Attack of Opportunity.
+**Aerial Aggression** - When this character moves into base contact with an enemy character that is either 3" above or 3" below it at the start of the action, that enemy character skips their Protection roll for this character's Attack of Opportunity.
 
-**Rip and Tear** — When this character makes a Combat action with Monstrous Claws against an enemy character with full Life Points, for the rest of this character's activation, it may re-roll any failed dice for Combat actions against that enemy character.
+**Rip and Tear** - When this character makes a Combat action with Monstrous Claws against an enemy character with full Life Points, for the rest of this character's activation, it may re-roll any failed dice for Combat actions against that enemy character.
 
-**Serpentine** — This character is able to move through spaces smaller than its base to a minimum of 2". It must be able to fit where it ends its turn.
+**Serpentine** - This character is able to move through spaces smaller than its base to a minimum of 2". It must be able to fit where it ends its turn.
 
 ## Capability
 
-EDPA **5.31** · EDPA/Duc **0.133** · ATK2K **17.0** · ATK2K/Duc **0.42**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">5.31</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.133</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">17.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.42</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Assassin median: EDPA **3.23** · EDPA/Duc **0.193** · ATK2K **10.3** · ATK2K/Duc **0.59***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Assassin median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.193</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper ATK2K outlier: among this faction's Assassins the median is 10.0, but this model reaches 17.0, so the role median understates models like this.*
 

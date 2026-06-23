@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/golgotha/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 18
+meta: "Hero · Construct · Size 50"
 ---
-
-<p class="model-meta"><strong>Hero · Construct</strong><span>Size 50 · 18 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Bulky](/compendium/character-abilities/#bulky), [Companion(Invoker)](/compendium/character-abilities/#companion-x), [Fear(0)](/compendium/character-abilities/#fear-x), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Invoker)</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(0)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a></div>
 
-**Stoneskin** — Whenever this character takes Damage, reduce the amount of Damage caused by 3 (to a minimum of 1). In addition, if this character is hit by a Poisoned weapon, roll 2 dice and choose 1 to see if they shrug off the poison.
+**Stoneskin** - Whenever this character takes Damage, reduce the amount of Damage caused by 3 (to a minimum of 1). In addition, if this character is hit by a Poisoned weapon, roll 2 dice and choose 1 to see if they shrug off the poison.
 
 ## Capability
 
-EDPA **4.46** · EDPA/Duc **0.248** · ATK2K **18.4** · ATK2K/Duc **1.02**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.248</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">18.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.02</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/gifted/justice/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 18
+meta: "Hero · Unique · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique</strong><span>Size 30 · 18 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,21 +21,21 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Sword of Balance | 1" | +1 | −4 | [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Sword of Balance | 1" | +1 | −4 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Ethereal](/compendium/character-abilities/#ethereal)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#ethereal">Ethereal</a></div>
 
-**The Other Side of the Coin** — (1AP): If both Fate and Justice are on the board (as friendly characters), swap their positions.
+**The Other Side of the Coin** - (1AP): If both Fate and Justice are on the board (as friendly characters), swap their positions.
 
-**Justice Served** — During deployment, pick 1 enemy character. Justice re-rolls all failed dice rolls when making Combat actions against this character, including the Destiny Dice!
+**Justice Served** - During deployment, pick 1 enemy character. Justice re-rolls all failed dice rolls when making Combat actions against this character, including the Destiny Dice!
 
 ## Capability
 
-EDPA **3.90** · EDPA/Duc **0.217** · ATK2K **12.4** · ATK2K/Duc **0.69**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.90</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.217</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

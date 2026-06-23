@@ -5,9 +5,9 @@ permalink: /factions/the-guild/whaler/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 17
+meta: "Hero · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 40 · 17 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Whaling Lance | 6" | +3 | — | [Knockback](/compendium/weapon-abilities/#knockback), [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Whaling Lance | 6" | +3 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Boat Crew](/compendium/character-abilities/#boat-crew), [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Hunter](/compendium/character-abilities/#hunter)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#boat-crew">Boat Crew</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(2)</a><a class="chip" href="/compendium/character-abilities/#hunter">Hunter</a></div>
 
-**Get Over Here** — A Whaling Lance's Knockback can move the target in any direction.
+**Get Over Here** - A Whaling Lance's Knockback can move the target in any direction.
 
 ## Capability
 
-EDPA **4.22** · EDPA/Duc **0.248** · ATK2K **10.0** · ATK2K/Duc **0.59**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.22</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.248</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

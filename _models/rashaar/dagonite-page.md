@@ -5,9 +5,9 @@ permalink: /factions/rashaar/dagonite-page/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 13
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Corrupted Relic** — Whenever an enemy character within 6" and Line of Sight of this character makes a Basic roll, they must re-roll a single Ace in that roll.
+**Corrupted Relic** - Whenever an enemy character within 6" and Line of Sight of this character makes a Basic roll, they must re-roll a single Ace in that roll.
 
 ## Capability
 
-EDPA **0.62** · EDPA/Duc **0.048** · ATK2K **8.8** · ATK2K/Duc **0.68**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.62</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.048</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.68</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/patricians/moon/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 16
+meta: "Hero · Unique · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-rites\">Blood Rites</a>, <a href=\"/magic/fateweaving/\" class=\"disc-fateweaving\">Fateweaving</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>)</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Shadow Touch | melee | — | +1 | [Stun](/compendium/weapon-abilities/#stun) |
+| Shadow Touch | melee | — | +1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Companion(Sun)](/compendium/character-abilities/#companion-x), [Flight](/compendium/character-abilities/#flight), [Mage(2)](/compendium/character-abilities/#mage-x), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Sun)</a><a class="chip" href="/compendium/character-abilities/#flight">Flight</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(2)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
 ## Capability
 
-EDPA **2.93** · EDPA/Duc **0.183** · ATK2K **9.8** · ATK2K/Duc **0.61**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.93</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.183</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.61</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Assassin median: EDPA **3.23** · EDPA/Duc **0.193** · ATK2K **10.3** · ATK2K/Duc **0.59***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Assassin median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.193</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

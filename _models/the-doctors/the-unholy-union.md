@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/the-unholy-union/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 45
+meta: "Hero · Unique · Size 75"
 ---
-
-<p class="model-meta"><strong>Hero · Unique</strong><span>Size 75 · 45 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,17 @@ nav_section: Factions
 
 ### Abilities
 
-[Bulky](/compendium/character-abilities/#bulky), [Expert Grappler(3)](/compendium/character-abilities/#expert-grappler-x), [Fear(-3)](/compendium/character-abilities/#fear-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#expert-grappler-x">Expert Grappler(3)</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(-3)</a><a class="chip" href="/compendium/character-abilities/#limited-movement">Limited Movement</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a></div>
 
-**Convulsing** — This character is able to move through spaces smaller than its base to a minimum of 2". It must be able to fit where it ends its turn.
+**Convulsing** - This character is able to move through spaces smaller than its base to a minimum of 2". It must be able to fit where it ends its turn.
 
-**Flesh Golem** — Every time this character kills a character, it replenishes a number of Life Points equal to that character's starting Life Points.
+**Flesh Golem** - Every time this character kills a character, it replenishes a number of Life Points equal to that character's starting Life Points.
 
 ## Capability
 
-EDPA **3.26** · EDPA/Duc **0.072** · ATK2K **21.2** · ATK2K/Duc **0.47**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.26</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.072</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.2</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.47</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -2,13 +2,12 @@
 layout: model
 title: Guard Commander
 permalink: /factions/patricians/guard-commander/
-description: "Durable Parry fighter that buffs Soldiers."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 20
+meta: "Leader · Officer · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Officer</strong><span>Size 30 · 20 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,17 +25,19 @@ nav_section: Factions
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave), [Parry(2)](/compendium/character-abilities/#parry-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#parry-x">Parry(2)</a></div>
 
-**Take Arms** — PULSE: Until the end of the round, all friendly characters with the Soldier keyword within 3" gain +1 ATTACK.
+**Take Arms (PULSE)** - Until the end of the round, all friendly characters with the Soldier keyword within 3" gain +1 ATTACK.
+{: .cmd-ability}
 
-**Aim Fire!** — PULSE: Any friendly characters with the Soldier keyword in line of sight gain Expert Marksman (1) until the end of the round.
+**Aim Fire! (PULSE)** - Any friendly characters with the Soldier keyword in line of sight gain Expert Marksman (1) until the end of the round.
+{: .cmd-ability}
 
 ## Capability
 
-EDPA **3.51** · EDPA/Duc **0.175** · ATK2K **22.7** · ATK2K/Duc **1.14**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.51</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.175</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">22.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.14</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

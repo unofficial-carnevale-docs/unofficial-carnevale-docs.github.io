@@ -5,9 +5,9 @@ permalink: /factions/rashaar/hellhound/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 10
+meta: "Henchman · Monster · Feral · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Monster · Feral</strong><span>Size 30 · 10 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[First Strike(1)](/compendium/character-abilities/#first-strike-x), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#first-strike-x">First Strike(1)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Climber** — This character always counts as rolling at least one Ace when making Climb rolls.
+**Climber** - This character always counts as rolling at least one Ace when making Climb rolls.
 
 ## Capability
 
-EDPA **1.99** · EDPA/Duc **0.199** · ATK2K **6.7** · ATK2K/Duc **0.67**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.99</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.199</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">6.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.67</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Line Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

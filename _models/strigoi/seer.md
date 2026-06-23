@@ -5,9 +5,9 @@ permalink: /factions/strigoi/seer/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 15
+meta: "Hero · Discipline(<a href=\"/magic/fateweaving/\" class=\"disc-fateweaving\">Fateweaving</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Discipline(<a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>)</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Mage(2)](/compendium/character-abilities/#mage-x), [Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(2)</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
-**Soothsaying** — PULSE: For every enemy character in line of sight to this character, add a re-roll to your Soothsaying Pool. Until the end of the round, any friendly character may use these re-rolls on any roll this round - one re-roll per dice.
+**Soothsaying (PULSE)** - For every enemy character in line of sight to this character, add a re-roll to your Soothsaying Pool. Until the end of the round, any friendly character may use these re-rolls on any roll this round - one re-roll per dice.
+{: .cmd-ability}
 
-**Premonition** — Whenever rolling dice for this character, you may re-roll the Destiny Dice.
+**Premonition** - Whenever rolling dice for this character, you may re-roll the Destiny Dice.
 
 ## Capability
 
-EDPA **1.75** · EDPA/Duc **0.117** · ATK2K **9.7** · ATK2K/Duc **0.65**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.75</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.117</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.65</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

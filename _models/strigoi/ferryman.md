@@ -5,9 +5,9 @@ permalink: /factions/strigoi/ferryman/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 9
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 9 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,21 +21,21 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Oar | 2" | +1 | +1 | [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Oar | 2" | +1 | +1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Fear(-1)](/compendium/character-abilities/#fear-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(-1)</a></div>
 
-**Sculler** — For each character with this ability, you may purchase 1 extra Gondola from the Equipment list. This character may be deployed in water or on a Gondola and may also re-roll failed dice rolls when making Row actions.
+**Sculler** - For each character with this ability, you may purchase 1 extra Gondola from the Equipment list. This character may be deployed in water or on a Gondola and may also re-roll failed dice rolls when making Row actions.
 
-**Dredge** — When this character makes a Row action, any friendly characters with the Water Creature special rule in base contact with the Gondola at the start of its movement may be placed in base contact with the Gondola at the end of its movement.
+**Dredge** - When this character makes a Row action, any friendly characters with the Water Creature special rule in base contact with the Gondola at the start of its movement may be placed in base contact with the Gondola at the end of its movement.
 
 ## Capability
 
-EDPA **1.63** · EDPA/Duc **0.181** · ATK2K **9.7** · ATK2K/Duc **1.08**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.63</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.181</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.08</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/apprentice-doctor/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 12
+meta: "Henchman · Doctor · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Doctor</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Companion(Doctor)](/compendium/character-abilities/#companion-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Doctor)</a></div>
 
-**Apprenticeship** — When choosing this character, pick one character in your gang with both the Doctor and Hero keywords to be this character's mentor. Choose one Character Ability, unique skill, or weapon profile that mentor has for this character to gain. A character can only be a mentor to one Apprentice Doctor. If choosing the Mage ability, the disciplines available are the same as the mentor. If choosing a weapon with a relevant unique rule, that rule is taken as well (such as Unstable on Alchemical Bombs).
+**Apprenticeship** - When choosing this character, pick one character in your gang with both the Doctor and Hero keywords to be this character's mentor. Choose one Character Ability, unique skill, or weapon profile that mentor has for this character to gain. A character can only be a mentor to one Apprentice Doctor. If choosing the Mage ability, the disciplines available are the same as the mentor. If choosing a weapon with a relevant unique rule, that rule is taken as well (such as Unstable on Alchemical Bombs).
 
 ## Capability
 
-EDPA **1.50** · EDPA/Duc **0.125** · ATK2K **8.8** · ATK2K/Duc **0.73**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.50</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.125</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.73</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

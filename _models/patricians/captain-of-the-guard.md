@@ -5,9 +5,9 @@ permalink: /factions/patricians/captain-of-the-guard/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 14
+meta: "Hero · Officer · Soldier · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Officer · Soldier</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Bodyguard(Officer)](/compendium/character-abilities/#bodyguard-x), [Companion(Officer)](/compendium/character-abilities/#companion-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bodyguard-x">Bodyguard(Officer)</a><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Officer)</a></div>
 
-**Take Aim!** — AURA: Until the end of the round, all friendly characters with the Soldier keyword within 6" gain Expert Marksman (1) and Expert Offence (1).
+**Take Aim! (AURA)** - Until the end of the round, all friendly characters with the Soldier keyword within 6" gain Expert Marksman (1) and Expert Offence (1).
+{: .cmd-ability}
 
-**Chain of Command** — This character may only use the ORDER or COUNTER Commands on characters with the Soldier keyword.
+**Chain of Command** - This character may only use the ORDER or COUNTER Commands on characters with the Soldier keyword.
 
 ## Capability
 
-EDPA **3.10** · EDPA/Duc **0.221** · ATK2K **14.9** · ATK2K/Duc **1.06**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.10</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.221</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">14.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.06</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

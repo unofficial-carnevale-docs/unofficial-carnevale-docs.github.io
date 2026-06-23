@@ -5,9 +5,9 @@ permalink: /factions/patricians/seven-years-veteran/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 15
+meta: "Hero · Soldier · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Soldier</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,20 +21,20 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Service Pistol | 8" | — | −2 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(2)](/compendium/weapon-abilities/#reload-x) |
+| Service Pistol | 8" | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
 | Infantry Sabre | melee | +1 | — | — |
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave), [Expert Marksman(1)](/compendium/character-abilities/#expert-marksman-x), [Expert Offence(1)](/compendium/character-abilities/#expert-offence-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#expert-marksman-x">Expert Marksman(1)</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(1)</a></div>
 
-**Inspiring** — Whenever another friendly character with the Soldier keyword in line of sight within 6" of this character uses one of its own Will Points (and not those from other characters), it instead counts as 2 Will Points.
+**Inspiring** - Whenever another friendly character with the Soldier keyword in line of sight within 6" of this character uses one of its own Will Points (and not those from other characters), it instead counts as 2 Will Points.
 
 ## Capability
 
-EDPA **3.13** · EDPA/Duc **0.209** · ATK2K **14.9** · ATK2K/Duc **0.99**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.209</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">14.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

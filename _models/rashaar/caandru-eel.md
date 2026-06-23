@@ -5,9 +5,9 @@ permalink: /factions/rashaar/caandru-eel/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 14
+meta: "Hero · Monster · Feral · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Monster · Feral</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Mauling Talons | melee | +1 | — | [Aquatic](/compendium/weapon-abilities/#aquatic) |
+| Mauling Talons | melee | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 
-[Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x), [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-grappler-x">Expert Grappler(2)</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(2)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Patient Hunter** — If this character exits water and charges in the same action, it counts as charging from above.
+**Patient Hunter** - If this character exits water and charges in the same action, it counts as charging from above.
 
 ## Capability
 
-EDPA **2.68** · EDPA/Duc **0.191** · ATK2K **15.6** · ATK2K/Duc **1.11**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.191</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">15.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.11</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Canal Fighter median: EDPA **2.68** · EDPA/Duc **0.151** · ATK2K **12.6** · ATK2K/Duc **0.80***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Canal Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.151</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.80</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

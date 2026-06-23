@@ -2,13 +2,12 @@
 layout: model
 title: Mounted Venetian Noble
 permalink: /factions/patricians/mounted-venetian-noble/
-description: "Fast cavalry assassin that can make nearby allies move, making her a versatile leader."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 24
+meta: "Leader · Councillor · Size 50"
 ---
-
-<p class="model-meta"><strong>Leader · Councillor</strong><span>Size 50 · 24 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,24 +21,25 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Garter Pistol | 6" | — | −2 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(2)](/compendium/weapon-abilities/#reload-x) |
+| Garter Pistol | 6" | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
 | Gilded Sabre | melee | +1 | −1 | — |
 
 ### Abilities
 
-[Engage](/compendium/character-abilities/#engage), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Limited Movement](/compendium/character-abilities/#limited-movement)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#engage">Engage</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#limited-movement">Limited Movement</a></div>
 
-**Do Try To Keep Up!** — Once per round, before this character makes a Run/Climb action, you may choose 1 other friendly character with the Councillor, Soldier, or Animal keyword within 3". After this character completes that Run/Climb action, the chosen character makes an out of sequence Run/Climb action. This out of sequence action cannot cause Attacks of Opportunity from charging, but may require a character to Disengage as normal.
+**Venetian Drive (PULSE)** - This character gains First Strike (2) until the end of the round, however it reduces its PROTECTION to 1.
+{: .cmd-ability}
 
-**Venetian Drive** — PULSE: This character gains First Strike (2) until the end of the round, however it reduces its PROTECTION to 1.
+**Do Try To Keep Up!** - Once per round, before this character makes a Run/Climb action, you may choose 1 other friendly character with the Councillor, Soldier, or Animal keyword within 3". After this character completes that Run/Climb action, the chosen character makes an out of sequence Run/Climb action. This out of sequence action cannot cause Attacks of Opportunity from charging, but may require a character to Disengage as normal.
 
-**Gleeful Charge** — When this character makes an Attack of Opportunity due to charging, Gilded Sabre's Evasion becomes -2 for that Attack of Opportunity.
+**Gleeful Charge** - When this character makes an Attack of Opportunity due to charging, Gilded Sabre's Evasion becomes -2 for that Attack of Opportunity.
 
 ## Capability
 
-EDPA **3.99** · EDPA/Duc **0.166** · ATK2K **20.6** · ATK2K/Duc **0.86**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.99</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.166</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">20.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.86</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Assassin median: EDPA **3.23** · EDPA/Duc **0.193** · ATK2K **10.3** · ATK2K/Duc **0.59***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Assassin median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.193</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

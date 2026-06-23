@@ -5,9 +5,9 @@ permalink: /factions/the-guild/dancer/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 14
+meta: "Hero · House of Virtue · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · House of Virtue</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,20 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Poisoned Needle | melee | — | +1 | [Poisoned](/compendium/weapon-abilities/#poisoned) |
+| Poisoned Needle | melee | — | +1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#poisoned">Poisoned</a> |
 
 ### Abilities
 
-[Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
-**Communicative Dance** — PULSE: Pick one friendly character within 3" and one different friendly character with the House of Virtue keyword within line of sight. Both of those characters make an immediate Run/Climb action. This movement cannot be used to charge, but can be used to disengage.
+**Communicative Dance (PULSE)** - Pick one friendly character within 3" and one different friendly character with the House of Virtue keyword within line of sight. Both of those characters make an immediate Run/Climb action. This movement cannot be used to charge, but can be used to disengage.
+{: .cmd-ability}
 
 ## Capability
 
-EDPA **2.19** · EDPA/Duc **0.156** · ATK2K **11.3** · ATK2K/Duc **0.81**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.19</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.156</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.81</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Objective Runner median: EDPA **1.13** · EDPA/Duc **0.094** · ATK2K **7.7** · ATK2K/Duc **0.79***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Objective Runner median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.094</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.79</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper EDPA outlier: among this faction's Objective Runners the median is 0.62, but this model reaches 2.19, so the role median understates models like this.*
 

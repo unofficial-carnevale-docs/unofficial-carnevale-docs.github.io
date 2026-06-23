@@ -2,13 +2,12 @@
 layout: model
 title: Master of Arcane Security
 permalink: /factions/the-doctors/master-of-arcane-security/
-description: "Expensive and strong versatile combattant but with a Full Plate (weak near water)."
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 27
+meta: "Leader · Doctor · Size 50"
 ---
-
-<p class="model-meta"><strong>Leader · Doctor</strong><span>Size 50 · 27 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -23,23 +22,24 @@ nav_section: Factions
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Arming Blade | 2" | +1 | — | — |
-| Soul Burner | melee | — | −3 | [Template](/compendium/weapon-abilities/#template), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Soul Burner | melee | — | −3 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 
-[Bulky](/compendium/character-abilities/#bulky), [Expert Marksman(2)](/compendium/character-abilities/#expert-marksman-x), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#expert-marksman-x">Expert Marksman(2)</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a></div>
 
-**Electrical Stimulation** — PULSE: All friendly characters within 3" gain +1 ATTACK until the end of the round.
+**Electrical Stimulation (PULSE)** - All friendly characters within 3" gain +1 ATTACK until the end of the round.
+{: .cmd-ability}
 
-**Auxiliary Systems** — At the start of this character's turn, it gains +2 to either its MOVEMENT, DEXTERITY, or PROTECTION until the end of the round.
+**Auxiliary Systems** - At the start of this character's turn, it gains +2 to either its MOVEMENT, DEXTERITY, or PROTECTION until the end of the round.
 
-**Full Plate** — If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
+**Full Plate** - If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
 
 ## Capability
 
-EDPA **3.37** · EDPA/Duc **0.125** · ATK2K **27.0** · ATK2K/Duc **1.00**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.37</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.125</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">27.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.00</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

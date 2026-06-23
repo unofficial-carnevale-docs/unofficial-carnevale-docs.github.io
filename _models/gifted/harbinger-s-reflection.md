@@ -5,9 +5,9 @@ permalink: /factions/gifted/harbinger-s-reflection/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 17
+meta: "Hero · Unique · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique</strong><span>Size 30 · 17 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,17 @@ nav_section: Factions
 
 ### Abilities
 
-[Ethereal](/compendium/character-abilities/#ethereal), [Mindless](/compendium/character-abilities/#mindless), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#ethereal">Ethereal</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a></div>
 
-**A Light in the Dark** — Every time another character uses 2 of their own Will Points (and not those from other characters) in a single action, this character replenishes 2 Will Points. Additionally, this character may use more than 2 Will Points to increase a roll.
+**A Light in the Dark** - Every time another character uses 2 of their own Will Points (and not those from other characters) in a single action, this character replenishes 2 Will Points. Additionally, this character may use more than 2 Will Points to increase a roll.
 
-**Reflected Reality** — Unless this character has been killed, every time you draw Agendas, draw one extra, take a look, and then discard one.
+**Reflected Reality** - Unless this character has been killed, every time you draw Agendas, draw one extra, take a look, and then discard one.
 
 ## Capability
 
-EDPA **1.47** · EDPA/Duc **0.086** · ATK2K **7.3** · ATK2K/Duc **0.43**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.47</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.086</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.43</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

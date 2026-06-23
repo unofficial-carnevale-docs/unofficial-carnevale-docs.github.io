@@ -5,9 +5,9 @@ permalink: /factions/gifted/solus-hydraea/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 17
+meta: "Hero · Unique · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique</strong><span>Size 30 · 17 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Bronze Chisel | melee | — | — | [Aquatic](/compendium/weapon-abilities/#aquatic) |
+| Bronze Chisel | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 
-[Fear(0)](/compendium/character-abilities/#fear-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(0)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Mask of Dagon** — At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks. For the entirety of the game that character gains one of the following: Water Creature and the Monster keyword; Fear (0) and +1 ATTACK. A character can only be given a single Mask. Unique characters without Faction (Gifted) and Mindless characters cannot be given a Mask.
+**Mask of Dagon** - At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks. For the entirety of the game that character gains one of the following: Water Creature and the Monster keyword; Fear (0) and +1 ATTACK. A character can only be given a single Mask. Unique characters without Faction (Gifted) and Mindless characters cannot be given a Mask.
 
 ## Capability
 
-EDPA **1.13** · EDPA/Duc **0.067** · ATK2K **9.7** · ATK2K/Duc **0.57**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.067</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.57</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

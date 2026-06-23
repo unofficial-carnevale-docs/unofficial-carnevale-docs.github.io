@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/reliquary-page/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 9
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 9 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
-**Relics of Malta** — Once per each of their turns, any friendly character within 6" and line of sight of a friendly character with this rule may re-roll 1 single dice on any roll they make. This character is affected by its own Relics of Malta rule.
+**Relics of Malta** - Once per each of their turns, any friendly character within 6" and line of sight of a friendly character with this rule may re-roll 1 single dice on any roll they make. This character is affected by its own Relics of Malta rule.
 
 ## Capability
 
-EDPA **0.44** · EDPA/Duc **0.049** · ATK2K **8.7** · ATK2K/Duc **0.97**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.049</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

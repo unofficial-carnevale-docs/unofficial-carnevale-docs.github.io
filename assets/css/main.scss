@@ -836,7 +836,8 @@ a:hover { text-decoration: underline; }
 .doc-content tr:last-child td { border-bottom: none; }
 /* Zebra applied at the row level so model stat-block cell colours stay intact. */
 .doc-content tbody tr:nth-child(even) { background: rgba(184, 146, 43, 0.05); }
-.doc-content tbody tr:hover td { background: rgba(38, 123, 140, 0.06); }
+/* Row hover everywhere except character cards (model pages keep static tables) */
+.doc-layout:not(.doc-layout--model) .doc-content tbody tr:hover td { background: rgba(38, 123, 140, 0.06); }
 
 /* Outcome tables (Critical · Success · Fail · Fumble → effect):
    header hidden, only as wide as their content, with a best→worst colour key.
@@ -1305,7 +1306,8 @@ a.disc-wild-magic        { color: #c06a18; font-weight: 500; }
 }
 .sf-count { color: var(--ink-3); font-weight: 400; font-size: 0.8rem; }
 .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
-.doc-content .chips a {
+.doc-content a.chip,
+.doc-content span.chip {
   display: inline-block;
   text-decoration: none;
   font-size: 0.82rem;
@@ -1317,23 +1319,106 @@ a.disc-wild-magic        { color: #c06a18; font-weight: 500; }
   color: var(--ink-2);
   transition: border-color 0.12s, background 0.12s, color 0.12s;
 }
-.doc-content .chips a:hover { border-color: var(--accent); color: var(--ink); background: #fff; text-decoration: none; }
-.doc-content .chips a.leader {
+.doc-content a.chip:hover { border-color: var(--accent); color: var(--ink); background: #fff; text-decoration: none; }
+.doc-content a.chip.leader {
   border-color: #e0cd92;
   background: rgba(184, 146, 43, 0.13);
   color: #6b5012;
   font-weight: 600;
 }
-.doc-content .chips a.leader::before {
+.doc-content a.chip.leader::before {
   content: "\2666";
   color: var(--gold);
   margin-right: 0.35rem;
   font-size: 0.7em;
   vertical-align: 0.1em;
 }
-.doc-content .chips a.leader:hover { border-color: var(--gold); background: rgba(184, 146, 43, 0.2); }
+.doc-content a.chip.leader:hover { border-color: var(--gold); background: rgba(184, 146, 43, 0.2); }
+/* Small chips for inline use inside table cells (weapon Special column) */
+.doc-content a.chip.chip-sm { font-size: 0.74rem; padding: 0.05rem 0.45rem; }
+.doc-content td a.chip { margin: 1px 2px 1px 0; vertical-align: middle; }
 @media (max-width: 520px) {
   .subfaction { grid-template-columns: 1fr; gap: 0.4rem; }
+}
+
+/* ── Model profile card ───────────────────────────────────────────── */
+/* On model pages, content runs the full width (it's data, not prose). */
+.doc-layout--model .doc-content > * { max-width: 100%; }
+
+.model-card {
+  background: var(--surface);
+  border: 1px solid #e0cd92;
+  border-top: 3px solid var(--gold);
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(184, 146, 43, 0.10);
+  padding: 1.5rem 1.6rem 1.6rem;
+  margin-bottom: 2.5rem;
+}
+.card-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.2rem;
+}
+.card-name {
+  font-family: var(--font-display);
+  font-size: 1.7rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  color: var(--ink);
+  line-height: 1.1;
+}
+.card-cost {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--gold);
+  white-space: nowrap;
+}
+.card-meta { font-size: 0.8rem; color: var(--ink-3); letter-spacing: 0.02em; margin-bottom: 1.1rem; }
+.card-desc { font-size: 0.95rem; color: var(--ink-2); line-height: 1.7; margin: 0.4rem 0 1.1rem; }
+.model-card .chips { margin-bottom: 1rem; }
+
+/* Block labels inside the card (Weapons / Abilities) */
+.model-card h3 {
+  font-family: var(--font-display);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent2);
+  margin: 1.3rem 0 0.55rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.model-card h3::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, #e3d6ad, transparent); }
+
+/* Capability = analysis of the card */
+.metric-tiles { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.7rem; margin: 0 0 0.6rem; }
+.metric-tiles .tile { background: var(--surface); border: 1px solid var(--border); border-radius: 9px; padding: 0.7rem 0.8rem; text-align: center; }
+.metric-tiles .v { display: block; font-family: var(--font-display); font-size: 1.4rem; font-weight: 600; color: var(--ink); line-height: 1; }
+.metric-tiles .k { display: block; font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-3); font-weight: 600; margin-top: 0.35rem; }
+
+/* Role-median row: same tile format, set back (smaller, unfilled, muted) */
+.metric-median { margin: 0 0 1.4rem; }
+.metric-median-cap { font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-3); font-weight: 600; margin: 0 0 0.4rem; }
+.metric-tiles.is-median .tile { background: transparent; border-color: #e7e0d2; padding: 0.45rem 0.6rem; }
+.metric-tiles.is-median .v { font-size: 1.05rem; color: var(--ink-2); }
+@media (max-width: 560px) { .metric-tiles { grid-template-columns: repeat(2, 1fr); } }
+
+/* Model-specific command abilities: green title + green crown (matches the cards) */
+.doc-content .cmd-ability > strong:first-child { color: #2e7a3a; }
+.doc-content .cmd-ability > strong:first-child::before {
+  content: "";
+  display: inline-block;
+  width: 0.95em;
+  height: 0.95em;
+  margin-right: 0.32em;
+  vertical-align: -0.13em;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%232e7a3a'%3E%3Cpath d='M3 6 L8 12 L12 4 L16 12 L21 6 L19 19 L5 19 Z'/%3E%3Ccircle cx='3' cy='6' r='1.4'/%3E%3Ccircle cx='12' cy='4' r='1.4'/%3E%3Ccircle cx='21' cy='6' r='1.4'/%3E%3C/svg%3E") center / contain no-repeat;
 }
 
 /* Side-by-side table pairs */

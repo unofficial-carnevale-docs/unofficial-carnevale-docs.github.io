@@ -5,9 +5,9 @@ permalink: /factions/gifted/francisco-de-lorme/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 16
+meta: "Hero · Unique · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-rites\">Blood Rites</a>, <a href=\"/magic/wild-magic/\" class=\"disc-wild-magic\">Wild Magic</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Mage(1)](/compendium/character-abilities/#mage-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-sorcerer-x">Expert Sorcerer(1)</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(1)</a></div>
 
-**Take the Oath** — At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks. For the entirety of the game that character increases their starting Will Points by 2 and gains Companion(Francisco De Lorme). Any friendly character within 6" and line of sight of them may use that character's Will Points as if they were their own. A character can only be given a single Mask. Unique characters without Faction(Gifted) and Mindless characters cannot be given a Mask.
+**Take the Oath** - At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks. For the entirety of the game that character increases their starting Will Points by 2 and gains Companion(Francisco De Lorme). Any friendly character within 6" and line of sight of them may use that character's Will Points as if they were their own. A character can only be given a single Mask. Unique characters without Faction(Gifted) and Mindless characters cannot be given a Mask.
 
 ## Capability
 
-EDPA **2.45** · EDPA/Duc **0.153** · ATK2K **8.1** · ATK2K/Duc **0.51**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.45</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.153</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.1</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.51</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -85,22 +85,6 @@ EDPA **2.45** · EDPA/Duc **0.153** · ATK2K **8.1** · ATK2K/Duc **0.51**
 | Armoured (Dex4/Prot5) | 1.38 | 3.87 |
 | Tank (Dex4/Prot5/US5) | 1.38 | 3.87 |
 | Parry (Dex5/Prot3/Parry2) | 2.10 | 4.71 |
-
-</div>
-<div>
-
-### Burst EDPA by target
-
-*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
-
-| Target | Burst EDPA | Median |
-|---|---|---|
-| Soft (Dex3/Prot1) | 2.89 | 2.50 |
-| Balanced (Dex4/Prot3) | 2.69 | 1.56 |
-| Evasive (Dex6/Prot2) | 2.69 | 1.35 |
-| Armoured (Dex4/Prot5) | 2.69 | 1.05 |
-| Tank (Dex4/Prot5/US5) | 2.69 | 0.67 |
-| Parry (Dex5/Prot3/Parry2) | 2.69 | 0.96 |
 
 </div>
 </div>

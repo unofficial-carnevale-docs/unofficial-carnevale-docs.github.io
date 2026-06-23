@@ -2,13 +2,12 @@
 layout: model
 title: Ostrich King?!
 permalink: /factions/the-guild/ostrich-king/
-description: "Very fast anti-armour damage dealer, but he only has AP2 and low command. Build around the End of Days sub-faction, notably removing their Mindless attribute."
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 19
+meta: "Leader · End of Days · Size 40"
 ---
-
-<p class="model-meta"><strong>Leader · End of Days</strong><span>Size 40 · 19 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Bulky](/compendium/character-abilities/#bulky), [Companion(End of Days)](/compendium/character-abilities/#companion-x), [First Strike(2)](/compendium/character-abilities/#first-strike-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless), [Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(End of Days)</a><a class="chip" href="/compendium/character-abilities/#first-strike-x">First Strike(2)</a><a class="chip" href="/compendium/character-abilities/#limited-movement">Limited Movement</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
-**Full Tilt!** — AURA: Until the end of the round, any friendly characters with the End of Days keyword in line of sight gain +1 MOVEMENT.
+**Full Tilt! (AURA)** - Until the end of the round, any friendly characters with the End of Days keyword in line of sight gain +1 MOVEMENT.
+{: .cmd-ability}
 
-**Do As I Say, Not As I Do** — All other friendly characters with the End of Days keyword lose Mindless for the entire game, even if this character is killed. This character still keeps Mindless.
+**Do As I Say, Not As I Do** - All other friendly characters with the End of Days keyword lose Mindless for the entire game, even if this character is killed. This character still keeps Mindless.
 
 ## Capability
 
-EDPA **2.91** · EDPA/Duc **0.153** · ATK2K **10.0** · ATK2K/Duc **0.53**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.91</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.153</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.53</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/divine-seraphim/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 18
+meta: "Hero · Construct · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · Construct</strong><span>Size 40 · 18 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Divine Flame | melee | — | −2 | [Template](/compendium/weapon-abilities/#template) |
+| Divine Flame | melee | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> |
 
 ### Abilities
 
-[Companion(Invoker)](/compendium/character-abilities/#companion-x), [Fear(-1)](/compendium/character-abilities/#fear-x), [Flight](/compendium/character-abilities/#flight), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Invoker)</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(-1)</a><a class="chip" href="/compendium/character-abilities/#flight">Flight</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a></div>
 
-**Burn With The Fire of Charity** — While within 6" of this character, friendly characters are immune to the Stun, Poisoned, and their own Full Plate abilities. At the end of each friendly character's turn, remove any Stun counters from friendly characters within 6" of this character.
+**Burn With The Fire of Charity** - While within 6" of this character, friendly characters are immune to the Stun, Poisoned, and their own Full Plate abilities. At the end of each friendly character's turn, remove any Stun counters from friendly characters within 6" of this character.
 
 ## Capability
 
-EDPA **2.48** · EDPA/Duc **0.138** · ATK2K **14.9** · ATK2K/Duc **0.83**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.48</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.138</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">14.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.83</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

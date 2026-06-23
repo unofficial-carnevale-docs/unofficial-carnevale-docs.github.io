@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/scorpio-marksman/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 15
+meta: "Hero · Size 50"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 50 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Scorpio | 18" | +2 | −2 | [Knockback](/compendium/weapon-abilities/#knockback), [Two-handed](/compendium/weapon-abilities/#two-handed), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Scorpio | 18" | +2 | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 
-[Expert Marksman(2)](/compendium/character-abilities/#expert-marksman-x), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-marksman-x">Expert Marksman(2)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a></div>
 
-**Unwieldy** — this character may only make Combat actions with the Scorpio as the first action of their turn (including using it for Attacks of Opportunity).
+**Unwieldy** - this character may only make Combat actions with the Scorpio as the first action of their turn (including using it for Attacks of Opportunity).
 
 ## Capability
 
-EDPA **2.44** · EDPA/Duc **0.163** · ATK2K **18.4** · ATK2K/Duc **1.23**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.163</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">18.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.23</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Sniper median: EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **11.5** · ATK2K/Duc **0.99***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Sniper median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.156</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper ATK2K outlier: among this faction's Snipers the median is 11.5, but this model reaches 18.4, so the role median understates models like this.*
 

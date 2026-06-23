@@ -5,9 +5,9 @@ permalink: /factions/patricians/don-gregorio-morisini/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 18
+meta: "Hero · Councillor · Unique · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Councillor · Unique</strong><span>Size 30 · 18 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,19 +26,19 @@ nav_section: Factions
 
 ### Abilities
 
-[Parry(1)](/compendium/character-abilities/#parry-x), [Pickpocket](/compendium/character-abilities/#pickpocket), [Slippery](/compendium/character-abilities/#slippery), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#parry-x">Parry(1)</a><a class="chip" href="/compendium/character-abilities/#pickpocket">Pickpocket</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a></div>
 
-**Collector of Treasures** — When building your gang, if it contains this character, you may purchase a second Artifact. This character may also have a purchased Artifact as if it did not have the Unique keyword. If this character is killed while carrying an Artifact, place a marker (use a 30mm base) for that Artifact in base contact with this character, then remove this character from the board. Any character that ends an action in base contact with one of these markers may remove that marker to claim and carry that Artifact.
+**Collector of Treasures** - When building your gang, if it contains this character, you may purchase a second Artifact. This character may also have a purchased Artifact as if it did not have the Unique keyword. If this character is killed while carrying an Artifact, place a marker (use a 30mm base) for that Artifact in base contact with this character, then remove this character from the board. Any character that ends an action in base contact with one of these markers may remove that marker to claim and carry that Artifact.
 
-**Little Gremlin Cornelius** — This character automatically carries this Artifact at the start of the game (not counting towards Artifact limits). A character with this Artifact gains the Cornelius' Bite weapon and Pickpocket special rule.
+**Little Gremlin Cornelius** - This character automatically carries this Artifact at the start of the game (not counting towards Artifact limits). A character with this Artifact gains the Cornelius' Bite weapon and Pickpocket special rule.
 
-**Rings of Puissance** — This character automatically carries this Artifact at the start of the game (not counting towards Artifact limits). A character with this Artifact gains Slippery and Universal Shielding (0).
+**Rings of Puissance** - This character automatically carries this Artifact at the start of the game (not counting towards Artifact limits). A character with this Artifact gains Slippery and Universal Shielding (0).
 
 ## Capability
 
-EDPA **2.42** · EDPA/Duc **0.134** · ATK2K **17.0** · ATK2K/Duc **0.94**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.42</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.134</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">17.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.94</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

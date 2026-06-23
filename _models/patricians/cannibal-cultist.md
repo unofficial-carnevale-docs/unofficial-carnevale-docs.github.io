@@ -5,9 +5,9 @@ permalink: /factions/patricians/cannibal-cultist/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 8
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 8 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,17 @@ nav_section: Factions
 
 ### Abilities
 
-[Frenzied](/compendium/character-abilities/#frenzied), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Flesheater** — If this character makes a Combat action against a target in base contact that causes it to lose at least 1 Life Point, it replenishes 1 Will Point.
+**Flesheater** - If this character makes a Combat action against a target in base contact that causes it to lose at least 1 Life Point, it replenishes 1 Will Point.
 
-**The Hunger** — If this character starts its turn within 4" of one or more enemy characters, it must attempt to move into base contact with one of them.
+**The Hunger** - If this character starts its turn within 4" of one or more enemy characters, it must attempt to move into base contact with one of them.
 
 ## Capability
 
-EDPA **1.50** · EDPA/Duc **0.188** · ATK2K **9.7** · ATK2K/Duc **1.21**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.50</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.188</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.21</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Line Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/patricians/cortigiane/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 12
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Parry(2)](/compendium/character-abilities/#parry-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#parry-x">Parry(2)</a></div>
 
-**Affirmation** — At the start of this character's turn, pick one character with the Councillor keyword in line of sight. Both this character and that character replenish 1 Will Point.
+**Affirmation** - At the start of this character's turn, pick one character with the Councillor keyword in line of sight. Both this character and that character replenish 1 Will Point.
 
 ## Capability
 
-EDPA **1.50** · EDPA/Duc **0.125** · ATK2K **14.2** · ATK2K/Duc **1.18**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.50</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.125</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">14.2</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.18</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Line Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/strigoi/ceres/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 19
+meta: "Hero · Unique · Vampire · Bride · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique · Vampire · Bride</strong><span>Size 30 · 19 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Concealment(2)](/compendium/character-abilities/#concealment-x), [Frenzied](/compendium/character-abilities/#frenzied), [Infiltration](/compendium/character-abilities/#infiltration), [Slippery](/compendium/character-abilities/#slippery), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#concealment-x">Concealment(2)</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#infiltration">Infiltration</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(2)</a></div>
 
-**Romani Fury** — PULSE: Every friendly character with the Bride keyword gains Expert Offence (3) until the end of the round.
+**Romani Fury (PULSE)** - Every friendly character with the Bride keyword gains Expert Offence (3) until the end of the round.
+{: .cmd-ability}
 
-**Procession of Brides** — While building your Gang, if it contains Vlad Dracula, this character counts as having the Henchman keyword instead of the Hero keyword for the purposes of Frequency.
+**Procession of Brides** - While building your Gang, if it contains Vlad Dracula, this character counts as having the Henchman keyword instead of the Hero keyword for the purposes of Frequency.
 
 ## Capability
 
-EDPA **1.75** · EDPA/Duc **0.092** · ATK2K **9.8** · ATK2K/Duc **0.52**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.75</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.092</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.52</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Assassin median: EDPA **3.23** · EDPA/Duc **0.193** · ATK2K **10.3** · ATK2K/Duc **0.59***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Assassin median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.193</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

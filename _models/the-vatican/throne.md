@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/throne/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 22
+meta: "Hero · Construct · Size 50"
 ---
-
-<p class="model-meta"><strong>Hero · Construct</strong><span>Size 50 · 22 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,21 +21,21 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Divine Justice | melee | +1 | — | [Knockback](/compendium/weapon-abilities/#knockback), [Stun](/compendium/weapon-abilities/#stun) |
+| Divine Justice | melee | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Companion(Invoker)](/compendium/character-abilities/#companion-x), [Fear(-2)](/compendium/character-abilities/#fear-x), [Flight](/compendium/character-abilities/#flight), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Invoker)</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(-2)</a><a class="chip" href="/compendium/character-abilities/#flight">Flight</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a></div>
 
-**Be Thou Afraid?** — if an enemy character would roll no Aces on its basic MIND roll due to this character's Fear ability, that character loses 1 Will Point.
+**Be Thou Afraid?** - if an enemy character would roll no Aces on its basic MIND roll due to this character's Fear ability, that character loses 1 Will Point.
 
-**Cosmic Harmony** — at the start of this character's turn, choose a friendly character within 6" and in line of sight. This character and the chosen character both replenish 1 Command Point.
+**Cosmic Harmony** - at the start of this character's turn, choose a friendly character within 6" and in line of sight. This character and the chosen character both replenish 1 Command Point.
 
 ## Capability
 
-EDPA **2.68** · EDPA/Duc **0.122** · ATK2K **15.0** · ATK2K/Duc **0.68**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.122</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">15.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.68</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

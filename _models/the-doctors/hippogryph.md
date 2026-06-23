@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/hippogryph/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 7
+meta: "Henchman · Animal · Size 40"
 ---
-
-<p class="model-meta"><strong>Henchman · Animal</strong><span>Size 40 · 7 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,13 +25,13 @@ nav_section: Factions
 
 ### Abilities
 
-[Flight](/compendium/character-abilities/#flight), [Infiltration](/compendium/character-abilities/#infiltration), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#flight">Flight</a><a class="chip" href="/compendium/character-abilities/#infiltration">Infiltration</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
 ## Capability
 
-EDPA **1.77** · EDPA/Duc **0.253** · ATK2K **9.8** · ATK2K/Duc **1.40**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.77</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.253</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.40</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Harasser median: EDPA **1.63** · EDPA/Duc **0.121** · ATK2K **8.8** · ATK2K/Duc **0.76***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Harasser median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.63</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.121</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.76</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -2,13 +2,12 @@
 layout: model
 title: Janissary Chorbaji
 permalink: /factions/patricians/janissary-chorbaji/
-description: "Durable Ottoman commander built around this sub-faction."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 23
+meta: "Leader · Ottoman · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Ottoman</strong><span>Size 30 · 23 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,23 +21,24 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Flanged Mace | melee | — | — | [Knockback](/compendium/weapon-abilities/#knockback) |
+| Flanged Mace | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
 
 ### Abilities
 
-[Brawler(1)](/compendium/character-abilities/#brawler-x), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brawler-x">Brawler(1)</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a></div>
 
-**Coordinated Attack** — PULSE: All friendly characters with the Ottoman keyword within 3" (including this one) gain First Strike (2) until the end of the round.
+**Coordinated Attack (PULSE)** - All friendly characters with the Ottoman keyword within 3" (including this one) gain First Strike (2) until the end of the round.
+{: .cmd-ability}
 
-**Disciplined Momentum** — When a friendly character with the Ottoman keyword within 6" and line of sight kills an enemy character, this character replenishes 1 lost Command Point.
+**Disciplined Momentum** - When a friendly character with the Ottoman keyword within 6" and line of sight kills an enemy character, this character replenishes 1 lost Command Point.
 
-**Martial Elite** — Friendly characters with the Ottoman keyword within 6" may use their Expert Offence ability on the Destiny Die.
+**Martial Elite** - Friendly characters with the Ottoman keyword within 6" may use their Expert Offence ability on the Destiny Die.
 
 ## Capability
 
-EDPA **2.02** · EDPA/Duc **0.088** · ATK2K **21.0** · ATK2K/Duc **0.91**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.02</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.088</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.91</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

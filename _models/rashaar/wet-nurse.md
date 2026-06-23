@@ -5,9 +5,9 @@ permalink: /factions/rashaar/wet-nurse/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 10
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 10 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,17 @@ nav_section: Factions
 
 ### Abilities
 
-[Companion(Hydra)](/compendium/character-abilities/#companion-x), [Concealment(1)](/compendium/character-abilities/#concealment-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Hydra)</a><a class="chip" href="/compendium/character-abilities/#concealment-x">Concealment(1)</a></div>
 
-**Surrogate** — Friendly characters with the Hydra keyword within 6" and line of sight may use this character's Will Points as if they were their own.
+**Surrogate** - Friendly characters with the Hydra keyword within 6" and line of sight may use this character's Will Points as if they were their own.
 
-**Kraken Nurse** — When you place a new Infant Kraken in line of sight of this character, this character recovers 1 lost Will Point.
+**Kraken Nurse** - When you place a new Infant Kraken in line of sight of this character, this character recovers 1 lost Will Point.
 
 ## Capability
 
-EDPA **0.44** · EDPA/Duc **0.044** · ATK2K **8.8** · ATK2K/Duc **0.88**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.044</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.88</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

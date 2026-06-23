@@ -5,9 +5,9 @@ permalink: /factions/rashaar/salaacia/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 16
+meta: "Hero · Feral · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · Feral</strong><span>Size 40 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,21 +21,21 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Water Portal | 6" | — | — | [Aquatic](/compendium/weapon-abilities/#aquatic), [Blast](/compendium/weapon-abilities/#blast), [Reload(1)](/compendium/weapon-abilities/#reload-x), [Stun](/compendium/weapon-abilities/#stun) |
+| Water Portal | 6" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#blast">Blast</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Fast Swimmer(1)](/compendium/character-abilities/#fast-swimmer-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(1)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Dimensional Pool** — After resolving an attack with the Water Portal, leave the the blast marker in place. Until the end of the round the space beneath counts as water.
+**Dimensional Pool** - After resolving an attack with the Water Portal, leave the the blast marker in place. Until the end of the round the space beneath counts as water.
 
-**Gusher** — This character can make Drown actions against opponents no matter whether they're in water or not. Additionally, it gains +2 ATTACK when making a Drown action.
+**Gusher** - This character can make Drown actions against opponents no matter whether they're in water or not. Additionally, it gains +2 ATTACK when making a Drown action.
 
 ## Capability
 
-EDPA **0.57** · EDPA/Duc **0.036** · ATK2K **12.5** · ATK2K/Duc **0.78**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.57</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.036</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.78</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Canal Fighter median: EDPA **2.68** · EDPA/Duc **0.151** · ATK2K **12.6** · ATK2K/Duc **0.80***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Canal Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.151</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.80</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Lower EDPA outlier: among this faction's Canal Fighters the median is 2.68, but this model is only 0.57, so the role median overstates models like this.*
 

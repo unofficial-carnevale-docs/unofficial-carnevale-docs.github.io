@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/gethsemane/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 37
+meta: "Hero · Unique · Construct · Size 75"
 ---
-
-<p class="model-meta"><strong>Hero · Unique · Construct</strong><span>Size 75 · 37 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,27 +21,27 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Agonising Strike | 2" | +1 | — | [Knockback](/compendium/weapon-abilities/#knockback) |
-| Claw of Anguish | 2" | +1 | −1 | [Reload(2)](/compendium/weapon-abilities/#reload-x), [Template](/compendium/weapon-abilities/#template) |
+| Agonising Strike | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
+| Claw of Anguish | 2" | +1 | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> |
 | Maw Press | melee | — | −4 | — |
 
 ### Abilities
 
-[Acrobatic(2)](/compendium/character-abilities/#acrobatic-x), [Brave](/compendium/character-abilities/#brave), [Brawler(1)](/compendium/character-abilities/#brawler-x), [Bulky](/compendium/character-abilities/#bulky), [Companion(Invoker)](/compendium/character-abilities/#companion-x), [Frenzied](/compendium/character-abilities/#frenzied), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#acrobatic-x">Acrobatic(2)</a><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#brawler-x">Brawler(1)</a><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Invoker)</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a></div>
 
-**Stoneskin** — Whenever this character takes damage, reduce the amount of damage caused by 3 (to a minimum of 1). In addition, if this character is hit by a Poisoned weapon, roll 2 dice and choose 1 to see if they shrug off the poison.
+**Stoneskin** - Whenever this character takes damage, reduce the amount of damage caused by 3 (to a minimum of 1). In addition, if this character is hit by a Poisoned weapon, roll 2 dice and choose 1 to see if they shrug off the poison.
 
-**Feline Indifference** — This character cannot be picked as a target for magic and is not affected by the effects of magic (other characters affected by magic are still affected).
+**Feline Indifference** - This character cannot be picked as a target for magic and is not affected by the effects of magic (other characters affected by magic are still affected).
 
-**Serpentine** — This character is able to move through spaces smaller than its base to a minimum of 2". It must be able to fit where it ends its turn.
+**Serpentine** - This character is able to move through spaces smaller than its base to a minimum of 2". It must be able to fit where it ends its turn.
 
-**Atonement from Above** — Before applying Stoneskin, if this character would take damage from falling, all other characters (friendly and enemy) within 3" also take that much damage. When this character charges from above, it may be placed on top of characters underneath it. Any characters underneath it are moved by their controlling player so that they are in base contact with this character.
+**Atonement from Above** - Before applying Stoneskin, if this character would take damage from falling, all other characters (friendly and enemy) within 3" also take that much damage. When this character charges from above, it may be placed on top of characters underneath it. Any characters underneath it are moved by their controlling player so that they are in base contact with this character.
 
 ## Capability
 
-EDPA **4.10** · EDPA/Duc **0.111** · ATK2K **26.3** · ATK2K/Duc **0.71**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.10</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">26.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.71</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/strigoi/thrall/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 9
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 9 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,20 +21,20 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Crossbow | 30" | — | −1 | [Reload(1)](/compendium/weapon-abilities/#reload-x), [Two-handed](/compendium/weapon-abilities/#two-handed) |
-| Club | melee | — | — | [Stun](/compendium/weapon-abilities/#stun) |
+| Crossbow | 30" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
+| Club | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Companion(Vampire)](/compendium/character-abilities/#companion-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Vampire)</a></div>
 
-**Bloodletting** — At the start of a friendly character with the *Vampire* keyword's turn, if they are within 3" of this character they may drain blood. The *Vampire* character gains 1AP to use during their turn, and the Thrall loses 4 Life Points. This may only be done if the Thrall has **at least** 4 Life Points remaining, and can result in them dying!
+**Bloodletting** - At the start of a friendly character with the *Vampire* keyword's turn, if they are within 3" of this character they may drain blood. The *Vampire* character gains 1AP to use during their turn, and the Thrall loses 4 Life Points. This may only be done if the Thrall has **at least** 4 Life Points remaining, and can result in them dying!
 
 ## Capability
 
-EDPA **1.32** · EDPA/Duc **0.147** · ATK2K **8.8** · ATK2K/Duc **0.98**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.32</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.147</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.98</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

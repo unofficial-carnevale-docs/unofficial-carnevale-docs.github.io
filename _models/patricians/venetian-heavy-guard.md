@@ -5,9 +5,9 @@ permalink: /factions/patricians/venetian-heavy-guard/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 16
+meta: "Hero · Soldier · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · Soldier</strong><span>Size 40 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,18 +21,18 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Spiked Warhammer | None" | — | −2 | thrust) (1" |
-| Spiked Warhammer | None" | +1 | — | swing) (0", [Stun](/compendium/weapon-abilities/#stun) |
+| Spiked Warhammer | None" | — | −2 | <span class="chip chip-sm">thrust) (1"</span> |
+| Spiked Warhammer | None" | +1 | — | <span class="chip chip-sm">swing) (0"</span> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Companion(Officer)](/compendium/character-abilities/#companion-x), [Expert Protection(3)](/compendium/character-abilities/#expert-protection-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Officer)</a><a class="chip" href="/compendium/character-abilities/#expert-protection-x">Expert Protection(3)</a></div>
 
 ## Capability
 
-EDPA **3.01** · EDPA/Duc **0.188** · ATK2K **47.9** · ATK2K/Duc **2.99**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.01</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.188</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">47.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">2.99</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper ATK2K outlier: among this faction's Brawlers the median is 19.5, but this model reaches 47.9, so the role median understates models like this.*
 

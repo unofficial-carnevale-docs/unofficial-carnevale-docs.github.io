@@ -5,9 +5,9 @@ permalink: /factions/rashaar/aglaope/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 12
+meta: "Henchman · Monster · Discipline(<a href=\"/magic/fateweaving/\" class=\"disc-fateweaving\">Fateweaving</a>, <a href=\"/magic/wild-magic/\" class=\"disc-wild-magic\">Wild Magic</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Monster · Discipline(<a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Mage(1)](/compendium/character-abilities/#mage-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-sorcerer-x">Expert Sorcerer(1)</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(2)</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(1)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Dragging Down** — This character may re-roll failed dice rolls when making Drown actions.
+**Dragging Down** - This character may re-roll failed dice rolls when making Drown actions.
 
 ## Capability
 
-EDPA **1.59** · EDPA/Duc **0.133** · ATK2K **6.3** · ATK2K/Duc **0.53**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.59</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.133</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">6.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.53</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

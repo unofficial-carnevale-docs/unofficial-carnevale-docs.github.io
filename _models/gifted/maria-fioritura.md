@@ -5,9 +5,9 @@ permalink: /factions/gifted/maria-fioritura/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 18
+meta: "Hero · Unique · Discipline(<a href=\"/magic/runes-of-sovereignty/\" class=\"disc-runes-sovereignty\">Runes of Sovereignty</a>, <a href=\"/magic/fateweaving/\" class=\"disc-fateweaving\">Fateweaving</a>, <a href=\"/magic/wild-magic/\" class=\"disc-wild-magic\">Wild Magic</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique · Discipline(<a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 18 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Mage(2)](/compendium/character-abilities/#mage-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-sorcerer-x">Expert Sorcerer(1)</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(2)</a></div>
 
-**Creative Creation** — (unique spell, Cost 2, Diff 7, not usable by other chars): Place 1 Painted Protector anywhere within 3" of this character. A Painted Protector counts as a friendly character and may take a turn that round as normal.
+**Creative Creation** - (unique spell, Cost 2, Diff 7, not usable by other chars): Place 1 Painted Protector anywhere within 3" of this character. A Painted Protector counts as a friendly character and may take a turn that round as normal.
 
 ## Capability
 
-EDPA **2.31** · EDPA/Duc **0.128** · ATK2K **10.6** · ATK2K/Duc **0.59**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.31</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.128</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper EDPA outlier: among this faction's Supports the median is 1.13, but this model reaches 2.31, so the role median understates models like this.*
 

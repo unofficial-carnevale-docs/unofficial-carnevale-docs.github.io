@@ -5,9 +5,9 @@ permalink: /factions/patricians/barnabotti/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 12
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,20 +21,20 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Pistol | 8" | — | −1 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(2)](/compendium/weapon-abilities/#reload-x) |
+| Pistol | 8" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
 | Sword | melee | +1 | — | — |
 
 ### Abilities
 
-[Companion(Councillor)](/compendium/character-abilities/#companion-x), [First Strike(1)](/compendium/character-abilities/#first-strike-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Councillor)</a><a class="chip" href="/compendium/character-abilities/#first-strike-x">First Strike(1)</a></div>
 
-**Inferiority Complex** — This character cannot use the ORDER or COUNTER Commands.
+**Inferiority Complex** - This character cannot use the ORDER or COUNTER Commands.
 
 ## Capability
 
-EDPA **1.99** · EDPA/Duc **0.166** · ATK2K **9.7** · ATK2K/Duc **0.81**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.99</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.166</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.81</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Line Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

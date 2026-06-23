@@ -5,9 +5,9 @@ permalink: /factions/gifted/mezzetino/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 11
+meta: "Henchman · Unique · Commedia dell'Arte · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Unique · Commedia dell'Arte</strong><span>Size 30 · 11 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Parry(1)](/compendium/character-abilities/#parry-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#parry-x">Parry(1)</a></div>
 
-**Vindictive** — If an enemy character causes damage to Mezzetino (before Protection Rolls), he may re-roll any failed dice rolls for Combat actions against that character for the rest of the game, including the Destiny Dice.
+**Vindictive** - If an enemy character causes damage to Mezzetino (before Protection Rolls), he may re-roll any failed dice rolls for Combat actions against that character for the rest of the game, including the Destiny Dice.
 
 ## Capability
 
-EDPA **1.99** · EDPA/Duc **0.181** · ATK2K **11.3** · ATK2K/Duc **1.03**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.99</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.181</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.03</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

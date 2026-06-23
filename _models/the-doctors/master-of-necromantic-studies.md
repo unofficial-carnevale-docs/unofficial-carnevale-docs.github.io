@@ -2,13 +2,12 @@
 layout: model
 title: Master of Necromantic Studies
 permalink: /factions/the-doctors/master-of-necromantic-studies/
-description: "Low-LP Frenzied offensive caster. She turns the whole faction into a fully Frenzied one without any WP (even the Nexus batteries), which is the most impactful gang-wide ability of any leader."
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 23
+meta: "Leader · Doctor · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-rites\">Blood Rites</a>, <a href=\"/magic/divinity/\" class=\"disc-divinity\">Divinity</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Doctor · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/divinity/" class="disc-divinity">Divinity</a>)</strong><span>Size 30 · 23 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Frenzied](/compendium/character-abilities/#frenzied), [Mage(2)](/compendium/character-abilities/#mage-x), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-sorcerer-x">Expert Sorcerer(1)</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(2)</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(2)</a></div>
 
-**Unliving Curse** — PULSE: One friendly character within 1" gains Vampiric Attack (2) until the end of the game.
+**Unliving Curse (PULSE)** - One friendly character within 1" gains Vampiric Attack (2) until the end of the game.
+{: .cmd-ability}
 
-**Elixir of Death** — Every friendly character who starts the game with Will Points loses all of their Will Points and gains Frenzied. This change remains in play even if this character is killed.
+**Elixir of Death** - Every friendly character who starts the game with Will Points loses all of their Will Points and gains Frenzied. This change remains in play even if this character is killed.
 
 ## Capability
 
-EDPA **2.77** · EDPA/Duc **0.120** · ATK2K **12.6** · ATK2K/Duc **0.55**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.77</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.120</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.55</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

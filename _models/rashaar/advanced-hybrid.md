@@ -5,9 +5,9 @@ permalink: /factions/rashaar/advanced-hybrid/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 12
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Weak Claws | melee | — | — | [Aquatic](/compendium/weapon-abilities/#aquatic) |
+| Weak Claws | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 
-[Acrobatic(2)](/compendium/character-abilities/#acrobatic-x), [First Strike(1)](/compendium/character-abilities/#first-strike-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#acrobatic-x">Acrobatic(2)</a><a class="chip" href="/compendium/character-abilities/#first-strike-x">First Strike(1)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
 ## Capability
 
-EDPA **1.13** · EDPA/Duc **0.094** · ATK2K **5.3** · ATK2K/Duc **0.44**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.094</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">5.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.44</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Objective Runner median: EDPA **1.13** · EDPA/Duc **0.094** · ATK2K **7.7** · ATK2K/Duc **0.79***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Objective Runner median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.094</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.79</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

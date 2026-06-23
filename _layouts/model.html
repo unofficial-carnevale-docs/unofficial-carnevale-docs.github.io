@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% assign halves = content | split: '<h2 id="capability">Capability</h2>' %}
 <div class="doc-layout doc-layout--model">
   <main class="doc-content">
 
@@ -18,12 +19,20 @@ layout: default
       <span class="current">{{ page.title }}</span>
     </nav>
 
-    <h1>{{ page.title }}</h1>
-    {% if page.description %}<p class="doc-lead">{{ page.description }}</p>{% endif %}
+    <div class="model-card">
+      <div class="card-head">
+        <span class="card-name">{{ page.title }}</span>
+        {% if page.cost %}<span class="card-cost">{{ page.cost }} Ducats</span>{% endif %}
+      </div>
+      {% if page.meta %}<p class="card-meta">{{ page.meta }}</p>{% endif %}
+      {% if page.description %}<p class="card-desc">{{ page.description }}</p>{% endif %}
+      {{ halves[0] }}
+    </div>
 
-    <hr>
-
-    {{ content }}
+    {% if halves[1] %}
+    <h2 id="capability">Capability</h2>
+    {{ halves[1] }}
+    {% endif %}
 
   </main>
 </div>

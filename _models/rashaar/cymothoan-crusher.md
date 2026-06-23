@@ -5,9 +5,9 @@ permalink: /factions/rashaar/cymothoan-crusher/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 17
+meta: "Henchman · Feral · Size 50"
 ---
-
-<p class="model-meta"><strong>Henchman · Feral</strong><span>Size 50 · 17 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Crusted Fist | 2" | +1 | — | [Knockback](/compendium/weapon-abilities/#knockback), [Stun](/compendium/weapon-abilities/#stun) |
+| Crusted Fist | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Bulky](/compendium/character-abilities/#bulky), [First Strike(3)](/compendium/character-abilities/#first-strike-x), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#first-strike-x">First Strike(3)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
 ## Capability
 
-EDPA **1.33** · EDPA/Duc **0.078** · ATK2K **20.9** · ATK2K/Duc **1.23**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.33</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.078</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">20.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.23</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Tank median: EDPA **2.45** · EDPA/Duc **0.154** · ATK2K **23.7** · ATK2K/Duc **1.53***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Tank median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.45</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.154</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">23.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.53</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

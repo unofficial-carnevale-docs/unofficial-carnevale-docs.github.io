@@ -5,9 +5,9 @@ permalink: /factions/gifted/pantaleone/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 10
+meta: "Henchman · Unique · Commedia dell'Arte · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Unique · Commedia dell'Arte</strong><span>Size 30 · 10 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Smoke Bomb | 6" | — | — | [Blast](/compendium/weapon-abilities/#blast), [Harmless](/compendium/weapon-abilities/#harmless), [Smoke](/compendium/weapon-abilities/#smoke), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Smoke Bomb | 6" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#blast">Blast</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#harmless">Harmless</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#smoke">Smoke</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 
-[Pickpocket](/compendium/character-abilities/#pickpocket)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#pickpocket">Pickpocket</a></div>
 
-**Hoarded Wealth** — At the end of each round, if this character hasn't used any Will Points during that round, he gains 1 Will Point. This can take him above his starting number.
+**Hoarded Wealth** - At the end of each round, if this character hasn't used any Will Points during that round, he gains 1 Will Point. This can take him above his starting number.
 
 ## Capability
 
-EDPA **0.04** · EDPA/Duc **0.004** · ATK2K **6.7** · ATK2K/Duc **0.67**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.04</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.004</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">6.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.67</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Objective Runner median: EDPA **1.13** · EDPA/Duc **0.094** · ATK2K **7.7** · ATK2K/Duc **0.79***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Objective Runner median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.094</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.79</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

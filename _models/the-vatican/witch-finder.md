@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/witch-finder/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 12
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Snare | 2" | — | — | [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Snare | 2" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Engage](/compendium/character-abilities/#engage), [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#engage">Engage</a><a class="chip" href="/compendium/character-abilities/#expert-grappler-x">Expert Grappler(2)</a></div>
 
-**Suffer Not a Witch** — this character may attempt to Dispel magic spells as if it has Mage(2). In addition, enemy characters may not use Will Points when in base contact with this character.
+**Suffer Not a Witch** - this character may attempt to Dispel magic spells as if it has Mage(2). In addition, enemy characters may not use Will Points when in base contact with this character.
 
 ## Capability
 
-EDPA **1.13** · EDPA/Duc **0.094** · ATK2K **7.9** · ATK2K/Duc **0.66**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.094</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.66</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Disruptor median: EDPA **1.69** · EDPA/Duc **0.113** · ATK2K **12.2** · ATK2K/Duc **0.82***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Disruptor median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.69</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.113</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.2</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.82</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

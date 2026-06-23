@@ -5,9 +5,9 @@ permalink: /factions/the-guild/butcher/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 13
+meta: "Hero · Trade · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Trade</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,13 +25,13 @@ nav_section: Factions
 
 ### Abilities
 
-[Brawler(1)](/compendium/character-abilities/#brawler-x), [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brawler-x">Brawler(1)</a><a class="chip" href="/compendium/character-abilities/#expert-grappler-x">Expert Grappler(2)</a></div>
 
 ## Capability
 
-EDPA **2.68** · EDPA/Duc **0.206** · ATK2K **14.9** · ATK2K/Duc **1.15**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.206</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">14.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.15</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

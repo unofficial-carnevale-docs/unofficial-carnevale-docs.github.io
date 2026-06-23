@@ -5,9 +5,9 @@ permalink: /factions/the-guild/rialto-assassin/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 16
+meta: "Hero · Unique · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,17 +22,17 @@ nav_section: Factions
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Balanced Throwing Knife | 6" | — | −4 | — |
-| Smoke Bomb | 6" | — | — | [Blast](/compendium/weapon-abilities/#blast), [Harmless](/compendium/weapon-abilities/#harmless), [Smoke](/compendium/weapon-abilities/#smoke), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Smoke Bomb | 6" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#blast">Blast</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#harmless">Harmless</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#smoke">Smoke</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 
-[Expert Marksman(3)](/compendium/character-abilities/#expert-marksman-x), [Infiltration](/compendium/character-abilities/#infiltration), [Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-marksman-x">Expert Marksman(3)</a><a class="chip" href="/compendium/character-abilities/#infiltration">Infiltration</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
 ## Capability
 
-EDPA **4.74** · EDPA/Duc **0.296** · ATK2K **14.1** · ATK2K/Duc **0.88**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.74</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.296</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">14.1</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.88</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Assassin median: EDPA **3.23** · EDPA/Duc **0.193** · ATK2K **10.3** · ATK2K/Duc **0.59***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Assassin median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.193</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

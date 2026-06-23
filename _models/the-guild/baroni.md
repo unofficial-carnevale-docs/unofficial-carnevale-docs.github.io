@@ -5,9 +5,9 @@ permalink: /factions/the-guild/baroni/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 15
+meta: "Hero · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,24 +21,25 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Duelling Pistol | 8" | — | −1 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(2)](/compendium/weapon-abilities/#reload-x) |
-| Twin Duelling Pistols | 8" | +3 | −1 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Duelling Pistol | 8" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
+| Twin Duelling Pistols | 8" | +3 | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 
-[Expert Marksman(2)](/compendium/character-abilities/#expert-marksman-x), [Pickpocket](/compendium/character-abilities/#pickpocket)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-marksman-x">Expert Marksman(2)</a><a class="chip" href="/compendium/character-abilities/#pickpocket">Pickpocket</a></div>
 
-**Intimidation** — AURA: Until the end of the round, any friendly characters within 3" gain First Strike (1).
+**Intimidation (AURA)** - Until the end of the round, any friendly characters within 3" gain First Strike (1).
+{: .cmd-ability}
 
-**Twin Pistols** — This character's weapons share the Reload ability - you may make 2 Combat actions with the Single Duelling Pistol or 1 with Twin Duelling Pistols in one round.
+**Twin Pistols** - This character's weapons share the Reload ability - you may make 2 Combat actions with the Single Duelling Pistol or 1 with Twin Duelling Pistols in one round.
 
-**Unwieldy** — This character may only make Combat actions with the Twin Duelling Pistols as the first action of their turn (including using it for Attacks of Opportunity).
+**Unwieldy** - This character may only make Combat actions with the Twin Duelling Pistols as the first action of their turn (including using it for Attacks of Opportunity).
 
 ## Capability
 
-EDPA **2.41** · EDPA/Duc **0.161** · ATK2K **14.9** · ATK2K/Duc **0.99**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.41</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.161</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">14.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Sniper median: EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **11.5** · ATK2K/Duc **0.99***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Sniper median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.156</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

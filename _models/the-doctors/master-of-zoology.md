@@ -2,13 +2,12 @@
 layout: model
 title: Master of Zoology
 permalink: /factions/the-doctors/master-of-zoology/
-description: "Very durable Hunter with a good armor-piercing Stun weapon. Build around Beasts, giving them Companion (Doctor)."
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 20
+meta: "Leader · Doctor · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Doctor</strong><span>Size 30 · 20 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,23 +21,24 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Electrified Mace | melee | +1 | −2 | [Stun](/compendium/weapon-abilities/#stun) |
+| Electrified Mace | melee | +1 | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Expert Protection(2)](/compendium/character-abilities/#expert-protection-x), [Hunter](/compendium/character-abilities/#hunter)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-protection-x">Expert Protection(2)</a><a class="chip" href="/compendium/character-abilities/#hunter">Hunter</a></div>
 
-**Protective Field** — AURA: Until the end of the round, any friendly characters within 3" gain Universal Shielding (4).
+**Protective Field (AURA)** - Until the end of the round, any friendly characters within 3" gain Universal Shielding (4).
+{: .cmd-ability}
 
-**Beast Master** — All friendly characters with the Animal keyword gain Companion (Doctor) while in line of sight of this character.
+**Beast Master** - All friendly characters with the Animal keyword gain Companion (Doctor) while in line of sight of this character.
 
-**Voltaic Shield** — If an enemy character makes a Combat action against this character in base contact and they don't lose any Life Points from the attack, the enemy character loses 3 Life Points.
+**Voltaic Shield** - If an enemy character makes a Combat action against this character in base contact and they don't lose any Life Points from the attack, the enemy character loses 3 Life Points.
 
 ## Capability
 
-EDPA **3.59** · EDPA/Duc **0.179** · ATK2K **36.7** · ATK2K/Duc **1.84**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.59</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.179</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">36.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.84</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

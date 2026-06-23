@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/templar-marshal/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 14
+meta: "Hero · Hospitaller · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Hospitaller</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,18 +21,18 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Crossbow | 30" | — | −1 | [Reload(1)](/compendium/weapon-abilities/#reload-x), [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Crossbow | 30" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 | Sword | melee | +1 | — | — |
 
 ### Abilities
 
-[Engage](/compendium/character-abilities/#engage), [Expert Marksman(1)](/compendium/character-abilities/#expert-marksman-x), [Expert Offence(1)](/compendium/character-abilities/#expert-offence-x), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#engage">Engage</a><a class="chip" href="/compendium/character-abilities/#expert-marksman-x">Expert Marksman(1)</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(1)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a></div>
 
 ## Capability
 
-EDPA **3.13** · EDPA/Duc **0.224** · ATK2K **13.7** · ATK2K/Duc **0.98**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.224</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">13.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.98</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/prelate-of-the-flaming-sword/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 15
+meta: "Hero · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Burning Longsword | 1" | +1 | −5 | [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Burning Longsword | 1" | +1 | −5 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave), [Bulky](/compendium/character-abilities/#bulky), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Burning Aura** — Any friendly characters without this ability within 3" gain -2 Penetration on their weapons.
+**Burning Aura** - Any friendly characters without this ability within 3" gain -2 Penetration on their weapons.
 
 ## Capability
 
-EDPA **4.52** · EDPA/Duc **0.301** · ATK2K **18.0** · ATK2K/Duc **1.20**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.52</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.301</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">18.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.20</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

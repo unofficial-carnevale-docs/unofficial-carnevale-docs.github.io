@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/venator-of-devotion/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 17
+meta: "Hero · Hospitaller · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · Hospitaller</strong><span>Size 40 · 17 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,22 +21,22 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Zweihänder | 2" | +3 | — | [Knockback](/compendium/weapon-abilities/#knockback), [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Zweihänder | 2" | +3 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 | Sword | melee | +1 | — | — |
 
 ### Abilities
 
-[Expert Offence(1)](/compendium/character-abilities/#expert-offence-x), [Hunter](/compendium/character-abilities/#hunter), [Universal Shielding(4)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(1)</a><a class="chip" href="/compendium/character-abilities/#hunter">Hunter</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(4)</a></div>
 
-**Killing Blow** — If this character causes an enemy character to lose more Life Points than they have left (ie. they'd go to minus numbers), this character replenishes all of its Will Points.
+**Killing Blow** - If this character causes an enemy character to lose more Life Points than they have left (ie. they'd go to minus numbers), this character replenishes all of its Will Points.
 
-**Full Plate** — If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
+**Full Plate** - If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
 
 ## Capability
 
-EDPA **4.70** · EDPA/Duc **0.277** · ATK2K **22.4** · ATK2K/Duc **1.32**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.70</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.277</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">22.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/strigoi/sinker/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 10
+meta: "Henchman · Vampire · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Vampire</strong><span>Size 30 · 10 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Sinking Weights | 2" | +2 | — | [Knockback](/compendium/weapon-abilities/#knockback) |
+| Sinking Weights | 2" | +2 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
 
 ### Abilities
 
-[Frenzied](/compendium/character-abilities/#frenzied), [Limited Movement](/compendium/character-abilities/#limited-movement), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#limited-movement">Limited Movement</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Dead Weights** — This character is not deployed like normal. Instead, at the end of the first round, deploy it anywhere on the board in water at least 3" away from any enemy characters in water. From that point on they take turns just like normal.
+**Dead Weights** - This character is not deployed like normal. Instead, at the end of the first round, deploy it anywhere on the board in water at least 3" away from any enemy characters in water. From that point on they take turns just like normal.
 
 ## Capability
 
-EDPA **2.93** · EDPA/Duc **0.293** · ATK2K **6.7** · ATK2K/Duc **0.67**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.93</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.293</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">6.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.67</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Canal Fighter median: EDPA **2.68** · EDPA/Duc **0.151** · ATK2K **12.6** · ATK2K/Duc **0.80***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Canal Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.151</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.80</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

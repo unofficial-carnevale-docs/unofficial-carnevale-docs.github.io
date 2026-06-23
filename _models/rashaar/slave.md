@@ -5,9 +5,9 @@ permalink: /factions/rashaar/slave/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 4
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 4 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Feast for Dagon** — If this character ends its turn in base contact with a friendly character with the Monster keyword, you may choose to remove it from play as a casualty. The Monster character immediately replenishes 5 Life Points.
+**Feast for Dagon** - If this character ends its turn in base contact with a friendly character with the Monster keyword, you may choose to remove it from play as a casualty. The Monster character immediately replenishes 5 Life Points.
 
 ## Capability
 
-EDPA **0.44** · EDPA/Duc **0.110** · ATK2K **4.2** · ATK2K/Duc **1.05**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.110</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">4.2</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.05</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper ATK2K outlier: among this faction's Specialists the median is 2.6, but this model reaches 4.2, so the role median understates models like this.*
 

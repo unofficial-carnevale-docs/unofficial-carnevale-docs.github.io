@@ -5,9 +5,9 @@ permalink: /factions/gifted/black-spectre/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 30
+meta: "Hero · Unique · Size 50"
 ---
-
-<p class="model-meta"><strong>Hero · Unique</strong><span>Size 50 · 30 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Bulky](/compendium/character-abilities/#bulky), [Ethereal](/compendium/character-abilities/#ethereal), [Fear(-2)](/compendium/character-abilities/#fear-x), [Flight](/compendium/character-abilities/#flight), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#ethereal">Ethereal</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(-2)</a><a class="chip" href="/compendium/character-abilities/#flight">Flight</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Supernatural** — When making Protection Rolls against Spectral Touch, the target must use their MIND value instead of their PROTECTION value. If the character failed their Fear test, they must re-roll any Aces.
+**Supernatural** - When making Protection Rolls against Spectral Touch, the target must use their MIND value instead of their PROTECTION value. If the character failed their Fear test, they must re-roll any Aces.
 
 ## Capability
 
-EDPA **3.08** · EDPA/Duc **0.103** · ATK2K **20.0** · ATK2K/Duc **0.67**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.08</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.103</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">20.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.67</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

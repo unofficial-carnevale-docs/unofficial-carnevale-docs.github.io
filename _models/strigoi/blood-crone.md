@@ -2,13 +2,12 @@
 layout: model
 title: Blood Crone
 permalink: /factions/strigoi/blood-crone/
-description: "Cheap, flexible, but very slow caster-leader. She knows all cantrips of the game and can cast one per turn for 0AP, giving her really good Action economy."
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 18
+meta: "Leader · Discipline(<a href=\"/magic/runes-of-sovereignty/\" class=\"disc-runes-sovereignty\">Runes of Sovereignty</a>, <a href=\"/magic/blood-rites/\" class=\"disc-blood-rites\">Blood Rites</a>, <a href=\"/magic/fateweaving/\" class=\"disc-fateweaving\">Fateweaving</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Discipline(<a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>)</strong><span>Size 30 · 18 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,19 +25,20 @@ nav_section: Factions
 
 ### Abilities
 
-[Mage(3)](/compendium/character-abilities/#mage-x), [Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(3)</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
-**Clairvoyancy** — AURA: Until the end of the round, any friendly characters within 6" may re-roll 1 dice on any of their rolls. Note that this does not include the Destiny dice!
+**Clairvoyancy (AURA)** - Until the end of the round, any friendly characters within 6" may re-roll 1 dice on any of their rolls. Note that this does not include the Destiny dice!
+{: .cmd-ability}
 
-**Major Arcana** — When picking spells, this character always knows all Cantrips from all Disciplines (even those she doesn't have access to).
+**Major Arcana** - When picking spells, this character always knows all Cantrips from all Disciplines (even those she doesn't have access to).
 
-**Minor Incanta** — This character may cast a Cantrip for 0AP once per character turn. All the standard rules for casting spells apply.
+**Minor Incanta** - This character may cast a Cantrip for 0AP once per character turn. All the standard rules for casting spells apply.
 
 ## Capability
 
-EDPA **3.72** · EDPA/Duc **0.207** · ATK2K **11.5** · ATK2K/Duc **0.64**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.72</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.207</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.64</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

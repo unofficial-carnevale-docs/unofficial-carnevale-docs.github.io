@@ -5,9 +5,9 @@ permalink: /factions/rashaar/morgraur/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 68
+meta: "Hero · Monster · Unique · Size 120"
 ---
-
-<p class="model-meta"><strong>Hero · Monster · Unique</strong><span>Size 120 · 68 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,21 +21,21 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Colossal Jaws | 2" | +2 | −3 | [Aquatic](/compendium/weapon-abilities/#aquatic) |
+| Colossal Jaws | 2" | +2 | −3 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 
-[Bulky](/compendium/character-abilities/#bulky), [Brawler(2)](/compendium/character-abilities/#brawler-x), [Fast Swimmer(3)](/compendium/character-abilities/#fast-swimmer-x), [Fear(-3)](/compendium/character-abilities/#fear-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#brawler-x">Brawler(2)</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(3)</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(-3)</a><a class="chip" href="/compendium/character-abilities/#limited-movement">Limited Movement</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Serpentine** — This character is able to move through spaces smaller than its base to a minimum of 2". It must be able to fit where it ends its turn.
+**Serpentine** - This character is able to move through spaces smaller than its base to a minimum of 2". It must be able to fit where it ends its turn.
 
-**Swallow Whole** — When this character makes a Combat action (not an Attack of Opportunity) against a target character with a Size of 40mm or less and rolls at least 5 Aces, instead of calculating Damage as normal, immediately remove the target character from play as a casualty.
+**Swallow Whole** - When this character makes a Combat action (not an Attack of Opportunity) against a target character with a Size of 40mm or less and rolls at least 5 Aces, instead of calculating Damage as normal, immediately remove the target character from play as a casualty.
 
 ## Capability
 
-EDPA **5.06** · EDPA/Duc **0.074** · ATK2K **55.2** · ATK2K/Duc **0.81**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">5.06</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.074</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">55.2</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.81</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

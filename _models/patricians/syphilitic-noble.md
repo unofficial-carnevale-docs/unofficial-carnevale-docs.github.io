@@ -5,9 +5,9 @@ permalink: /factions/patricians/syphilitic-noble/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 13
+meta: "Hero · Councillor · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Councillor</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,13 +25,13 @@ nav_section: Factions
 
 ### Abilities
 
-[Berserk](/compendium/character-abilities/#berserk), [Engage](/compendium/character-abilities/#engage), [Frenzied](/compendium/character-abilities/#frenzied), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#berserk">Berserk</a><a class="chip" href="/compendium/character-abilities/#engage">Engage</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
 ## Capability
 
-EDPA **2.13** · EDPA/Duc **0.164** · ATK2K **12.6** · ATK2K/Duc **0.97**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.164</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

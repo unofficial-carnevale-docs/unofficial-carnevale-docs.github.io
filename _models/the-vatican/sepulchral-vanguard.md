@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/sepulchral-vanguard/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 15
+meta: "Hero · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Flaming Mace | melee | +1 | −2 | [Stun](/compendium/weapon-abilities/#stun) |
+| Flaming Mace | melee | +1 | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Bodyguard(Leader, Hero)](/compendium/character-abilities/#bodyguard-x), [Expert Protection(3)](/compendium/character-abilities/#expert-protection-x), [Frenzied](/compendium/character-abilities/#frenzied), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bodyguard-x">Bodyguard(Leader, Hero)</a><a class="chip" href="/compendium/character-abilities/#expert-protection-x">Expert Protection(3)</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**I Will Guard Against Thee, Witch** — this character may attempt to Dispel magic spells as if it has Mage(1). In addition, enemy characters may not use Will Points when in base contact with this character.
+**I Will Guard Against Thee, Witch** - this character may attempt to Dispel magic spells as if it has Mage(1). In addition, enemy characters may not use Will Points when in base contact with this character.
 
 ## Capability
 
-EDPA **2.86** · EDPA/Duc **0.191** · ATK2K **33.6** · ATK2K/Duc **2.24**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.86</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.191</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">33.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">2.24</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Tank median: EDPA **2.45** · EDPA/Duc **0.154** · ATK2K **23.7** · ATK2K/Duc **1.53***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Tank median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.45</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.154</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">23.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.53</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

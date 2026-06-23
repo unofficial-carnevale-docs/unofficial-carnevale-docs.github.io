@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/husk/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 4
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 4 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-grappler-x">Expert Grappler(2)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Corpse** — If this character takes 4 or more Damage in one action (before making a Protection roll), add 2 extra Damage to the attack.
+**Corpse** - If this character takes 4 or more Damage in one action (before making a Protection roll), add 2 extra Damage to the attack.
 
 ## Capability
 
-EDPA **0.87** · EDPA/Duc **0.217** · ATK2K **2.9** · ATK2K/Duc **0.72**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.217</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">2.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Line Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Lower ATK2K outlier: among this faction's Line Fighters the median is 9.8, but this model is only 2.9, so the role median overstates models like this.*
 

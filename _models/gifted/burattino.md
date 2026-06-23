@@ -5,9 +5,9 @@ permalink: /factions/gifted/burattino/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 15
+meta: "Hero · Unique · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Engage](/compendium/character-abilities/#engage), [Expert Offence(3)](/compendium/character-abilities/#expert-offence-x), [Hunter](/compendium/character-abilities/#hunter), [Mindless](/compendium/character-abilities/#mindless), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#engage">Engage</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(3)</a><a class="chip" href="/compendium/character-abilities/#hunter">Hunter</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(2)</a></div>
 
-**Diminutive** — This character counts all base sizes as larger than it. This affects Hunter, Grappling, and Drowning, for example.
+**Diminutive** - This character counts all base sizes as larger than it. This affects Hunter, Grappling, and Drowning, for example.
 
 ## Capability
 
-EDPA **2.32** · EDPA/Duc **0.155** · ATK2K **5.3** · ATK2K/Duc **0.35**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.32</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.155</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">5.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.35</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/patricians/submissive-noble/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 17
+meta: "Hero · Councillor · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · Councillor</strong><span>Size 40 · 17 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,19 +25,21 @@ nav_section: Factions
 
 ### Abilities
 
-[Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Frenzied](/compendium/character-abilities/#frenzied)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a></div>
 
-**Domination** — PULSE: Every friendly character in base contact makes an immediate Move action for 0AP. This action cannot be used to move into base contact with an enemy character.
+**Domination (PULSE)** - Every friendly character in base contact makes an immediate Move action for 0AP. This action cannot be used to move into base contact with an enemy character.
+{: .cmd-ability}
 
-**Sadism** — PULSE: This character loses 1 Life Point and gains +2 Attack until the end of the round.
+**Sadism (PULSE)** - This character loses 1 Life Point and gains +2 Attack until the end of the round.
+{: .cmd-ability}
 
-**Barbed** — If a Combat action with the Cat O'Nine Tails results in no Protection roll for the target, add 2 to the Damage.
+**Barbed** - If a Combat action with the Cat O'Nine Tails results in no Protection roll for the target, add 2 to the Damage.
 
 ## Capability
 
-EDPA **3.23** · EDPA/Duc **0.190** · ATK2K **12.4** · ATK2K/Duc **0.73**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.190</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.73</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

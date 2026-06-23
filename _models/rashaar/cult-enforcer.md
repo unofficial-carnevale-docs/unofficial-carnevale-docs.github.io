@@ -5,9 +5,9 @@ permalink: /factions/rashaar/cult-enforcer/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 14
+meta: "Hero · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 40 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,20 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Iron Mace | 1" | +1 | — | [Stun](/compendium/weapon-abilities/#stun) |
+| Iron Mace | 1" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Expert Offence(2)](/compendium/character-abilities/#expert-offence-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a></div>
 
-**Bolster Your Faith** — AURA: Until the end of the round, all friendly characters within 3" gain +1 PROTECTION.
+**Bolster Your Faith (AURA)** - Until the end of the round, all friendly characters within 3" gain +1 PROTECTION.
+{: .cmd-ability}
 
 ## Capability
 
-EDPA **2.97** · EDPA/Duc **0.212** · ATK2K **19.5** · ATK2K/Duc **1.39**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.97</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.212</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">19.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.39</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

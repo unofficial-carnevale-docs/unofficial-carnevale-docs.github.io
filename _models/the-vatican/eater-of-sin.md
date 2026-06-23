@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/eater-of-sin/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 16
+meta: "Hero · Unique · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,23 +21,23 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Compelled Confession | melee | — | — | [Stun](/compendium/weapon-abilities/#stun) |
+| Compelled Confession | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a></div>
 
-**Let Your Sins Be Absolved** — When making a Combat action with Compelled Confession, if it causes at least 1 Damage, the target loses 1 Will Point.
+**Let Your Sins Be Absolved** - When making a Combat action with Compelled Confession, if it causes at least 1 Damage, the target loses 1 Will Point.
 
-**Communion for the Sinless** — When this character kills an enemy character that has 0 Will Points remaining (after absolving its sins), it replenishes 2 Will Points.
+**Communion for the Sinless** - When this character kills an enemy character that has 0 Will Points remaining (after absolving its sins), it replenishes 2 Will Points.
 
-**He Searches Your Soul Alone** — Enemy characters that can draw line of sight to this character cannot use the MIND value of other characters.
+**He Searches Your Soul Alone** - Enemy characters that can draw line of sight to this character cannot use the MIND value of other characters.
 
 ## Capability
 
-EDPA **1.63** · EDPA/Duc **0.102** · ATK2K **11.5** · ATK2K/Duc **0.72**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.63</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.102</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Disruptor median: EDPA **1.69** · EDPA/Duc **0.113** · ATK2K **12.2** · ATK2K/Duc **0.82***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Disruptor median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.69</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.113</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.2</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.82</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

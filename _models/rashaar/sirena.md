@@ -5,9 +5,9 @@ permalink: /factions/rashaar/sirena/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 18
+meta: "Hero · Monster · Hydra · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-rites\">Blood Rites</a>, <a href=\"/magic/runes-of-sovereignty/\" class=\"disc-runes-sovereignty\">Runes of Sovereignty</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Monster · Hydra · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>)</strong><span>Size 30 · 18 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Engage](/compendium/character-abilities/#engage), [Fast Swimmer(4)](/compendium/character-abilities/#fast-swimmer-x), [Mage(2)](/compendium/character-abilities/#mage-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#engage">Engage</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(4)</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(2)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Hypnotic Song** — AURA: Until the end of the round, any enemy characters within 6" of this character have -2 MIND.
+**Hypnotic Song (AURA)** - Until the end of the round, any enemy characters within 6" of this character have -2 MIND.
+{: .cmd-ability}
 
-**Dragging Down** — This character may re-roll failed dice rolls when making Drown actions.
+**Dragging Down** - This character may re-roll failed dice rolls when making Drown actions.
 
 ## Capability
 
-EDPA **2.93** · EDPA/Duc **0.163** · ATK2K **7.6** · ATK2K/Duc **0.42**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.93</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.163</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.42</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Canal Fighter median: EDPA **2.68** · EDPA/Duc **0.151** · ATK2K **12.6** · ATK2K/Duc **0.80***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Canal Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.151</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.80</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

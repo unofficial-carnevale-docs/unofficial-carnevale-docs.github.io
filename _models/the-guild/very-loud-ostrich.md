@@ -5,9 +5,9 @@ permalink: /factions/the-guild/very-loud-ostrich/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 16
+meta: "Hero · End of Days · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · End of Days</strong><span>Size 40 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Bulky](/compendium/character-abilities/#bulky), [Companion(End of Days)](/compendium/character-abilities/#companion-x), [First Strike(2)](/compendium/character-abilities/#first-strike-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless), [Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(End of Days)</a><a class="chip" href="/compendium/character-abilities/#first-strike-x">First Strike(2)</a><a class="chip" href="/compendium/character-abilities/#limited-movement">Limited Movement</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
-**Toot Toot Toot... Charge!** — PULSE: Up to 2 friendly characters within 3" may make an immediate Run/Climb action, but this movement must be used to charge an enemy (doesn't have to be the same enemy!).
+**Toot Toot Toot... Charge! (PULSE)** - Up to 2 friendly characters within 3" may make an immediate Run/Climb action, but this movement must be used to charge an enemy (doesn't have to be the same enemy!).
+{: .cmd-ability}
 
-**Doot** — Whenever this character makes a Combat action with its Trumpet weapon, all friendly characters within 3" cheer and replenish 1 Will Point.
+**Doot** - Whenever this character makes a Combat action with its Trumpet weapon, all friendly characters within 3" cheer and replenish 1 Will Point.
 
 ## Capability
 
-EDPA **1.13** · EDPA/Duc **0.071** · ATK2K **9.3** · ATK2K/Duc **0.58**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.071</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.58</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

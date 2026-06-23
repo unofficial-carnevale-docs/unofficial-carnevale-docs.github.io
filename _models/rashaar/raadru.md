@@ -5,9 +5,9 @@ permalink: /factions/rashaar/raadru/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 20
+meta: "Hero · Monster · Size 50"
 ---
-
-<p class="model-meta"><strong>Hero · Monster</strong><span>Size 50 · 20 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,13 +25,13 @@ nav_section: Factions
 
 ### Abilities
 
-[Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Fear(0)](/compendium/character-abilities/#fear-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(2)</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(0)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
 ## Capability
 
-EDPA **4.37** · EDPA/Duc **0.218** · ATK2K **22.9** · ATK2K/Duc **1.15**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.37</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.218</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">22.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.15</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper EDPA outlier: among this faction's Damage Dealers the median is 2.54, but this model reaches 4.37, so the role median understates models like this.*
 

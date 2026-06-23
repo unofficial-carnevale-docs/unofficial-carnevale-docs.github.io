@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/avignon-guard/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 14
+meta: "Hero · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 40 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Greatsword | 1" | +2 | — | [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Greatsword | 1" | +2 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Brawler(1)](/compendium/character-abilities/#brawler-x), [Universal Shielding(4)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brawler-x">Brawler(1)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(4)</a></div>
 
-**Full Plate** — If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
+**Full Plate** - If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
 
 ## Capability
 
-EDPA **3.66** · EDPA/Duc **0.261** · ATK2K **24.0** · ATK2K/Duc **1.71**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.66</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.261</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">24.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.71</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/strigoi/harpy/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 6
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 6 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,13 +25,13 @@ nav_section: Factions
 
 ### Abilities
 
-[Flight](/compendium/character-abilities/#flight), [Frenzied](/compendium/character-abilities/#frenzied), [Mindless](/compendium/character-abilities/#mindless), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#flight">Flight</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a></div>
 
 ## Capability
 
-EDPA **0.62** · EDPA/Duc **0.103** · ATK2K **4.4** · ATK2K/Duc **0.73**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.62</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.103</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">4.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.73</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Harasser median: EDPA **1.63** · EDPA/Duc **0.121** · ATK2K **8.8** · ATK2K/Duc **0.76***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Harasser median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.63</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.121</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.76</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

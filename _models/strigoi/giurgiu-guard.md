@@ -5,9 +5,9 @@ permalink: /factions/strigoi/giurgiu-guard/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 13
+meta: "Henchman · Vampire · Soldier · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Vampire · Soldier</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Spear | 2" | +1 | — | [Two-handed](/compendium/weapon-abilities/#two-handed), [Knockback](/compendium/weapon-abilities/#knockback) |
+| Spear | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
 
 ### Abilities
 
-[Expert Protection(2)](/compendium/character-abilities/#expert-protection-x), [Frenzied](/compendium/character-abilities/#frenzied), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-protection-x">Expert Protection(2)</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a></div>
 
 ## Capability
 
-EDPA **1.99** · EDPA/Duc **0.153** · ATK2K **23.3** · ATK2K/Duc **1.79**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.99</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.153</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">23.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.79</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Line Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper ATK2K outlier: among this faction's Line Fighters the median is 9.3, but this model reaches 23.3, so the role median understates models like this.*
 

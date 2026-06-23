@@ -5,9 +5,9 @@ permalink: /factions/the-guild/seamstress/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 14
+meta: "Hero · House of Virtue · Discipline(<a href=\"/magic/divinity/\" class=\"disc-divinity\">Divinity</a>, <a href=\"/magic/fateweaving/\" class=\"disc-fateweaving\">Fateweaving</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · House of Virtue · Discipline(<a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>)</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Mage(1)](/compendium/character-abilities/#mage-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-sorcerer-x">Expert Sorcerer(1)</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(1)</a></div>
 
-**Entwined Magics** — When picking spells for this character, the additional spells granted by Expert Sorcerer may be from any discipline it has access to (though it does not gain an additional cantrip if it is different).
+**Entwined Magics** - When picking spells for this character, the additional spells granted by Expert Sorcerer may be from any discipline it has access to (though it does not gain an additional cantrip if it is different).
 
 ## Capability
 
-EDPA **0.44** · EDPA/Duc **0.031** · ATK2K **10.6** · ATK2K/Duc **0.76**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.031</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.76</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

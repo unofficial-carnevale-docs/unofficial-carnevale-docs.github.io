@@ -5,9 +5,9 @@ permalink: /factions/gifted/il-dottore/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 12
+meta: "Henchman · Unique · Commedia dell'Arte · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Unique · Commedia dell'Arte</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Wine Bottle | melee | — | — | [Stun](/compendium/weapon-abilities/#stun) |
+| Wine Bottle | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Engage](/compendium/character-abilities/#engage)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#engage">Engage</a></div>
 
-**Bored to Inaction** — Any character (friendly or enemy) within 3" of Il Dottore must listen to him drone on. These characters do not benefit from any Commands used on them, including any Command Abilities they may be in range of. Il Dottore finds himself extremely interesting, and so can be the target of Commands as normal.
+**Bored to Inaction** - Any character (friendly or enemy) within 3" of Il Dottore must listen to him drone on. These characters do not benefit from any Commands used on them, including any Command Abilities they may be in range of. Il Dottore finds himself extremely interesting, and so can be the target of Commands as normal.
 
 ## Capability
 
-EDPA **1.13** · EDPA/Duc **0.094** · ATK2K **8.0** · ATK2K/Duc **0.67**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.094</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.67</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Control median: EDPA **2.09** · EDPA/Duc **0.111** · ATK2K **12.7** · ATK2K/Duc **0.67***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Control median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.09</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.67</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

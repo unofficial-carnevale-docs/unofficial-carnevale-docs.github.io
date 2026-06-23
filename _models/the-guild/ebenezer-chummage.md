@@ -5,9 +5,9 @@ permalink: /factions/the-guild/ebenezer-chummage/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 18
+meta: "Hero · Unique · Trade · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · Unique · Trade</strong><span>Size 40 · 18 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,23 +22,24 @@ nav_section: Factions
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Fishmonger's Knives | melee | +1 | −1 | — |
-| Thrown Harpoon | 4" | +1 | — | [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Thrown Harpoon | 4" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 
-[Brawler(2)](/compendium/character-abilities/#brawler-x), [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x), [Fast Swimmer(1)](/compendium/character-abilities/#fast-swimmer-x), [Hunter](/compendium/character-abilities/#hunter)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brawler-x">Brawler(2)</a><a class="chip" href="/compendium/character-abilities/#expert-grappler-x">Expert Grappler(2)</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(1)</a><a class="chip" href="/compendium/character-abilities/#hunter">Hunter</a></div>
 
-**Hearty Fish Soup** — PULSE: All friendly characters with the Trade Keyword within 6" gain Brave and Expert Protection (1) until the end of this characters next turn.
+**Hearty Fish Soup (PULSE)** - All friendly characters with the Trade Keyword within 6" gain Brave and Expert Protection (1) until the end of this characters next turn.
+{: .cmd-ability}
 
-**A Choice Cut** — When this character kills a character with the Monster keyword, it replenishes 1CP.
+**A Choice Cut** - When this character kills a character with the Monster keyword, it replenishes 1CP.
 
-**Gifts of Dried Meats** — This character starts the game with 3 Dried Meats counters. At the end of its activation, you may use a Dried Meats counter to have another friendly character in base contact with this character replenish 2 Life Points.
+**Gifts of Dried Meats** - This character starts the game with 3 Dried Meats counters. At the end of its activation, you may use a Dried Meats counter to have another friendly character in base contact with this character replenish 2 Life Points.
 
 ## Capability
 
-EDPA **3.10** · EDPA/Duc **0.172** · ATK2K **16.0** · ATK2K/Duc **0.89**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.10</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.172</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">16.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.89</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/marine-biologist/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 14
+meta: "Hero · Doctor · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Doctor</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Tranquilliser Harpoon Gun | 6" | +1 | — | [Reload(1)](/compendium/weapon-abilities/#reload-x), [Aquatic](/compendium/weapon-abilities/#aquatic), [Two-handed](/compendium/weapon-abilities/#two-handed), [Stun](/compendium/weapon-abilities/#stun) |
+| Tranquilliser Harpoon Gun | 6" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Hunter](/compendium/character-abilities/#hunter), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#hunter">Hunter</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
 ## Capability
 
-EDPA **0.85** · EDPA/Duc **0.061** · ATK2K **9.7** · ATK2K/Duc **0.69**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.85</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.061</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Canal Fighter median: EDPA **2.68** · EDPA/Duc **0.151** · ATK2K **12.6** · ATK2K/Duc **0.80***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Canal Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.151</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.80</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Lower EDPA outlier: among this faction's Canal Fighters the median is 2.68, but this model is only 0.85, so the role median overstates models like this.*
 

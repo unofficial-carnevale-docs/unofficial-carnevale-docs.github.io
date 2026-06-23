@@ -5,9 +5,9 @@ permalink: /factions/patricians/foreign-dignitary/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 14
+meta: "Hero · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Companion(Councillor)](/compendium/character-abilities/#companion-x), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Councillor)</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a></div>
 
-**Business or Pleasure?** — Any friendly character with the Councillor keyword with 0 Command Points remaining replenishes 1 Command Point if they start their turn within 6" and line of sight of this character.
+**Business or Pleasure?** - Any friendly character with the Councillor keyword with 0 Command Points remaining replenishes 1 Command Point if they start their turn within 6" and line of sight of this character.
 
 ## Capability
 
-EDPA **2.56** · EDPA/Duc **0.183** · ATK2K **13.7** · ATK2K/Duc **0.98**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.183</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">13.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.98</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

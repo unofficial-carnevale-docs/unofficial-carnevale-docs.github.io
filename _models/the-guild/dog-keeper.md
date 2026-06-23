@@ -5,9 +5,9 @@ permalink: /factions/the-guild/dog-keeper/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 12
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Companion(Dog)](/compendium/character-abilities/#companion-x), [Engage](/compendium/character-abilities/#engage)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Dog)</a><a class="chip" href="/compendium/character-abilities/#engage">Engage</a></div>
 
-**"Encouragement"** — This character may only use the ORDER or COUNTER Commands on characters with the Henchman keyword.
+**"Encouragement"** - This character may only use the ORDER or COUNTER Commands on characters with the Henchman keyword.
 
 ## Capability
 
-EDPA **1.36** · EDPA/Duc **0.113** · ATK2K **9.7** · ATK2K/Duc **0.81**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.36</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.113</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.81</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

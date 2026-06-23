@@ -5,9 +5,9 @@ permalink: /factions/the-guild/poacher/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 10
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 10 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Short Bow | 12" | — | — | [Reload(3)](/compendium/weapon-abilities/#reload-x), [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Short Bow | 12" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(3)</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Concealment(1)](/compendium/character-abilities/#concealment-x), [Infiltration](/compendium/character-abilities/#infiltration)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#concealment-x">Concealment(1)</a><a class="chip" href="/compendium/character-abilities/#infiltration">Infiltration</a></div>
 
-**Rope Arrow** — - 2AP: Pick a point on a piece of vertical terrain within 12" at least 1" below this character. Move the character to that point as if moving down a zipline.
+**Rope Arrow** - - 2AP: Pick a point on a piece of vertical terrain within 12" at least 1" below this character. Move the character to that point as if moving down a zipline.
 
 ## Capability
 
-EDPA **1.13** · EDPA/Duc **0.113** · ATK2K **8.8** · ATK2K/Duc **0.88**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.113</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.88</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Harasser median: EDPA **1.63** · EDPA/Duc **0.121** · ATK2K **8.8** · ATK2K/Duc **0.76***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Harasser median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.63</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.121</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.76</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

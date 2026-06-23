@@ -5,9 +5,9 @@ permalink: /factions/strigoi/common-strigoi/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 13
+meta: "Henchman · Vampire · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Vampire</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,13 +25,13 @@ nav_section: Factions
 
 ### Abilities
 
-[Expert Offence(1)](/compendium/character-abilities/#expert-offence-x), [Frenzied](/compendium/character-abilities/#frenzied), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(1)</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a></div>
 
 ## Capability
 
-EDPA **2.17** · EDPA/Duc **0.167** · ATK2K **11.9** · ATK2K/Duc **0.92**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.17</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.167</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.92</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Line Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

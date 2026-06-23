@@ -2,13 +2,12 @@
 layout: model
 title: Vlad Dracula
 permalink: /factions/strigoi/vlad-dracula/
-description: "Strong versatile fighter with very high mobility, but he only has a conditionnal Vampiric Attack. He can play as an assassin or sit with Vampires to become near-unkillable as every Vampire gains Bodyguard (Leader). He allows his Brides to be fielded as Henchmen."
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 27
+meta: "Leader · Unique · Vampire · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Unique · Vampire</strong><span>Size 30 · 27 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,23 +21,24 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Wallachian Halberd | 2" | +1 | −2 | [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Wallachian Halberd | 2" | +1 | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Expert Protection(2)](/compendium/character-abilities/#expert-protection-x), [Frenzied](/compendium/character-abilities/#frenzied)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#expert-protection-x">Expert Protection(2)</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a></div>
 
-**Transformation** — PULSE: Remove this character and place it anywhere on solid ground within 8", at least 3" away from any enemy characters. This ability cannot be used while in base contact with an enemy character.
+**Transformation (PULSE)** - Remove this character and place it anywhere on solid ground within 8", at least 3" away from any enemy characters. This ability cannot be used while in base contact with an enemy character.
+{: .cmd-ability}
 
-**Connoisseur** — Vlad will not drink the blood of just anyone. When attacking a character with the Hero keyword, he gains Vampiric Attack (1). When attacking a character with the Leader keyword, he gains Vampiric Attack (3).
+**Connoisseur** - Vlad will not drink the blood of just anyone. When attacking a character with the Hero keyword, he gains Vampiric Attack (1). When attacking a character with the Leader keyword, he gains Vampiric Attack (3).
 
-**Master Bloodline** — All friendly characters with the Vampire keyword in line of sight to this character gain Bodyguard (Vlad Dracula) and Companion (Vlad Dracula).
+**Master Bloodline** - All friendly characters with the Vampire keyword in line of sight to this character gain Bodyguard (Vlad Dracula) and Companion (Vlad Dracula).
 
 ## Capability
 
-EDPA **5.08** · EDPA/Duc **0.188** · ATK2K **50.3** · ATK2K/Duc **1.86**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">5.08</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.188</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">50.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.86</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

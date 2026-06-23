@@ -5,9 +5,9 @@ permalink: /factions/strigoi/strzyga/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 18
+meta: "Hero · Vampire · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · Vampire</strong><span>Size 40 · 18 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,13 +25,13 @@ nav_section: Factions
 
 ### Abilities
 
-[Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Flight](/compendium/character-abilities/#flight), [Frenzied](/compendium/character-abilities/#frenzied), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#flight">Flight</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a></div>
 
 ## Capability
 
-EDPA **3.52** · EDPA/Duc **0.196** · ATK2K **10.0** · ATK2K/Duc **0.56**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.52</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.56</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Assassin median: EDPA **3.23** · EDPA/Duc **0.193** · ATK2K **10.3** · ATK2K/Duc **0.59***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Assassin median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.193</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

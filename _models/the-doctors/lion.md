@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/lion/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 12
+meta: "Henchman · Animal · Size 50"
 ---
-
-<p class="model-meta"><strong>Henchman · Animal</strong><span>Size 50 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,13 +25,13 @@ nav_section: Factions
 
 ### Abilities
 
-[Engage](/compendium/character-abilities/#engage), [Expert Offence(3)](/compendium/character-abilities/#expert-offence-x), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#engage">Engage</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(3)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a></div>
 
 ## Capability
 
-EDPA **2.77** · EDPA/Duc **0.231** · ATK2K **9.8** · ATK2K/Duc **0.82**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.77</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.231</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.82</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

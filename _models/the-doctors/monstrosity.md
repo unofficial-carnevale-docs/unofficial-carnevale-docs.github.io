@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/monstrosity/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 9
+meta: "Henchman · Size 40"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 40 · 9 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,13 +25,13 @@ nav_section: Factions
 
 ### Abilities
 
-[Brawler(1)](/compendium/character-abilities/#brawler-x), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brawler-x">Brawler(1)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
 ## Capability
 
-EDPA **2.93** · EDPA/Duc **0.326** · ATK2K **5.0** · ATK2K/Duc **0.56**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.93</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.326</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">5.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.56</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

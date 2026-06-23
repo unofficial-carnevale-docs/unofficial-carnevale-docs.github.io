@@ -5,9 +5,9 @@ permalink: /factions/the-guild/thief/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 14
+meta: "Hero · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,19 +22,20 @@ nav_section: Factions
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Stiletto | melee | +1 | +1 | — |
-| Smoke Bomb | 6" | — | — | [Blast](/compendium/weapon-abilities/#blast), [Harmless](/compendium/weapon-abilities/#harmless), [Smoke](/compendium/weapon-abilities/#smoke), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Smoke Bomb | 6" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#blast">Blast</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#harmless">Harmless</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#smoke">Smoke</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 
-[Aerial Attack](/compendium/character-abilities/#aerial-attack), [Infiltration](/compendium/character-abilities/#infiltration), [Pickpocket](/compendium/character-abilities/#pickpocket)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#aerial-attack">Aerial Attack</a><a class="chip" href="/compendium/character-abilities/#infiltration">Infiltration</a><a class="chip" href="/compendium/character-abilities/#pickpocket">Pickpocket</a></div>
 
-**Get to the Roof** — PULSE: One friendly character with the Henchman keyword within 6" gains Acrobatic (3) until the end of the game.
+**Get to the Roof (PULSE)** - One friendly character with the Henchman keyword within 6" gains Acrobatic (3) until the end of the game.
+{: .cmd-ability}
 
 ## Capability
 
-EDPA **1.63** · EDPA/Duc **0.116** · ATK2K **8.9** · ATK2K/Duc **0.64**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.63</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.116</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.64</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Harasser median: EDPA **1.63** · EDPA/Duc **0.121** · ATK2K **8.8** · ATK2K/Duc **0.76***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Harasser median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.63</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.121</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.76</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

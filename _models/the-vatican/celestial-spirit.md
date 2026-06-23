@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/celestial-spirit/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 10
+meta: "Henchman · Construct · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Construct</strong><span>Size 30 · 10 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Companion(Invoker)](/compendium/character-abilities/#companion-x), [Ethereal](/compendium/character-abilities/#ethereal), [Fear(0)](/compendium/character-abilities/#fear-x), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Invoker)</a><a class="chip" href="/compendium/character-abilities/#ethereal">Ethereal</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(0)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Enspirit** — *(costs 4LP)*: This character may use the ORDER command on friendly characters with the Construct Keyword, consuming 4 Life Points instead of 1 Command Point. This can be used even if it would kill this character. If this character uses its last Life Points on this ability, the target replenishes 1 Will Point.
+**Enspirit** - *(costs 4LP)*: This character may use the ORDER command on friendly characters with the Construct Keyword, consuming 4 Life Points instead of 1 Command Point. This can be used even if it would kill this character. If this character uses its last Life Points on this ability, the target replenishes 1 Will Point.
 
 ## Capability
 
-EDPA **1.50** · EDPA/Duc **0.150** · ATK2K **8.7** · ATK2K/Duc **0.87**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.50</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.150</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.87</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

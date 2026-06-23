@@ -5,9 +5,9 @@ permalink: /factions/rashaar/dagonite-priest/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 15
+meta: "Hero · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-rites\">Blood Rites</a>, <a href=\"/magic/wild-magic/\" class=\"disc-wild-magic\">Wild Magic</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Engage](/compendium/character-abilities/#engage), [Mage(2)](/compendium/character-abilities/#mage-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#engage">Engage</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(2)</a></div>
 
-**Sacrifice** — For every Life Point this character causes a character to lose with a Combat action using the Sacrificial Dagger, it replenishes 1 Will Point. This character may make Combat actions against friendly characters.
+**Sacrifice** - For every Life Point this character causes a character to lose with a Combat action using the Sacrificial Dagger, it replenishes 1 Will Point. This character may make Combat actions against friendly characters.
 
 ## Capability
 
-EDPA **2.73** · EDPA/Duc **0.182** · ATK2K **10.6** · ATK2K/Duc **0.71**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.73</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.182</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.71</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -85,22 +85,6 @@ EDPA **2.73** · EDPA/Duc **0.182** · ATK2K **10.6** · ATK2K/Duc **0.71**
 | Armoured (Dex4/Prot5) | 2.43 | 3.87 |
 | Tank (Dex4/Prot5/US5) | 2.43 | 3.87 |
 | Parry (Dex5/Prot3/Parry2) | 3.24 | 4.71 |
-
-</div>
-<div>
-
-### Burst EDPA by target
-
-*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
-
-| Target | Burst EDPA | Median |
-|---|---|---|
-| Soft (Dex3/Prot1) | 3.83 | 4.02 |
-| Balanced (Dex4/Prot3) | 3.58 | 3.14 |
-| Evasive (Dex6/Prot2) | 3.83 | 2.69 |
-| Armoured (Dex4/Prot5) | 2.71 | 2.32 |
-| Tank (Dex4/Prot5/US5) | 1.89 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 3.58 | 2.23 |
 
 </div>
 </div>

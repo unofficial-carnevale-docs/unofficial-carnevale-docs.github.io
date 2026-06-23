@@ -5,9 +5,9 @@ permalink: /factions/patricians/sun/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 15
+meta: "Hero · Unique · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Blinding Flash | 6" | — | −2 | [Knockback](/compendium/weapon-abilities/#knockback), [Reload(2)](/compendium/weapon-abilities/#reload-x) |
+| Blinding Flash | 6" | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
 
 ### Abilities
 
-[Acrobatic(3)](/compendium/character-abilities/#acrobatic-x), [Companion(Moon)](/compendium/character-abilities/#companion-x), [Expert Marksman(2)](/compendium/character-abilities/#expert-marksman-x), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#acrobatic-x">Acrobatic(3)</a><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Moon)</a><a class="chip" href="/compendium/character-abilities/#expert-marksman-x">Expert Marksman(2)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
 ## Capability
 
-EDPA **3.63** · EDPA/Duc **0.242** · ATK2K **9.8** · ATK2K/Duc **0.65**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.63</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.242</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.65</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Assassin median: EDPA **3.23** · EDPA/Duc **0.193** · ATK2K **10.3** · ATK2K/Duc **0.59***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Assassin median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.193</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

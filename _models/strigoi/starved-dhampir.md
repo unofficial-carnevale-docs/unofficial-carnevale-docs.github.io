@@ -5,9 +5,9 @@ permalink: /factions/strigoi/starved-dhampir/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 7
+meta: "Henchman · Vampire · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Vampire</strong><span>Size 30 · 7 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Frenzied](/compendium/character-abilities/#frenzied), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(2)</a></div>
 
-**Rejuvenated** — This character starts the game with only 5 Life Points remaining. However, if they start any turn with 6 or more Life Points, they increase their MOVEMENT, DEXTERITY, ATTACK, and MIND by 1 until the start of their next turn.
+**Rejuvenated** - This character starts the game with only 5 Life Points remaining. However, if they start any turn with 6 or more Life Points, they increase their MOVEMENT, DEXTERITY, ATTACK, and MIND by 1 until the start of their next turn.
 
 ## Capability
 
-EDPA **1.13** · EDPA/Duc **0.161** · ATK2K **5.7** · ATK2K/Duc **0.81**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.161</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">5.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.81</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Line Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/gifted/artisan-elena/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 17
+meta: "Hero · Unique · Vampire · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique · Vampire</strong><span>Size 30 · 17 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Frenzied](/compendium/character-abilities/#frenzied), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a></div>
 
-**Fanged Visage** — At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks. For the entirety of the game that character gains one of the following: Frenzied and Vampiric Attack(2) but reduce Will Points to 0; First Strike(1) and Vampiric Attack(1). A character can only be given a single Mask. Unique characters without Faction(Gifted) and Mindless characters cannot be given a Mask.
+**Fanged Visage** - At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks. For the entirety of the game that character gains one of the following: Frenzied and Vampiric Attack(2) but reduce Will Points to 0; First Strike(1) and Vampiric Attack(1). A character can only be given a single Mask. Unique characters without Faction(Gifted) and Mindless characters cannot be given a Mask.
 
 ## Capability
 
-EDPA **1.50** · EDPA/Duc **0.088** · ATK2K **10.6** · ATK2K/Duc **0.62**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.50</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.088</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.62</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

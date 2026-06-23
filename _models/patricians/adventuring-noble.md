@@ -5,9 +5,9 @@ permalink: /factions/patricians/adventuring-noble/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 16
+meta: "Hero · Councillor · Discipline(<a href=\"/magic/wild-magic/\" class=\"disc-wild-magic\">Wild Magic</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Councillor · Discipline(<a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Hunter](/compendium/character-abilities/#hunter), [Mage(2)](/compendium/character-abilities/#mage-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#hunter">Hunter</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(2)</a></div>
 
-**Arcane Totem** — This character knows every spell (including the Cantrip) from the Wild Magic Discipline. Each spell costs 0 Will Points to cast, but may only be attempted once per game. In addition, if this character ever fails to cast a spell, another spell is also removed at random.
+**Arcane Totem** - This character knows every spell (including the Cantrip) from the Wild Magic Discipline. Each spell costs 0 Will Points to cast, but may only be attempted once per game. In addition, if this character ever fails to cast a spell, another spell is also removed at random.
 
 ## Capability
 
-EDPA **2.68** · EDPA/Duc **0.168** · ATK2K **10.6** · ATK2K/Duc **0.66**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.168</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.66</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

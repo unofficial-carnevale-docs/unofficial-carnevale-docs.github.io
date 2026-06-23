@@ -5,9 +5,9 @@ permalink: /factions/the-guild/gondolier/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 11
+meta: "Henchman · Trade · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Trade</strong><span>Size 30 · 11 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Bladed Oar | 2" | +1 | −1 | [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Bladed Oar | 2" | +1 | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave), [Fast Swimmer(1)](/compendium/character-abilities/#fast-swimmer-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(1)</a></div>
 
-**Sculler** — For each character with this ability, you may purchase 1 extra Gondola from the Equipment list. This character may be deployed in water or on a Gondola and may also re-roll failed dice rolls when making Row actions.
+**Sculler** - For each character with this ability, you may purchase 1 extra Gondola from the Equipment list. This character may be deployed in water or on a Gondola and may also re-roll failed dice rolls when making Row actions.
 
 ## Capability
 
-EDPA **2.42** · EDPA/Duc **0.220** · ATK2K **9.7** · ATK2K/Duc **0.88**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.42</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.220</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.88</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

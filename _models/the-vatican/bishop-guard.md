@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/bishop-guard/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 14
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,18 +21,18 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Halberd | None" | +1 | — | swing) (2", [Two-handed](/compendium/weapon-abilities/#two-handed) |
-| Halberd | None" | — | −2 | thrust) (2" |
+| Halberd | None" | +1 | — | <span class="chip chip-sm">swing) (2"</span> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
+| Halberd | None" | — | −2 | <span class="chip chip-sm">thrust) (2"</span> |
 
 ### Abilities
 
-[Bodyguard(Leader)](/compendium/character-abilities/#bodyguard-x), [Expert Protection(1)](/compendium/character-abilities/#expert-protection-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bodyguard-x">Bodyguard(Leader)</a><a class="chip" href="/compendium/character-abilities/#expert-protection-x">Expert Protection(1)</a></div>
 
 ## Capability
 
-EDPA **1.99** · EDPA/Duc **0.142** · ATK2K **18.0** · ATK2K/Duc **1.29**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.99</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.142</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">18.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.29</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Line Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper ATK2K outlier: among this faction's Line Fighters the median is 9.7, but this model reaches 18.0, so the role median understates models like this.*
 

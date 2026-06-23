@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/doctor-of-poisons/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 13
+meta: "Hero · Doctor · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Doctor</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,20 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Poisoned Blade | melee | +1 | — | [Poisoned](/compendium/weapon-abilities/#poisoned) |
+| Poisoned Blade | melee | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#poisoned">Poisoned</a> |
 
 ### Abilities
 
-[Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
-**Elixir** — PULSE: One friendly character within 3" gains either Acrobatic (3), Engage, or Slippery until the end of the game.
+**Elixir (PULSE)** - One friendly character within 3" gains either Acrobatic (3), Engage, or Slippery until the end of the game.
+{: .cmd-ability}
 
 ## Capability
 
-EDPA **4.08** · EDPA/Duc **0.314** · ATK2K **9.7** · ATK2K/Duc **0.75**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.08</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.314</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

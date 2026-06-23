@@ -5,9 +5,9 @@ permalink: /factions/rashaar/bounding-telchine/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 9
+meta: "Henchman · Feral · Size 40"
 ---
-
-<p class="model-meta"><strong>Henchman · Feral</strong><span>Size 40 · 9 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Primitive](/compendium/character-abilities/#primitive), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Leaper** — When this character makes a successful Jump action, add 2" to the movement distance.
+**Leaper** - When this character makes a successful Jump action, add 2" to the movement distance.
 
 ## Capability
 
-EDPA **0.87** · EDPA/Duc **0.097** · ATK2K **6.9** · ATK2K/Duc **0.77**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.097</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">6.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.77</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Objective Runner median: EDPA **1.13** · EDPA/Duc **0.094** · ATK2K **7.7** · ATK2K/Duc **0.79***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Objective Runner median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.094</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.79</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

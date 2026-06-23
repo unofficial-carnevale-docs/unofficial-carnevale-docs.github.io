@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/baptist/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 15
+meta: "Hero · Discipline(<a href=\"/magic/divinity/\" class=\"disc-divinity\">Divinity</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Discipline(<a href="/magic/divinity/" class="disc-divinity">Divinity</a>)</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Mage(2)](/compendium/character-abilities/#mage-x), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-sorcerer-x">Expert Sorcerer(1)</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(2)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a></div>
 
-**Blessed Water** — (1AP): Place the Blast marker in water in line of sight within 8". The area under the Blast marker is treated as solid ground for friendly characters. Enemy characters treat the area as water, and characters with the Water Creature rule can be drowned while at least partially on the marker. Remove the marker at the end of the round.
+**Blessed Water** - (1AP): Place the Blast marker in water in line of sight within 8". The area under the Blast marker is treated as solid ground for friendly characters. Enemy characters treat the area as water, and characters with the Water Creature rule can be drowned while at least partially on the marker. Remove the marker at the end of the round.
 
 ## Capability
 
-EDPA **0.44** · EDPA/Duc **0.029** · ATK2K **9.7** · ATK2K/Duc **0.65**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.029</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.65</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

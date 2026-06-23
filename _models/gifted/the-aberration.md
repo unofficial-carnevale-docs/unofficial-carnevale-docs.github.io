@@ -5,9 +5,9 @@ permalink: /factions/gifted/the-aberration/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 23
+meta: "Hero · Unique · Size 50"
 ---
-
-<p class="model-meta"><strong>Hero · Unique</strong><span>Size 50 · 23 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Monstrous Tentacles | 3" | +1 | — | [Stun](/compendium/weapon-abilities/#stun) |
+| Monstrous Tentacles | 3" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Berserk](/compendium/character-abilities/#berserk), [Bulky](/compendium/character-abilities/#bulky), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#berserk">Berserk</a><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Slavering Horror** — When this character makes Combat, Drown, or Grapple actions, it may re-roll any failed dice rolls (remember, you cannot re-roll the Destiny dice). Yes, even against Brave characters!
+**Slavering Horror** - When this character makes Combat, Drown, or Grapple actions, it may re-roll any failed dice rolls (remember, you cannot re-roll the Destiny dice). Yes, even against Brave characters!
 
 ## Capability
 
-EDPA **2.90** · EDPA/Duc **0.126** · ATK2K **19.4** · ATK2K/Duc **0.84**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.90</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.126</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">19.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.84</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

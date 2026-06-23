@@ -5,9 +5,9 @@ permalink: /factions/the-guild/barber/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 12
+meta: "Hero · Trade · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Trade</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,13 +25,13 @@ nav_section: Factions
 
 ### Abilities
 
-[Engage](/compendium/character-abilities/#engage), [Expert Offence(1)](/compendium/character-abilities/#expert-offence-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#engage">Engage</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(1)</a></div>
 
 ## Capability
 
-EDPA **3.38** · EDPA/Duc **0.282** · ATK2K **11.9** · ATK2K/Duc **0.99**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.38</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.282</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

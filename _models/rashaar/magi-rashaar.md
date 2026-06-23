@@ -2,13 +2,12 @@
 layout: model
 title: Magi-Rashaar
 permalink: /factions/rashaar/magi-rashaar/
-description: "Simply the best caster of the game, but very fragile."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 24
+meta: "Leader · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-rites\">Blood Rites</a>, <a href=\"/magic/runes-of-sovereignty/\" class=\"disc-runes-sovereignty\">Runes of Sovereignty</a>, <a href=\"/magic/wild-magic/\" class=\"disc-wild-magic\">Wild Magic</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 24 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,21 +21,22 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Ancient Trident | 2" | +1 | — | [Aquatic](/compendium/weapon-abilities/#aquatic), [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Ancient Trident | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Expert Sorcerer(2)](/compendium/character-abilities/#expert-sorcerer-x), [Fast Swimmer(1)](/compendium/character-abilities/#fast-swimmer-x), [Mage(3)](/compendium/character-abilities/#mage-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-sorcerer-x">Expert Sorcerer(2)</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(1)</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(3)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Fury of Dagon** — PULSE: Pick a friendly character in line of sight within 6". That character gains First Strike (2) until the end of their next turn.
+**Fury of Dagon (PULSE)** - Pick a friendly character in line of sight within 6". That character gains First Strike (2) until the end of their next turn.
+{: .cmd-ability}
 
-**Rent-born** — Each round, one friendly character (including this one) may subtract 1 from the Cost of a Magic Spell to attempt to cast (to a minimum of 0).
+**Rent-born** - Each round, one friendly character (including this one) may subtract 1 from the Cost of a Magic Spell to attempt to cast (to a minimum of 0).
 
 ## Capability
 
-EDPA **3.53** · EDPA/Duc **0.147** · ATK2K **10.6** · ATK2K/Duc **0.44**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.53</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.147</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.44</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -87,22 +87,6 @@ EDPA **3.53** · EDPA/Duc **0.147** · ATK2K **10.6** · ATK2K/Duc **0.44**
 | Armoured (Dex4/Prot5) | 4.36 | 2.90 |
 | Tank (Dex4/Prot5/US5) | 3.01 | 2.69 |
 | Parry (Dex5/Prot3/Parry2) | 5.08 | 3.80 |
-
-</div>
-<div>
-
-### Burst EDPA by target
-
-*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
-
-| Target | Burst EDPA | Median |
-|---|---|---|
-| Soft (Dex3/Prot1) | 5.08 | 4.02 |
-| Balanced (Dex4/Prot3) | 5.08 | 3.14 |
-| Evasive (Dex6/Prot2) | 5.08 | 2.69 |
-| Armoured (Dex4/Prot5) | 4.36 | 2.32 |
-| Tank (Dex4/Prot5/US5) | 3.01 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 5.08 | 2.23 |
 
 </div>
 </div>

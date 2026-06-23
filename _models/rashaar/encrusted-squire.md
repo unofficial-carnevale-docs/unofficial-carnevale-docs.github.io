@@ -5,9 +5,9 @@ permalink: /factions/rashaar/encrusted-squire/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 12
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Sodden Longsword | melee | +1 | −1 | [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Sodden Longsword | melee | +1 | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Bodyguard(Leader, Feral)](/compendium/character-abilities/#bodyguard-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bodyguard-x">Bodyguard(Leader, Feral)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
 ## Capability
 
-EDPA **2.42** · EDPA/Duc **0.202** · ATK2K **9.4** · ATK2K/Duc **0.78**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.42</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.202</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.78</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Line Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

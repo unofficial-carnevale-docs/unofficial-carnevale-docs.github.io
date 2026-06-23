@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/summoner-priest/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 15
+meta: "Hero · Invoker · Discipline(<a href=\"/magic/fateweaving/\" class=\"disc-fateweaving\">Fateweaving</a>, <a href=\"/magic/runes-of-sovereignty/\" class=\"disc-runes-sovereignty\">Runes of Sovereignty</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Invoker · Discipline(<a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>)</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,16 @@ nav_section: Factions
 
 ### Abilities
 
-[Mage(2)](/compendium/character-abilities/#mage-x), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(2)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a></div>
 
-**Come Let Us Make Bricks and Burn Them Thoroughly** — PULSE: remove 1 friendly character with the Construct keyword from the board. Place it within 3" of this character (with no changes to its Life Points).
+**Come Let Us Make Bricks and Burn Them Thoroughly (PULSE)** - remove 1 friendly character with the Construct keyword from the board. Place it within 3" of this character (with no changes to its Life Points).
+{: .cmd-ability}
 
 ## Capability
 
-EDPA **0.44** · EDPA/Duc **0.029** · ATK2K **9.7** · ATK2K/Duc **0.65**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.029</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.65</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

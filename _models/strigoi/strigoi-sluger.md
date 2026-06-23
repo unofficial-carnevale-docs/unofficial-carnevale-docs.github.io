@@ -5,9 +5,9 @@ permalink: /factions/strigoi/strigoi-sluger/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 18
+meta: "Hero · Vampire · Soldier · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · Vampire · Soldier</strong><span>Size 40 · 18 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Brawler(2)](/compendium/character-abilities/#brawler-x), [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x), [Frenzied](/compendium/character-abilities/#frenzied), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brawler-x">Brawler(2)</a><a class="chip" href="/compendium/character-abilities/#expert-grappler-x">Expert Grappler(2)</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a></div>
 
-**Crimson Feast** — When this character kills an enemy with a Combat action, make a Basic MIND roll. All other friendly characters within 3" with the Vampire keyword replenish 1 Life Point for each Ace rolled.
+**Crimson Feast** - When this character kills an enemy with a Combat action, make a Basic MIND roll. All other friendly characters within 3" with the Vampire keyword replenish 1 Life Point for each Ace rolled.
 
 ## Capability
 
-EDPA **2.13** · EDPA/Duc **0.118** · ATK2K **10.3** · ATK2K/Duc **0.57**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.118</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.57</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

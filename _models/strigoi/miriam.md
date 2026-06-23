@@ -5,9 +5,9 @@ permalink: /factions/strigoi/miriam/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 19
+meta: "Hero · Unique · Vampire · Bride · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique · Vampire · Bride</strong><span>Size 30 · 19 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,19 +25,20 @@ nav_section: Factions
 
 ### Abilities
 
-[Frenzied](/compendium/character-abilities/#frenzied), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a></div>
 
-**Eastern Swiftness** — PULSE: Every friendly character with the Bride keyword gains 1 AP until the end of the round.
+**Eastern Swiftness (PULSE)** - Every friendly character with the Bride keyword gains 1 AP until the end of the round.
+{: .cmd-ability}
 
-**Procession of Brides** — While building your Gang, if it contains Vlad Dracula, this character counts as having the Henchman keyword instead of the Hero keyword for the purposes of Frequency.
+**Procession of Brides** - While building your Gang, if it contains Vlad Dracula, this character counts as having the Henchman keyword instead of the Hero keyword for the purposes of Frequency.
 
-**Sisters of Gelò** — This character replenishes 1 Command Point at the start of each character turn if it has line of sight to any other friendly character with the Bride keyword.
+**Sisters of Gelò** - This character replenishes 1 Command Point at the start of each character turn if it has line of sight to any other friendly character with the Bride keyword.
 
 ## Capability
 
-EDPA **1.75** · EDPA/Duc **0.092** · ATK2K **9.8** · ATK2K/Duc **0.52**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.75</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.092</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.52</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

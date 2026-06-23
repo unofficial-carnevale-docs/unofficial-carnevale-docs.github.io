@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/alchemist-doctor/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 13
+meta: "Hero · Doctor · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Doctor</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,20 +21,20 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Alchemical Bomb | 6" | +2 | — | [Black Powder](/compendium/weapon-abilities/#black-powder), [Blast](/compendium/weapon-abilities/#blast), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
-| Poison Bomb | 6" | — | — | [Poisoned](/compendium/weapon-abilities/#poisoned), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Alchemical Bomb | 6" | +2 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#blast">Blast</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
+| Poison Bomb | 6" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#poisoned">Poisoned</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a></div>
 
-**Unstable** — Any failed Combat actions with Alchemical Bombs and Poison Bombs always count as fumbles.
+**Unstable** - Any failed Combat actions with Alchemical Bombs and Poison Bombs always count as fumbles.
 
 ## Capability
 
-EDPA **2.46** · EDPA/Duc **0.189** · ATK2K **11.9** · ATK2K/Duc **0.92**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.189</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.92</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/patricians/gourmand-noble/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 13
+meta: "Hero · Councillor · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · Councillor</strong><span>Size 40 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Engage](/compendium/character-abilities/#engage), [Fear(0)](/compendium/character-abilities/#fear-x), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#engage">Engage</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(0)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**The Other, Other White Meat** — AURA: Until the end of the round, every other friendly character in line of sight gains the Flesheater ability while in line of sight of this character.
+**The Other, Other White Meat (AURA)** - Until the end of the round, every other friendly character in line of sight gains the Flesheater ability while in line of sight of this character.
+{: .cmd-ability}
 
-**Flesheater** — If this character makes a Combat action against a target in base contact that causes it to lose at least 1 Life Point, it replenishes 1 Will Point.
+**Flesheater** - If this character makes a Combat action against a target in base contact that causes it to lose at least 1 Life Point, it replenishes 1 Will Point.
 
 ## Capability
 
-EDPA **2.13** · EDPA/Duc **0.164** · ATK2K **11.5** · ATK2K/Duc **0.88**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.164</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.88</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

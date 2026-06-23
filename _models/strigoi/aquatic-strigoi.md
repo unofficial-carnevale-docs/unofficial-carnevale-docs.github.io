@@ -5,9 +5,9 @@ permalink: /factions/strigoi/aquatic-strigoi/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 14
+meta: "Hero · Vampire · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Vampire</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Webbed Talons | melee | — | −1 | [Aquatic](/compendium/weapon-abilities/#aquatic) |
+| Webbed Talons | melee | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 
-[Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Frenzied](/compendium/character-abilities/#frenzied), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(2)</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
 ## Capability
 
-EDPA **2.13** · EDPA/Duc **0.152** · ATK2K **7.6** · ATK2K/Duc **0.54**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.152</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.54</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Canal Fighter median: EDPA **2.68** · EDPA/Duc **0.151** · ATK2K **12.6** · ATK2K/Duc **0.80***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Canal Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.151</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.80</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

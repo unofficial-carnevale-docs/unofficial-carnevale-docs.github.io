@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/galilean-priest/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 17
+meta: "Hero · Invoker · Discipline(<a href=\"/magic/fateweaving/\" class=\"disc-fateweaving\">Fateweaving</a>, <a href=\"/magic/wild-magic/\" class=\"disc-wild-magic\">Wild Magic</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Invoker · Discipline(<a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 17 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Mage(2)](/compendium/character-abilities/#mage-x), [Universal Shielding(2)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(2)</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(2)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(2)</a></div>
 
-**Water Affinity** — This character always knows the magic spell Waves of Force in addition to its regular allowance, even if choosing to take spells from a different discipline. This character may use the Cast Spell action while in water.
+**Water Affinity** - This character always knows the magic spell Waves of Force in addition to its regular allowance, even if choosing to take spells from a different discipline. This character may use the Cast Spell action while in water.
 
 ## Capability
 
-EDPA **2.04** · EDPA/Duc **0.120** · ATK2K **9.7** · ATK2K/Duc **0.57**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.04</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.120</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.57</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

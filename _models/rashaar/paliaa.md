@@ -5,9 +5,9 @@ permalink: /factions/rashaar/paliaa/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 19
+meta: "Hero · Monster · Discipline(<a href=\"/magic/runes-of-sovereignty/\" class=\"disc-runes-sovereignty\">Runes of Sovereignty</a>) · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · Monster · Discipline(<a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>)</strong><span>Size 40 · 19 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,20 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Claws | melee | — | −1 | [Aquatic](/compendium/weapon-abilities/#aquatic) |
+| Claws | melee | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 
-[Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Mage(1)](/compendium/character-abilities/#mage-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(2)</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(1)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Gift of the Elder Gods** — PULSE: Until the end of the round, all friendly characters with the Henchman keyword gain +1 ATTACK while they are within 6" and line of sight of any number of other friendly characters with the Monster keyword.
+**Gift of the Elder Gods (PULSE)** - Until the end of the round, all friendly characters with the Henchman keyword gain +1 ATTACK while they are within 6" and line of sight of any number of other friendly characters with the Monster keyword.
+{: .cmd-ability}
 
 ## Capability
 
-EDPA **1.50** · EDPA/Duc **0.079** · ATK2K **14.9** · ATK2K/Duc **0.78**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.50</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.079</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">14.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.78</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

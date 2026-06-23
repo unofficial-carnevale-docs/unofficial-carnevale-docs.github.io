@@ -5,9 +5,9 @@ permalink: /factions/strigoi/reaper/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 13
+meta: "Hero · Vampire · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Vampire</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,13 +25,13 @@ nav_section: Factions
 
 ### Abilities
 
-[Aerial Attack](/compendium/character-abilities/#aerial-attack), [Frenzied](/compendium/character-abilities/#frenzied), [Mindless](/compendium/character-abilities/#mindless), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#aerial-attack">Aerial Attack</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(2)</a></div>
 
 ## Capability
 
-EDPA **1.75** · EDPA/Duc **0.135** · ATK2K **7.6** · ATK2K/Duc **0.58**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.75</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.135</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.58</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

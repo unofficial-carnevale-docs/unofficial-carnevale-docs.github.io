@@ -5,9 +5,9 @@ permalink: /factions/rashaar/secreting-myxin/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 23
+meta: "Hero · Monster · Feral · Size 50"
 ---
-
-<p class="model-meta"><strong>Hero · Monster · Feral</strong><span>Size 50 · 23 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,20 +21,20 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Sticky Burst | 6" | — | — | [Stun](/compendium/weapon-abilities/#stun), [Reload(2)](/compendium/weapon-abilities/#reload-x) |
+| Sticky Burst | 6" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
 | Grasping Jaws | melee | — | −2 | — |
 
 ### Abilities
 
-[Mindless](/compendium/character-abilities/#mindless), [Parry(3)](/compendium/character-abilities/#parry-x), [Slippery](/compendium/character-abilities/#slippery), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#parry-x">Parry(3)</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(2)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Mucus** — This character gains +4 DEXTERITY for any Combat actions (including Attacks of Opportunity) if the attacker is within 3". Additionally, any enemy character within 3" of this character suffers -1 to their MOVEMENT and DEXTERITY.
+**Mucus** - This character gains +4 DEXTERITY for any Combat actions (including Attacks of Opportunity) if the attacker is within 3". Additionally, any enemy character within 3" of this character suffers -1 to their MOVEMENT and DEXTERITY.
 
 ## Capability
 
-EDPA **2.60** · EDPA/Duc **0.113** · ATK2K **21.8** · ATK2K/Duc **0.95**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.60</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.113</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.95</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Tank median: EDPA **2.45** · EDPA/Duc **0.154** · ATK2K **23.7** · ATK2K/Duc **1.53***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Tank median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.45</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.154</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">23.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.53</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/patricians/ottoman-cannoneer/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 15
+meta: "Hero · Ottoman · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · Ottoman</strong><span>Size 40 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,18 +21,18 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Grapeshot | melee | — | −4 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Template](/compendium/weapon-abilities/#template), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
-| Cannon Barrel | melee | — | — | [Stun](/compendium/weapon-abilities/#stun) |
+| Grapeshot | melee | — | −4 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
+| Cannon Barrel | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Brawler(2)](/compendium/character-abilities/#brawler-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brawler-x">Brawler(2)</a></div>
 
 ## Capability
 
-EDPA **1.82** · EDPA/Duc **0.121** · ATK2K **8.5** · ATK2K/Duc **0.57**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.82</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.121</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.57</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

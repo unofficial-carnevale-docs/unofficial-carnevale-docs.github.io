@@ -5,9 +5,9 @@ permalink: /factions/rashaar/krakenhost/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 17
+meta: "Hero · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 40 · 17 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,17 @@ nav_section: Factions
 
 ### Abilities
 
-[Companion(Hydra)](/compendium/character-abilities/#companion-x), [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x), [First Strike(1)](/compendium/character-abilities/#first-strike-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Hydra)</a><a class="chip" href="/compendium/character-abilities/#expert-grappler-x">Expert Grappler(2)</a><a class="chip" href="/compendium/character-abilities/#first-strike-x">First Strike(1)</a><a class="chip" href="/compendium/character-abilities/#limited-movement">Limited Movement</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Spawn** — *(costs 3LP)*: Place a new Infant Kraken in base contact with this character. The new Infant Kraken acts just like any other friendly character, and can be activated this round as normal. This ability may only be used once each round and only if this character has 4 or more Life Points remaining.
+**Spawn** - *(costs 3LP)*: Place a new Infant Kraken in base contact with this character. The new Infant Kraken acts just like any other friendly character, and can be activated this round as normal. This ability may only be used once each round and only if this character has 4 or more Life Points remaining.
 
-**Living Vessel** — When this character is killed, before removing it from the game, make a basic MIND roll. Place an Infant Kraken in base contact with this character, plus an additional Infant Kraken in base contact with one of the new Infant Krakens for each Ace in the roll. The new Infant Krakens act just like any other friendly character and can be activated as normal this round.
+**Living Vessel** - When this character is killed, before removing it from the game, make a basic MIND roll. Place an Infant Kraken in base contact with this character, plus an additional Infant Kraken in base contact with one of the new Infant Krakens for each Ace in the roll. The new Infant Krakens act just like any other friendly character and can be activated as normal this round.
 
 ## Capability
 
-EDPA **0.87** · EDPA/Duc **0.051** · ATK2K **10.6** · ATK2K/Duc **0.62**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.051</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.62</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper ATK2K outlier: among this faction's Specialists the median is 2.6, but this model reaches 10.6, so the role median understates models like this.*
 

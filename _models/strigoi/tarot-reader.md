@@ -5,9 +5,9 @@ permalink: /factions/strigoi/tarot-reader/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 16
+meta: "Hero · Discipline(<a href=\"/magic/runes-of-sovereignty/\" class=\"disc-runes-sovereignty\">Runes of Sovereignty</a>, <a href=\"/magic/fateweaving/\" class=\"disc-fateweaving\">Fateweaving</a>, <a href=\"/magic/wild-magic/\" class=\"disc-wild-magic\">Wild Magic</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Discipline(<a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,17 @@ nav_section: Factions
 
 ### Abilities
 
-[Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Mage(2)](/compendium/character-abilities/#mage-x), [Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-sorcerer-x">Expert Sorcerer(1)</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(2)</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
-**Minor Arcana** — When picking spells for this character, you must also choose 1 additional Cantrip for it to know from a different available Discipline.
+**Minor Arcana** - When picking spells for this character, you must also choose 1 additional Cantrip for it to know from a different available Discipline.
 
-**Cartomancy** — If this character successfully casts a Cantrip, this character or any friendly character within 6" replenishes 1 Will Point.
+**Cartomancy** - If this character successfully casts a Cantrip, this character or any friendly character within 6" replenishes 1 Will Point.
 
 ## Capability
 
-EDPA **2.66** · EDPA/Duc **0.166** · ATK2K **9.7** · ATK2K/Duc **0.61**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.66</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.166</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.61</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

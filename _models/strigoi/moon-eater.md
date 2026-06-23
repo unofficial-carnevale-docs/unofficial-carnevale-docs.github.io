@@ -5,9 +5,9 @@ permalink: /factions/strigoi/moon-eater/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 23
+meta: "Hero · Size 50"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 50 · 23 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,17 @@ nav_section: Factions
 
 ### Abilities
 
-[Berserk](/compendium/character-abilities/#berserk), [Brawler(2)](/compendium/character-abilities/#brawler-x), [Fear(-3)](/compendium/character-abilities/#fear-x), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#berserk">Berserk</a><a class="chip" href="/compendium/character-abilities/#brawler-x">Brawler(2)</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(-3)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Lunar Might** — During deployment let your opponent know when the moon will be brightest. Choose either the first 3 rounds, or the remaining rounds. When the moon is brightest, all characters with this rule increase their MOVEMENT, DEXTERITY, and ATTACK by 1.
+**Lunar Might** - During deployment let your opponent know when the moon will be brightest. Choose either the first 3 rounds, or the remaining rounds. When the moon is brightest, all characters with this rule increase their MOVEMENT, DEXTERITY, and ATTACK by 1.
 
-**Devourer of Will** — When this character kills an enemy character, it gains their starting Will Points. This is cumulative and can take this character above its starting Will Points.
+**Devourer of Will** - When this character kills an enemy character, it gains their starting Will Points. This is cumulative and can take this character above its starting Will Points.
 
 ## Capability
 
-EDPA **4.10** · EDPA/Duc **0.178** · ATK2K **9.0** · ATK2K/Duc **0.39**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.10</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.178</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.39</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

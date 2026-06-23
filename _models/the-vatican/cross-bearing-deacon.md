@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/cross-bearing-deacon/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 14
+meta: "Hero · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,21 +21,21 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Holy Icon | 2" | — | — | [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Holy Icon | 2" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave), [Universal Shielding(5)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(5)</a></div>
 
-**Holy Relic** — Any other friendly character (not including this one) that starts their turn within 6" of this character replenishes 1 Will Point.
+**Holy Relic** - Any other friendly character (not including this one) that starts their turn within 6" of this character replenishes 1 Will Point.
 
-**Righteous Zeal** — Every friendly character gains Brave while in line of sight of this character.
+**Righteous Zeal** - Every friendly character gains Brave while in line of sight of this character.
 
 ## Capability
 
-EDPA **1.75** · EDPA/Duc **0.125** · ATK2K **18.0** · ATK2K/Duc **1.29**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.75</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.125</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">18.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.29</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

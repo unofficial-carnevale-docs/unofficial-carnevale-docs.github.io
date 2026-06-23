@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/theophant-of-sinai/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 13
+meta: "Henchman · Construct · Size 40"
 ---
-
-<p class="model-meta"><strong>Henchman · Construct</strong><span>Size 40 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,21 +21,21 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Hellfire | 8" | +3 | −2 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Hellfire | 8" | +3 | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 
-[Companion(Invoker)](/compendium/character-abilities/#companion-x), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive), [Universal Shielding(2)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Invoker)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(2)</a></div>
 
-**Living Flame** — this character loses double Life Points from Drown actions.
+**Living Flame** - this character loses double Life Points from Drown actions.
 
-**Infernal Ally** — while this character is on solid ground, enemy characters that end their turn in base contact with this character lose 1 Life Point.
+**Infernal Ally** - while this character is on solid ground, enemy characters that end their turn in base contact with this character lose 1 Life Point.
 
 ## Capability
 
-EDPA **2.40** · EDPA/Duc **0.185** · ATK2K **11.5** · ATK2K/Duc **0.88**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.40</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.185</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.88</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Sniper median: EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **11.5** · ATK2K/Duc **0.99***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Sniper median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.156</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

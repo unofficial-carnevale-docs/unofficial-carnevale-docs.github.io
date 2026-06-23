@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/ethereal-assassin/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 13
+meta: "Hero · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Poisoned Needle | melee | — | −1 | [Poisoned](/compendium/weapon-abilities/#poisoned) |
+| Poisoned Needle | melee | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#poisoned">Poisoned</a> |
 
 ### Abilities
 
-[Concealment(2)](/compendium/character-abilities/#concealment-x), [First Strike(2)](/compendium/character-abilities/#first-strike-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#concealment-x">Concealment(2)</a><a class="chip" href="/compendium/character-abilities/#first-strike-x">First Strike(2)</a></div>
 
-**Stride Through the Void** — (1AP): This character gains Ethereal until the end of its turn.
+**Stride Through the Void** - (1AP): This character gains Ethereal until the end of its turn.
 
 ## Capability
 
-EDPA **2.89** · EDPA/Duc **0.222** · ATK2K **7.3** · ATK2K/Duc **0.56**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.89</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.222</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.56</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Assassin median: EDPA **3.23** · EDPA/Duc **0.193** · ATK2K **10.3** · ATK2K/Duc **0.59***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Assassin median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.193</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

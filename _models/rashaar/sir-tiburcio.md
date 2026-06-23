@@ -2,13 +2,12 @@
 layout: model
 title: Sir Tiburcio
 permalink: /factions/rashaar/sir-tiburcio/
-description: "Durable tank, slower than the faction standard in water and without an aquatic weapon, but he has the statline of a Full Plate character without the disadvantages."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 23
+meta: "Leader · Unique · Size 40"
 ---
-
-<p class="model-meta"><strong>Leader · Unique</strong><span>Size 40 · 23 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,23 +21,24 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Barnacle Claymore | 1" | +1 | −1 | [Two-handed](/compendium/weapon-abilities/#two-handed), [Knockback](/compendium/weapon-abilities/#knockback) |
+| Barnacle Claymore | 1" | +1 | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
 
 ### Abilities
 
-[Brawler(1)](/compendium/character-abilities/#brawler-x), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Fast Swimmer(1)](/compendium/character-abilities/#fast-swimmer-x), [Universal Shielding(4)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brawler-x">Brawler(1)</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(1)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(4)</a></div>
 
-**Shield to the Enlightened** — PULSE: Until the end of the round, all friendly characters within 3" gain Universal Shielding (3). Additionally, until the end of the round, all friendly characters with the Feral Keyword within 3" gain Expert Protection (1).
+**Shield to the Enlightened (PULSE)** - Until the end of the round, all friendly characters within 3" gain Universal Shielding (3). Additionally, until the end of the round, all friendly characters with the Feral Keyword within 3" gain Expert Protection (1).
+{: .cmd-ability}
 
-**Vatican Apostate** — This character can re-roll the destiny dice when making Attack or Protection rolls.
+**Vatican Apostate** - This character can re-roll the destiny dice when making Attack or Protection rolls.
 
-**Dead Weight** — This character gains +1 PROTECTION while in water (in addition to any cover bonuses), but cannot make Dive actions.
+**Dead Weight** - This character gains +1 PROTECTION while in water (in addition to any cover bonuses), but cannot make Dive actions.
 
 ## Capability
 
-EDPA **3.40** · EDPA/Duc **0.148** · ATK2K **25.6** · ATK2K/Duc **1.11**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.40</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">25.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.11</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Tank median: EDPA **2.45** · EDPA/Duc **0.154** · ATK2K **23.7** · ATK2K/Duc **1.53***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Tank median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.45</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.154</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">23.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.53</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/hollowman/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 6
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 6 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,17 @@ nav_section: Factions
 
 ### Abilities
 
-[Frenzied](/compendium/character-abilities/#frenzied), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Blood Nexus** — Every time this character loses Life Points (including from the Frenzied rule), you may replenish that many Will Points from all characters within 6" with the Nexus ability.
+**Blood Nexus** - Every time this character loses Life Points (including from the Frenzied rule), you may replenish that many Will Points from all characters within 6" with the Nexus ability.
 
-**Death Throes Overload** — When this character dies, every character with the Doctor keyword within 6" replenishes 2 Will Points.
+**Death Throes Overload** - When this character dies, every character with the Doctor keyword within 6" replenishes 2 Will Points.
 
 ## Capability
 
-EDPA **0.44** · EDPA/Duc **0.073** · ATK2K **4.0** · ATK2K/Duc **0.67**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.073</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">4.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.67</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

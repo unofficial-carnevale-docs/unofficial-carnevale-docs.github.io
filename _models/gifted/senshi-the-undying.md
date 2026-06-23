@@ -5,9 +5,9 @@ permalink: /factions/gifted/senshi-the-undying/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 20
+meta: "Hero · Unique · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique</strong><span>Size 30 · 20 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,19 +25,19 @@ nav_section: Factions
 
 ### Abilities
 
-[Acrobatic(2)](/compendium/character-abilities/#acrobatic-x), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [First Strike(1)](/compendium/character-abilities/#first-strike-x), [Parry(2)](/compendium/character-abilities/#parry-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#acrobatic-x">Acrobatic(2)</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#first-strike-x">First Strike(1)</a><a class="chip" href="/compendium/character-abilities/#parry-x">Parry(2)</a></div>
 
-**Undying Deathseeker** — When this character is killed, do not remove it from the board, it remains in play but cannot be targeted or chosen. At the start of the next round, make a Basic MIND Roll (Will Points may be used as normal). If successful, this character comes back to life with 7 Life Points. If the MIND Roll is unsuccessful, the character is completely dead and removed from the board.
+**Undying Deathseeker** - When this character is killed, do not remove it from the board, it remains in play but cannot be targeted or chosen. At the start of the next round, make a Basic MIND Roll (Will Points may be used as normal). If successful, this character comes back to life with 7 Life Points. If the MIND Roll is unsuccessful, the character is completely dead and removed from the board.
 
-**Ronin** — This character cannot receive ORDER or COUNTER Commands.
+**Ronin** - This character cannot receive ORDER or COUNTER Commands.
 
-**Hōfuku Kōgeki** — If this character's Undying Deathseeker roll is a critical, it may make either a 0AP Attack of Opportunity against an enemy character in base contact, or it may make a 0AP Run/Climb action, but must end this action in base contact with an enemy character.
+**Hōfuku Kōgeki** - If this character's Undying Deathseeker roll is a critical, it may make either a 0AP Attack of Opportunity against an enemy character in base contact, or it may make a 0AP Run/Climb action, but must end this action in base contact with an enemy character.
 
 ## Capability
 
-EDPA **3.99** · EDPA/Duc **0.200** · ATK2K **16.6** · ATK2K/Duc **0.83**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.99</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.200</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">16.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.83</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Assassin median: EDPA **3.23** · EDPA/Duc **0.193** · ATK2K **10.3** · ATK2K/Duc **0.59***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Assassin median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.193</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

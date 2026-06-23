@@ -5,9 +5,9 @@ permalink: /factions/rashaar/crybaby/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 5
+meta: "Henchman · Feral · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Feral</strong><span>Size 30 · 5 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,19 +25,19 @@ nav_section: Factions
 
 ### Abilities
 
-[Concealment(2)](/compendium/character-abilities/#concealment-x), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#concealment-x">Concealment(2)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Bait** — Friendly characters may attack this character as if it were an enemy. If a friendly character kills this character, it loses the Mindless rule for the rest of the game.
+**Bait** - Friendly characters may attack this character as if it were an enemy. If a friendly character kills this character, it loses the Mindless rule for the rest of the game.
 
-**Piercing Wail** — Any enemy characters within 6" of this character have -1 DEXTERITY.
+**Piercing Wail** - Any enemy characters within 6" of this character have -1 DEXTERITY.
 
-**Unsightly** — This character can be deployed anywhere on the board at ground level, at least 6" away from any enemy characters or objectives.
+**Unsightly** - This character can be deployed anywhere on the board at ground level, at least 6" away from any enemy characters or objectives.
 
 ## Capability
 
-EDPA **0.44** · EDPA/Duc **0.088** · ATK2K **1.8** · ATK2K/Duc **0.36**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.088</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">1.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.36</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

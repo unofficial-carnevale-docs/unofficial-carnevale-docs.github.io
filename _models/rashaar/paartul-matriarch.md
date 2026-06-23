@@ -2,13 +2,12 @@
 layout: model
 title: Paartul Matriarch
 permalink: /factions/rashaar/paartul-matriarch/
-description: "She has weak stats but the unique ability to summon one Crybaby per turn, small annoying bodies that can be attacked by allies to loose Mindless. Build around Feral monsters, notably giving them Companion (Leader)."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 25
+meta: "Leader · Monster · Size 50"
 ---
-
-<p class="model-meta"><strong>Leader · Monster</strong><span>Size 50 · 25 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,19 +25,20 @@ nav_section: Factions
 
 ### Abilities
 
-[Bulky](/compendium/character-abilities/#bulky), [Fear(-1)](/compendium/character-abilities/#fear-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(-1)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Birth** — PULSE: Place one Crybaby within 6" of this character. The new Crybaby acts just like any other friendly character, and can be activated this round as normal.
+**Birth (PULSE)** - Place one Crybaby within 6" of this character. The new Crybaby acts just like any other friendly character, and can be activated this round as normal.
+{: .cmd-ability}
 
-**Matriarch** — All friendly characters with the Feral keyword gain Companion (Leader) as long as this character is on the board.
+**Matriarch** - All friendly characters with the Feral keyword gain Companion (Leader) as long as this character is on the board.
 
-**Postpartum** — If one or more Crybabies are killed within 6" of this character, it gains +3 ATT for the rest of the round.
+**Postpartum** - If one or more Crybabies are killed within 6" of this character, it gains +3 ATT for the rest of the round.
 
 ## Capability
 
-EDPA **0.87** · EDPA/Duc **0.035** · ATK2K **16.1** · ATK2K/Duc **0.64**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.035</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">16.1</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.64</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper ATK2K outlier: among this faction's Specialists the median is 2.6, but this model reaches 16.1, so the role median understates models like this.*
 

@@ -5,9 +5,9 @@ permalink: /factions/strigoi/al-naibii/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 11
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 11 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave), [First Strike(1)](/compendium/character-abilities/#first-strike-x), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#first-strike-x">First Strike(1)</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a></div>
 
-**The End is Near** — At the start of each of this character's turns, this character loses 2 Life Points and gains +1 to either MOVEMENT, DEXTERITY, or ATTACK for the rest of the game.
+**The End is Near** - At the start of each of this character's turns, this character loses 2 Life Points and gains +1 to either MOVEMENT, DEXTERITY, or ATTACK for the rest of the game.
 
 ## Capability
 
-EDPA **1.50** · EDPA/Duc **0.136** · ATK2K **7.3** · ATK2K/Duc **0.66**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.50</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.136</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.66</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

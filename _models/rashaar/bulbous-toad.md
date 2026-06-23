@@ -5,9 +5,9 @@ permalink: /factions/rashaar/bulbous-toad/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 13
+meta: "Henchman · Monster · Feral · Size 50"
 ---
-
-<p class="model-meta"><strong>Henchman · Monster · Feral</strong><span>Size 50 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,21 +21,21 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Tongue Harpoon | 12" | — | — | [Aquatic](/compendium/weapon-abilities/#aquatic), [Knockback](/compendium/weapon-abilities/#knockback), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Tongue Harpoon | 12" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 
-[Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(2)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Barbed Tongue** — The Tongue Harpoon's Knockback moves the target directly towards this character rather than away.
+**Barbed Tongue** - The Tongue Harpoon's Knockback moves the target directly towards this character rather than away.
 
-**Feeder** — This character's Vampiric Attack special rule activates even if it isn't in base contact with its target.
+**Feeder** - This character's Vampiric Attack special rule activates even if it isn't in base contact with its target.
 
 ## Capability
 
-EDPA **0.71** · EDPA/Duc **0.055** · ATK2K **16.0** · ATK2K/Duc **1.23**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.71</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.055</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">16.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.23</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Canal Fighter median: EDPA **2.68** · EDPA/Duc **0.151** · ATK2K **12.6** · ATK2K/Duc **0.80***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Canal Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.151</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.80</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Lower EDPA outlier: among this faction's Canal Fighters the median is 2.68, but this model is only 0.71, so the role median overstates models like this.*
 

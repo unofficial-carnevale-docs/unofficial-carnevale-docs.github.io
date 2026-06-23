@@ -2,13 +2,12 @@
 layout: model
 title: Stryha Crone
 permalink: /factions/strigoi/stryha-crone/
-description: "Fragile anti-armor alpha-striker. She gives 3 models Infiltration to enable a strong alpha strike or terrain control."
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 22
+meta: "Leader · Vampire · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Vampire</strong><span>Size 30 · 22 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Concealment(2)](/compendium/character-abilities/#concealment-x), [Flight](/compendium/character-abilities/#flight), [Frenzied](/compendium/character-abilities/#frenzied), [Infiltration](/compendium/character-abilities/#infiltration), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#concealment-x">Concealment(2)</a><a class="chip" href="/compendium/character-abilities/#flight">Flight</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#infiltration">Infiltration</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a></div>
 
-**Natural Camouflage** — PULSE: Pick one friendly character within 6". That character gains Concealment (+2) until the end of the game. A character can only be affected by this Command Ability once.
+**Natural Camouflage (PULSE)** - Pick one friendly character within 6". That character gains Concealment (+2) until the end of the game. A character can only be affected by this Command Ability once.
+{: .cmd-ability}
 
-**Carrion** — Before deployment, choose 3 friendly characters. They gain Infiltration.
+**Carrion** - Before deployment, choose 3 friendly characters. They gain Infiltration.
 
 ## Capability
 
-EDPA **3.90** · EDPA/Duc **0.177** · ATK2K **7.6** · ATK2K/Duc **0.35**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.90</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.177</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.35</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Assassin median: EDPA **3.23** · EDPA/Duc **0.193** · ATK2K **10.3** · ATK2K/Duc **0.59***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Assassin median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.193</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

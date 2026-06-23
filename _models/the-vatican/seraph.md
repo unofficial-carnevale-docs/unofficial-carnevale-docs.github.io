@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/seraph/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 17
+meta: "Hero · Construct · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · Construct</strong><span>Size 40 · 17 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Companion(Invoker)](/compendium/character-abilities/#companion-x), [Fear(0)](/compendium/character-abilities/#fear-x), [Flight](/compendium/character-abilities/#flight), [Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Invoker)</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(0)</a><a class="chip" href="/compendium/character-abilities/#flight">Flight</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a></div>
 
-**Holy Grace** — whenever this character makes a successful Combat action (before Protection rolls), the target loses 1 Will Point and this character gains 1 Will Point. This can take this character above its starting Will Points.
+**Holy Grace** - whenever this character makes a successful Combat action (before Protection rolls), the target loses 1 Will Point and this character gains 1 Will Point. This can take this character above its starting Will Points.
 
 ## Capability
 
-EDPA **2.68** · EDPA/Duc **0.158** · ATK2K **29.6** · ATK2K/Duc **1.74**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.158</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">29.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.74</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Disruptor median: EDPA **1.69** · EDPA/Duc **0.113** · ATK2K **12.2** · ATK2K/Duc **0.82***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Disruptor median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.69</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.113</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.2</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.82</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper EDPA outlier: among this faction's Disruptors the median is 1.63, but this model reaches 2.68, so the role median understates models like this.*
 

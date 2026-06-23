@@ -2,13 +2,12 @@
 layout: model
 title: Thalidraur
 permalink: /factions/rashaar/thalidraur/
-description: "Big expensive melee monster that's very slow unless he's in water. He has very low CP but regenerates CP and WP when someone dies nearby."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 26
+meta: "Leader · Monster · Size 50"
 ---
-
-<p class="model-meta"><strong>Leader · Monster</strong><span>Size 50 · 26 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,19 +25,20 @@ nav_section: Factions
 
 ### Abilities
 
-[Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Fear(-2)](/compendium/character-abilities/#fear-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(2)</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(-2)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Hide of The Deep** — AURA: Until the end of the round, all friendly characters within 3" of this character gain Expert Protection (2).
+**Hide of The Deep (AURA)** - Until the end of the round, all friendly characters within 3" of this character gain Expert Protection (2).
+{: .cmd-ability}
 
-**Foetid Pheromones** — Other friendly characters that start their activation within 6" of this character gain First Strike (1) until the end of their activation.
+**Foetid Pheromones** - Other friendly characters that start their activation within 6" of this character gain First Strike (1) until the end of their activation.
 
-**Lead Through Fear** — Whenever another character (friendly or enemy) is killed within 6" of this character, this character replenishes 1 Command Point and 1 Will Point.
+**Lead Through Fear** - Whenever another character (friendly or enemy) is killed within 6" of this character, this character replenishes 1 Command Point and 1 Will Point.
 
 ## Capability
 
-EDPA **4.58** · EDPA/Duc **0.176** · ATK2K **24.5** · ATK2K/Duc **0.94**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.58</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.176</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">24.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.94</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

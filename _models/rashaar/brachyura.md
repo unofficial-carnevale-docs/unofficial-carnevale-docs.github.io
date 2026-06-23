@@ -5,9 +5,9 @@ permalink: /factions/rashaar/brachyura/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 18
+meta: "Hero · Monster · Feral · Size 50"
 ---
-
-<p class="model-meta"><strong>Hero · Monster · Feral</strong><span>Size 50 · 18 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Crushing Claws | melee | +3 | — | [Aquatic](/compendium/weapon-abilities/#aquatic) |
+| Crushing Claws | melee | +3 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 
-[Bulky](/compendium/character-abilities/#bulky), [Mindless](/compendium/character-abilities/#mindless), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
 ## Capability
 
-EDPA **3.75** · EDPA/Duc **0.208** · ATK2K **42.6** · ATK2K/Duc **2.37**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.75</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.208</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">42.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">2.37</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

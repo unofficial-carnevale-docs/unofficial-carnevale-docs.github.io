@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/carrion/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 10
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 10 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Infiltration](/compendium/character-abilities/#infiltration), [Mindless](/compendium/character-abilities/#mindless), [Pickpocket](/compendium/character-abilities/#pickpocket)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#infiltration">Infiltration</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#pickpocket">Pickpocket</a></div>
 
-**Nexus** — Any character with the Doctor keyword within 6" and line of sight may use this character's Will Points as if they were their own.
+**Nexus** - Any character with the Doctor keyword within 6" and line of sight may use this character's Will Points as if they were their own.
 
 ## Capability
 
-EDPA **1.13** · EDPA/Duc **0.113** · ATK2K **6.5** · ATK2K/Duc **0.65**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.113</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">6.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.65</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -2,13 +2,12 @@
 layout: model
 title: Capodecina
 permalink: /factions/the-guild/capodecina/
-description: "Fast infiltrating assassin-leader. Build around the Trade sub-faction, notably giving them Companion (Trade)."
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 20
+meta: "Leader · Trade · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Trade</strong><span>Size 30 · 20 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Aerial Attack](/compendium/character-abilities/#aerial-attack), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Infiltration](/compendium/character-abilities/#infiltration)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#aerial-attack">Aerial Attack</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#infiltration">Infiltration</a></div>
 
-**Fight For the Guild!** — PULSE: One friendly character in line of sight with the Trade keyword replenishes 2 Will Points instead of 1 from Companion until the end of the game.
+**Fight For the Guild! (PULSE)** - One friendly character in line of sight with the Trade keyword replenishes 2 Will Points instead of 1 from Companion until the end of the game.
+{: .cmd-ability}
 
-**Rise Up** — All friendly characters with the Trade keyword gain Companion (Trade) as long as this character is on the board.
+**Rise Up** - All friendly characters with the Trade keyword gain Companion (Trade) as long as this character is on the board.
 
 ## Capability
 
-EDPA **3.29** · EDPA/Duc **0.165** · ATK2K **13.4** · ATK2K/Duc **0.67**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.29</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.165</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">13.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.67</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Assassin median: EDPA **3.23** · EDPA/Duc **0.193** · ATK2K **10.3** · ATK2K/Duc **0.59***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Assassin median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.193</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

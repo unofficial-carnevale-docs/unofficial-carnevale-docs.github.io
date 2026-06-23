@@ -2,13 +2,12 @@
 layout: model
 title: Inquisitor
 permalink: /factions/the-vatican/inquisitor/
-description: "Very aggressive Frenzied caster. He has access to Blood Rites, making him a strong damage dealer, but he has a low LP pool and no way to regenerate them."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 22
+meta: "Leader · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-rites\">Blood Rites</a>, <a href=\"/magic/runes-of-sovereignty/\" class=\"disc-runes-sovereignty\">Runes of Sovereignty</a>, <a href=\"/magic/wild-magic/\" class=\"disc-wild-magic\">Wild Magic</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 22 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Frenzied](/compendium/character-abilities/#frenzied), [Mage(3)](/compendium/character-abilities/#mage-x), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(3)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a></div>
 
-**For the Glory of God** — AURA: Until the end of the round, any friendly characters within 3" gain Expert Offence(2).
+**For the Glory of God (AURA)** - Until the end of the round, any friendly characters within 3" gain Expert Offence(2).
+{: .cmd-ability}
 
-**Stigmata** — If this character uses one or more Life Points as Will Points (due to Frenzied) either to increase the dice pool or to perform an action (like casting spells), it may re-roll an equal number of dice (including the Destiny Dice) during that action. If it does this on a Combat action, Hands of God instead has Penetration -3 for that action.
+**Stigmata** - If this character uses one or more Life Points as Will Points (due to Frenzied) either to increase the dice pool or to perform an action (like casting spells), it may re-roll an equal number of dice (including the Destiny Dice) during that action. If it does this on a Combat action, Hands of God instead has Penetration -3 for that action.
 
 ## Capability
 
-EDPA **3.26** · EDPA/Duc **0.148** · ATK2K **14.1** · ATK2K/Duc **0.64**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.26</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">14.1</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.64</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -88,22 +88,6 @@ EDPA **3.26** · EDPA/Duc **0.148** · ATK2K **14.1** · ATK2K/Duc **0.64**
 | Armoured (Dex4/Prot5) | 4.02 | 3.87 |
 | Tank (Dex4/Prot5/US5) | 4.02 | 3.87 |
 | Parry (Dex5/Prot3/Parry2) | 4.84 | 4.71 |
-
-</div>
-<div>
-
-### Burst EDPA by target
-
-*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
-
-| Target | Burst EDPA | Median |
-|---|---|---|
-| Soft (Dex3/Prot1) | 4.94 | 4.02 |
-| Balanced (Dex4/Prot3) | 4.94 | 3.14 |
-| Evasive (Dex6/Prot2) | 4.94 | 2.69 |
-| Armoured (Dex4/Prot5) | 4.22 | 2.32 |
-| Tank (Dex4/Prot5/US5) | 2.94 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 4.94 | 2.23 |
 
 </div>
 </div>

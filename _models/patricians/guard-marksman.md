@@ -5,9 +5,9 @@ permalink: /factions/patricians/guard-marksman/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 12
+meta: "Henchman · Soldier · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Soldier</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,18 +21,18 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Musket | 24" | +1 | −1 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(1)](/compendium/weapon-abilities/#reload-x), [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Musket | 24" | +1 | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 | Bayonet | 1" | — | — | — |
 
 ### Abilities
 
-[Companion(Officer)](/compendium/character-abilities/#companion-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Officer)</a></div>
 
 ## Capability
 
-EDPA **1.62** · EDPA/Duc **0.135** · ATK2K **13.7** · ATK2K/Duc **1.14**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.62</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.135</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">13.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.14</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Sniper median: EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **11.5** · ATK2K/Duc **0.99***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Sniper median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.156</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

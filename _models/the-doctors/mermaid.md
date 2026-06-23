@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/mermaid/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 13
+meta: "Henchman · Discipline(<a href=\"/magic/runes-of-sovereignty/\" class=\"disc-runes-sovereignty\">Runes of Sovereignty</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Discipline(<a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>)</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Hidden Claws | melee | — | −1 | [Aquatic](/compendium/weapon-abilities/#aquatic) |
+| Hidden Claws | melee | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 
-[Fast Swimmer(3)](/compendium/character-abilities/#fast-swimmer-x), [Mage(0)](/compendium/character-abilities/#mage-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(3)</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(0)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
 ## Capability
 
-EDPA **1.50** · EDPA/Duc **0.115** · ATK2K **6.9** · ATK2K/Duc **0.53**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.50</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.115</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">6.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.53</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Canal Fighter median: EDPA **2.68** · EDPA/Duc **0.151** · ATK2K **12.6** · ATK2K/Duc **0.80***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Canal Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.151</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.80</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Lower EDPA outlier: among this faction's Canal Fighters the median is 2.68, but this model is only 1.50, so the role median overstates models like this.*
 

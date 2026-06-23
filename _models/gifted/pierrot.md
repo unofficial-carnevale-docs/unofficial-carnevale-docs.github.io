@@ -5,9 +5,9 @@ permalink: /factions/gifted/pierrot/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 8
+meta: "Henchman · Commedia dell'Arte · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Commedia dell'Arte</strong><span>Size 30 · 8 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,14 +25,13 @@ nav_section: Factions
 
 ### Abilities
 
-
-**Everyman** — If a friendly character is charged within 6" of one or more characters with this rule, you may choose to swap them with one friendly Pierrot that isn't in base contact with an enemy. This is done before any Attacks of Opportunity. Turns out it was Pierrot all along!
+**Everyman** - If a friendly character is charged within 6" of one or more characters with this rule, you may choose to swap them with one friendly Pierrot that isn't in base contact with an enemy. This is done before any Attacks of Opportunity. Turns out it was Pierrot all along!
 
 ## Capability
 
-EDPA **0.87** · EDPA/Duc **0.109** · ATK2K **5.3** · ATK2K/Duc **0.66**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.109</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">5.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.66</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

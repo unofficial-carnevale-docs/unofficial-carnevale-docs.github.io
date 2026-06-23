@@ -5,9 +5,9 @@ permalink: /factions/the-guild/blood-matron/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 15
+meta: "Hero · House of Virtue · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · House of Virtue</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,21 +21,21 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Pithing Needle | melee | — | −1 | [Stun](/compendium/weapon-abilities/#stun) |
+| Pithing Needle | melee | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Mindless](/compendium/character-abilities/#mindless), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(2)</a></div>
 
-**Go For the Eyes** — When a critical is scored by Pithing Needle in a Combat action, the applied Stun counter cannot be removed for the rest of the game and is unaffected by any spells or abilities.
+**Go For the Eyes** - When a critical is scored by Pithing Needle in a Combat action, the applied Stun counter cannot be removed for the rest of the game and is unaffected by any spells or abilities.
 
-**Prey Upon** — At the start of the game, nominate an enemy character to be this character's Prey. When this character makes a Combat action against its Prey, that combat action is a critical if the Destiny Dice is a 9 or a 10 and there is at least 1 other Ace in that roll.
+**Prey Upon** - At the start of the game, nominate an enemy character to be this character's Prey. When this character makes a Combat action against its Prey, that combat action is a critical if the Destiny Dice is a 9 or a 10 and there is at least 1 other Ace in that roll.
 
 ## Capability
 
-EDPA **1.23** · EDPA/Duc **0.082** · ATK2K **10.6** · ATK2K/Duc **0.71**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.082</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.71</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

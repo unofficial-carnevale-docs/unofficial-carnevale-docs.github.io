@@ -2,13 +2,12 @@
 layout: model
 title: The Flame That Burns Underwater
 permalink: /factions/rashaar/the-flame-that-burns-underwater/
-description: "Really expensive leader, but she's an insane grappler and drowner with heavy AoE damage."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 30
+meta: "Leader · Hydra · Monster · Unique · Size 50"
 ---
-
-<p class="model-meta"><strong>Leader · Hydra · Monster · Unique</strong><span>Size 50 · 30 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,24 +21,25 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Brawling Tentacles | melee | — | — | [Stun](/compendium/weapon-abilities/#stun) |
-| Ornate Trident | 2" | +1 | — | [Aquatic](/compendium/weapon-abilities/#aquatic) |
+| Brawling Tentacles | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
+| Ornate Trident | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 
-[Bulky](/compendium/character-abilities/#bulky), [Expert Grappler(3)](/compendium/character-abilities/#expert-grappler-x), [Fast Swimmer(3)](/compendium/character-abilities/#fast-swimmer-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#expert-grappler-x">Expert Grappler(3)</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(3)</a><a class="chip" href="/compendium/character-abilities/#limited-movement">Limited Movement</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Hydra's Gifts** — PULSE: Mutating tentacles emerge from flesh nearby. Every other character (friendly and enemy, not including this one) within 2" loses 2 Life Points and gains +2 DEXTERITY until the end of the round.
+**Hydra's Gifts (PULSE)** - Mutating tentacles emerge from flesh nearby. Every other character (friendly and enemy, not including this one) within 2" loses 2 Life Points and gains +2 DEXTERITY until the end of the round.
+{: .cmd-ability}
 
-**Dragging Down** — This character may re-roll failed dice rolls when making Drown actions.
+**Dragging Down** - This character may re-roll failed dice rolls when making Drown actions.
 
-**Brawling Tentacles** — The Flame's tentacles thrash around, hitting anyone that gets close! When making a Combat action with this weapon, roll once, and apply the roll to every character (friendly and enemy) in base contact.
+**Brawling Tentacles** - The Flame's tentacles thrash around, hitting anyone that gets close! When making a Combat action with this weapon, roll once, and apply the roll to every character (friendly and enemy) in base contact.
 
 ## Capability
 
-EDPA **2.68** · EDPA/Duc **0.089** · ATK2K **27.0** · ATK2K/Duc **0.90**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.089</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">27.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.90</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Canal Fighter median: EDPA **2.68** · EDPA/Duc **0.151** · ATK2K **12.6** · ATK2K/Duc **0.80***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Canal Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.151</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.80</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

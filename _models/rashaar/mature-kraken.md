@@ -5,9 +5,9 @@ permalink: /factions/rashaar/mature-kraken/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 24
+meta: "Hero · Monster · Hydra · Size 50"
 ---
-
-<p class="model-meta"><strong>Hero · Monster · Hydra</strong><span>Size 50 · 24 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Barbed Tentacles | 2" | -1 | −2 | [Aquatic](/compendium/weapon-abilities/#aquatic), [Stun](/compendium/weapon-abilities/#stun) |
+| Barbed Tentacles | 2" | -1 | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Engage](/compendium/character-abilities/#engage), [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x), [Fear(-1)](/compendium/character-abilities/#fear-x), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#engage">Engage</a><a class="chip" href="/compendium/character-abilities/#expert-grappler-x">Expert Grappler(2)</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(-1)</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(2)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Climbing Suckers** — When this character makes a DEXTERITY roll as part of a Run/Climb action, it counts all fumbles as failures.
+**Climbing Suckers** - When this character makes a DEXTERITY roll as part of a Run/Climb action, it counts all fumbles as failures.
 
 ## Capability
 
-EDPA **2.32** · EDPA/Duc **0.097** · ATK2K **16.1** · ATK2K/Duc **0.67**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.32</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.097</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">16.1</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.67</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Control median: EDPA **2.09** · EDPA/Duc **0.111** · ATK2K **12.7** · ATK2K/Duc **0.67***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Control median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.09</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.67</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

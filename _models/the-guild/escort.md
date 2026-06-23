@@ -5,9 +5,9 @@ permalink: /factions/the-guild/escort/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 12
+meta: "Henchman · House of Virtue · Size 40"
 ---
-
-<p class="model-meta"><strong>Henchman · House of Virtue</strong><span>Size 40 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,13 +25,13 @@ nav_section: Factions
 
 ### Abilities
 
-[Bodyguard(Hero, Henchman)](/compendium/character-abilities/#bodyguard-x), [Expert Grappler(1)](/compendium/character-abilities/#expert-grappler-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bodyguard-x">Bodyguard(Hero, Henchman)</a><a class="chip" href="/compendium/character-abilities/#expert-grappler-x">Expert Grappler(1)</a></div>
 
 ## Capability
 
-EDPA **1.99** · EDPA/Duc **0.166** · ATK2K **11.5** · ATK2K/Duc **0.96**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.99</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.166</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.96</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Line Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper EDPA outlier: among this faction's Line Fighters the median is 1.13, but this model reaches 1.99, so the role median understates models like this.*
 

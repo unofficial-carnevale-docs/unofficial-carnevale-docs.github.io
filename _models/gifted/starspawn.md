@@ -5,9 +5,9 @@ permalink: /factions/gifted/starspawn/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 15
+meta: "Henchman · Unique · Size 40"
 ---
-
-<p class="model-meta"><strong>Henchman · Unique</strong><span>Size 40 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Fanged Tentacles | 2" | +1 | — | [Aquatic](/compendium/weapon-abilities/#aquatic) |
+| Fanged Tentacles | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 
-[Mindless](/compendium/character-abilities/#mindless), [Primitive](/compendium/character-abilities/#primitive), [Vampiric Attack(2)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(2)</a></div>
 
-**Thirsty** — Any time a friendly or enemy character successfully casts a Magic Spell, after resolving all effects, this character replenishes 1 Will Point.
+**Thirsty** - Any time a friendly or enemy character successfully casts a Magic Spell, after resolving all effects, this character replenishes 1 Will Point.
 
 ## Capability
 
-EDPA **2.68** · EDPA/Duc **0.179** · ATK2K **19.8** · ATK2K/Duc **1.32**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.179</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">19.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

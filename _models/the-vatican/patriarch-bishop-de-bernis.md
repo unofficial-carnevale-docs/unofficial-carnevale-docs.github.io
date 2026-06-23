@@ -2,13 +2,12 @@
 layout: model
 title: Patriarch Bishop de Bernis
 permalink: /factions/the-vatican/patriarch-bishop-de-bernis/
-description: "Best mage of the faction, gives gang-wide WP regen via Companion (Leader). He's mainly a support but has access to Summon Vermin, meaning he can be a good damage dealer against non-armoured enemies."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 24
+meta: "Leader · Unique · Discipline(<a href=\"/magic/divinity/\" class=\"disc-divinity\">Divinity</a>, <a href=\"/magic/fateweaving/\" class=\"disc-fateweaving\">Fateweaving</a>, <a href=\"/magic/wild-magic/\" class=\"disc-wild-magic\">Wild Magic</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Unique · Discipline(<a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 24 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Expert Sorcerer(1)](/compendium/character-abilities/#expert-sorcerer-x), [Mage(3)](/compendium/character-abilities/#mage-x), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-sorcerer-x">Expert Sorcerer(1)</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(3)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a></div>
 
-**He Will Strengthen You and Protect You** — AURA: Until the end of the round, any friendly characters within 3" gain Universal Shielding(3).
+**He Will Strengthen You and Protect You (AURA)** - Until the end of the round, any friendly characters within 3" gain Universal Shielding(3).
+{: .cmd-ability}
 
-**Patriarch Bishop** — All friendly characters with the Faction(The Vatican) keyword gain Companion(Leader) while in line of sight of this character.
+**Patriarch Bishop** - All friendly characters with the Faction(The Vatican) keyword gain Companion(Leader) while in line of sight of this character.
 
 ## Capability
 
-EDPA **2.60** · EDPA/Duc **0.108** · ATK2K **10.6** · ATK2K/Duc **0.44**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.60</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.108</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.44</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

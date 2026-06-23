@@ -5,9 +5,9 @@ permalink: /factions/rashaar/urchin/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 8
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 8 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Mindless](/compendium/character-abilities/#mindless), [Pickpocket](/compendium/character-abilities/#pickpocket)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#pickpocket">Pickpocket</a></div>
 
-**Unassuming** — If this character disengages successfully and does not use the action to charge another enemy character, make a 0AP Attack of Opportunity with this character before moving.
+**Unassuming** - If this character disengages successfully and does not use the action to charge another enemy character, make a 0AP Attack of Opportunity with this character before moving.
 
 ## Capability
 
-EDPA **1.13** · EDPA/Duc **0.141** · ATK2K **5.0** · ATK2K/Duc **0.62**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.141</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">5.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.62</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Objective Runner median: EDPA **1.13** · EDPA/Duc **0.094** · ATK2K **7.7** · ATK2K/Duc **0.79***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Objective Runner median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.094</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.79</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

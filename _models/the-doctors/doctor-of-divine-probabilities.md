@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/doctor-of-divine-probabilities/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 15
+meta: "Hero · Human · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Human</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Predictive Tools | 4" | — | — | [Reload(2)](/compendium/weapon-abilities/#reload-x) |
+| Predictive Tools | 4" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
 
 ### Abilities
 
-[Concealment(2)](/compendium/character-abilities/#concealment-x), [Universal Shielding(2)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#concealment-x">Concealment(2)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(2)</a></div>
 
-**Probable Statistics** — (1WP): Change the result of the Destiny Dice in any roll (for you or your opponent) for a character within 6" and line of sight to either a 1 or a 10.
+**Probable Statistics** - (1WP): Change the result of the Destiny Dice in any roll (for you or your opponent) for a character within 6" and line of sight to either a 1 or a 10.
 
 ## Capability
 
-EDPA **0.62** · EDPA/Duc **0.041** · ATK2K **18.4** · ATK2K/Duc **1.23**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.62</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.041</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">18.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.23</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper ATK2K outlier: among this faction's Specialists the median is 6.7, but this model reaches 18.4, so the role median understates models like this.*
 

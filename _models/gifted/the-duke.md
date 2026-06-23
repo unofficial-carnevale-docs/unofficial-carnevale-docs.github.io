@@ -2,13 +2,12 @@
 layout: model
 title: The Duke
 permalink: /factions/gifted/the-duke/
-description: "High-mobility assassin with a teleport action."
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 22
+meta: "Leader · Hero · Unique · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Hero · Unique</strong><span>Size 30 · 22 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,22 +21,22 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Pistol | 8" | — | −1 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(2)](/compendium/weapon-abilities/#reload-x) |
+| Pistol | 8" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
 | Sword | melee | +1 | — | — |
 
 ### Abilities
 
-[Aerial Attack](/compendium/character-abilities/#aerial-attack), [Bodyguard(Henchman)](/compendium/character-abilities/#bodyguard-x), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Infiltration](/compendium/character-abilities/#infiltration)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#aerial-attack">Aerial Attack</a><a class="chip" href="/compendium/character-abilities/#bodyguard-x">Bodyguard(Henchman)</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#infiltration">Infiltration</a></div>
 
-**Disappear** — (2AP): If this character is in base contact with any enemy characters, it may Disappear in a cloud of smoke. All characters in base contact are counted as being hit with a weapon with the Smoke ability. Place The Duke anywhere out of base contact within 12". This does not cause Attacks of Opportunity.
+**Disappear** - (2AP): If this character is in base contact with any enemy characters, it may Disappear in a cloud of smoke. All characters in base contact are counted as being hit with a weapon with the Smoke ability. Place The Duke anywhere out of base contact within 12". This does not cause Attacks of Opportunity.
 
-**Inspiring Hero** — If this is the only character with the Leader keyword in the gang, this character loses the Hero keyword. However, if there is another character with the Leader keyword, this character loses the Leader keyword.
+**Inspiring Hero** - If this is the only character with the Leader keyword in the gang, this character loses the Hero keyword. However, if there is another character with the Leader keyword, this character loses the Leader keyword.
 
 ## Capability
 
-EDPA **4.14** · EDPA/Duc **0.188** · ATK2K **18.4** · ATK2K/Duc **0.84**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.14</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.188</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">18.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.84</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Assassin median: EDPA **3.23** · EDPA/Duc **0.193** · ATK2K **10.3** · ATK2K/Duc **0.59***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Assassin median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.193</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

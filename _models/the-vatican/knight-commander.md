@@ -2,13 +2,12 @@
 layout: model
 title: Knight Commander
 permalink: /factions/the-vatican/knight-commander/
-description: "Really strong all-round fighter with high damage and high protection but with a Full Plate (weak near water). He also gives a small buff to Hospitallers, but nothing worth building the gang around."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 21
+meta: "Leader · Hospitaller · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Hospitaller</strong><span>Size 30 · 21 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,19 +25,20 @@ nav_section: Factions
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Hunter](/compendium/character-abilities/#hunter), [Universal Shielding(4)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#hunter">Hunter</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(4)</a></div>
 
-**Fight Until the Last** — PULSE: This Command Ability is used out of sequence, at the start of the round before rolling initiative. Pick 1 friendly character in line of sight within 6". If that character is reduced to 0 Life Points before they take their turn, they are not removed from the board. Instead they are only removed after their turn is complete.
+**Fight Until the Last (PULSE)** - This Command Ability is used out of sequence, at the start of the round before rolling initiative. Pick 1 friendly character in line of sight within 6". If that character is reduced to 0 Life Points before they take their turn, they are not removed from the board. Instead they are only removed after their turn is complete.
+{: .cmd-ability}
 
-**Destined For Victory** — All friendly characters with the Hospitaller keyword may choose to re-roll the Destiny Dice when making re-rolls as long as this character is on the board.
+**Destined For Victory** - All friendly characters with the Hospitaller keyword may choose to re-roll the Destiny Dice when making re-rolls as long as this character is on the board.
 
-**Full Plate** — If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
+**Full Plate** - If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
 
 ## Capability
 
-EDPA **4.74** · EDPA/Duc **0.226** · ATK2K **22.4** · ATK2K/Duc **1.07**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.74</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.226</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">22.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.07</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

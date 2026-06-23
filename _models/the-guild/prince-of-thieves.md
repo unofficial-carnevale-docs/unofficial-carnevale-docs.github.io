@@ -2,13 +2,12 @@
 layout: model
 title: Prince of Thieves
 permalink: /factions/the-guild/prince-of-thieves/
-description: "Flexible aggressive hero-leader with good command. He is a strong solo, but a less effective commander than the other leaders: he doesn't give as useful a gang-wide buff."
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 23
+meta: "Leader · Hero · Unique · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Hero · Unique</strong><span>Size 30 · 23 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,24 +21,25 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Concealed Pistol | 4" | +1 | — | [Black Powder](/compendium/weapon-abilities/#black-powder), [Knockback](/compendium/weapon-abilities/#knockback), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Concealed Pistol | 4" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 | Gilded Sword | melee | +1 | −1 | — |
 
 ### Abilities
 
-[Acrobatic(2)](/compendium/character-abilities/#acrobatic-x), [Expert Marksman(2)](/compendium/character-abilities/#expert-marksman-x), [Pickpocket](/compendium/character-abilities/#pickpocket), [Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#acrobatic-x">Acrobatic(2)</a><a class="chip" href="/compendium/character-abilities/#expert-marksman-x">Expert Marksman(2)</a><a class="chip" href="/compendium/character-abilities/#pickpocket">Pickpocket</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
-**Thieves Guild Training** — PULSE: One friendly character within 6" gains Pickpocket until the end of the game.
+**Thieves Guild Training (PULSE)** - One friendly character within 6" gains Pickpocket until the end of the game.
+{: .cmd-ability}
 
-**Take it for the Guild!** — Any friendly characters in line of sight replenish 2 Will Points instead of 1 when Pickpocketing.
+**Take it for the Guild!** - Any friendly characters in line of sight replenish 2 Will Points instead of 1 when Pickpocketing.
 
-**A Hero Among Thieves** — If this is the only character with the Leader keyword in the gang, this character loses the Hero keyword. However, if there is another character with the Leader keyword, this character loses the Leader keyword.
+**A Hero Among Thieves** - If this is the only character with the Leader keyword in the gang, this character loses the Hero keyword. However, if there is another character with the Leader keyword, this character loses the Leader keyword.
 
 ## Capability
 
-EDPA **3.92** · EDPA/Duc **0.170** · ATK2K **18.4** · ATK2K/Duc **0.80**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.170</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">18.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.80</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

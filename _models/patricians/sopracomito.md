@@ -2,13 +2,12 @@
 layout: model
 title: Sopracomito
 permalink: /factions/patricians/sopracomito/
-description: "Cheapest leader of the game. He has only 2 AP and low command, but he's a WP battery that can make Soldiers move."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 15
+meta: "Leader · Hero · Councillor · Officer · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Hero · Councillor · Officer</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,19 +25,20 @@ nav_section: Factions
 
 ### Abilities
 
-[Boat Crew](/compendium/character-abilities/#boat-crew)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#boat-crew">Boat Crew</a></div>
 
-**Wages Are Here** — PULSE: Any friendly character in line of sight with the Soldier keyword that aren't in base contact with an enemy may immediately make a Run/Climb action for 0AP, but must move into base contact with this character. This move does not cause Attacks of Opportunity. Any characters that move into base contact immediately replenish 1 Will Point.
+**Wages Are Here (PULSE)** - Any friendly character in line of sight with the Soldier keyword that aren't in base contact with an enemy may immediately make a Run/Climb action for 0AP, but must move into base contact with this character. This move does not cause Attacks of Opportunity. Any characters that move into base contact immediately replenish 1 Will Point.
+{: .cmd-ability}
 
-**Pay Out** — Any friendly character within 6" may use this character's Will Points as if they were their own.
+**Pay Out** - Any friendly character within 6" may use this character's Will Points as if they were their own.
 
-**Second in Command** — If this is the only character with the Leader keyword in the gang, this character loses the Hero keyword and no other Sopracomitos may be chosen. However, if there is another character with the Leader keyword, this character loses the Leader keyword.
+**Second in Command** - If this is the only character with the Leader keyword in the gang, this character loses the Hero keyword and no other Sopracomitos may be chosen. However, if there is another character with the Leader keyword, this character loses the Leader keyword.
 
 ## Capability
 
-EDPA **1.50** · EDPA/Duc **0.100** · ATK2K **18.0** · ATK2K/Duc **1.20**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.50</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.100</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">18.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.20</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

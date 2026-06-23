@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/knight-of-the-holy-sepulchre/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 17
+meta: "Hero · Size 50"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 50 · 17 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Brawler(1)](/compendium/character-abilities/#brawler-x), [Frenzied](/compendium/character-abilities/#frenzied), [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless), [Universal Shielding(4)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brawler-x">Brawler(1)</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#limited-movement">Limited Movement</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(4)</a></div>
 
-**Hasten Your Steps, The Unfaithful Must Be Cleansed** — PULSE: All other friendly characters within 3" gain +1 MOVEMENT until the end of the round.
+**Hasten Your Steps, The Unfaithful Must Be Cleansed (PULSE)** - All other friendly characters within 3" gain +1 MOVEMENT until the end of the round.
+{: .cmd-ability}
 
-**Full Plate** — If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
+**Full Plate** - If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
 
 ## Capability
 
-EDPA **3.25** · EDPA/Duc **0.191** · ATK2K **28.8** · ATK2K/Duc **1.69**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.191</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">28.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.69</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

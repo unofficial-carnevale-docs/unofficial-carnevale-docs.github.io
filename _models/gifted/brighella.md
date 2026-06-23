@@ -5,9 +5,9 @@ permalink: /factions/gifted/brighella/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 13
+meta: "Henchman · Unique · Commedia dell'Arte · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Unique · Commedia dell'Arte</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Atrezzo Crossbow | 30" | — | −1 | [Reload(2)](/compendium/weapon-abilities/#reload-x), [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Atrezzo Crossbow | 30" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Expert Marksman(1)](/compendium/character-abilities/#expert-marksman-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-marksman-x">Expert Marksman(1)</a></div>
 
-**Always Scheming** — When a friendly character with the Leader keyword uses a Command while in line of sight, Brighella gains 1AP until the end of the round. Remember that no character can use more than 3AP in one round!
+**Always Scheming** - When a friendly character with the Leader keyword uses a Command while in line of sight, Brighella gains 1AP until the end of the round. Remember that no character can use more than 3AP in one round!
 
 ## Capability
 
-EDPA **1.80** · EDPA/Duc **0.139** · ATK2K **7.3** · ATK2K/Duc **0.56**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.80</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.139</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.56</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

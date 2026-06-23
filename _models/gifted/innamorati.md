@@ -5,9 +5,9 @@ permalink: /factions/gifted/innamorati/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 13
+meta: "Hero · Unique · Commedia dell'Arte · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique · Commedia dell'Arte</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,20 +21,20 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Pistol | 8" | — | −1 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(2)](/compendium/weapon-abilities/#reload-x) |
+| Pistol | 8" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
 | Sword | melee | +1 | — | — |
 
 ### Abilities
 
-[Parry(1)](/compendium/character-abilities/#parry-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#parry-x">Parry(1)</a></div>
 
-**Till Death Do Us Part** — When this character is reduced to 5 Life Points or less, it gains +2 ATTACK and Mindless.
+**Till Death Do Us Part** - When this character is reduced to 5 Life Points or less, it gains +2 ATTACK and Mindless.
 
 ## Capability
 
-EDPA **2.68** · EDPA/Duc **0.206** · ATK2K **9.7** · ATK2K/Duc **0.75**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.206</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

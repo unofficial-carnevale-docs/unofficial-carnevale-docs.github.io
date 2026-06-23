@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/burning-saint/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 16
+meta: "Hero · Hospitaller · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · Hospitaller</strong><span>Size 40 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,17 @@ nav_section: Factions
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Universal Shielding(6)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(6)</a></div>
 
-**Walk Through The Fire And You Will Not Be Burned** — (1AP): The Saint summons holy flame around her! At the end of the round, place the Blast marker over this character. Any enemy character at least partially touched by this template (and within 1" vertically of the Burning Saint) loses 3 Life Points. If the Burning Saint enters water after using this ability it is cancelled. Characters may only be affected by this ability once per round, no matter how many times it's used by any number of Burning Saints!
+**Walk Through The Fire And You Will Not Be Burned** - (1AP): The Saint summons holy flame around her! At the end of the round, place the Blast marker over this character. Any enemy character at least partially touched by this template (and within 1" vertically of the Burning Saint) loses 3 Life Points. If the Burning Saint enters water after using this ability it is cancelled. Characters may only be affected by this ability once per round, no matter how many times it's used by any number of Burning Saints!
 
-**Full Plate** — If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
+**Full Plate** - If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
 
 ## Capability
 
-EDPA **3.74** · EDPA/Duc **0.234** · ATK2K **17.6** · ATK2K/Duc **1.10**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.74</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.234</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">17.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.10</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/the-guild/brewer/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 15
+meta: "Hero · End of Days · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · End of Days</strong><span>Size 40 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,23 +22,24 @@ nav_section: Factions
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Bottles | 6" | — | — | — |
-| Flaming Bottles | 6" | — | −5 | [Black Powder](/compendium/weapon-abilities/#black-powder) |
+| Flaming Bottles | 6" | — | −5 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> |
 
 ### Abilities
 
-[Companion(End of Days)](/compendium/character-abilities/#companion-x), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(End of Days)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Fancy a Tipple?** — AURA: Until the end of the round, any friendly characters within 3" gain Brave and First Strike (1).
+**Fancy a Tipple? (AURA)** - Until the end of the round, any friendly characters within 3" gain Brave and First Strike (1).
+{: .cmd-ability}
 
-**Keep it Flowing** — Any enemy character in base contact with this character can be the target of a Drown action, regardless of whether they're in water.
+**Keep it Flowing** - Any enemy character in base contact with this character can be the target of a Drown action, regardless of whether they're in water.
 
-**Flambé** — This character may only use Flaming Bottles when within 3" of a Pulcinella Firebreather.
+**Flambé** - This character may only use Flaming Bottles when within 3" of a Pulcinella Firebreather.
 
 ## Capability
 
-EDPA **2.20** · EDPA/Duc **0.147** · ATK2K **7.4** · ATK2K/Duc **0.49**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.20</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.147</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.49</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

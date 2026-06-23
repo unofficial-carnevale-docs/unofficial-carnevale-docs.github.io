@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/doctor-of-the-firmament/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 16
+meta: "Hero · Doctor · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-rites\">Blood Rites</a>, <a href=\"/magic/fateweaving/\" class=\"disc-fateweaving\">Fateweaving</a>, <a href=\"/magic/wild-magic/\" class=\"disc-wild-magic\">Wild Magic</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Doctor · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Expert Sorcerer(2)](/compendium/character-abilities/#expert-sorcerer-x), [Mage(2)](/compendium/character-abilities/#mage-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-sorcerer-x">Expert Sorcerer(2)</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(2)</a></div>
 
-**Void Walker** — PULSE: One friendly character within 3" gains Ethereal until the end of the game.
+**Void Walker (PULSE)** - One friendly character within 3" gains Ethereal until the end of the game.
+{: .cmd-ability}
 
-**Aetheric Gaze** — This character may select its Magic Spells from up to 2 different Disciplines. It also gains Cantrips from both Disciplines chosen.
+**Aetheric Gaze** - This character may select its Magic Spells from up to 2 different Disciplines. It also gains Cantrips from both Disciplines chosen.
 
 ## Capability
 
-EDPA **4.25** · EDPA/Duc **0.266** · ATK2K **11.4** · ATK2K/Duc **0.71**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.266</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.71</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 
@@ -87,22 +88,6 @@ EDPA **4.25** · EDPA/Duc **0.266** · ATK2K **11.4** · ATK2K/Duc **0.71**
 | Armoured (Dex4/Prot5) | 2.90 | 2.90 |
 | Tank (Dex4/Prot5/US5) | 2.58 | 2.69 |
 | Parry (Dex5/Prot3/Parry2) | 3.80 | 3.80 |
-
-</div>
-<div>
-
-### Burst EDPA by target
-
-*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
-
-| Target | Burst EDPA | Median |
-|---|---|---|
-| Soft (Dex3/Prot1) | 5.63 | 4.02 |
-| Balanced (Dex4/Prot3) | 4.71 | 3.14 |
-| Evasive (Dex6/Prot2) | 5.17 | 2.69 |
-| Armoured (Dex4/Prot5) | 3.87 | 2.32 |
-| Tank (Dex4/Prot5/US5) | 3.87 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 4.71 | 2.23 |
 
 </div>
 </div>

@@ -5,9 +5,9 @@ permalink: /factions/patricians/wayfinder/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 12
+meta: "Hero · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,18 +25,17 @@ nav_section: Factions
 
 ### Abilities
 
+**Gun Laying** - (1AP): Pick a friendly character within 6" and line of sight. Until the end of that character's next activation, it gains -2 Evasion against targets outside of base contact with it.
 
-**Gun Laying** — (1AP): Pick a friendly character within 6" and line of sight. Until the end of that character's next activation, it gains -2 Evasion against targets outside of base contact with it.
+**Nautical Bearings** - Any friendly character that makes a Combat action within 3" with a weapon that has a range of 6" or higher increases their range by 6".
 
-**Nautical Bearings** — Any friendly character that makes a Combat action within 3" with a weapon that has a range of 6" or higher increases their range by 6".
-
-**Maps and Charts** — Whenever this character uses a Plan command, draw 2 extra Agendas, take a look, and discard 2 of your choice.
+**Maps and Charts** - Whenever this character uses a Plan command, draw 2 extra Agendas, take a look, and discard 2 of your choice.
 
 ## Capability
 
-EDPA **0.44** · EDPA/Duc **0.037** · ATK2K **9.7** · ATK2K/Duc **0.81**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.037</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.81</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

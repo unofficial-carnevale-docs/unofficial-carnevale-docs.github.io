@@ -2,13 +2,12 @@
 layout: model
 title: La Signora
 permalink: /factions/gifted/la-signora/
-description: "Unique support: she generates a re-roll pool for all friendly characters in LOS at the start of the round. She has a strong WP regen option but moderate combat stats."
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 18
+meta: "Leader · Hero · Unique · Commedia dell'Arte · Size 40"
 ---
-
-<p class="model-meta"><strong>Leader · Hero · Unique · Commedia dell'Arte</strong><span>Size 40 · 18 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,24 +21,25 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Costume Pistol | 6" | — | — | [Black Powder](/compendium/weapon-abilities/#black-powder), [Harmless](/compendium/weapon-abilities/#harmless), [Knockback](/compendium/weapon-abilities/#knockback) |
+| Costume Pistol | 6" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#harmless">Harmless</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
 | Rapier | melee | — | −1 | — |
 
 ### Abilities
 
-[Bulky](/compendium/character-abilities/#bulky), [Parry(2)](/compendium/character-abilities/#parry-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#parry-x">Parry(2)</a></div>
 
-**Search of Satisfaction** — PULSE: Add up to every character (friendly or enemy) within 3" of this character. She replenishes that many Will Points.
+**Search of Satisfaction (PULSE)** - Add up to every character (friendly or enemy) within 3" of this character. She replenishes that many Will Points.
+{: .cmd-ability}
 
-**All Eyes On Me** — For every friendly character in line of sight to this character (including this character) at the start of the round, add a re-roll to your All Eyes On Me Pool. Until the end of the round, any friendly character may use these re-rolls on any roll – one re-roll per dice.
+**All Eyes On Me** - For every friendly character in line of sight to this character (including this character) at the start of the round, add a re-roll to your All Eyes On Me Pool. Until the end of the round, any friendly character may use these re-rolls on any roll – one re-roll per dice.
 
-**Cheat** — If this is the only character with the Leader keyword in the gang, this character loses the Hero keyword. However, if the gang contains Il Capitano, this character loses the Leader keyword.
+**Cheat** - If this is the only character with the Leader keyword in the gang, this character loses the Hero keyword. However, if the gang contains Il Capitano, this character loses the Leader keyword.
 
 ## Capability
 
-EDPA **1.50** · EDPA/Duc **0.083** · ATK2K **17.7** · ATK2K/Duc **0.98**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.50</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.083</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">17.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.98</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper ATK2K outlier: among this faction's Supports the median is 10.6, but this model reaches 17.7, so the role median understates models like this.*
 

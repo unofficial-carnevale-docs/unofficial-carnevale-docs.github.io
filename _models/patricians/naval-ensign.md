@@ -5,9 +5,9 @@ permalink: /factions/patricians/naval-ensign/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 12
+meta: "Henchman · Soldier · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Soldier</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Fishing Spear | 2" | +1 | — | [Aquatic](/compendium/weapon-abilities/#aquatic), [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Fishing Spear | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Companion(Officer)](/compendium/character-abilities/#companion-x), [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x), [Hunter](/compendium/character-abilities/#hunter)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Officer)</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(2)</a><a class="chip" href="/compendium/character-abilities/#hunter">Hunter</a></div>
 
 ## Capability
 
-EDPA **1.99** · EDPA/Duc **0.166** · ATK2K **8.8** · ATK2K/Duc **0.73**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.99</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.166</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.73</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Canal Fighter median: EDPA **2.68** · EDPA/Duc **0.151** · ATK2K **12.6** · ATK2K/Duc **0.80***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Canal Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.151</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.80</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

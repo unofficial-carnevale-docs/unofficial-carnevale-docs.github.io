@@ -5,9 +5,9 @@ permalink: /factions/gifted/zovena-vela/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 15
+meta: "Hero · Unique · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,20 +21,20 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Fireball | 8" | +2 | −2 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Two-handed](/compendium/weapon-abilities/#two-handed), [Reload(2)](/compendium/weapon-abilities/#reload-x) |
-| Fiery Explosion | melee | +2 | −7 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Blast](/compendium/weapon-abilities/#blast), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Fireball | 8" | +2 | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
+| Fiery Explosion | melee | +2 | −7 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#blast">Blast</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave), [Pickpocket](/compendium/character-abilities/#pickpocket), [Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#pickpocket">Pickpocket</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
-**Self-Immolate** — When making a Combat action with Fiery Explosion, centre the Blast marker on Zovena Vela herself. She is hit by this attack like anyone else touched by the marker.
+**Self-Immolate** - When making a Combat action with Fiery Explosion, centre the Blast marker on Zovena Vela herself. She is hit by this attack like anyone else touched by the marker.
 
 ## Capability
 
-EDPA **3.99** · EDPA/Duc **0.266** · ATK2K **10.9** · ATK2K/Duc **0.73**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.99</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.266</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.73</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

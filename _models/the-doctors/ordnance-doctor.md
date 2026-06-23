@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/ordnance-doctor/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 15
+meta: "Hero · Doctor · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Doctor</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Spirit Cannon | 12" | +2 | −1 | [Reload(1)](/compendium/weapon-abilities/#reload-x), [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Spirit Cannon | 12" | +2 | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Expert Marksman(1)](/compendium/character-abilities/#expert-marksman-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-marksman-x">Expert Marksman(1)</a></div>
 
-**Soul Ammunition** — When making a Combat action with the Spirit Cannon, this character may use 2 Will Points to have it gain one of the following for that action: Increase Range from 12" to 18". Gain the Blast ability. Gain the Knockback ability.
+**Soul Ammunition** - When making a Combat action with the Spirit Cannon, this character may use 2 Will Points to have it gain one of the following for that action: Increase Range from 12" to 18". Gain the Blast ability. Gain the Knockback ability.
 
 ## Capability
 
-EDPA **1.73** · EDPA/Duc **0.115** · ATK2K **13.7** · ATK2K/Duc **0.91**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.73</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.115</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">13.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.91</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

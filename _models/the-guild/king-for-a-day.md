@@ -2,13 +2,12 @@
 layout: model
 title: King For a Day
 permalink: /factions/the-guild/king-for-a-day/
-description: "Cheap anti-armour damage dealer, but he only has AP2 and low command. Build around the End of Days sub-faction, notably removing their Mindless attribute."
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 22
+meta: "Leader · End of Days · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · End of Days</strong><span>Size 30 · 22 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave), [Companion(End of Days)](/compendium/character-abilities/#companion-x), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(End of Days)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Start the Horrorshow!** — AURA: Until the end of the round, any friendly characters with the End of Days keyword in line of sight gain +1 ATTACK.
+**Start the Horrorshow! (AURA)** - Until the end of the round, any friendly characters with the End of Days keyword in line of sight gain +1 ATTACK.
+{: .cmd-ability}
 
-**Do As I Say, Not As I Do** — All other friendly characters with the End of Days keyword lose Mindless for the entire game, even if this character is killed. This character still keeps Mindless.
+**Do As I Say, Not As I Do** - All other friendly characters with the End of Days keyword lose Mindless for the entire game, even if this character is killed. This character still keeps Mindless.
 
 ## Capability
 
-EDPA **2.20** · EDPA/Duc **0.100** · ATK2K **8.0** · ATK2K/Duc **0.36**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.20</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.100</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.36</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

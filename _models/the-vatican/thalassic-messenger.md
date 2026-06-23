@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/thalassic-messenger/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 18
+meta: "Henchman · Construct · Size 50"
 ---
-
-<p class="model-meta"><strong>Henchman · Construct</strong><span>Size 50 · 18 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Companion(Invoker)](/compendium/character-abilities/#companion-x), [Fast Swimmer(3)](/compendium/character-abilities/#fast-swimmer-x), [Primitive](/compendium/character-abilities/#primitive), [Universal Shielding(4)](/compendium/character-abilities/#universal-shielding-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Invoker)</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(3)</a><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(4)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Living Tide** — this character can re-roll any failed dice rolls when making Drown and Dive actions.
+**Living Tide** - this character can re-roll any failed dice rolls when making Drown and Dive actions.
 
 ## Capability
 
-EDPA **2.68** · EDPA/Duc **0.149** · ATK2K **18.0** · ATK2K/Duc **1.00**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.149</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">18.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.00</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Canal Fighter median: EDPA **2.68** · EDPA/Duc **0.151** · ATK2K **12.6** · ATK2K/Duc **0.80***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Canal Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.151</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.80</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/patricians/venetian-spy/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 16
+meta: "Hero · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Long Rifle | 30" | +1 | −1 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Knockback](/compendium/weapon-abilities/#knockback), [Reload(1)](/compendium/weapon-abilities/#reload-x), [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Long Rifle | 30" | +1 | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Concealment(1)](/compendium/character-abilities/#concealment-x), [Expert Marksman(2)](/compendium/character-abilities/#expert-marksman-x), [Infiltration](/compendium/character-abilities/#infiltration)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#concealment-x">Concealment(1)</a><a class="chip" href="/compendium/character-abilities/#expert-marksman-x">Expert Marksman(2)</a><a class="chip" href="/compendium/character-abilities/#infiltration">Infiltration</a></div>
 
-**Unwieldy** — This character may only make Combat actions with the Long Rifle as the first action of their turn (including using it for Attacks of Opportunity).
+**Unwieldy** - This character may only make Combat actions with the Long Rifle as the first action of their turn (including using it for Attacks of Opportunity).
 
 ## Capability
 
-EDPA **1.87** · EDPA/Duc **0.117** · ATK2K **10.6** · ATK2K/Duc **0.66**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.117</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.66</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Sniper median: EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **11.5** · ATK2K/Duc **0.99***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Sniper median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.156</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

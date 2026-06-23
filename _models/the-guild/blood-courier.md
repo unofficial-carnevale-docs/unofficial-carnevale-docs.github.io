@@ -5,9 +5,9 @@ permalink: /factions/the-guild/blood-courier/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 13
+meta: "Henchman · House of Virtue · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · House of Virtue</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,17 @@ nav_section: Factions
 
 ### Abilities
 
-[Concealment(2)](/compendium/character-abilities/#concealment-x), [Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#concealment-x">Concealment(2)</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
-**Transfusion** — - 1WP: One friendly character in base contact replenishes 1 Life Point or one enemy character loses 1 Life Point. If an enemy character is killed by this life loss, this character replenishes 2 Will Points. This character may do this once during each of its turns.
+**Transfusion** - - 1WP: One friendly character in base contact replenishes 1 Life Point or one enemy character loses 1 Life Point. If an enemy character is killed by this life loss, this character replenishes 2 Will Points. This character may do this once during each of its turns.
 
-**Bucket of Blood** — At the start of the game, when selecting spells, you may select a Blood Rites spell not known by any other friendly Mage for this character to store. While this character is within line of sight to a friendly Mage, that character can cast the stored spell as if it were their own.
+**Bucket of Blood** - At the start of the game, when selecting spells, you may select a Blood Rites spell not known by any other friendly Mage for this character to store. While this character is within line of sight to a friendly Mage, that character can cast the stored spell as if it were their own.
 
 ## Capability
 
-EDPA **0.62** · EDPA/Duc **0.048** · ATK2K **7.3** · ATK2K/Duc **0.56**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.62</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.048</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.56</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

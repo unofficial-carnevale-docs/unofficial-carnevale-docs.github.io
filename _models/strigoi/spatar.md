@@ -5,9 +5,9 @@ permalink: /factions/strigoi/spatar/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 16
+meta: "Hero · Vampire · Soldier · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Vampire · Soldier</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,18 +21,18 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Flanged Mace | melee | — | — | [Knockback](/compendium/weapon-abilities/#knockback) |
+| Flanged Mace | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
 | Coustille | melee | +1 | −1 | — |
 
 ### Abilities
 
-[Bodyguard(Leader)](/compendium/character-abilities/#bodyguard-x), [Frenzied](/compendium/character-abilities/#frenzied), [Parry(1)](/compendium/character-abilities/#parry-x), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bodyguard-x">Bodyguard(Leader)</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#parry-x">Parry(1)</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a></div>
 
 ## Capability
 
-EDPA **3.10** · EDPA/Duc **0.194** · ATK2K **22.9** · ATK2K/Duc **1.43**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.10</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.194</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">22.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.43</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Tank median: EDPA **2.45** · EDPA/Duc **0.154** · ATK2K **23.7** · ATK2K/Duc **1.53***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Tank median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.45</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.154</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">23.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.53</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

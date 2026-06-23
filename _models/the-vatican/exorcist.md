@@ -2,13 +2,12 @@
 layout: model
 title: Exorcist
 permalink: /factions/the-vatican/exorcist/
-description: "Mediocre combatant, it's a Disruptor with a permanent +3 damage vs WP-0 models, making him a good counterpick in certain situations (notably against Strigoi)."
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 20
+meta: "Leader · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader</strong><span>Size 30 · 20 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,23 +21,24 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Divine Touch | melee | — | — | [Stun](/compendium/weapon-abilities/#stun) |
+| Divine Touch | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Fear(-2)](/compendium/character-abilities/#fear-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(-2)</a></div>
 
-**Fear the Lord** — PULSE: Pick 1 enemy character within 6". Until the end of the round, whenever that character is hit by a Combat action, the attacker gains Fear(-2).
+**Fear the Lord (PULSE)** - Pick 1 enemy character within 6". Until the end of the round, whenever that character is hit by a Combat action, the attacker gains Fear(-2).
+{: .cmd-ability}
 
-**Helm of Penitence** — This character may attempt to Dispel magic spells as if it has Mage(3). In addition, enemy characters may not use Will Points when within 3" of this character.
+**Helm of Penitence** - This character may attempt to Dispel magic spells as if it has Mage(3). In addition, enemy characters may not use Will Points when within 3" of this character.
 
-**Exorcism** — When making a Combat action with Divine Touch, if it causes at least 1 Damage, the target loses 1 Will Point. If the target has 0 Will Points remaining, the attack instead does +3 Damage.
+**Exorcism** - When making a Combat action with Divine Touch, if it causes at least 1 Damage, the target loses 1 Will Point. If the target has 0 Will Points remaining, the attack instead does +3 Damage.
 
 ## Capability
 
-EDPA **1.13** · EDPA/Duc **0.057** · ATK2K **14.9** · ATK2K/Duc **0.74**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.057</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">14.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.74</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Disruptor median: EDPA **1.69** · EDPA/Duc **0.113** · ATK2K **12.2** · ATK2K/Duc **0.82***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Disruptor median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.69</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.113</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.2</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.82</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -2,13 +2,12 @@
 layout: model
 title: Venetian Noble
 permalink: /factions/patricians/venetian-noble/
-description: "Aggressive duelist and good commander: friendly characters gain +1 WP on kill when they are in LOS."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 21
+meta: "Leader · Councillor · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Councillor</strong><span>Size 30 · 21 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,22 +21,23 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Rifled Duelling Pistol | 12" | — | −2 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(2)](/compendium/weapon-abilities/#reload-x) |
+| Rifled Duelling Pistol | 12" | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
 | Cup Rapier | melee | +1 | −1 | — |
 
 ### Abilities
 
-[Engage](/compendium/character-abilities/#engage), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#engage">Engage</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a></div>
 
-**The Monster Behind the Mask** — PULSE: This character gains +1 to its MOVEMENT, DEXTERITY, and ATTACK until the end of the round. However, it reduces its MIND to 1.
+**The Monster Behind the Mask (PULSE)** - This character gains +1 to its MOVEMENT, DEXTERITY, and ATTACK until the end of the round. However, it reduces its MIND to 1.
+{: .cmd-ability}
 
-**Murderous Patron** — Any other friendly character that kills an enemy character replenishes 1 Will Point if both are in line of sight to the Venetian Noble.
+**Murderous Patron** - Any other friendly character that kills an enemy character replenishes 1 Will Point if both are in line of sight to the Venetian Noble.
 
 ## Capability
 
-EDPA **3.74** · EDPA/Duc **0.178** · ATK2K **18.4** · ATK2K/Duc **0.88**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.74</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.178</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">18.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.88</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

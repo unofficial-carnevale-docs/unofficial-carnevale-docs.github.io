@@ -5,9 +5,9 @@ permalink: /factions/the-guild/blooded/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 5
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 5 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#limited-movement">Limited Movement</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Living Sacrifice** — Any character with the House of Virtue keyword within 6" and line of sight may use this character's Life Points as if they were their own Will Points, costing 2 Life Points per Will Point. This ability can be used even if it would kill this character. If a Will Point granted by this ability would kill this character and be used on a Cast Spell action, the destiny dice is counted as automatically rolling a 10.
+**Living Sacrifice** - Any character with the House of Virtue keyword within 6" and line of sight may use this character's Life Points as if they were their own Will Points, costing 2 Life Points per Will Point. This ability can be used even if it would kill this character. If a Will Point granted by this ability would kill this character and be used on a Cast Spell action, the destiny dice is counted as automatically rolling a 10.
 
 ## Capability
 
-EDPA **0.44** · EDPA/Duc **0.088** · ATK2K **4.6** · ATK2K/Duc **0.92**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.088</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">4.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.92</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

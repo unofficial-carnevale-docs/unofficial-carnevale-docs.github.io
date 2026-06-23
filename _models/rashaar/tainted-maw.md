@@ -5,9 +5,9 @@ permalink: /factions/rashaar/tainted-maw/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 18
+meta: "Hero · Feral · Size 50"
 ---
-
-<p class="model-meta"><strong>Hero · Feral</strong><span>Size 50 · 18 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,20 +21,20 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Razor Maw | melee | +1 | −2 | [Aquatic](/compendium/weapon-abilities/#aquatic) |
-| Mutated Limbs | 4" | — | — | [Aquatic](/compendium/weapon-abilities/#aquatic) |
+| Razor Maw | melee | +1 | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
+| Mutated Limbs | 4" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 
-[Expert Grappler(1)](/compendium/character-abilities/#expert-grappler-x), [Fast Swimmer(1)](/compendium/character-abilities/#fast-swimmer-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-grappler-x">Expert Grappler(1)</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(1)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Drag to the Depths** — If a Combat action with Mutated Limbs results in an enemy character losing Life Points, move that character into base contact with this character, ignoring attacks of opportunity.
+**Drag to the Depths** - If a Combat action with Mutated Limbs results in an enemy character losing Life Points, move that character into base contact with this character, ignoring attacks of opportunity.
 
 ## Capability
 
-EDPA **2.86** · EDPA/Duc **0.159** · ATK2K **20.6** · ATK2K/Duc **1.14**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.86</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.159</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">20.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.14</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper EDPA outlier: among this faction's Specialists the median is 1.13, but this model reaches 2.86, so the role median understates models like this.*
 

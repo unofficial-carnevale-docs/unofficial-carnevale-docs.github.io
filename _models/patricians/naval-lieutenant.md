@@ -5,9 +5,9 @@ permalink: /factions/patricians/naval-lieutenant/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 15
+meta: "Hero · Officer · Soldier · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Officer · Soldier</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,23 +21,24 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Nock Gun | 12" | +3 | −1 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Nock Gun | 12" | +3 | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 
-[Boat Crew](/compendium/character-abilities/#boat-crew), [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#boat-crew">Boat Crew</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(2)</a></div>
 
-**We Trained For This** — AURA: All friendly characters within 6" increase their Fast Swimmer (X) value by 2 until the end of the round. Any characters without Fast Swimmer are unaffected.
+**We Trained For This (AURA)** - All friendly characters within 6" increase their Fast Swimmer (X) value by 2 until the end of the round. Any characters without Fast Swimmer are unaffected.
+{: .cmd-ability}
 
-**Chain of Command** — This character may only use the ORDER or COUNTER Commands on characters with the Soldier keyword.
+**Chain of Command** - This character may only use the ORDER or COUNTER Commands on characters with the Soldier keyword.
 
-**Unwieldy** — This character may only make Combat actions with the Nock Gun as the first action of their turn (including using it for Attacks of Opportunity).
+**Unwieldy** - This character may only make Combat actions with the Nock Gun as the first action of their turn (including using it for Attacks of Opportunity).
 
 ## Capability
 
-EDPA **2.54** · EDPA/Duc **0.169** · ATK2K **13.7** · ATK2K/Duc **0.91**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.54</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.169</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">13.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.91</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Sniper median: EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **11.5** · ATK2K/Duc **0.99***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Sniper median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.156</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

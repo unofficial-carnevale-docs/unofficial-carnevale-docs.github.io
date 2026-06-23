@@ -5,9 +5,9 @@ permalink: /factions/gifted/il-mentore/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 16
+meta: "Hero · Unique · Trade · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique · Trade</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Pickpocket](/compendium/character-abilities/#pickpocket), [Slippery(2)](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#pickpocket">Pickpocket</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery(2)</a></div>
 
-**Mask of Many Faces** — At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks. For the entirety of the game that character gains one of the following: Pickpocket and Slippery(2); Aerial Attack and Infiltrate. A character can only be given a single Mask. Unique characters without Faction(Gifted) and Mindless characters cannot be given a Mask.
+**Mask of Many Faces** - At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks. For the entirety of the game that character gains one of the following: Pickpocket and Slippery(2); Aerial Attack and Infiltrate. A character can only be given a single Mask. Unique characters without Faction(Gifted) and Mindless characters cannot be given a Mask.
 
 ## Capability
 
-EDPA **1.63** · EDPA/Duc **0.102** · ATK2K **10.6** · ATK2K/Duc **0.66**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.63</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.102</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.66</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

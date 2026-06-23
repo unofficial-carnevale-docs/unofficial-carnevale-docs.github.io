@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/paladin-of-st-lazarus/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 16
+meta: "Hero · Hospitaller · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero · Hospitaller</strong><span>Size 40 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Warhammer | 1" | +1 | — | [Stun](/compendium/weapon-abilities/#stun), [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Warhammer | 1" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Expert Offence(1)](/compendium/character-abilities/#expert-offence-x), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(1)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a></div>
 
-**Resurrection** — when this character is killed, do not remove it from the board. At the start of the next round, make a Basic MIND Roll (Will Points may be used as normal). If successful, this character comes back to life with 5 Life Points and gains Berserk for the rest of the game. If the MIND Roll is unsuccessful, the character is completely dead and removed from the board.
+**Resurrection** - when this character is killed, do not remove it from the board. At the start of the next round, make a Basic MIND Roll (Will Points may be used as normal). If successful, this character comes back to life with 5 Life Points and gains Berserk for the rest of the game. If the MIND Roll is unsuccessful, the character is completely dead and removed from the board.
 
 ## Capability
 
-EDPA **3.13** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.31**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.31</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

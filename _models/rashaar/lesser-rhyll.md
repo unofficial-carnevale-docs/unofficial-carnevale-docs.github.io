@@ -5,9 +5,9 @@ permalink: /factions/rashaar/lesser-rhyll/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 13
+meta: "Henchman · Monster · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Monster</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Dementing Tentacles | melee | — | — | [Aquatic](/compendium/weapon-abilities/#aquatic), [Stun](/compendium/weapon-abilities/#stun) |
+| Dementing Tentacles | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Fast Swimmer(1)](/compendium/character-abilities/#fast-swimmer-x), [Fear(0)](/compendium/character-abilities/#fear-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(1)</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(0)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
 ## Capability
 
-EDPA **1.36** · EDPA/Duc **0.105** · ATK2K **9.7** · ATK2K/Duc **0.75**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.36</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.105</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Line Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

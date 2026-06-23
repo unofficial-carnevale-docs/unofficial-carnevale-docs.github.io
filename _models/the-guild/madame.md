@@ -2,13 +2,12 @@
 layout: model
 title: Madame
 permalink: /factions/the-guild/madame/
-description: "Fast evasive support with little personal combat. She has strong abilities but they need Command points investment. Build around the House of Virtue sub-faction, notably giving them Companion (House of Virtue)."
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 20
+meta: "Leader · House of Virtue · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · House of Virtue</strong><span>Size 30 · 20 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,24 +21,26 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Garter Pistol | 6" | — | −2 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(2)](/compendium/weapon-abilities/#reload-x) |
+| Garter Pistol | 6" | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
 | Stiletto | melee | +1 | +1 | — |
 
 ### Abilities
 
-[Concealment(1)](/compendium/character-abilities/#concealment-x), [Parry(2)](/compendium/character-abilities/#parry-x), [Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#concealment-x">Concealment(1)</a><a class="chip" href="/compendium/character-abilities/#parry-x">Parry(2)</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
-**Don't Let Them Take You!** — PULSE: One other friendly character in line of sight within 3" (not including this one) gains Parry (2) until the end of the game.
+**Don't Let Them Take You! (PULSE)** - One other friendly character in line of sight within 3" (not including this one) gains Parry (2) until the end of the game.
+{: .cmd-ability}
 
-**Strike When They're Vulnerable** — AURA: Until the end of the round, any other friendly characters with the House of Virtue keyword in line of sight (not including this one) gain Penetration -2 on their weapons.
+**Strike When They're Vulnerable (AURA)** - Until the end of the round, any other friendly characters with the House of Virtue keyword in line of sight (not including this one) gain Penetration -2 on their weapons.
+{: .cmd-ability}
 
-**My Girls & Boys** — While this character is on the board, all characters with the House of Virtue keyword gain Companion (House of Virtue).
+**My Girls & Boys** - While this character is on the board, all characters with the House of Virtue keyword gain Companion (House of Virtue).
 
 ## Capability
 
-EDPA **1.80** · EDPA/Duc **0.090** · ATK2K **20.1** · ATK2K/Duc **1.01**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.80</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.090</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">20.1</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.01</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

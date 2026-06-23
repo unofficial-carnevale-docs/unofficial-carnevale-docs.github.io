@@ -2,13 +2,12 @@
 layout: model
 title: Pinnacle of Affluence
 permalink: /factions/patricians/pinnacle-of-affluence/
-description: "The most expensive leader of the game. His cost is justified by being the highest command output character over the course of the game. He has weak stats but has a Poisoned Template attack and gives every friendly model Bodyguard (Pinnacle of Affluence)."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 32
+meta: "Leader · Councillor · Unique · Size 75"
 ---
-
-<p class="model-meta"><strong>Leader · Councillor · Unique</strong><span>Size 75 · 32 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -23,24 +22,25 @@ nav_section: Factions
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Strice's Paw | melee | — | −1 | — |
-| Gilded Table Scraps | melee | — | — | [Harmless](/compendium/weapon-abilities/#harmless), [Stun](/compendium/weapon-abilities/#stun), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
-| Minty Fresh Breath | melee | — | — | Pen-1, [Poisoned](/compendium/weapon-abilities/#poisoned), [Template](/compendium/weapon-abilities/#template), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Gilded Table Scraps | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#harmless">Harmless</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
+| Minty Fresh Breath | melee | — | — | <span class="chip chip-sm">Pen-1</span> <a class="chip chip-sm" href="/compendium/weapon-abilities/#poisoned">Poisoned</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 
-[Bulky](/compendium/character-abilities/#bulky), [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x), [Limited Movement](/compendium/character-abilities/#limited-movement)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#expert-grappler-x">Expert Grappler(2)</a><a class="chip" href="/compendium/character-abilities/#limited-movement">Limited Movement</a></div>
 
-**You there! Do something!** — AURA: Until the end of the round, other friendly characters that start their turn within 6" and line of sight of this character gain First Strike (2). Characters can only be affected by this Command Ability once each game round.
+**You there! Do something! (AURA)** - Until the end of the round, other friendly characters that start their turn within 6" and line of sight of this character gain First Strike (2). Characters can only be affected by this Command Ability once each game round.
+{: .cmd-ability}
 
-**Stop them, damn you! I don't care what it takes!** — Friendly characters in line of sight of this character gain Bodyguard (Pinnacle of Affluence).
+**Stop them, damn you! I don't care what it takes!** - Friendly characters in line of sight of this character gain Bodyguard (Pinnacle of Affluence).
 
-**Bask in my Magnificence!** — This character replenishes all of its Command Points at the start of each of its character turns and may use each type of Command (PLAN, COUNTER, etc.) twice per game round.
+**Bask in my Magnificence!** - This character replenishes all of its Command Points at the start of each of its character turns and may use each type of Command (PLAN, COUNTER, etc.) twice per game round.
 
 ## Capability
 
-EDPA **1.77** · EDPA/Duc **0.055** · ATK2K **22.0** · ATK2K/Duc **0.69**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.77</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.055</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">22.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

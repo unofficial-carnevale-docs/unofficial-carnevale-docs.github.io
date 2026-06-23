@@ -5,9 +5,9 @@ permalink: /factions/rashaar/handler/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 12
+meta: "Hero · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,21 +21,21 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Herding Spear | 2" | +1 | — | [Knockback](/compendium/weapon-abilities/#knockback), [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Herding Spear | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave), [Hunter](/compendium/character-abilities/#hunter)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#hunter">Hunter</a></div>
 
-**Herding** — Any friendly character with the Monster keyword that starts a Run/Climb action within 2" of one or more characters with this rule gains +2 MOVE for that action.
+**Herding** - Any friendly character with the Monster keyword that starts a Run/Climb action within 2" of one or more characters with this rule gains +2 MOVE for that action.
 
-**Encouragement** — Friendly characters with the Feral keyword that start their turn within 6" and line of sight of this character automatically pass their Primitive roll.
+**Encouragement** - Friendly characters with the Feral keyword that start their turn within 6" and line of sight of this character automatically pass their Primitive roll.
 
 ## Capability
 
-EDPA **2.68** · EDPA/Duc **0.223** · ATK2K **9.7** · ATK2K/Duc **0.81**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.223</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.81</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

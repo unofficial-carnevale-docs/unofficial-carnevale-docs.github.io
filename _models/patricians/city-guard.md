@@ -5,9 +5,9 @@ permalink: /factions/patricians/city-guard/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 10
+meta: "Henchman · Soldier · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Soldier</strong><span>Size 30 · 10 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,18 +21,18 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Bardiche | 2" | +1 | — | [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Bardiche | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 | Infantry Sabre | melee | +1 | — | — |
 
 ### Abilities
 
-[Companion(Officer)](/compendium/character-abilities/#companion-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Officer)</a></div>
 
 ## Capability
 
-EDPA **1.99** · EDPA/Duc **0.199** · ATK2K **13.7** · ATK2K/Duc **1.37**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.99</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.199</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">13.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.37</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Line Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

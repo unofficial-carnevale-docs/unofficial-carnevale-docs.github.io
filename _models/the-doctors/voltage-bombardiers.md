@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/voltage-bombardiers/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 12
+meta: "Hero · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 40 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,23 +21,23 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Soul Bombard | melee | +2 | −3 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Blast](/compendium/weapon-abilities/#blast) |
+| Soul Bombard | melee | +2 | −3 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#blast">Blast</a> |
 
 ### Abilities
 
-[Brawler(2)](/compendium/character-abilities/#brawler-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brawler-x">Brawler(2)</a><a class="chip" href="/compendium/character-abilities/#limited-movement">Limited Movement</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Nexus** — Any character with the Doctor keyword within 6" and line of sight may use this character's Will Points as if they were their own.
+**Nexus** - Any character with the Doctor keyword within 6" and line of sight may use this character's Will Points as if they were their own.
 
-**Detonation** — When placing the Blast template for Soul Bombard, it must be centred over this character (and is also hit).
+**Detonation** - When placing the Blast template for Soul Bombard, it must be centred over this character (and is also hit).
 
-**Explosive Mind** — Whenever this character loses Will Points (through using them itself or being used as part of the Nexus special rule), after the action is resolved, it must immediately make an out of sequence Combat action using Soul Bombard. This is done only once per action. Combat actions caused by Explosive Mind cannot cause additional Combat actions.
+**Explosive Mind** - Whenever this character loses Will Points (through using them itself or being used as part of the Nexus special rule), after the action is resolved, it must immediately make an out of sequence Combat action using Soul Bombard. This is done only once per action. Combat actions caused by Explosive Mind cannot cause additional Combat actions.
 
 ## Capability
 
-EDPA **4.14** · EDPA/Duc **0.345** · ATK2K **6.7** · ATK2K/Duc **0.56**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.14</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.345</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">6.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.56</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper EDPA outlier: among this faction's Specialists the median is 1.13, but this model reaches 4.14, so the role median understates models like this.*
 

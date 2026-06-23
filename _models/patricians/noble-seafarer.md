@@ -5,9 +5,9 @@ permalink: /factions/patricians/noble-seafarer/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 12
+meta: "Henchman · Councillor · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Councillor</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,18 +21,18 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Coach Gun | 12" | +2 | — | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(1)](/compendium/weapon-abilities/#reload-x), [Two-handed](/compendium/weapon-abilities/#two-handed) |
-| Dive Knife | melee | — | — | [Aquatic](/compendium/weapon-abilities/#aquatic) |
+| Coach Gun | 12" | +2 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
+| Dive Knife | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 
-[Boat Crew](/compendium/character-abilities/#boat-crew), [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#boat-crew">Boat Crew</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(2)</a></div>
 
 ## Capability
 
-EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **9.7** · ATK2K/Duc **0.81**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.156</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.81</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Sniper median: EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **11.5** · ATK2K/Duc **0.99***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Sniper median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.156</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

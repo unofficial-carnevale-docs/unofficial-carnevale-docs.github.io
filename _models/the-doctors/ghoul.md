@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/ghoul/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 6
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 6 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,17 @@ nav_section: Factions
 
 ### Abilities
 
-[Frenzied](/compendium/character-abilities/#frenzied), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Unstable Wretch** — From the start of the second round onwards, at the end of this character's turn all characters (friendly and enemy, including this character) within 3" lose 1 Life Point.
+**Unstable Wretch** - From the start of the second round onwards, at the end of this character's turn all characters (friendly and enemy, including this character) within 3" lose 1 Life Point.
 
-**Bereft of Will** — Other characters within 3" cannot use Will Points (including Frenzied and Will Points of other characters, even if they are outside of 3"). When this character dies, all other characters within 3" lose 1 Will Point.
+**Bereft of Will** - Other characters within 3" cannot use Will Points (including Frenzied and Will Points of other characters, even if they are outside of 3"). When this character dies, all other characters within 3" lose 1 Will Point.
 
 ## Capability
 
-EDPA **0.44** · EDPA/Duc **0.073** · ATK2K **4.0** · ATK2K/Duc **0.67**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.073</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">4.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.67</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Disruptor median: EDPA **1.69** · EDPA/Duc **0.113** · ATK2K **12.2** · ATK2K/Duc **0.82***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Disruptor median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.69</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.113</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.2</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.82</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

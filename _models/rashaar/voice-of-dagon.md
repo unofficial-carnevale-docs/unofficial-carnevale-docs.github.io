@@ -2,13 +2,12 @@
 layout: model
 title: Voice of Dagon
 permalink: /factions/rashaar/voice-of-dagon/
-description: "One of the highest effective Command outputs in the game, otherwise a modest combattant but with a good armor-piercing Stun template attack."
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 20
+meta: "Leader · Monster · Size 40"
 ---
-
-<p class="model-meta"><strong>Leader · Monster</strong><span>Size 40 · 20 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -23,21 +22,22 @@ nav_section: Factions
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Golden Tipped Claws | melee | — | −2 | — |
-| Voice of Madness | melee | — | −3 | [Stun](/compendium/weapon-abilities/#stun), [Template](/compendium/weapon-abilities/#template) |
+| Voice of Madness | melee | — | −3 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> |
 
 ### Abilities
 
-[Universal Shielding(4)](/compendium/character-abilities/#universal-shielding-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(4)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Blessing of Dagon** — AURA: Until the end of the round, any friendly characters within 6" gain Expert Offence (2).
+**Blessing of Dagon (AURA)** - Until the end of the round, any friendly characters within 6" gain Expert Offence (2).
+{: .cmd-ability}
 
-**Herald of an Old God** — Whenever this character uses an ORDER or COUNTER Command, roll a dice. On a 7+ this Command doesn't use a Command Point.
+**Herald of an Old God** - Whenever this character uses an ORDER or COUNTER Command, roll a dice. On a 7+ this Command doesn't use a Command Point.
 
 ## Capability
 
-EDPA **2.50** · EDPA/Duc **0.125** · ATK2K **16.0** · ATK2K/Duc **0.80**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.50</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.125</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">16.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.80</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

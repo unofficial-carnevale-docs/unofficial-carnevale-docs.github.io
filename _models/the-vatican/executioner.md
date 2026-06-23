@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/executioner/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 12
+meta: "Hero · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Expert Offence(2)](/compendium/character-abilities/#expert-offence-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a></div>
 
-**Bifurcation** — When this character makes a Combat action (not an Attack of Opportunity) with the Executioner's Axe against a target character with a Size of 40mm or less and rolls at least 4 Aces, they are bifurcated! Instead of calculating Damage as normal, instead the target character loses half their remaining Life Points (rounding up).
+**Bifurcation** - When this character makes a Combat action (not an Attack of Opportunity) with the Executioner's Axe against a target character with a Size of 40mm or less and rolls at least 4 Aces, they are bifurcated! Instead of calculating Damage as normal, instead the target character loses half their remaining Life Points (rounding up).
 
 ## Capability
 
-EDPA **2.97** · EDPA/Duc **0.247** · ATK2K **6.9** · ATK2K/Duc **0.58**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.97</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.247</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">6.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.58</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/lacrimosa/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 10
+meta: "Henchman · Discipline(<a href=\"/magic/divinity/\" class=\"disc-divinity\">Divinity</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Discipline(<a href="/magic/divinity/" class="disc-divinity">Divinity</a>)</strong><span>Size 30 · 10 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Frenzied](/compendium/character-abilities/#frenzied), [Mage(2)](/compendium/character-abilities/#mage-x), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(2)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a></div>
 
-**Candid Soul** — for every Life Point this character uses as a Will Point due to Frenzied, all other friendly characters without this rule within 3" replenish 1 Life Point.
+**Candid Soul** - for every Life Point this character uses as a Will Point due to Frenzied, all other friendly characters without this rule within 3" replenish 1 Life Point.
 
 ## Capability
 
-EDPA **0.44** · EDPA/Duc **0.044** · ATK2K **8.8** · ATK2K/Duc **0.88**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.044</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.88</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

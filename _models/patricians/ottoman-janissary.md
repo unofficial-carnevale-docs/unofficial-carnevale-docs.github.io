@@ -5,9 +5,9 @@ permalink: /factions/patricians/ottoman-janissary/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 17
+meta: "Hero · Ottoman · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Ottoman</strong><span>Size 30 · 17 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,19 +22,20 @@ nav_section: Factions
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Twin Swords | melee | +1 | — | — |
-| Battle Axe | 2" | +1 | — | [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Battle Axe | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Bodyguard(Leader)](/compendium/character-abilities/#bodyguard-x), [Brawler(1)](/compendium/character-abilities/#brawler-x), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bodyguard-x">Bodyguard(Leader)</a><a class="chip" href="/compendium/character-abilities/#brawler-x">Brawler(1)</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a></div>
 
-**Barbary Discipline** — AURA: Until the end of the round, all friendly characters within 6" gain +2 MOVEMENT if their Run/Climb action is used to charge.
+**Barbary Discipline (AURA)** - Until the end of the round, all friendly characters within 6" gain +2 MOVEMENT if their Run/Climb action is used to charge.
+{: .cmd-ability}
 
 ## Capability
 
-EDPA **3.29** · EDPA/Duc **0.194** · ATK2K **19.5** · ATK2K/Duc **1.15**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.29</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.194</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">19.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.15</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

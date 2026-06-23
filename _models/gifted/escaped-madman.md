@@ -5,9 +5,9 @@ permalink: /factions/gifted/escaped-madman/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 16
+meta: "Henchman · Unique · Size 40"
 ---
-
-<p class="model-meta"><strong>Henchman · Unique</strong><span>Size 40 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Tentacled Rebar | 1" | +1 | — | [Knockback](/compendium/weapon-abilities/#knockback) |
+| Tentacled Rebar | 1" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
 
 ### Abilities
 
-[Expert Grappler(3)](/compendium/character-abilities/#expert-grappler-x), [Mindless](/compendium/character-abilities/#mindless)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-grappler-x">Expert Grappler(3)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a></div>
 
-**Shattered Nexus** — When this character is reduced to 0 Will Points, after the current action is finished, place the Blast Marker over its head. Every character under the marker (including this one) takes 3 Damage, with Protection Rolls as normal. If this character survives, it replenishes 3 Will Points.
+**Shattered Nexus** - When this character is reduced to 0 Will Points, after the current action is finished, place the Blast Marker over its head. Every character under the marker (including this one) takes 3 Damage, with Protection Rolls as normal. If this character survives, it replenishes 3 Will Points.
 
 ## Capability
 
-EDPA **2.29** · EDPA/Duc **0.143** · ATK2K **9.3** · ATK2K/Duc **0.58**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.29</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.143</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.58</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Control median: EDPA **2.09** · EDPA/Duc **0.111** · ATK2K **12.7** · ATK2K/Duc **0.67***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Control median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.09</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.67</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

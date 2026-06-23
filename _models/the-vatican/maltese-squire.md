@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/maltese-squire/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 10
+meta: "Henchman · Hospitaller · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Hospitaller</strong><span>Size 30 · 10 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Crossbow | 30" | — | −1 | [Reload(1)](/compendium/weapon-abilities/#reload-x), [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Crossbow | 30" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Companion(Leader)](/compendium/character-abilities/#companion-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Leader)</a></div>
 
 ## Capability
 
-EDPA **0.75** · EDPA/Duc **0.075** · ATK2K **10.9** · ATK2K/Duc **1.09**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.75</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.075</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.09</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Sniper median: EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **11.5** · ATK2K/Duc **0.99***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Sniper median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.156</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Lower EDPA outlier: among this faction's Snipers the median is 2.40, but this model is only 0.75, so the role median overstates models like this.*
 

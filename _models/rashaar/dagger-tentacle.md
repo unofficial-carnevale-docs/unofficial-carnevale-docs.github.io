@@ -5,9 +5,9 @@ permalink: /factions/rashaar/dagger-tentacle/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 0
+meta: "Henchman *(free with Emissary of Mother Hydra)* · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman *(free with Emissary of Mother Hydra)*</strong><span>Size 30 · 0 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Rending Spine | 6" | — | −1 | [Knockback](/compendium/weapon-abilities/#knockback) |
+| Rending Spine | 6" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave), [Companion(Emissary of Mother Hydra)](/compendium/character-abilities/#companion-x), [Expert Marksman(1)](/compendium/character-abilities/#expert-marksman-x), [Limited Movement](/compendium/character-abilities/#limited-movement), [Mindless](/compendium/character-abilities/#mindless), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#companion-x">Companion(Emissary of Mother Hydra)</a><a class="chip" href="/compendium/character-abilities/#expert-marksman-x">Expert Marksman(1)</a><a class="chip" href="/compendium/character-abilities/#limited-movement">Limited Movement</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Part of the Whole** — This character can only be taken with the Emissary of Mother Hydra and cannot move or be moved further than 6" from it. At the end of each enemy turn, if this character is further than 6" away from the Emissary, it moves the shortest distance to be within 6" of it, ignoring disengaging or charging. If the Emissary is killed, this character is also killed.
+**Part of the Whole** - This character can only be taken with the Emissary of Mother Hydra and cannot move or be moved further than 6" from it. At the end of each enemy turn, if this character is further than 6" away from the Emissary, it moves the shortest distance to be within 6" of it, ignoring disengaging or charging. If the Emissary is killed, this character is also killed.
 
 ## Capability
 
-EDPA **1.80** · EDPA/Duc **—** · ATK2K **2.6** · ATK2K/Duc **—**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.80</span><span class="k">EDPA</span></div><div class="tile"><span class="v">—</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">2.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">—</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 *Upper EDPA outlier: among this faction's Specialists the median is 1.13, but this model reaches 1.80, so the role median understates models like this.*
 

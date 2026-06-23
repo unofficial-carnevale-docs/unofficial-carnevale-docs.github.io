@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/silere-priest/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 16
+meta: "Hero · Discipline(<a href=\"/magic/fateweaving/\" class=\"disc-fateweaving\">Fateweaving</a>, <a href=\"/magic/runes-of-sovereignty/\" class=\"disc-runes-sovereignty\">Runes of Sovereignty</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Discipline(<a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>)</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Mage(1)](/compendium/character-abilities/#mage-x), [Universal Shielding(2)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(1)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(2)</a></div>
 
-**Keeper of the Fire of the Persecution** — Any friendly characters without this ability within 3" gain +1 Damage on their weapons.
+**Keeper of the Fire of the Persecution** - Any friendly characters without this ability within 3" gain +1 Damage on their weapons.
 
 ## Capability
 
-EDPA **3.10** · EDPA/Duc **0.194** · ATK2K **11.2** · ATK2K/Duc **0.70**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.10</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.194</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.2</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.70</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/strigoi/romani/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 9
+meta: "Henchman · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-rites\">Blood Rites</a>, <a href=\"/magic/runes-of-sovereignty/\" class=\"disc-runes-sovereignty\">Runes of Sovereignty</a>, <a href=\"/magic/fateweaving/\" class=\"disc-fateweaving\">Fateweaving</a>, <a href=\"/magic/wild-magic/\" class=\"disc-wild-magic\">Wild Magic</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 9 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Mage(0)](/compendium/character-abilities/#mage-x), [Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(0)</a><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
-**Tarot** — When using more than one model with this ability, each must select magic from a different Discipline until all are represented.
+**Tarot** - When using more than one model with this ability, each must select magic from a different Discipline until all are represented.
 
 ## Capability
 
-EDPA **1.23** · EDPA/Duc **0.137** · ATK2K **6.7** · ATK2K/Duc **0.74**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.137</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">6.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.74</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.148** · ATK2K **9.7** · ATK2K/Duc **0.97***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Line Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

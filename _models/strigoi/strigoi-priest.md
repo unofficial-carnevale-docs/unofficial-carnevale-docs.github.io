@@ -5,9 +5,9 @@ permalink: /factions/strigoi/strigoi-priest/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 14
+meta: "Hero · Vampire · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Vampire</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Frenzied](/compendium/character-abilities/#frenzied), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a></div>
 
-**Devil Incarnate** — This character may attempt to Dispel magic spells as if it has Mage (2). In addition, enemy characters may not use Will Points when in base contact with this character.
+**Devil Incarnate** - This character may attempt to Dispel magic spells as if it has Mage (2). In addition, enemy characters may not use Will Points when in base contact with this character.
 
 ## Capability
 
-EDPA **1.75** · EDPA/Duc **0.125** · ATK2K **13.0** · ATK2K/Duc **0.93**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.75</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.125</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">13.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.93</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Disruptor median: EDPA **1.69** · EDPA/Duc **0.113** · ATK2K **12.2** · ATK2K/Duc **0.82***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Disruptor median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.69</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.113</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.2</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.82</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

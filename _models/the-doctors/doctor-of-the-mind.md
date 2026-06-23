@@ -2,13 +2,12 @@
 layout: model
 title: Doctor of the Mind
 permalink: /factions/the-doctors/doctor-of-the-mind/
-description: "Durable caster leader with high Command points to spend."
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 22
+meta: "Leader · Doctor · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-rites\">Blood Rites</a>, <a href=\"/magic/runes-of-sovereignty/\" class=\"disc-runes-sovereignty\">Runes of Sovereignty</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Doctor · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>)</strong><span>Size 30 · 22 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Fear(-2)](/compendium/character-abilities/#fear-x), [Mage(3)](/compendium/character-abilities/#mage-x), [Parry(3)](/compendium/character-abilities/#parry-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(-2)</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(3)</a><a class="chip" href="/compendium/character-abilities/#parry-x">Parry(3)</a></div>
 
-**Mind Gazing** — AURA: Until the end of the round, any friendly characters within 6" gain Fear (-2), or increase their Fear number to (-2).
+**Mind Gazing (AURA)** - Until the end of the round, any friendly characters within 6" gain Fear (-2), or increase their Fear number to (-2).
+{: .cmd-ability}
 
-**Aetheric Control** — This character replenishes all of its Command Points at the start of each of its turns.
+**Aetheric Control** - This character replenishes all of its Command Points at the start of each of its turns.
 
 ## Capability
 
-EDPA **3.31** · EDPA/Duc **0.150** · ATK2K **19.4** · ATK2K/Duc **0.88**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.31</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.150</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">19.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.88</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/patricians/guard-sentry/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 12
+meta: "Henchman · Soldier · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Soldier</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Acrobatic(2)](/compendium/character-abilities/#acrobatic-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#acrobatic-x">Acrobatic(2)</a></div>
 
-**Lookout** — Once per round, this character may use a single ORDER or COUNTER Command for 0 Command Points if it is at least 3" above the target character. However, those Commands may still only be done once per round as usual.
+**Lookout** - Once per round, this character may use a single ORDER or COUNTER Command for 0 Command Points if it is at least 3" above the target character. However, those Commands may still only be done once per round as usual.
 
 ## Capability
 
-EDPA **1.13** · EDPA/Duc **0.094** · ATK2K **10.9** · ATK2K/Duc **0.91**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.094</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.91</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

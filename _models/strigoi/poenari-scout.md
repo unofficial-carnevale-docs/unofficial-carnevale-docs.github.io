@@ -5,9 +5,9 @@ permalink: /factions/strigoi/poenari-scout/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 12
+meta: "Henchman · Vampire · Soldier · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Vampire · Soldier</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,18 +21,18 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Short Bow | 12" | — | — | [Two-handed](/compendium/weapon-abilities/#two-handed), [Reload(3)](/compendium/weapon-abilities/#reload-x) |
+| Short Bow | 12" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(3)</a> |
 | Fangs | melee | — | — | — |
 
 ### Abilities
 
-[Acrobatic(2)](/compendium/character-abilities/#acrobatic-x), [Frenzied](/compendium/character-abilities/#frenzied), [Infiltration](/compendium/character-abilities/#infiltration), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#acrobatic-x">Acrobatic(2)</a><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#infiltration">Infiltration</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a></div>
 
 ## Capability
 
-EDPA **1.13** · EDPA/Duc **0.094** · ATK2K **8.8** · ATK2K/Duc **0.73**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.094</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.73</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Objective Runner median: EDPA **1.13** · EDPA/Duc **0.094** · ATK2K **7.7** · ATK2K/Duc **0.79***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Objective Runner median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.094</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.79</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

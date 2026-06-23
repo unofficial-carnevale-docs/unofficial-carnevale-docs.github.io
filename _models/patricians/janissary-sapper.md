@@ -5,9 +5,9 @@ permalink: /factions/patricians/janissary-sapper/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 16
+meta: "Hero · Ottoman · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Ottoman</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,20 +21,20 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Black Powder Grenade | 6" | +2 | — | [Black Powder](/compendium/weapon-abilities/#black-powder), [Blast](/compendium/weapon-abilities/#blast), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Black Powder Grenade | 6" | +2 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#blast">Blast</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 | Knife | melee | — | — | — |
 
 ### Abilities
 
-[Expert Marksman(2)](/compendium/character-abilities/#expert-marksman-x), [Universal Shielding(2)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#expert-marksman-x">Expert Marksman(2)</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(2)</a></div>
 
-**Black Powder Arrows** — Any friendly Ottoman Archer within 3" of this character may use its Black Powder Grenade as if it were listed on their own profile when making a Combat action.
+**Black Powder Arrows** - Any friendly Ottoman Archer within 3" of this character may use its Black Powder Grenade as if it were listed on their own profile when making a Combat action.
 
 ## Capability
 
-EDPA **2.86** · EDPA/Duc **0.179** · ATK2K **19.5** · ATK2K/Duc **1.22**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.86</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.179</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">19.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.22</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

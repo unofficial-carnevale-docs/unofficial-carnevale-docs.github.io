@@ -5,9 +5,9 @@ permalink: /factions/the-guild/death-duellist/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 14
+meta: "Hero · House of Virtue · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · House of Virtue</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Engage](/compendium/character-abilities/#engage), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x), [Parry(2)](/compendium/character-abilities/#parry-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#engage">Engage</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a><a class="chip" href="/compendium/character-abilities/#parry-x">Parry(2)</a></div>
 
-**Victory Rush** — When this character kills an enemy character with a Combat action, it gains your choice of either: an additional 1AP, replenish 4 Life Points, or replenish 2 Will Points.
+**Victory Rush** - When this character kills an enemy character with a Combat action, it gains your choice of either: an additional 1AP, replenish 4 Life Points, or replenish 2 Will Points.
 
 ## Capability
 
-EDPA **2.75** · EDPA/Duc **0.196** · ATK2K **8.9** · ATK2K/Duc **0.64**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.75</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.64</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

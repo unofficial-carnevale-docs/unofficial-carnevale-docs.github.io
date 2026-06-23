@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/brined-horror/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 19
+meta: "Hero · Size 50"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 50 · 19 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,17 +21,17 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Webbed Appendages | melee | +1 | — | [Aquatic](/compendium/weapon-abilities/#aquatic) |
+| Webbed Appendages | melee | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 
-[Bulky](/compendium/character-abilities/#bulky), [Fast Swimmer(3)](/compendium/character-abilities/#fast-swimmer-x), [Fear(-1)](/compendium/character-abilities/#fear-x), [Mindless](/compendium/character-abilities/#mindless), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(3)</a><a class="chip" href="/compendium/character-abilities/#fear-x">Fear(-1)</a><a class="chip" href="/compendium/character-abilities/#mindless">Mindless</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
 ## Capability
 
-EDPA **3.47** · EDPA/Duc **0.183** · ATK2K **18.4** · ATK2K/Duc **0.97**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.47</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.183</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">18.4</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.97</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Canal Fighter median: EDPA **2.68** · EDPA/Duc **0.151** · ATK2K **12.6** · ATK2K/Duc **0.80***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Canal Fighter median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.151</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.80</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

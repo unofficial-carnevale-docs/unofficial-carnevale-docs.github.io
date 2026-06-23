@@ -5,9 +5,9 @@ permalink: /factions/strigoi/leech/
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 12
+meta: "Hero · Vampire · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Vampire</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,19 +21,19 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| A Thousand Teeth | melee | — | −1 | [Aquatic](/compendium/weapon-abilities/#aquatic) |
+| A Thousand Teeth | melee | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 
-[Frenzied](/compendium/character-abilities/#frenzied), [Primitive](/compendium/character-abilities/#primitive), [Vampiric Attack(3)](/compendium/character-abilities/#vampiric-attack-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(3)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**Brain Leech** — When this character replenishes Life Points due to the Vampiric Attack ability, the target character lowers any abilities with a number down by 1 until the end of the game, to a minimum of 0. For example Acrobatic (3) becomes Acrobatic (2).
+**Brain Leech** - When this character replenishes Life Points due to the Vampiric Attack ability, the target character lowers any abilities with a number down by 1 until the end of the game, to a minimum of 0. For example Acrobatic (3) becomes Acrobatic (2).
 
 ## Capability
 
-EDPA **1.50** · EDPA/Duc **0.125** · ATK2K **5.0** · ATK2K/Duc **0.42**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.50</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.125</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">5.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.42</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Harasser median: EDPA **1.63** · EDPA/Duc **0.121** · ATK2K **8.8** · ATK2K/Duc **0.76***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Harasser median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.63</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.121</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.76</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

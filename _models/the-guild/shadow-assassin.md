@@ -5,9 +5,9 @@ permalink: /factions/the-guild/shadow-assassin/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 14
+meta: "Hero · House of Virtue · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · House of Virtue</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Slippery](/compendium/character-abilities/#slippery)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#slippery">Slippery</a></div>
 
-**Fade to the Shadow** — - 2AP: If this character is within 1" of impassable terrain, they can be removed from the board and then placed back down within 1" of another piece of impassable terrain on ground level at least 6" away from enemy characters.
+**Fade to the Shadow** - - 2AP: If this character is within 1" of impassable terrain, they can be removed from the board and then placed back down within 1" of another piece of impassable terrain on ground level at least 6" away from enemy characters.
 
 ## Capability
 
-EDPA **2.66** · EDPA/Duc **0.190** · ATK2K **11.9** · ATK2K/Duc **0.85**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.66</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.190</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.85</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Assassin median: EDPA **3.23** · EDPA/Duc **0.193** · ATK2K **10.3** · ATK2K/Duc **0.59***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Assassin median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.23</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.193</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.3</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.59</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

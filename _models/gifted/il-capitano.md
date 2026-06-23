@@ -2,13 +2,12 @@
 layout: model
 title: Il Capitano
 permalink: /factions/gifted/il-capitano/
-description: "High-output glass cannon for his cost. He's a really good support, making allies move and giving the whole gang Companion (Il Capitano). But he only has Mind 2, and forces every friendly model in LOS to use it."
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 19
+meta: "Leader · Unique · Commedia dell'Arte · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Unique · Commedia dell'Arte</strong><span>Size 30 · 19 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,21 +21,22 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Greatsword | 1" | +2 | — | [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Greatsword | 1" | +2 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Brawler(2)](/compendium/character-abilities/#brawler-x), [Expert Offence(2)](/compendium/character-abilities/#expert-offence-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brawler-x">Brawler(2)</a><a class="chip" href="/compendium/character-abilities/#expert-offence-x">Expert Offence(2)</a></div>
 
-**Stage Manager** — PULSE: 2 friendly characters within line of sight may make an immediate Run/Climb action. This movement cannot be used to move into or out of base contact with an enemy.
+**Stage Manager (PULSE)** - 2 friendly characters within line of sight may make an immediate Run/Climb action. This movement cannot be used to move into or out of base contact with an enemy.
+{: .cmd-ability}
 
-**Troupe Leader** — All friendly characters with the Commedia dell'Arte keyword gain Companion(Il Capitano) as long as this character is on the board. Remember, that Companion characters must use the MIND value of their Companion, even if it is lower (only Il Capitano thinks he's a great leader).
+**Troupe Leader** - All friendly characters with the Commedia dell'Arte keyword gain Companion(Il Capitano) as long as this character is on the board. Remember, that Companion characters must use the MIND value of their Companion, even if it is lower (only Il Capitano thinks he's a great leader).
 
 ## Capability
 
-EDPA **4.29** · EDPA/Duc **0.226** · ATK2K **8.7** · ATK2K/Duc **0.46**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">4.29</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.226</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.46</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Damage Dealer median: EDPA **2.92** · EDPA/Duc **0.186** · ATK2K **10.8** · ATK2K/Duc **0.72***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Damage Dealer median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.92</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.186</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.72</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

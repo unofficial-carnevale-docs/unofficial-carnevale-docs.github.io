@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/ethereal-snatcher/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 15
+meta: "Hero · Size 40"
 ---
-
-<p class="model-meta"><strong>Hero</strong><span>Size 40 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,21 +21,21 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Electro Gauntlet | melee | — | −2 | [Stun](/compendium/weapon-abilities/#stun) |
+| Electro Gauntlet | melee | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
-[Engage](/compendium/character-abilities/#engage), [Expert Grappler(2)](/compendium/character-abilities/#expert-grappler-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#engage">Engage</a><a class="chip" href="/compendium/character-abilities/#expert-grappler-x">Expert Grappler(2)</a></div>
 
-**Stride Through the Void** — (1AP): This character gains Ethereal until the end of its turn.
+**Stride Through the Void** - (1AP): This character gains Ethereal until the end of its turn.
 
-**Drag Through the Void** — Targets of this characters Grapple actions may be moved as if they had the Ethereal special rule.
+**Drag Through the Void** - Targets of this characters Grapple actions may be moved as if they had the Ethereal special rule.
 
 ## Capability
 
-EDPA **1.89** · EDPA/Duc **0.126** · ATK2K **16.0** · ATK2K/Duc **1.07**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.89</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.126</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">16.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.07</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Control median: EDPA **2.09** · EDPA/Duc **0.111** · ATK2K **12.7** · ATK2K/Duc **0.67***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Control median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">2.09</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.67</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

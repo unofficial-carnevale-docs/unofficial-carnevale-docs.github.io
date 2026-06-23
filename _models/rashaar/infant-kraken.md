@@ -5,9 +5,9 @@ permalink: /factions/rashaar/infant-kraken/
 faction: rashaar
 faction_title: Rashaar
 nav_section: Factions
+cost: 5
+meta: "Henchman · Hydra · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Hydra</strong><span>Size 30 · 5 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,17 @@ nav_section: Factions
 
 ### Abilities
 
-[Concealment(2)](/compendium/character-abilities/#concealment-x), [Primitive](/compendium/character-abilities/#primitive), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x), [Water Creature](/compendium/character-abilities/#water-creature)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#concealment-x">Concealment(2)</a><a class="chip" href="/compendium/character-abilities/#primitive">Primitive</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a><a class="chip" href="/compendium/character-abilities/#water-creature">Water Creature</a></div>
 
-**One Mind** — When this character makes a Combat action, it gains +1 to its ATTACK for every other Infant Kraken in base contact with the target.
+**One Mind** - When this character makes a Combat action, it gains +1 to its ATTACK for every other Infant Kraken in base contact with the target.
 
-**Writhe Inside** — When this character successfully damages an enemy character (after its Protection roll), you may remove this character from the game as if it were killed. If you do, place it on the damaged character's card. For the rest of the game, that character always counts as having a Stun counter.
+**Writhe Inside** - When this character successfully damages an enemy character (after its Protection roll), you may remove this character from the game as if it were killed. If you do, place it on the damaged character's card. For the rest of the game, that character always counts as having a Stun counter.
 
 ## Capability
 
-EDPA **0.44** · EDPA/Duc **0.088** · ATK2K **3.2** · ATK2K/Duc **0.64**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.088</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">3.2</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.64</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Specialist median: EDPA **1.56** · EDPA/Duc **0.123** · ATK2K **9.7** · ATK2K/Duc **0.69***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Specialist median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.56</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.123</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.69</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

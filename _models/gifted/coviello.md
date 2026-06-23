@@ -5,9 +5,9 @@ permalink: /factions/gifted/coviello/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
+cost: 11
+meta: "Henchman · Unique · Commedia dell'Arte · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman · Unique · Commedia dell'Arte</strong><span>Size 30 · 11 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Acrobatic(2)](/compendium/character-abilities/#acrobatic-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#acrobatic-x">Acrobatic(2)</a></div>
 
-**Annoying Tune** — All enemy characters have -1 DEXTERITY while within 3" of Coviello. However, all enemy characters within 3" may re-roll 1 failed dice roll in Combat actions when Coviello is the target.
+**Annoying Tune** - All enemy characters have -1 DEXTERITY while within 3" of Coviello. However, all enemy characters within 3" may re-roll 1 failed dice roll in Combat actions when Coviello is the target.
 
 ## Capability
 
-EDPA **1.13** · EDPA/Duc **0.103** · ATK2K **6.7** · ATK2K/Duc **0.61**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.103</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">6.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.61</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Objective Runner median: EDPA **1.13** · EDPA/Duc **0.094** · ATK2K **7.7** · ATK2K/Duc **0.79***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Objective Runner median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.094</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.79</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

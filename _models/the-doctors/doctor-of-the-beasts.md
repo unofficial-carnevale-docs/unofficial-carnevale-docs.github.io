@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/doctor-of-the-beasts/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 14
+meta: "Hero · Doctor · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Doctor</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -21,21 +21,22 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Shock Staff | 2" | +1 | — | [Knockback](/compendium/weapon-abilities/#knockback), [Stun](/compendium/weapon-abilities/#stun), [Two-handed](/compendium/weapon-abilities/#two-handed) |
+| Shock Staff | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities
 
-[Hunter](/compendium/character-abilities/#hunter)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#hunter">Hunter</a></div>
 
-**Overcharged Discipline** — PULSE: One friendly character with the Animal keyword within 6" gains Berserk until the end of the game.
+**Overcharged Discipline (PULSE)** - One friendly character with the Animal keyword within 6" gains Berserk until the end of the game.
+{: .cmd-ability}
 
-**Beast Master** — All friendly characters with the Animal keyword gain Companion (Doctor) while in line of sight of this character.
+**Beast Master** - All friendly characters with the Animal keyword gain Companion (Doctor) while in line of sight of this character.
 
 ## Capability
 
-EDPA **1.99** · EDPA/Duc **0.142** · ATK2K **12.6** · ATK2K/Duc **0.90**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.99</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.142</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.90</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

@@ -5,9 +5,9 @@ permalink: /factions/the-vatican/inquisitorial-spy/
 faction: the-vatican
 faction_title: The Vatican
 nav_section: Factions
+cost: 11
+meta: "Henchman · Size 30"
 ---
-
-<p class="model-meta"><strong>Henchman</strong><span>Size 30 · 11 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,15 @@ nav_section: Factions
 
 ### Abilities
 
-[Infiltration](/compendium/character-abilities/#infiltration), [Pickpocket](/compendium/character-abilities/#pickpocket)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#infiltration">Infiltration</a><a class="chip" href="/compendium/character-abilities/#pickpocket">Pickpocket</a></div>
 
-**Illicit Information** — for every friendly character with this ability in your gang at the start of the round, add a re-roll to your Illicit Information Pool. Until the end of the round, any friendly character may use these re-rolls on any roll — one re-roll per die.
+**Illicit Information** - for every friendly character with this ability in your gang at the start of the round, add a re-roll to your Illicit Information Pool. Until the end of the round, any friendly character may use these re-rolls on any roll — one re-roll per die.
 
 ## Capability
 
-EDPA **1.50** · EDPA/Duc **0.136** · ATK2K **10.9** · ATK2K/Duc **0.99**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.50</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.136</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Objective Runner median: EDPA **1.13** · EDPA/Duc **0.094** · ATK2K **7.7** · ATK2K/Duc **0.79***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Objective Runner median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.094</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.79</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

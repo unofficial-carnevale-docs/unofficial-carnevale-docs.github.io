@@ -2,13 +2,12 @@
 layout: model
 title: Wallachian Hospodar
 permalink: /factions/strigoi/wallachian-hospodar/
-description: "Very durable fighter but with a Full Plate (weak near water). He also gives a small buff to Soldiers, but nothing worth of orienting the full gang around it."
 faction: strigoi
 faction_title: Strigoi
 nav_section: Factions
+cost: 21
+meta: "Leader · Vampire · Soldier · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Vampire · Soldier</strong><span>Size 30 · 21 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -26,19 +25,20 @@ nav_section: Factions
 
 ### Abilities
 
-[Frenzied](/compendium/character-abilities/#frenzied), [Universal Shielding(3)](/compendium/character-abilities/#universal-shielding-x), [Vampiric Attack(1)](/compendium/character-abilities/#vampiric-attack-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#frenzied">Frenzied</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(3)</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(1)</a></div>
 
-**Defensive Lines** — PULSE: Until the end of the round, all other friendly characters within 3" gain Universal Shielding (2).
+**Defensive Lines (PULSE)** - Until the end of the round, all other friendly characters within 3" gain Universal Shielding (2).
+{: .cmd-ability}
 
-**Warlord** — Friendly characters with the Soldier keyword may use this character's MIND instead of their own while they are in Line of Sight of this character.
+**Warlord** - Friendly characters with the Soldier keyword may use this character's MIND instead of their own while they are in Line of Sight of this character.
 
-**Full Plate** — If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
+**Full Plate** - If this character ever enters water, it receives a Stunned counter which is only removed if it ends its turn out of water.
 
 ## Capability
 
-EDPA **3.10** · EDPA/Duc **0.148** · ATK2K **35.1** · ATK2K/Duc **1.67**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">3.10</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.148</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">35.1</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.67</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Brawler median: EDPA **3.25** · EDPA/Duc **0.196** · ATK2K **21.0** · ATK2K/Duc **1.32***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Brawler median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">3.25</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.196</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">21.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">1.32</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

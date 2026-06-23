@@ -5,9 +5,9 @@ permalink: /factions/the-guild/black-lamp/
 faction: the-guild
 faction_title: The Guild
 nav_section: Factions
+cost: 17
+meta: "Hero · Unique · Trade · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Unique · Trade</strong><span>Size 30 · 17 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,17 +25,18 @@ nav_section: Factions
 
 ### Abilities
 
-[Brave](/compendium/character-abilities/#brave), [Universal Shielding(4)](/compendium/character-abilities/#universal-shielding-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#brave">Brave</a><a class="chip" href="/compendium/character-abilities/#universal-shielding-x">Universal Shielding(4)</a></div>
 
-**Rally to the Light!** — AURA: Until the end of the round, any friendly characters in line of sight gain Companion (Black Lamp) and Brave.
+**Rally to the Light! (AURA)** - Until the end of the round, any friendly characters in line of sight gain Companion (Black Lamp) and Brave.
+{: .cmd-ability}
 
-**The Lamp** — This character may attempt to Dispel magic spells as if it has Mage (3) and Expert Sorcerer (3). In addition, enemy characters may not use Will Points when within 3" of this character.
+**The Lamp** - This character may attempt to Dispel magic spells as if it has Mage (3) and Expert Sorcerer (3). In addition, enemy characters may not use Will Points when within 3" of this character.
 
 ## Capability
 
-EDPA **2.13** · EDPA/Duc **0.125** · ATK2K **16.0** · ATK2K/Duc **0.94**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.125</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">16.0</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.94</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Disruptor median: EDPA **1.69** · EDPA/Duc **0.113** · ATK2K **12.2** · ATK2K/Duc **0.82***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Disruptor median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.69</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.113</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">12.2</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.82</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

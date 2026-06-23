@@ -2,13 +2,12 @@
 layout: model
 title: Noble Admiral
 permalink: /factions/patricians/noble-admiral/
-description: "Short-range sniper with Boat synergy."
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
+cost: 19
+meta: "Leader · Councillor · Officer · Size 30"
 ---
-
-<p class="model-meta"><strong>Leader · Councillor · Officer</strong><span>Size 30 · 19 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -22,26 +21,27 @@ nav_section: Factions
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Rifled Duelling Pistol | 12" | — | −1 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(2)](/compendium/weapon-abilities/#reload-x) |
-| Twin Rifled Duelling Pistols | 12" | +3 | −1 | [Black Powder](/compendium/weapon-abilities/#black-powder), [Reload(1)](/compendium/weapon-abilities/#reload-x) |
+| Rifled Duelling Pistol | 12" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
+| Twin Rifled Duelling Pistols | 12" | +3 | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 
-[Boat Crew](/compendium/character-abilities/#boat-crew), [Expert Marksman(2)](/compendium/character-abilities/#expert-marksman-x), [Fast Swimmer(2)](/compendium/character-abilities/#fast-swimmer-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#boat-crew">Boat Crew</a><a class="chip" href="/compendium/character-abilities/#expert-marksman-x">Expert Marksman(2)</a><a class="chip" href="/compendium/character-abilities/#fast-swimmer-x">Fast Swimmer(2)</a></div>
 
-**Naval Discipline** — PULSE: Other friendly characters on the same Boat as this character replenish 1 Will Point. Other friendly characters with Boat Crew on the same Boat as this character instead replenish 2 Will Points.
+**Naval Discipline (PULSE)** - Other friendly characters on the same Boat as this character replenish 1 Will Point. Other friendly characters with Boat Crew on the same Boat as this character instead replenish 2 Will Points.
+{: .cmd-ability}
 
-**Raise a Crew** — All friendly characters may be set up on a Boat.
+**Raise a Crew** - All friendly characters may be set up on a Boat.
 
-**Twin Pistols** — This character's weapons share the Reload ability - you may make 2 Combat actions with the Rifled Duelling Pistol or 1 with Twin Rifled Duelling Pistols in one round.
+**Twin Pistols** - This character's weapons share the Reload ability - you may make 2 Combat actions with the Rifled Duelling Pistol or 1 with Twin Rifled Duelling Pistols in one round.
 
-**Unwieldy** — This character may only make Combat actions with the Twin Rifled Duelling Pistols as the first action of their turn (including using it for Attacks of Opportunity).
+**Unwieldy** - This character may only make Combat actions with the Twin Rifled Duelling Pistols as the first action of their turn (including using it for Attacks of Opportunity).
 
 ## Capability
 
-EDPA **1.91** · EDPA/Duc **0.101** · ATK2K **14.9** · ATK2K/Duc **0.78**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.91</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.101</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">14.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.78</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Sniper median: EDPA **1.87** · EDPA/Duc **0.156** · ATK2K **11.5** · ATK2K/Duc **0.99***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Sniper median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.156</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

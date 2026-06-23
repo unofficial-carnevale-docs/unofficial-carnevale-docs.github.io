@@ -5,9 +5,9 @@ permalink: /factions/the-doctors/morgue-doctor/
 faction: the-doctors
 faction_title: The Doctors
 nav_section: Factions
+cost: 15
+meta: "Hero · Doctor · Discipline(<a href=\"/magic/divinity/\" class=\"disc-divinity\">Divinity</a>, <a href=\"/magic/fateweaving/\" class=\"disc-fateweaving\">Fateweaving</a>) · Size 30"
 ---
-
-<p class="model-meta"><strong>Hero · Doctor · Discipline(<a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>)</strong><span>Size 30 · 15 Ducats</span></p>
 
 <div class="model-stats">
 
@@ -25,15 +25,16 @@ nav_section: Factions
 
 ### Abilities
 
-[Mage(2)](/compendium/character-abilities/#mage-x)
+<div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(2)</a></div>
 
-**Power Over Death** — PULSE: This Command Ability is used out of sequence, when any other friendly character within 3" is killed. Make a Basic MIND Roll: Success — For each Ace rolled, the target character replenishes 2 Life Points. Fail — No effect. Critical — For each Ace rolled, the target character replenishes 4 Life Points. Tumble — This character loses half its remaining Life Points (rounding up).
+**Power Over Death (PULSE)** - This Command Ability is used out of sequence, when any other friendly character within 3" is killed. Make a Basic MIND Roll: Success — For each Ace rolled, the target character replenishes 2 Life Points. Fail — No effect. Critical — For each Ace rolled, the target character replenishes 4 Life Points. Tumble — This character loses half its remaining Life Points (rounding up).
+{: .cmd-ability}
 
 ## Capability
 
-EDPA **1.50** · EDPA/Duc **0.100** · ATK2K **10.6** · ATK2K/Duc **0.71**
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.50</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.100</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">10.6</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.71</span><span class="k">ATK2K/Duc</span></div></div>
 
-*Support median: EDPA **1.46** · EDPA/Duc **0.111** · ATK2K **9.7** · ATK2K/Duc **0.75***
+<div class="metric-median" markdown="0"><p class="metric-median-cap">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 
