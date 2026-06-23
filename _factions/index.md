@@ -1,11 +1,11 @@
 ---
 permalink: /factions/
 title: Factions presentation
-description: What each gang is and how it plays.
+description: What each Faction is and how it plays.
 is_index: true
 ---
 
-## The Vatican
+<h2 id="the-vatican" class="faction-head"><img class="faction-icon" src="/assets/factions/vatican.png" alt=""> The Vatican</h2>
 
 *An elite melee-and-magic faction: above-average dealers and brawlers on the game's best anti-armor-piercing armored characters, backed by the deepest support and magic bench in the game.*
 
@@ -15,7 +15,7 @@ Off the combat line, it has the deepest magic and support bench in the game: nin
 
 [Faction details and analysis →](/factions/the-vatican/)
 
-## The Guild
+<h2 id="the-guild" class="faction-head"><img class="faction-icon" src="/assets/factions/guild.png" alt=""> The Guild</h2>
 
 *A flexible, Will-Point-rich toolbox with the best damage dealers in the game and a strong scenario/theft game — but fragile bodies and no real tanks.*
 
@@ -25,7 +25,7 @@ It is also the strongest faction at scenario play and disruption, with objective
 
 [Faction details and analysis →](/factions/the-guild/)
 
-## Strigoi
+<h2 id="strigoi" class="faction-head"><img class="faction-icon" src="/assets/factions/strigoi.png" alt=""> Strigoi</h2>
 
 *A self-sustaining Frenzied melee attrition faction: cold numbers look ordinary, but spending life as a resource for bursts plus healing-on-kill make its fighters relentless. Immune to Will-Point denial, but a few dedicated counterpicks exists in other factions (notably Vatican).*
 
@@ -35,7 +35,7 @@ In terms of roster composition, it is elite melee with strong mobility through f
 
 [Faction details and analysis →](/factions/strigoi/)
 
-## Rashaar
+<h2 id="rashaar" class="faction-head"><img class="faction-icon" src="/assets/factions/rashaar.png" alt=""> Rashaar</h2>
 
 *The true masters of the cannals, built around its canal fighters and monstrous centerpieces — it drowns, grapples and controls the enemy off the board — but a third of the roster can't score.*
 
@@ -47,7 +47,7 @@ The weaknesses are structural: A third of the gang is Mindless and cannot score 
 
 [Faction details and analysis →](/factions/rashaar/)
 
-## Patricians
+<h2 id="patricians" class="faction-head"><img class="faction-icon" src="/assets/factions/patricians.png" alt=""> Patricians</h2>
 
 *An alpha-strike gunline with the game's best command economy and the cleanest scoring. Its cold sustained damage looks low because its damage is front-loaded into snipers and one-turn bursts.*
 
@@ -57,7 +57,7 @@ The downside is low sustained damage. The roster is heavily range-dependent and 
 
 [Faction details and analysis →](/factions/patricians/)
 
-## The Doctors
+<h2 id="the-doctors" class="faction-head"><img class="faction-icon" src="/assets/factions/doctors.png" alt=""> The Doctors</h2>
 
 *Durable, Nexus-powered damage and control, and the second best faction in the water. But a huge share of Mindless models makes them the worst scorers in the game.*
 
@@ -67,7 +67,7 @@ Its engine is the Nexus: models share pooled Will Points, allowing heavy burst u
 
 [Faction details and analysis →](/factions/the-doctors/)
 
-## Gifted
+<h2 id="gifted" class="faction-head"><img class="faction-icon" src="/assets/factions/gifted.png" alt=""> Gifted</h2>
 
 *A mercenary masquerade troupe built around unique gimmicks. Elite-priced and Command-Point-starved, it's a faction of super specialists.*
 

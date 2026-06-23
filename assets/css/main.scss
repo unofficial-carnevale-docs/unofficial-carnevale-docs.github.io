@@ -1339,6 +1339,19 @@ a.disc-wild-magic        { color: #c06a18; font-weight: 500; }
   font-weight: 400;
 }
 
+/* Faction presentation page: emblem medallion beside each faction heading */
+.doc-content h2.faction-head::before { content: none; }
+.faction-icon {
+  width: 2.6rem;
+  height: 2.6rem;
+  flex-shrink: 0;
+  object-fit: contain;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 3px;
+}
+
 /* Muted reference aside (e.g. "See X for details…") */
 .doc-content p.muted-note { font-style: italic; font-size: 0.85rem; color: var(--ink-3); margin: 0.25rem 0 1.25rem; }
 
