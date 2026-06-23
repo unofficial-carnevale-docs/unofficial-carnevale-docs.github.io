@@ -726,6 +726,23 @@ a:hover { text-decoration: underline; }
   color: var(--accent);
   margin: 1.8rem 0 0.75rem;
 }
+.doc-content h4 {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  color: var(--ink);
+  margin: 1.6rem 0 0.55rem;
+}
+/* Trailing italic annotations (e.g. faction role stats) recede behind the title */
+.doc-content h4 em {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-weight: 400;
+  font-size: 0.8rem;
+  letter-spacing: 0;
+  color: var(--ink-3);
+}
 .doc-content p {
   font-size: 0.97rem;
   line-height: 1.78;
