@@ -13,8 +13,8 @@ toc:
     anchor: magic-access
   - title: Roster
     anchor: roster
-  - title: Roster value
-    anchor: roster-value
+  - title: Roster Capabilities
+    anchor: roster-capabilities
 ---
 
 ## Faction Overview
@@ -51,18 +51,7 @@ The Vatican is a strong magic faction: they have the best WP economy, and almost
 ## Roster
 
 See [Role Tags page](/mechanics/role-tags) for details about each role and how they are attributed.
-
-<div class="table-fixed">
-
-| Line Fighter | Damage Dealer | Assassin | Sniper | Brawler | Tank | Canal Fighter |
-|---|---|---|---|---|---|---|
-| 7 | 6 | 1 | 3 | 8 | 1 | 1 |
-
-| Support | Harasser | Control | Disruptor | Objective Runner | Specialist |
-|---|---|---|---|---|---|
-| 12 | 0 | 0 | 3 | 1 | 4 |
-
-</div>
+{: .muted-note}
 
 ### Leaders
 
@@ -105,7 +94,8 @@ Really strong all-round fighter with high damage and high protection but with a 
 </div>
 ### Heroes
 
-**Mages**
+<details class="role-group" markdown="1">
+<summary markdown="span">Mages <span class="role-count">5</span></summary>
 
 - [Galilean Priest](/factions/the-vatican/galilean-priest/) is a support/control caster that can double as a damage dealer with Summon Vermin. He's also not hindered at all by water, he's a **Fast Swimmer** and can cast spells while in water.
 - [Silere Priest](/factions/the-vatican/silere-priest/) is an expensive offensive support piece, bringing a +Damage aura in addition to its spells.
@@ -113,7 +103,10 @@ Really strong all-round fighter with high damage and high protection but with a 
 - [Baptist](/factions/the-vatican/baptist/) is a support mage that can bless water, preventing allies to be drowned and allowing enemy water creatures to be drowned inside an area.
 - [Stigmatist](/factions/the-vatican/stigmatist/) is a cost-efficient but fragile **Frenzied** mage damage dealer.
 
-**Damage Dealer**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer <span class="role-count">5</span></summary>
 
 - [Felix Baumgartner](/factions/the-vatican/felix-baumgartner/) is an expensive melee damage dealer. He's able to give armour-piercing for a round, and regenerates all his WP when he kills an enemy.
 - [Inquisition Commissioner](/factions/the-vatican/inquisition-commissioner/) is a good all-around fighter with a lot of CP.
@@ -121,7 +114,10 @@ Really strong all-round fighter with high damage and high protection but with a 
 - [Templar Marshal](/factions/the-vatican/templar-marshal/) is an all-around good damage dealer with a really high-range crossbow.
 - [Executioner](/factions/the-vatican/executioner/) is a cheap, cost-efficient, but fragile melee damage dealer.
 
-**Brawler**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Brawler <span class="role-count">7</span></summary>
 
 - [Gethsemane](/factions/the-vatican/gethsemane/) is a very expensive but a really strong and cost-effective giant monster that's mobile for its size.
 - [Golgotha](/factions/the-vatican/golgotha/) is an expensive but high-output and cost-efficient Brawler.
@@ -131,57 +127,94 @@ Really strong all-round fighter with high damage and high protection but with a 
 - [Burning Saint](/factions/the-vatican/burning-saint/) is a Full Plate brawler with the ability to create a damaging area around her at the end of the round.
 - [Avignon Guard](/factions/the-vatican/avignon-guard/) is a strong and cost-efficient combatant, but with a Full Plate (weak near water).
 
-**Assassin**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Assassin <span class="role-count">1</span></summary>
 
 - [Angel of the Blooded Rose](/factions/the-vatican/angel-of-the-blooded-rose/) is a flying melee assassin. She's pricey for her damage output, but has a WP regeneration boost aura.
 
-**Sniper**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Sniper <span class="role-count">1</span></summary>
 
 - [Scorpio Marksman](/factions/the-vatican/scorpio-marksman/) is a cost-efficient, high damage, high resistance mid-range sniper.
 
-**Tank**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Tank <span class="role-count">1</span></summary>
 
 - [Sepulchral Vanguard](/factions/the-vatican/sepulchral-vanguard/) is an extremely durable and cheap tank for the staying power it brings, and doubles as a WP lockout disruptor that can attempt to Dispel.
 
-**Disruptor**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Disruptor <span class="role-count">2</span></summary>
 
 - [Seraph](/factions/the-vatican/seraph/) is an expensive fast, tanky Disruptor.
 - [Eater of Sin](/factions/the-vatican/eater-of-sin/) is a unique Disruptor: enemy characters in LOS cannot use the MIND value of other characters, making him a great tech pick against low Mind **Primitive** monsters.
 
-**Support**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Support <span class="role-count">2</span></summary>
 
 - [Cross-bearing Deacon](/factions/the-vatican/cross-bearing-deacon/) is a very resistant support with a WP replenishment aura. He also gives every friendly model in LOS **Brave**, making it a good tech piece against heavy **Fear** factions.
 - [Conventual Chaplain](/factions/the-vatican/conventual-chaplain/) is a high-Command support piece.
 
-**Specialist**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist <span class="role-count">2</span></summary>
 
 - [Throne](/factions/the-vatican/throne/) is a very expensive flying construct but with a strong and rare ability to make friendly models regenerate their CP.
 - [Divine Seraphim](/factions/the-vatican/divine-seraphim/) is an expensive flying construct. He has low combat stats but a good armour-piercing **Template** attack and an aura protecting allies from **Stun**, **Poisoned**, and Full Plate.
 
+</details>
+
+
 ### Henchmen
 
-**Mages**
+<details class="role-group" markdown="1">
+<summary markdown="span">Mages <span class="role-count">1</span></summary>
 
 - [Lacrimosa](/factions/the-vatican/lacrimosa/) is a support mage that heals in a small zone around her when she exploits her **Frenzied** ability.
 
-**Brawler**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Brawler <span class="role-count">1</span></summary>
 
 - [Knight of Malta](/factions/the-vatican/knight-of-malta/) is a standard **Hospitaller** brawler.
 
-**Sniper**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Sniper <span class="role-count">2</span></summary>
 
 - [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/) is a short-range construct sniper.
 - [Maltese Squire](/factions/the-vatican/maltese-squire/) is a cheap but not very cost-effective high-range sniper.
 
-**Canal Fighter**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Canal Fighter <span class="role-count">1</span></summary>
 
 - [Thalassic Messenger](/factions/the-vatican/thalassic-messenger/) is the only fighter of the faction that's efficient in water. It's expensive but really good at Drowning.
 
-**Disruptor**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Disruptor <span class="role-count">1</span></summary>
 
 - [Witch Finder](/factions/the-vatican/witch-finder/) is a WP lockout Disruptor that's also a strong grappler.
 
-**Support**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Support <span class="role-count">5</span></summary>
 
 - [Celestial Congregation](/factions/the-vatican/celestial-congregation/) is an offensive support piece that heals **Constructs** at the cost of its own life.
 - [Altar Boy](/factions/the-vatican/altar-boy/) is a fragile but agile support piece with a WP regeneration and a **First Strike** aura.
@@ -189,11 +222,17 @@ Really strong all-round fighter with high damage and high protection but with a 
 - [Reliquary Page](/factions/the-vatican/reliquary-page/) is a cheap agile support with a reroll aura.
 - [Cherubim](/factions/the-vatican/cherubim/) is a cheap model that extends the **Companion** ability of allies to itself.
 
-**Objective Runner**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Objective Runner <span class="role-count">1</span></summary>
 
 - [Inquisitorial Spy](/factions/the-vatican/inquisitorial-spy/) is an infiltrator that generates one reroll for the gang.
 
-**Line Fighter**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Line Fighter <span class="role-count">7</span></summary>
 
 - [Bishop Guard](/factions/the-vatican/bishop-guard/) is a cost-effective line fighter with **Bodyguard (*Leader*)**.
 - [Redemptionist](/factions/the-vatican/redemptionist/) is a **Frenzied** line fighter. It needs a bit of healing to reveal its full potential.
@@ -203,18 +242,24 @@ Really strong all-round fighter with high damage and high protection but with a 
 - [French Infantryman](/factions/the-vatican/french-infantryman/) is a cheap but not very cost-effective line fighter with a **Knockback** weapon.
 - [Martyr](/factions/the-vatican/martyr/) is a very cheap line fighter.
 
-**Specialist**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist <span class="role-count">2</span></summary>
 
 - [Thomas Thieme](/factions/the-vatican/thomas-thieme/) is Felix Baumgartner's **Bodyguard**, he's a **Hunter** with a good attack against models without any WP.
 - [Stalker](/factions/the-vatican/stalker/) is a high-range Counter trigger infiltrator: COUNTER commands are free when used on it.
 
-## Roster value
+</details>
 
-### Offensive and Defensive capability by role
+
+## Roster Capabilities
 
 See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calculations.
+{: .muted-note}
 
-#### Leaders
+<details class="role-group" markdown="1" open>
+<summary markdown="span">Leaders</summary>
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
@@ -224,7 +269,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Inquisitor](/factions/the-vatican/inquisitor/) | Damage Dealer (magic) / Support (offensive, magic) | 3.26 | 14.1 | 0.148 | 0.64 |
 | [Knight Commander](/factions/the-vatican/knight-commander/) | Brawler | 4.74 | 22.4 | 0.226 | 1.07 |
 
-#### Summary of troops
+</details>
+
+<details class="role-group" markdown="1" open>
+<summary markdown="span">Summary of troops</summary>
 
 **above bar** counts how many models clear the *global* role median for EDPA/Ducat and ATK2K/Ducat. In the following tables per model, `≥bar` is against that same global bar.
 
@@ -242,7 +290,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 7 | 1.43 | 0.142 | 2/7 | 9.7 | 1.08 | 5/7 |
 | Specialist | 4 | 2.23 | 0.131 | 3/4 | 13.4 | 0.82 | 3/4 |
 
-#### Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -253,7 +304,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Felix Baumgartner](/factions/the-vatican/felix-baumgartner/) | 3.29 | 0.194 | ✓ | 14.9 | 0.88 | ✓ |
 | [Stigmatist](/factions/the-vatican/stigmatist/) | 2.49 | 0.192 | ✓ | 7.3 | 0.56 | – |
 
-#### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -266,13 +320,19 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Knight of the Holy Sepulchre](/factions/the-vatican/knight-of-the-holy-sepulchre/) | 3.25 | 0.191 | – | 28.8 | 1.69 | ✓ |
 | [Gethsemane](/factions/the-vatican/gethsemane/) | 4.10 | 0.111 | – | 26.3 | 0.71 | – |
 
-#### Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Angel of the Blooded Rose](/factions/the-vatican/angel-of-the-blooded-rose/) | 2.68 | 0.134 | – | 10.6 | 0.53 | – |
 
-#### Sniper  *(bars: E/Duc 0.156, ATK2K/Duc 0.99)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Sniper  *(bars: E/Duc 0.156, ATK2K/Duc 0.99)*</summary>
 
 *EDPA median overstates this role: typical 2.40, average 1.86, with 1 model well below the pack (down to 0.75), so the offensive floor is lower than the median suggests.*
 
@@ -284,19 +344,28 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Scorpio Marksman](/factions/the-vatican/scorpio-marksman/) | 2.44 | 0.163 | ✓ | 18.4 | 1.23 | ✓ |
 | [Maltese Squire](/factions/the-vatican/maltese-squire/) | 0.75 | 0.075 | – | 10.9 | 1.09 | ✓ |
 
-#### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Thalassic Messenger](/factions/the-vatican/thalassic-messenger/) | 2.68 | 0.149 | – | 18.0 | 1.00 | ✓ |
 
-#### Tank  *(bars: E/Duc 0.154, ATK2K/Duc 1.53)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Tank  *(bars: E/Duc 0.154, ATK2K/Duc 1.53)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Sepulchral Vanguard](/factions/the-vatican/sepulchral-vanguard/) | 2.86 | 0.191 | ✓ | 33.6 | 2.24 | ✓ |
 
-#### Disruptor  *(bars: E/Duc 0.113, ATK2K/Duc 0.82)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Disruptor  *(bars: E/Duc 0.113, ATK2K/Duc 0.82)*</summary>
 
 *EDPA median understates this role: typical 1.63, average 1.81, with 1 model well above the pack (up to 2.68), so the offensive ceiling is higher than the median suggests.*
 
@@ -308,7 +377,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Eater of Sin](/factions/the-vatican/eater-of-sin/) | 1.63 | 0.102 | – | 11.5 | 0.72 | – |
 | [Witch Finder](/factions/the-vatican/witch-finder/) | 1.13 | 0.094 | – | 7.9 | 0.66 | – |
 
-#### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -325,13 +397,19 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Baptist](/factions/the-vatican/baptist/) | 0.44 | 0.029 | – | 9.7 | 0.65 | – |
 | [Summoner Priest](/factions/the-vatican/summoner-priest/) | 0.44 | 0.029 | – | 9.7 | 0.65 | – |
 
-#### Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Inquisitorial Spy](/factions/the-vatican/inquisitorial-spy/) | 1.50 | 0.136 | ✓ | 10.9 | 0.99 | ✓ |
 
-#### Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*</summary>
 
 *ATK2K median understates this role: typical 9.7, average 11.9, with 1 model well above the pack (up to 18.0), so the durability ceiling is higher than the median suggests.*
 
@@ -345,7 +423,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [French Infantryman](/factions/the-vatican/french-infantryman/) | 1.13 | 0.126 | – | 9.7 | 1.08 | ✓ |
 | [Redemptionist](/factions/the-vatican/redemptionist/) | 1.13 | 0.094 | – | 12.6 | 1.05 | ✓ |
 
-#### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -353,4 +434,6 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Divine Seraphim](/factions/the-vatican/divine-seraphim/) | 2.48 | 0.138 | ✓ | 14.9 | 0.83 | ✓ |
 | [Stalker](/factions/the-vatican/stalker/) | 1.50 | 0.125 | ✓ | 9.7 | 0.81 | ✓ |
 | [Throne](/factions/the-vatican/throne/) | 2.68 | 0.122 | – | 15.0 | 0.68 | – |
+
+</details>
 

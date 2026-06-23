@@ -13,8 +13,8 @@ toc:
     anchor: magic-access
   - title: Roster
     anchor: roster
-  - title: Roster value
-    anchor: roster-value
+  - title: Roster Capabilities
+    anchor: roster-capabilities
 ---
 
 ## Faction Overview
@@ -47,18 +47,7 @@ Black Lamp functions as anti-magic support with Dispel as **Mage (3)** + **Exper
 ## Roster
 
 See [Role Tags page](/mechanics/role-tags) for details about each role and how they are attributed.
-
-<div class="table-fixed">
-
-| Line Fighter | Damage Dealer | Assassin | Sniper | Brawler | Tank | Canal Fighter |
-|---|---|---|---|---|---|---|
-| 5 | 10 | 2 | 2 | 1 | 0 | 2 |
-
-| Support | Harasser | Control | Disruptor | Objective Runner | Specialist |
-|---|---|---|---|---|---|
-| 7 | 4 | 0 | 1 | 3 | 4 |
-
-</div>
+{: .muted-note}
 
 ### Leaders
 
@@ -107,14 +96,18 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but a le
 </div>
 ### Heroes
 
-**Mages**
+<details class="role-group" markdown="1">
+<summary markdown="span">Mages <span class="role-count">4</span></summary>
 
 - [Baba-Yaga](/factions/the-guild/baba-yaga/) is a damage dealer that doubles as a light support piece if she uses Wild Magic. She's one of the most cost-efficient damage dealers in the game.
 - [Witch](/factions/the-guild/witch/) is a spellcaster that can be a damage dealer or a support piece, it has access to the most disciplines in the faction.
 - [Bloodletter](/factions/the-guild/bloodletter/) is a self-sustaining damage dealer. It has the unique ability to restore 2LP on each successful cast, making it a nearly infinite resource mage.
 - [Seamstress](/factions/the-guild/seamstress/) is a support piece. It's a weak mage, but the only access to Divinity and Fateweaving disciplines, and can pick spells from both simultaneously.
 
-**Damage Dealer**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer <span class="role-count">5</span></summary>
 
 - [Ostrich Chariot?!](/factions/the-guild/ostrich-chariot/) is a very expensive, high mobility, very high damage model. Even with its size 75 and the classic limitations that implies, it can freely move over other characters and ignores the normal rules for disengaging. Moreover, it has the highest raw damage output of the game.
 - [Whaler](/factions/the-guild/whaler/) is an expensive short-range **Hunter**. It's high-output, cost-efficient, and its weapon's **Knockback** can move the target in any direction.
@@ -122,80 +115,129 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but a le
 - [Brute](/factions/the-guild/brute/) is a melee **Knockback** damage dealer without anything fancy.
 - [Barber](/factions/the-guild/barber/) is a cost-efficient armour-piercing option.
 
-**Brawler**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Brawler <span class="role-count">1</span></summary>
 
 - [Butcher](/factions/the-guild/butcher/) is a strong grappler.
 
-**Assassin**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Assassin <span class="role-count">2</span></summary>
 
 - [Rialto Assassin](/factions/the-guild/rialto-assassin/) is an expensive but cost-effective, short-range, armour-piercing Infiltrator.
 - [Shadow Assassin](/factions/the-guild/shadow-assassin/) has a unique ability allowing it to teleport far on the map with ease for 2AP. That makes it a good objective runner too.
 
-**Sniper**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Sniper <span class="role-count">1</span></summary>
 
 - [Baroni](/factions/the-guild/baroni/) is a short-range sniper with 2 CP, giving him utility.
 
-**Canal Fighter**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Canal Fighter <span class="role-count">1</span></summary>
 
 - [Fisherman](/factions/the-guild/fisherman/) must choose between an **Aquatic** weapon or a 12" Harpoon gun at the start of the game, changing its role from a canal fighter to a mid-range **Hunter**. It can give **Hunter** to any one friendly model until the end of the game, making it a good tech piece against Rashaar or the Doctors.
 
-**Disruptor**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Disruptor <span class="role-count">1</span></summary>
 
 - [Black Lamp](/factions/the-guild/black-lamp/) is an expensive but very good disruptor as he has the best Dispel of the game. He's very resistant, has good Will, and can give every friendly character **Companion (*Black Lamp*)**, allowing a more diverse list building.
 
-**Harasser**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Harasser <span class="role-count">1</span></summary>
 
 - [Thief](/factions/the-guild/thief/) is an infiltrator that has a lot of possibilities to harass the enemy: **Smoke**, **Pickpocket**, a bit of damage. It's a good objective runner.
 
-**Support**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Support <span class="role-count">3</span></summary>
 
 - [Very Loud Ostrich](/factions/the-guild/very-loud-ostrich/) has the statline of an Ostrich Rider without the stunning weapon, but it costs a lot more. In exchange, it can make allies charge, and it regenerates their WP when it hits. It's a very fast and offensive support piece.
 - [Recruiter](/factions/the-guild/recruiter/) mainly supports **Trade** models. It also has a good-range armour-piercing weapon.
 - [Smuggler](/factions/the-guild/smuggler/) regenerates the CP of allies when you achieve an Agenda. It also has a strong but once per turn **Template** attack.
 
-**Objective Runner**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Objective Runner <span class="role-count">1</span></summary>
 
 - [Dancer](/factions/the-guild/dancer/) is a fast model with insane Dexterity. Its speed comes from a Command ability allowing it to choose two allies (including itself) and have them make a free Run/Climb action. It also has a rare **Poisoned** weapon.
 
-**Specialist**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist <span class="role-count">3</span></summary>
 
 - [Ebenezer Chummage](/factions/the-guild/ebenezer-chummage/) is an expensive anti-monster specialist. He has **Hunter** but a size 40, so it's only useful against big monsters. But he can get **Brave**, and regenerate CP when killing a monster. Otherwise he's a really good grappler, and can heal allies in base contact.
 - [Brewer](/factions/the-guild/brewer/) has two strong conditional abilities: any enemy character in base contact with it can be the target of a Drown action, and it has a short-range high armour-piercing attack that cannot be used unless it's within 3" of a Pulcinella Firebreather, making it a very strong pick against armour.
 - [Blood Matron](/factions/the-guild/blood-matron/) doesn't have strong stats for its cost, but it can permanently **Stun** its attack target on a critical strike.
 
+</details>
+
+
 ### Henchmen
 
-**Damage Dealer**
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer <span class="role-count">2</span></summary>
 
 - [Shipwright](/factions/the-guild/shipwright/) is cheap, cost-efficient, and deals good damage.
 - [Firebreather](/factions/the-guild/firebreather/) is fragile and only attacks once per round, but has a good armour-piercing **Template** weapon and enables Brewer's attack.
 
-**Sniper**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Sniper <span class="role-count">1</span></summary>
 
 - [Arbalest](/factions/the-guild/arbalest/) is a weak sniper, pricey for its output, but cheap and the only one of the faction.
 
-**Canal Fighter**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Canal Fighter <span class="role-count">1</span></summary>
 
 - [Mariner](/factions/the-guild/mariner/) doesn't have good damage but it's a **Fast Swimmer**.
 
-**Harasser**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Harasser <span class="role-count">3</span></summary>
 
 - [Ostrich Rider](/factions/the-guild/ostrich-rider/) is a very fast but fragile model. Its **Slippery** + **First Strike** + **Stun** weapon makes it a really good disruption tool.
 - [Poacher](/factions/the-guild/poacher/) is a mid-ranged Infiltrator with great repositioning capabilities. It can make a good Objective runner too.
 - [Dog](/factions/the-guild/dog/) is a very cheap and fast body that exists to rush and **Engage** enemies.
 
-**Support**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Support <span class="role-count">3</span></summary>
 
 - [Blood Courier](/factions/the-guild/blood-courier/) heals and can store one Blood Rites spell for allied mages to use.
 - [Dog Keeper](/factions/the-guild/dog-keeper/)'s main appeal is its 2CP, but it may only use Commands on characters with the **Henchman** keyword.
 - [Blooded](/factions/the-guild/blooded/) is a cheap WP battery to be used by **House of Virtue** characters.
 
-**Objective Runner**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Objective Runner <span class="role-count">2</span></summary>
 
 - [Pilferer](/factions/the-guild/pilferer/) is a cheap and mobile piece without combat capabilities.
 - [Beggar](/factions/the-guild/beggar/) is a model with bad stats, but it's really cheap, not **Mindless**, and can be deployed anywhere on the board at ground level. It also contributes passively to the **Mob Mentality** Pool.
 
-**Line Fighter**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Line Fighter <span class="role-count">5</span></summary>
 
 - [Escort](/factions/the-guild/escort/) is a polyvalent model: **Bodyguard**, good grappler, ok attack for its cost.
 - [Indebted](/factions/the-guild/indebted/) generates **Mob Mentality** dice on kill, it's offence oriented but pricey for its damage output.
@@ -203,17 +245,23 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but a le
 - [Citizen](/factions/the-guild/citizen/) is as basic as a model can get.
 - [Pulcinella](/factions/the-guild/pulcinella/) is fast, disruptive, but fragile.
 
-**Specialist**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist <span class="role-count">1</span></summary>
 
 - [Gondolier](/factions/the-guild/gondolier/) is a Gondola driver without much more for itself.
 
-## Roster value
+</details>
 
-### Offensive and Defensive capability by role
+
+## Roster Capabilities
 
 See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calculations.
+{: .muted-note}
 
-#### Leaders
+<details class="role-group" markdown="1" open>
+<summary markdown="span">Leaders</summary>
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
@@ -224,7 +272,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Ostrich King?!](/factions/the-guild/ostrich-king/) | Damage Dealer (anti-armor, fast) | 2.91 | 10.0 | 0.153 | 0.53 |
 | [Prince of Thieves](/factions/the-guild/prince-of-thieves/) | Damage Dealer (melee/short-range) / Objective Runner | 3.92 | 18.4 | 0.170 | 0.80 |
 
-#### Summary of troops
+</details>
+
+<details class="role-group" markdown="1" open>
+<summary markdown="span">Summary of troops</summary>
 
 **above bar** counts how many models clear the *global* role median for EDPA/Ducat and ATK2K/Ducat. In the following tables per model, `≥bar` is against that same global bar.
 
@@ -242,7 +293,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 5 | 1.13 | 0.141 | 2/5 | 9.7 | 0.96 | 1/5 |
 | Specialist | 4 | 2.31 | 0.159 | 3/4 | 10.1 | 0.79 | 3/4 |
 
-#### Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -257,40 +311,58 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Ostrich Chariot?!](/factions/the-guild/ostrich-chariot/) | 5.96 | 0.175 | – | 17.0 | 0.50 | – |
 | [Firebreather](/factions/the-guild/firebreather/) | 1.10 | 0.110 | – | 6.0 | 0.60 | – |
 
-#### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Butcher](/factions/the-guild/butcher/) | 2.68 | 0.206 | ✓ | 14.9 | 1.15 | – |
 
-#### Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Rialto Assassin](/factions/the-guild/rialto-assassin/) | 4.74 | 0.296 | ✓ | 14.1 | 0.88 | ✓ |
 | [Shadow Assassin](/factions/the-guild/shadow-assassin/) | 2.66 | 0.190 | – | 11.9 | 0.85 | ✓ |
 
-#### Sniper  *(bars: E/Duc 0.156, ATK2K/Duc 0.99)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Sniper  *(bars: E/Duc 0.156, ATK2K/Duc 0.99)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Baroni](/factions/the-guild/baroni/) | 2.41 | 0.161 | ✓ | 14.9 | 0.99 | ✓ |
 | [Arbalest](/factions/the-guild/arbalest/) | 0.75 | 0.075 | – | 11.4 | 1.14 | ✓ |
 
-#### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Fisherman](/factions/the-guild/fisherman/) | 3.46 | 0.247 | ✓ | 13.7 | 0.98 | ✓ |
 | [Mariner](/factions/the-guild/mariner/) | 1.13 | 0.113 | – | 9.7 | 0.97 | ✓ |
 
-#### Disruptor  *(bars: E/Duc 0.113, ATK2K/Duc 0.82)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Disruptor  *(bars: E/Duc 0.113, ATK2K/Duc 0.82)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Black Lamp](/factions/the-guild/black-lamp/) | 2.13 | 0.125 | ✓ | 16.0 | 0.94 | ✓ |
 
-#### Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*</summary>
 
 *ATK2K median overstates this role: typical 8.8, average 7.5, with 1 model well below the pack (down to 3.8), so the durability floor is lower than the median suggests.*
 
@@ -301,7 +373,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Poacher](/factions/the-guild/poacher/) | 1.13 | 0.113 | – | 8.8 | 0.88 | ✓ |
 | [Ostrich Rider](/factions/the-guild/ostrich-rider/) | 1.13 | 0.094 | – | 8.7 | 0.72 | – |
 
-#### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -313,7 +388,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Blood Courier](/factions/the-guild/blood-courier/) | 0.62 | 0.048 | – | 7.3 | 0.56 | – |
 | [Seamstress](/factions/the-guild/seamstress/) | 0.44 | 0.031 | – | 10.6 | 0.76 | ✓ |
 
-#### Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*</summary>
 
 *EDPA median understates this role: typical 0.62, average 1.08, with 1 model well above the pack (up to 2.19), so the offensive ceiling is higher than the median suggests.*
 
@@ -323,7 +401,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Beggar](/factions/the-guild/beggar/) | 0.44 | 0.073 | – | 7.3 | 1.22 | ✓ |
 | [Pilferer](/factions/the-guild/pilferer/) | 0.62 | 0.062 | – | 8.3 | 0.83 | ✓ |
 
-#### Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*</summary>
 
 *EDPA median understates this role: typical 1.13, average 1.40, with 1 model well above the pack (up to 1.99), so the offensive ceiling is higher than the median suggests.*
 
@@ -335,7 +416,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Citizen](/factions/the-guild/citizen/) | 1.13 | 0.126 | – | 9.7 | 1.08 | ✓ |
 | [Indebted](/factions/the-guild/indebted/) | 1.13 | 0.113 | – | 9.7 | 0.97 | – |
 
-#### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -343,4 +427,6 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Ebenezer Chummage](/factions/the-guild/ebenezer-chummage/) | 3.10 | 0.172 | ✓ | 16.0 | 0.89 | ✓ |
 | [Brewer](/factions/the-guild/brewer/) | 2.20 | 0.147 | ✓ | 7.4 | 0.49 | – |
 | [Blood Matron](/factions/the-guild/blood-matron/) | 1.23 | 0.082 | – | 10.6 | 0.71 | ✓ |
+
+</details>
 

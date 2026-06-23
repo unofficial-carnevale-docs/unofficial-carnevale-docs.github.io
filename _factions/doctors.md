@@ -13,8 +13,8 @@ toc:
     anchor: magic-access
   - title: Roster
     anchor: roster
-  - title: Roster value
-    anchor: roster-value
+  - title: Roster Capabilities
+    anchor: roster-capabilities
 ---
 
 ## Faction Overview
@@ -47,18 +47,7 @@ A great way to recharge Nexus batteries. With Master of Necromantic Studies LP r
 ## Roster
 
 See [Role Tags page](/mechanics/role-tags) for details about each role and how they are attributed.
-
-<div class="table-fixed">
-
-| Line Fighter | Damage Dealer | Assassin | Sniper | Brawler | Tank | Canal Fighter |
-|---|---|---|---|---|---|---|
-| 5 | 13 | 1 | 0 | 1 | 2 | 7 |
-
-| Support | Harasser | Control | Disruptor | Objective Runner | Specialist |
-|---|---|---|---|---|---|
-| 3 | 1 | 1 | 1 | 0 | 7 |
-
-</div>
+{: .muted-note}
 
 ### Leaders
 
@@ -100,13 +89,17 @@ Flexible support caster-leader with an anti-stun aura.
 </div>
 ### Heroes
 
-**Mages**
+<details class="role-group" markdown="1">
+<summary markdown="span">Mages <span class="role-count">3</span></summary>
 
 - [Doctor of the Firmament](/factions/the-doctors/doctor-of-the-firmament/) is a spellcasting damage dealer that doubles as an Ethereal specialist. It's high-output and cost-efficient.
 - [Doctor of Blood](/factions/the-doctors/doctor-of-blood/) is a spellcasting damage dealer. It brings a Frenzy burst (+113%).
 - [Morgue Doctor](/factions/the-doctors/morgue-doctor/) is a spellcasting LP restoration support piece, bringing healing & shielding, stat buffs & dice manipulation.
 
-**Damage Dealer**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer <span class="role-count">6</span></summary>
 
 - [The Unholy Union](/factions/the-doctors/the-unholy-union/) is a melee grappling damage dealer. It's tough for its role, but pricey for its output and Mindless (can't score primaries). Also rattles low-Mind foes.
 - [Unleashed Madman](/factions/the-doctors/unleashed-madman/) is a melee damage dealer that doubles as a Nexus-linked specialist. It's Mindless (can't score primaries). Also a strong grappler/drowner.
@@ -115,44 +108,72 @@ Flexible support caster-leader with an anti-stun aura.
 - [Doctor of Poisons](/factions/the-doctors/doctor-of-poisons/) is a melee Poisoned damage dealer that doubles as an Elixir specialist. It's high-output and cost-efficient. Also slips out of melee freely.
 - [Alchemist Doctor](/factions/the-doctors/alchemist-doctor/) is a ranged area-effect damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload).
 
-**Brawler**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Brawler <span class="role-count">1</span></summary>
 
 - [The Being](/factions/the-doctors/the-being/) is a Nexus-linked brawler. It's Mindless (can't score primaries).
 
-**Assassin**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Assassin <span class="role-count">1</span></summary>
 
 - [Ethereal Assassin](/factions/the-doctors/ethereal-assassin/) is a melee assassin.
 
-**Canal Fighter**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Canal Fighter <span class="role-count">3</span></summary>
 
 - [Brined Horror](/factions/the-doctors/brined-horror/) is a canal fighter. It's tough for its role and cost-efficient, but Mindless (can't score primaries). Also fast through water; at home in water.
 - [Doctor of Tides](/factions/the-doctors/doctor-of-tides/) is a tank canal fighter. It's tough for its role, but slow. Also at home in water; area attack — multi-target upside not counted.
 - [Marine Biologist](/factions/the-doctors/marine-biologist/) is a ranged canal fighter. It's low on damage, pricey for its output and one shot per turn (Reload). Also extra Penetration vs bigger bases; at home in water.
 
-**Tank**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Tank <span class="role-count">1</span></summary>
 
 - [Warden](/factions/the-doctors/warden/) is a tank. It's extremely durable and cheap for the staying power.
 
-**Control**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Control <span class="role-count">1</span></summary>
 
 - [Ethereal Snatcher](/factions/the-doctors/ethereal-snatcher/) is an Engage grappling stun control piece. Its niche is to lock down or reposition enemies — weigh its control, not its stats.
 
-**Support**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Support <span class="role-count">1</span></summary>
 
 - [Doctor of the Beasts](/factions/the-doctors/doctor-of-the-beasts/) is an Animal handler support piece. Also extra Penetration vs bigger bases.
 
-**Specialist**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist <span class="role-count">2</span></summary>
 
 - [Doctor of Divine Probabilities](/factions/the-doctors/doctor-of-divine-probabilities/) is a Destiny Die control specialist. Its niche is to manipulate the Destiny Die — buy Criticals or deny the enemy's.
 - [Voltage Bombardiers](/factions/the-doctors/voltage-bombardiers/) is a Nexus-linked self-detonating glass-cannon specialist. Its niche is to share Will Points across the Doctor cluster (needs Doctor allies within 6"). Also Mindless (can't score primaries); area attack — multi-target upside not counted.
 
+</details>
+
+
 ### Henchmen
 
-**Mages**
+<details class="role-group" markdown="1">
+<summary markdown="span">Mages <span class="role-count">1</span></summary>
 
 - [Mermaid](/factions/the-doctors/mermaid/) is a canal fighter. It's low on damage and fragile for its role. Also fast through water; at home in water.
 
-**Damage Dealer**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer <span class="role-count">5</span></summary>
 
 - [Basilisk](/factions/the-doctors/basilisk/) is a poison AoE damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's Mindless (can't score primaries). Also rattles low-Mind foes.
 - [Lion](/factions/the-doctors/lion/) is a melee damage dealer. It's Mindless (can't score primaries). Also pins fleeing enemies.
@@ -160,29 +181,47 @@ Flexible support caster-leader with an anti-stun aura.
 - [Monstrosity](/factions/the-doctors/monstrosity/) is a damage dealer. It's cost-efficient, but fragile for its role and Mindless (can't score primaries).
 - [Manticore](/factions/the-doctors/manticore/) is a ranged damage dealer. It's low on damage and self-stun-prone (Primitive).
 
-**Canal Fighter**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Canal Fighter <span class="role-count">3</span></summary>
 
 - [Hippocampus](/factions/the-doctors/hippocampus/) is a canal fighter. It's Mindless (can't score primaries). Also fast through water; at home in water.
 - [Crocodile](/factions/the-doctors/crocodile/) is a canal fighter. It's cost-efficient, but Mindless (can't score primaries). Also fast through water; at home in water.
 - [Diving Assistant](/factions/the-doctors/diving-assistant/) is a canal fighter. It's low on damage. Also at home in water.
 
-**Tank**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Tank <span class="role-count">1</span></summary>
 
 - [Rhino](/factions/the-doctors/rhino/) is a knockback tank. It's extremely durable, but Mindless (can't score primaries).
 
-**Disruptor**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Disruptor <span class="role-count">1</span></summary>
 
 - [Ghoul](/factions/the-doctors/ghoul/) is a WP lockout LP drain aura disruptor. It's Mindless (can't score primaries).
 
-**Harasser**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Harasser <span class="role-count">1</span></summary>
 
 - [Hippogryph](/factions/the-doctors/hippogryph/) is a harasser. It's Mindless (can't score primaries). Also flies over terrain; deploys forward.
 
-**Support**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Support <span class="role-count">1</span></summary>
 
 - [Nurse](/factions/the-doctors/nurse/) is a healing support piece. It's self-stun-prone (Primitive).
 
-**Line Fighter**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Line Fighter <span class="role-count">5</span></summary>
 
 - [Gorilla](/factions/the-doctors/gorilla/) is a line fighter. It's high-output, but self-stun-prone (Primitive). Also flies over terrain.
 - [Lab Assistant](/factions/the-doctors/lab-assistant/) is a disruptive line fighter. It's pricey for its output. Also extra Penetration vs bigger bases.
@@ -190,7 +229,10 @@ Flexible support caster-leader with an anti-stun aura.
 - [Shackled Feaster](/factions/the-doctors/shackled-feaster/) is a line fighter. It's pricey for its output and Mindless (can't score primaries).
 - [Husk](/factions/the-doctors/husk/) is a grappling line fighter. It's low on damage, fragile for its role and Mindless (can't score primaries).
 
-**Specialist**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist <span class="role-count">5</span></summary>
 
 - [Harvester](/factions/the-doctors/harvester/) is a grappling anti-large specialist. Its niche is to punch up against large-base models; ordinary otherwise.
 - [Apprentice Doctor](/factions/the-doctors/apprentice-doctor/) is an adaptive mentor copy specialist. Its niche is to copy a mentor's profile to fill a gap.
@@ -198,13 +240,16 @@ Flexible support caster-leader with an anti-stun aura.
 - [Hollowman](/factions/the-doctors/hollowman/) is a WP gain specialist. Its niche is to act as a Will Point engine for the gang. Also Mindless (can't score primaries).
 - [Madman](/factions/the-doctors/madman/) is a Nexus-linked specialist. Its niche is to share Will Points across the Doctor cluster (needs Doctor allies within 6"). Also Mindless (can't score primaries).
 
-## Roster value
+</details>
 
-### Offensive and Defensive capability by role
+
+## Roster Capabilities
 
 See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calculations.
+{: .muted-note}
 
-#### Leaders
+<details class="role-group" markdown="1" open>
+<summary markdown="span">Leaders</summary>
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
@@ -214,7 +259,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Master of Zoology](/factions/the-doctors/master-of-zoology/) | Support (Beast Master) / Tank | 3.59 | 36.7 | 0.179 | 1.84 |
 | [Plague Doctor](/factions/the-doctors/plague-doctor/) | Support (magic) | 2.66 | 14.9 | 0.127 | 0.71 |
 
-#### Summary of troops
+</details>
+
+<details class="role-group" markdown="1" open>
+<summary markdown="span">Summary of troops</summary>
 
 **above bar** counts how many models clear the *global* role median for EDPA/Ducat and ATK2K/Ducat. In the following tables per model, `≥bar` is against that same global bar.
 
@@ -232,7 +280,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 5 | 1.13 | 0.126 | 2/5 | 9.8 | 0.88 | 2/5 |
 | Specialist | 7 | 1.13 | 0.113 | 3/7 | 6.7 | 0.73 | 4/7 |
 
-#### Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -250,19 +301,28 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Electron Cannoneer](/factions/the-doctors/electron-cannoneer/) | 1.21 | 0.101 | – | 7.3 | 0.61 | – |
 | [The Unholy Union](/factions/the-doctors/the-unholy-union/) | 3.26 | 0.072 | – | 21.2 | 0.47 | – |
 
-#### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [The Being](/factions/the-doctors/the-being/) | 2.41 | 0.161 | – | 13.2 | 0.88 | – |
 
-#### Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Ethereal Assassin](/factions/the-doctors/ethereal-assassin/) | 2.89 | 0.222 | ✓ | 7.3 | 0.56 | – |
 
-#### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*</summary>
 
 *EDPA median overstates this role: typical 2.68, average 2.28, with 3 models well below the pack (down to 0.85), so the offensive floor is lower than the median suggests.*
 
@@ -276,32 +336,47 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Mermaid](/factions/the-doctors/mermaid/) | 1.50 | 0.115 | – | 6.9 | 0.53 | – |
 | [Marine Biologist](/factions/the-doctors/marine-biologist/) | 0.85 | 0.061 | – | 9.7 | 0.69 | – |
 
-#### Tank  *(bars: E/Duc 0.154, ATK2K/Duc 1.53)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Tank  *(bars: E/Duc 0.154, ATK2K/Duc 1.53)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Warden](/factions/the-doctors/warden/) | 2.29 | 0.176 | ✓ | 25.3 | 1.95 | ✓ |
 | [Rhino](/factions/the-doctors/rhino/) | 1.99 | 0.133 | – | 24.5 | 1.63 | ✓ |
 
-#### Disruptor  *(bars: E/Duc 0.113, ATK2K/Duc 0.82)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Disruptor  *(bars: E/Duc 0.113, ATK2K/Duc 0.82)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Ghoul](/factions/the-doctors/ghoul/) | 0.44 | 0.073 | – | 4.0 | 0.67 | – |
 
-#### Control  *(bars: E/Duc 0.111, ATK2K/Duc 0.67)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Control  *(bars: E/Duc 0.111, ATK2K/Duc 0.67)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Ethereal Snatcher](/factions/the-doctors/ethereal-snatcher/) | 1.89 | 0.126 | ✓ | 16.0 | 1.07 | ✓ |
 
-#### Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Hippogryph](/factions/the-doctors/hippogryph/) | 1.77 | 0.253 | ✓ | 9.8 | 1.40 | ✓ |
 
-#### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -309,7 +384,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Morgue Doctor](/factions/the-doctors/morgue-doctor/) | 1.50 | 0.100 | – | 10.6 | 0.71 | – |
 | [Nurse](/factions/the-doctors/nurse/) | 0.62 | 0.089 | – | 6.7 | 0.96 | ✓ |
 
-#### Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*</summary>
 
 *ATK2K median overstates this role: typical 9.8, average 8.3, with 1 model well below the pack (down to 2.9), so the durability floor is lower than the median suggests.*
 
@@ -321,7 +399,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Doctor of Venesection](/factions/the-doctors/doctor-of-venesection/) | 1.13 | 0.113 | – | 9.8 | 0.98 | ✓ |
 | [Lab Assistant](/factions/the-doctors/lab-assistant/) | 1.13 | 0.113 | – | 7.3 | 0.73 | – |
 
-#### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*</summary>
 
 *EDPA median understates this role: typical 1.13, average 1.35, with 1 model well above the pack (up to 4.14), so the offensive ceiling is higher than the median suggests.*
 
@@ -336,4 +417,6 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Hollowman](/factions/the-doctors/hollowman/) | 0.44 | 0.073 | – | 4.0 | 0.67 | – |
 | [Doctor of Divine Probabilities](/factions/the-doctors/doctor-of-divine-probabilities/) | 0.62 | 0.041 | – | 18.4 | 1.23 | ✓ |
 | [Madman](/factions/the-doctors/madman/) | 0.11 | 0.022 | – | 5.3 | 1.06 | ✓ |
+
+</details>
 

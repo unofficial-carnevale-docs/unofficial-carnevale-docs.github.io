@@ -13,8 +13,8 @@ toc:
     anchor: magic-access
   - title: Roster
     anchor: roster
-  - title: Roster value
-    anchor: roster-value
+  - title: Roster Capabilities
+    anchor: roster-capabilities
 ---
 
 ## Faction Overview
@@ -48,18 +48,7 @@ The Drowned Nun's **Dagonite Baptism** is a unique damage spell scaling with Ace
 ## Roster
 
 See [Role Tags page](/mechanics/role-tags) for details about each role and how they are attributed.
-
-<div class="table-fixed">
-
-| Line Fighter | Damage Dealer | Assassin | Sniper | Brawler | Tank | Canal Fighter |
-|---|---|---|---|---|---|---|
-| 4 | 4 | 0 | 0 | 3 | 2 | 9 |
-
-| Support | Harasser | Control | Disruptor | Objective Runner | Specialist |
-|---|---|---|---|---|---|
-| 6 | 0 | 1 | 0 | 3 | 9 |
-
-</div>
+{: .muted-note}
 
 ### Leaders
 
@@ -108,96 +97,135 @@ One of the highest effective Command outputs in the game, otherwise a modest com
 </div>
 ### Heroes
 
-<div class="roster-cols" markdown="1">
-
-
-**Mages**
+<details class="role-group" markdown="1">
+<summary markdown="span">Mages <span class="role-count">4</span></summary>
 
 - [Paliaa](/factions/rashaar/paliaa/) is a spellcasting support piece, bringing control & action economy. Also fast through water; at home in water.
 - [The Drowned Nun](/factions/rashaar/the-drowned-nun/) is a spellcasting support canal fighter. It's low on damage and pricey for its output. Also fast through water; at home in water.
 - [Sirena](/factions/rashaar/sirena/) is a spellcasting damage support canal fighter. It's high-output and cost-efficient. Also fast through water; at home in water.
 - [Dagonite Priest](/factions/rashaar/dagonite-priest/) is a spellcasting damage dealer that doubles as a support piece, bringing damage & life-drain, versatile utility magic. Also pins fleeing enemies.
 
-**Damage Dealer**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer <span class="role-count">1</span></summary>
 
 - [Raadru](/factions/rashaar/raadru/) is a melee damage dealer. It's high-output and tough for its role. Also fast through water; at home in water.
 
-**Brawler**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Brawler <span class="role-count">3</span></summary>
 
 - [Morgraur](/factions/rashaar/morgraur/) is a brawler. It's high-output and tough for its role, but pricey for its output and Mindless (can't score primaries). Also fast through water; at home in water.
 - [Brachyura](/factions/rashaar/brachyura/) is a brawler. It's tough for its role, but Mindless (can't score primaries). Also at home in water.
 - [Cult Enforcer](/factions/rashaar/cult-enforcer/) is a brawler.
 
-**Canal Fighter**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Canal Fighter <span class="role-count">4</span></summary>
 
 - [Emissary of Mother Hydra](/factions/rashaar/emissary-of-mother-hydra/) is a canal fighter. It's high-output and tough for its role, with Vampiric self-healing, but pricey for its output and slow. Also fast through water; at home in water.
 - [Karcharos](/factions/rashaar/karcharos/) is a canal fighter. It's high-output and cost-efficient, but Mindless (can't score primaries). Also fast through water; at home in water.
 - [Salaacia](/factions/rashaar/salaacia/) is a drown canal fighter. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload). Also fast through water; at home in water.
 - [Caandru Eel](/factions/rashaar/caandru-eel/) is a canal fighter. It's cost-efficient, but Mindless (can't score primaries). Also a strong grappler/drowner; fast through water.
 
-**Tank**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Tank <span class="role-count">1</span></summary>
 
 - [Secreting Myxin](/factions/rashaar/secreting-myxin/) is a stun debuff aura tank. It's very durable, but costly for what it soaks and Mindless (can't score primaries). Also at home in water; slips out of melee freely.
 
-**Control**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Control <span class="role-count">1</span></summary>
 
 - [Mature Kraken](/factions/rashaar/mature-kraken/) is a control piece. Its niche is to lock down or reposition enemies — weigh its control, not its stats. Also a strong grappler/drowner; at home in water.
 
-**Support**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Support <span class="role-count">2</span></summary>
 
 - [Demagogue](/factions/rashaar/demagogue/) is a support piece. Also rattles low-Mind foes.
 - [Handler](/factions/rashaar/handler/) is a support piece. Also extra Penetration vs bigger bases.
 
-**Specialist**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist <span class="role-count">2</span></summary>
 
 - [Tainted Maw](/factions/rashaar/tainted-maw/) is a water pull specialist. Its niche is to drag enemies around near water (needs canals). Also a strong grappler/drowner; fast through water.
 - [Krakenhost](/factions/rashaar/krakenhost/) is a Kraken spawner specialist. Its niche is to spawn extra Kraken bodies over the game. Also Mindless (can't score primaries); a strong grappler/drowner.
 
-</div>
+</details>
+
 
 ### Henchmen
 
-<div class="roster-cols" markdown="1">
-
-
-**Mages**
+<details class="role-group" markdown="1">
+<summary markdown="span">Mages <span class="role-count">1</span></summary>
 
 - [Aglaope](/factions/rashaar/aglaope/) is a spellcasting support piece, bringing stat buffs & dice manipulation, versatile utility magic. Also fast through water; at home in water.
 
-**Damage Dealer**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer <span class="role-count">2</span></summary>
 
 - [Dagonite Zealot](/factions/rashaar/dagonite-zealot/) is a melee damage dealer. It's Mindless (can't score primaries).
 - [Dagon Officiant](/factions/rashaar/dagon-officiant/) is a melee damage dealer.
 
-**Canal Fighter**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Canal Fighter <span class="role-count">3</span></summary>
 
 - [Half-Breed](/factions/rashaar/half-breed/) is a grappler canal fighter. It's low on damage and pricey for its output. Also fast through water; at home in water.
 - [Lesser Ugdru](/factions/rashaar/lesser-ugdru/) is a canal fighter. It's cost-efficient. Also fast through water; at home in water.
 - [Bulbous Toad](/factions/rashaar/bulbous-toad/) is a pull canal fighter. It's low on damage, pricey for its output and Mindless (can't score primaries). Also fast through water; at home in water.
 
-**Tank**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Tank <span class="role-count">1</span></summary>
 
 - [Cymothoan Crusher](/factions/rashaar/cymothoan-crusher/) is a knockback stun tank. It's very durable, but Mindless (can't score primaries). Also at home in water.
 
-**Support**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Support <span class="role-count">2</span></summary>
 
 - [Dagonite Page](/factions/rashaar/dagonite-page/) is a support piece. Also at home in water.
 - [Wet Nurse](/factions/rashaar/wet-nurse/) is a support piece.
 
-**Objective Runner**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Objective Runner <span class="role-count">3</span></summary>
 
 - [Advanced Hybrid](/factions/rashaar/advanced-hybrid/) is an objective runner. It's fragile. Also at home in water.
 - [Bounding Telchine](/factions/rashaar/bounding-telchine/) is an objective runner. It's self-stun-prone (Primitive). Also at home in water.
 - [Urchin](/factions/rashaar/urchin/) is an objective runner. It's fragile and Mindless (can't score primaries). Also steals WP/objectives on disengage.
 
-**Line Fighter**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Line Fighter <span class="role-count">4</span></summary>
 
 - [Lesser Rhyll](/factions/rashaar/lesser-rhyll/) is a disruptive line fighter. It's pricey for its output. Also fast through water; at home in water.
 - [Encrusted Squire](/factions/rashaar/encrusted-squire/) is a bodyguard line fighter. It's high-output. Also at home in water.
 - [Hellhound](/factions/rashaar/hellhound/) is a line fighter. It's high-output, but Mindless (can't score primaries). Also at home in water.
 - [Hybrid](/factions/rashaar/hybrid/) is a line fighter. It's pricey for its output. Also fast through water.
 
-**Specialist**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist <span class="role-count">7</span></summary>
 
 - [Infant Kraken](/factions/rashaar/infant-kraken/) is a permanent-lockdown sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also self-stun-prone (Primitive); at home in water.
 - [Crybaby](/factions/rashaar/crybaby/) is a debuff sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also Mindless (can't score primaries).
@@ -207,15 +235,16 @@ One of the highest effective Command outputs in the game, otherwise a modest com
 - [Lash Tentacle](/factions/rashaar/lash-tentacle/) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
 - [Dagger Tentacle](/factions/rashaar/dagger-tentacle/) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
 
-</div>
+</details>
 
-## Roster value
 
-### Offensive and Defensive capability by role
+## Roster Capabilities
 
 See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calculations.
+{: .muted-note}
 
-#### Leaders
+<details class="role-group" markdown="1" open>
+<summary markdown="span">Leaders</summary>
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
@@ -226,7 +255,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Thalidraur](/factions/rashaar/thalidraur/) | Brawler | 4.58 | 24.5 | 0.176 | 0.94 |
 | [Voice of Dagon](/factions/rashaar/voice-of-dagon/) | Support (CP, control) | 2.50 | 16.0 | 0.125 | 0.80 |
 
-#### Summary of troops
+</details>
+
+<details class="role-group" markdown="1" open>
+<summary markdown="span">Summary of troops</summary>
 
 **above bar** counts how many models clear the *global* role median for EDPA/Ducat and ATK2K/Ducat. In the following tables per model, `≥bar` is against that same global bar.
 
@@ -242,7 +274,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 4 | 1.68 | 0.162 | 2/4 | 9.6 | 0.76 | 1/4 |
 | Specialist | 9 | 1.13 | 0.088 | 1/9 | 2.6 | 0.64 | 2/9 |
 
-#### Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*</summary>
 
 *EDPA median understates this role: typical 2.54, average 2.83, with 1 model well above the pack (up to 4.37), so the offensive ceiling is higher than the median suggests.*
 
@@ -255,7 +290,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Dagonite Priest](/factions/rashaar/dagonite-priest/) | 2.73 | 0.182 | – | 10.6 | 0.71 | – |
 | [Dagon Officiant](/factions/rashaar/dagon-officiant/) | 1.86 | 0.169 | – | 13.7 | 1.25 | ✓ |
 
-#### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -263,7 +301,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Brachyura](/factions/rashaar/brachyura/) | 3.75 | 0.208 | ✓ | 42.6 | 2.37 | ✓ |
 | [Morgraur](/factions/rashaar/morgraur/) | 5.06 | 0.074 | – | 55.2 | 0.81 | – |
 
-#### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*</summary>
 
 *EDPA median overstates this role: typical 2.68, average 2.42, with 4 models well below the pack (down to 0.57), so the offensive floor is lower than the median suggests.*
 
@@ -279,20 +320,29 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Bulbous Toad](/factions/rashaar/bulbous-toad/) | 0.71 | 0.055 | – | 16.0 | 1.23 | ✓ |
 | [Salaacia](/factions/rashaar/salaacia/) | 0.57 | 0.036 | – | 12.5 | 0.78 | – |
 
-#### Tank  *(bars: E/Duc 0.154, ATK2K/Duc 1.53)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Tank  *(bars: E/Duc 0.154, ATK2K/Duc 1.53)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Secreting Myxin](/factions/rashaar/secreting-myxin/) | 2.60 | 0.113 | – | 21.8 | 0.95 | – |
 | [Cymothoan Crusher](/factions/rashaar/cymothoan-crusher/) | 1.33 | 0.078 | – | 20.9 | 1.23 | – |
 
-#### Control  *(bars: E/Duc 0.111, ATK2K/Duc 0.67)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Control  *(bars: E/Duc 0.111, ATK2K/Duc 0.67)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Mature Kraken](/factions/rashaar/mature-kraken/) | 2.32 | 0.097 | – | 16.1 | 0.67 | ✓ |
 
-#### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -303,7 +353,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Dagonite Page](/factions/rashaar/dagonite-page/) | 0.62 | 0.048 | – | 8.8 | 0.68 | – |
 | [Wet Nurse](/factions/rashaar/wet-nurse/) | 0.44 | 0.044 | – | 8.8 | 0.88 | ✓ |
 
-#### Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -311,7 +364,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Bounding Telchine](/factions/rashaar/bounding-telchine/) | 0.87 | 0.097 | ✓ | 6.9 | 0.77 | – |
 | [Advanced Hybrid](/factions/rashaar/advanced-hybrid/) | 1.13 | 0.094 | ✓ | 5.3 | 0.44 | – |
 
-#### Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -320,7 +376,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Hybrid](/factions/rashaar/hybrid/) | 1.13 | 0.126 | – | 9.7 | 1.08 | ✓ |
 | [Lesser Rhyll](/factions/rashaar/lesser-rhyll/) | 1.36 | 0.105 | – | 9.7 | 0.75 | – |
 
-#### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*</summary>
 
 *EDPA median understates this role: typical 1.13, average 1.30, with 4 models well above the pack (up to 2.86), so the offensive ceiling is higher than the median suggests.*
 
@@ -337,4 +396,6 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Lash Tentacle](/factions/rashaar/lash-tentacle/) | 1.77 | – | – | 2.6 | – | – |
 | [Dagger Tentacle](/factions/rashaar/dagger-tentacle/) | 1.80 | – | – | 2.6 | – | – |
 | [Thorn Tentacle](/factions/rashaar/thorn-tentacle/) | 1.99 | – | – | 2.6 | – | – |
+
+</details>
 

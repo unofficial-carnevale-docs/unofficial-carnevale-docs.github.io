@@ -13,8 +13,8 @@ toc:
     anchor: magic-access
   - title: Roster
     anchor: roster
-  - title: Roster value
-    anchor: roster-value
+  - title: Roster Capabilities
+    anchor: roster-capabilities
 ---
 
 ## Faction Overview
@@ -46,18 +46,7 @@ Grants the standard cover protection in addition to any **Concealment** bonus (-
 ## Roster
 
 See [Role Tags page](/mechanics/role-tags) for details about each role and how they are attributed.
-
-<div class="table-fixed">
-
-| Line Fighter | Damage Dealer | Assassin | Sniper | Brawler | Tank | Canal Fighter |
-|---|---|---|---|---|---|---|
-| 6 | 10 | 3 | 0 | 0 | 1 | 4 |
-
-| Support | Harasser | Control | Disruptor | Objective Runner | Specialist |
-|---|---|---|---|---|---|
-| 5 | 2 | 0 | 1 | 1 | 3 |
-
-</div>
+{: .muted-note}
 
 ### Leaders
 
@@ -100,141 +89,143 @@ Very durable fighter but with a Full Plate (weak near water). He also gives a sm
 </div>
 ### Heroes
 
-<details class="role-group" markdown="0">
-<summary>Mages <span class="role-count">4</span></summary>
-<ul>
-<li><a href="/factions/strigoi/cibele/">Cibele</a> is a spellcasting damage dealer. It brings a Frenzy burst (+76%).</li>
-<li><a href="/factions/strigoi/strigoi-jude/">Strigoi Jude</a> is a target-locking anti-mage specialist that doubles as a spellcasting damage dealer. Its niche is to hunt and tax enemy Mages — dead weight vs magic-free gangs.</li>
-<li><a href="/factions/strigoi/tarot-reader/">Tarot Reader</a> is a spellcasting support piece that doubles as a Summon Vermin damage dealer, flexible across disciplines (its spell pick sets the role). Also slips out of melee freely.</li>
-<li><a href="/factions/strigoi/seer/">Seer</a> is a spellcasting support piece, bringing stat buffs &amp; dice manipulation. Also slips out of melee freely.</li>
-</ul>
+<details class="role-group" markdown="1">
+<summary markdown="span">Mages <span class="role-count">4</span></summary>
+
+- [Cibele](/factions/strigoi/cibele/) is a spellcasting damage dealer. It brings a Frenzy burst (+76%).
+- [Strigoi Jude](/factions/strigoi/strigoi-jude/) is a target-locking anti-mage specialist that doubles as a spellcasting damage dealer. Its niche is to hunt and tax enemy Mages — dead weight vs magic-free gangs.
+- [Tarot Reader](/factions/strigoi/tarot-reader/) is a spellcasting support piece that doubles as a Summon Vermin damage dealer, flexible across disciplines (its spell pick sets the role). Also slips out of melee freely.
+- [Seer](/factions/strigoi/seer/) is a spellcasting support piece, bringing stat buffs & dice manipulation. Also slips out of melee freely.
+
 </details>
 
-<details class="role-group" markdown="0">
-<summary>Damage Dealer <span class="role-count">9</span></summary>
-<ul>
-<li><a href="/factions/strigoi/moon-eater/">Moon Eater</a> is a melee damage dealer. It's high-output, but Mindless (can't score primaries). Also rattles low-Mind foes.</li>
-<li><a href="/factions/strigoi/zoryi/">Zoryi</a> is a melee damage dealer. It's tough for its role, with a Frenzy burst (+48%), but coverless (no cover). Also rattles low-Mind foes.</li>
-<li><a href="/factions/strigoi/wallachian-impaler/">Wallachian Impaler</a> is a melee damage dealer. It's high-output and cost-efficient, with a Frenzy burst (+36%). Also rattles low-Mind foes.</li>
-<li><a href="/factions/strigoi/strigoi-sluger/">Strigoi Sluger</a> is a melee grappling damage dealer. It's pricey for its output.</li>
-<li><a href="/factions/strigoi/varcolae/">Varcolae</a> is a melee damage dealer. It's Mindless (can't score primaries).</li>
-<li><a href="/factions/strigoi/strige/">Strige</a> is a melee damage dealer. It's low on damage, fragile for its role and pricey for its output. Also extra Penetration vs bigger bases; flies over terrain.</li>
-<li><a href="/factions/strigoi/hulking-moroi/">Hulking Moroi</a> is a melee damage dealer. It's cost-efficient, with a Frenzy burst (+40%), but Mindless (can't score primaries).</li>
-<li><a href="/factions/strigoi/reaper/">Reaper</a> is a melee damage dealer. It's low on damage, pricey for its output and Mindless (can't score primaries).</li>
-<li><a href="/factions/strigoi/highborn-servant/">Highborn Servant</a> is a melee/ranged damage dealer.</li>
-</ul>
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer <span class="role-count">9</span></summary>
+
+- [Moon Eater](/factions/strigoi/moon-eater/) is a melee damage dealer. It's high-output, but Mindless (can't score primaries). Also rattles low-Mind foes.
+- [Zoryi](/factions/strigoi/zoryi/) is a melee damage dealer. It's tough for its role, with a Frenzy burst (+48%), but coverless (no cover). Also rattles low-Mind foes.
+- [Wallachian Impaler](/factions/strigoi/wallachian-impaler/) is a melee damage dealer. It's high-output and cost-efficient, with a Frenzy burst (+36%). Also rattles low-Mind foes.
+- [Strigoi Sluger](/factions/strigoi/strigoi-sluger/) is a melee grappling damage dealer. It's pricey for its output.
+- [Varcolae](/factions/strigoi/varcolae/) is a melee damage dealer. It's Mindless (can't score primaries).
+- [Strige](/factions/strigoi/strige/) is a melee damage dealer. It's low on damage, fragile for its role and pricey for its output. Also extra Penetration vs bigger bases; flies over terrain.
+- [Hulking Moroi](/factions/strigoi/hulking-moroi/) is a melee damage dealer. It's cost-efficient, with a Frenzy burst (+40%), but Mindless (can't score primaries).
+- [Reaper](/factions/strigoi/reaper/) is a melee damage dealer. It's low on damage, pricey for its output and Mindless (can't score primaries).
+- [Highborn Servant](/factions/strigoi/highborn-servant/) is a melee/ranged damage dealer.
+
 </details>
 
-<details class="role-group" markdown="0">
-<summary>Assassin <span class="role-count">3</span></summary>
-<ul>
-<li><a href="/factions/strigoi/monstrous-stryx/">Monstrous Stryx</a> is a melee flying assassin. It's high-output and tough for its role, with a Frenzy burst (+26%), but pricey for its output and Mindless (can't score primaries). Also slips out of melee freely; area attack — multi-target upside not counted.</li>
-<li><a href="/factions/strigoi/ceres/">Ceres</a> is a melee infiltrating assassin. It's low on damage and pricey for its output. Also slips out of melee freely.</li>
-<li><a href="/factions/strigoi/strzyga/">Strzyga</a> is a melee armour-piercing assassin. It brings a Frenzy burst (+48%). Also flies over terrain.</li>
-</ul>
+<details class="role-group" markdown="1">
+<summary markdown="span">Assassin <span class="role-count">3</span></summary>
+
+- [Monstrous Stryx](/factions/strigoi/monstrous-stryx/) is a melee flying assassin. It's high-output and tough for its role, with a Frenzy burst (+26%), but pricey for its output and Mindless (can't score primaries). Also slips out of melee freely; area attack — multi-target upside not counted.
+- [Ceres](/factions/strigoi/ceres/) is a melee infiltrating assassin. It's low on damage and pricey for its output. Also slips out of melee freely.
+- [Strzyga](/factions/strigoi/strzyga/) is a melee armour-piercing assassin. It brings a Frenzy burst (+48%). Also flies over terrain.
+
 </details>
 
-<details class="role-group" markdown="0">
-<summary>Canal Fighter <span class="role-count">2</span></summary>
-<ul>
-<li><a href="/factions/strigoi/cetean-upi-r/">Cetean Upiór</a> is a canal fighter. It brings a Frenzy burst (+38%). Also a strong grappler/drowner; fast through water.</li>
-<li><a href="/factions/strigoi/aquatic-strigoi/">Aquatic Strigoi</a> is a canal fighter. It brings a Frenzy burst (+65%).</li>
-</ul>
+<details class="role-group" markdown="1">
+<summary markdown="span">Canal Fighter <span class="role-count">2</span></summary>
+
+- [Cetean Upiór](/factions/strigoi/cetean-upi-r/) is a canal fighter. It brings a Frenzy burst (+38%). Also a strong grappler/drowner; fast through water.
+- [Aquatic Strigoi](/factions/strigoi/aquatic-strigoi/) is a canal fighter. It brings a Frenzy burst (+65%).
+
 </details>
 
-<details class="role-group" markdown="0">
-<summary>Tank <span class="role-count">1</span></summary>
-<ul>
-<li><a href="/factions/strigoi/spatar/">Spatar</a> is a tank. It's extremely durable and hits back hard.</li>
-</ul>
+<details class="role-group" markdown="1">
+<summary markdown="span">Tank <span class="role-count">1</span></summary>
+
+- [Spatar](/factions/strigoi/spatar/) is a tank. It's extremely durable and hits back hard.
+
 </details>
 
-<details class="role-group" markdown="0">
-<summary>Disruptor <span class="role-count">1</span></summary>
-<ul>
-<li><a href="/factions/strigoi/strigoi-priest/">Strigoi Priest</a> is a WP lockout melee anti-mage disruptor.</li>
-</ul>
+<details class="role-group" markdown="1">
+<summary markdown="span">Disruptor <span class="role-count">1</span></summary>
+
+- [Strigoi Priest](/factions/strigoi/strigoi-priest/) is a WP lockout melee anti-mage disruptor.
+
 </details>
 
-<details class="role-group" markdown="0">
-<summary>Harasser <span class="role-count">1</span></summary>
-<ul>
-<li><a href="/factions/strigoi/leech/">Leech</a> is an aquatic harasser. It's self-stun-prone (Primitive).</li>
-</ul>
+<details class="role-group" markdown="1">
+<summary markdown="span">Harasser <span class="role-count">1</span></summary>
+
+- [Leech](/factions/strigoi/leech/) is an aquatic harasser. It's self-stun-prone (Primitive).
+
 </details>
 
-<details class="role-group" markdown="0">
-<summary>Support <span class="role-count">1</span></summary>
-<ul>
-<li><a href="/factions/strigoi/miriam/">Miriam</a> is a Bride support piece.</li>
-</ul>
+<details class="role-group" markdown="1">
+<summary markdown="span">Support <span class="role-count">1</span></summary>
+
+- [Miriam](/factions/strigoi/miriam/) is a Bride support piece.
+
 </details>
+
 
 ### Henchmen
 
-<details class="role-group" markdown="0">
-<summary>Mages <span class="role-count">1</span></summary>
-<ul>
-<li><a href="/factions/strigoi/romani/">Romani</a> is a line fighter that doubles as a spellcasting cantrip support piece, flexible across disciplines (its spell pick sets the role). Also slips out of melee freely.</li>
-</ul>
+<details class="role-group" markdown="1">
+<summary markdown="span">Mages <span class="role-count">1</span></summary>
+
+- [Romani](/factions/strigoi/romani/) is a line fighter that doubles as a spellcasting cantrip support piece, flexible across disciplines (its spell pick sets the role). Also slips out of melee freely.
+
 </details>
 
-<details class="role-group" markdown="0">
-<summary>Canal Fighter <span class="role-count">2</span></summary>
-<ul>
-<li><a href="/factions/strigoi/rotter/">Rotter</a> is a canal fighter. It's cost-efficient, with a Frenzy burst (+46%). Also fast through water; at home in water.</li>
-<li><a href="/factions/strigoi/sinker/">Sinker</a> is a canal fighter. It's cost-efficient, with a Frenzy burst (+49%), but fragile for its role and slow. Also at home in water.</li>
-</ul>
+<details class="role-group" markdown="1">
+<summary markdown="span">Canal Fighter <span class="role-count">2</span></summary>
+
+- [Rotter](/factions/strigoi/rotter/) is a canal fighter. It's cost-efficient, with a Frenzy burst (+46%). Also fast through water; at home in water.
+- [Sinker](/factions/strigoi/sinker/) is a canal fighter. It's cost-efficient, with a Frenzy burst (+49%), but fragile for its role and slow. Also at home in water.
+
 </details>
 
-<details class="role-group" markdown="0">
-<summary>Harasser <span class="role-count">1</span></summary>
-<ul>
-<li><a href="/factions/strigoi/harpy/">Harpy</a> is a harasser. It's Mindless (can't score primaries). Also flies over terrain.</li>
-</ul>
+<details class="role-group" markdown="1">
+<summary markdown="span">Harasser <span class="role-count">1</span></summary>
+
+- [Harpy](/factions/strigoi/harpy/) is a harasser. It's Mindless (can't score primaries). Also flies over terrain.
+
 </details>
 
-<details class="role-group" markdown="0">
-<summary>Support <span class="role-count">2</span></summary>
-<ul>
-<li><a href="/factions/strigoi/nosferatu/">Nosferatu</a> is a repositioning support piece.</li>
-<li><a href="/factions/strigoi/thrall/">Thrall</a> is a Vampire AP battery support piece.</li>
-</ul>
+<details class="role-group" markdown="1">
+<summary markdown="span">Support <span class="role-count">2</span></summary>
+
+- [Nosferatu](/factions/strigoi/nosferatu/) is a repositioning support piece.
+- [Thrall](/factions/strigoi/thrall/) is a Vampire AP battery support piece.
+
 </details>
 
-<details class="role-group" markdown="0">
-<summary>Objective Runner <span class="role-count">1</span></summary>
-<ul>
-<li><a href="/factions/strigoi/poenari-scout/">Poenari Scout</a> is an objective runner that doubles as a mid-range damage dealer. Also deploys forward.</li>
-</ul>
+<details class="role-group" markdown="1">
+<summary markdown="span">Objective Runner <span class="role-count">1</span></summary>
+
+- [Poenari Scout](/factions/strigoi/poenari-scout/) is an objective runner that doubles as a mid-range damage dealer. Also deploys forward.
+
 </details>
 
-<details class="role-group" markdown="0">
-<summary>Line Fighter <span class="role-count">5</span></summary>
-<ul>
-<li><a href="/factions/strigoi/giurgiu-guard/">Giurgiu Guard</a> is a line fighter. It's high-output and tough for its role, with a Frenzy burst (+70%).</li>
-<li><a href="/factions/strigoi/common-strigoi/">Common Strigoi</a> is a line fighter. It's high-output, with a Frenzy burst (+68%).</li>
-<li><a href="/factions/strigoi/targoveti/">Targoveti</a> is a line fighter. It's high-output.</li>
-<li><a href="/factions/strigoi/newborn-strigoi/">Newborn Strigoi</a> is a line fighter. It's fragile for its role and Mindless (can't score primaries).</li>
-<li><a href="/factions/strigoi/starved-dhampir/">Starved Dhampir</a> is a line fighter. It's fragile for its role.</li>
-</ul>
+<details class="role-group" markdown="1">
+<summary markdown="span">Line Fighter <span class="role-count">5</span></summary>
+
+- [Giurgiu Guard](/factions/strigoi/giurgiu-guard/) is a line fighter. It's high-output and tough for its role, with a Frenzy burst (+70%).
+- [Common Strigoi](/factions/strigoi/common-strigoi/) is a line fighter. It's high-output, with a Frenzy burst (+68%).
+- [Targoveti](/factions/strigoi/targoveti/) is a line fighter. It's high-output.
+- [Newborn Strigoi](/factions/strigoi/newborn-strigoi/) is a line fighter. It's fragile for its role and Mindless (can't score primaries).
+- [Starved Dhampir](/factions/strigoi/starved-dhampir/) is a line fighter. It's fragile for its role.
+
 </details>
 
-<details class="role-group" markdown="0">
-<summary>Specialist <span class="role-count">2</span></summary>
-<ul>
-<li><a href="/factions/strigoi/al-naibii/">Al Naibii</a> is a scaling versatile specialist. Its niche is to grow stronger as the game goes on.</li>
-<li><a href="/factions/strigoi/ferryman/">Ferryman</a> is a Gondola water transport specialist. Its niche is to ferry the gang by boat. Also rattles low-Mind foes.</li>
-</ul>
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist <span class="role-count">2</span></summary>
+
+- [Al Naibii](/factions/strigoi/al-naibii/) is a scaling versatile specialist. Its niche is to grow stronger as the game goes on.
+- [Ferryman](/factions/strigoi/ferryman/) is a Gondola water transport specialist. Its niche is to ferry the gang by boat. Also rattles low-Mind foes.
+
 </details>
 
-## Roster value
 
-### Offensive and Defensive capability by role
+## Roster Capabilities
 
 See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calculations.
+{: .muted-note}
 
-#### Leaders
+<details class="role-group" markdown="1" open>
+<summary markdown="span">Leaders</summary>
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
@@ -244,7 +235,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Stryha Crone](/factions/strigoi/stryha-crone/) | Assassin (flying, infiltration) | 3.90 | 7.6 | 0.177 | 0.35 |
 | [Wallachian Hospodar](/factions/strigoi/wallachian-hospodar/) | Brawler (durable) | 3.10 | 35.1 | 0.148 | 1.67 |
 
-#### Summary of troops
+</details>
+
+<details class="role-group" markdown="1" open>
+<summary markdown="span">Summary of troops</summary>
 
 **above bar** counts how many models clear the *global* role median for EDPA/Ducat and ATK2K/Ducat. In the following tables per model, `≥bar` is against that same global bar.
 
@@ -261,7 +255,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Line Fighter | 6 | 1.61 | 0.157 | 4/6 | 9.3 | 0.86 | 2/6 |
 | Specialist | 3 | 1.63 | 0.152 | 3/3 | 9.7 | 0.66 | 1/3 |
 
-#### Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -276,7 +273,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Strige](/factions/strigoi/strige/) | 1.75 | 0.125 | – | 6.3 | 0.45 | – |
 | [Strigoi Sluger](/factions/strigoi/strigoi-sluger/) | 2.13 | 0.118 | – | 10.3 | 0.57 | – |
 
-#### Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*</summary>
 
 *ATK2K median understates this role: typical 10.0, average 12.3, with 1 model well above the pack (up to 17.0), so the durability ceiling is higher than the median suggests.*
 
@@ -286,7 +286,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Monstrous Stryx](/factions/strigoi/monstrous-stryx/) | 5.31 | 0.133 | – | 17.0 | 0.42 | – |
 | [Ceres](/factions/strigoi/ceres/) | 1.75 | 0.092 | – | 9.8 | 0.52 | – |
 
-#### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -295,26 +298,38 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Aquatic Strigoi](/factions/strigoi/aquatic-strigoi/) | 2.13 | 0.152 | ✓ | 7.6 | 0.54 | – |
 | [Cetean Upiór](/factions/strigoi/cetean-upi-r/) | 3.10 | 0.148 | – | 12.5 | 0.60 | – |
 
-#### Tank  *(bars: E/Duc 0.154, ATK2K/Duc 1.53)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Tank  *(bars: E/Duc 0.154, ATK2K/Duc 1.53)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Spatar](/factions/strigoi/spatar/) | 3.10 | 0.194 | ✓ | 22.9 | 1.43 | – |
 
-#### Disruptor  *(bars: E/Duc 0.113, ATK2K/Duc 0.82)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Disruptor  *(bars: E/Duc 0.113, ATK2K/Duc 0.82)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Strigoi Priest](/factions/strigoi/strigoi-priest/) | 1.75 | 0.125 | ✓ | 13.0 | 0.93 | ✓ |
 
-#### Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Leech](/factions/strigoi/leech/) | 1.50 | 0.125 | ✓ | 5.0 | 0.42 | – |
 | [Harpy](/factions/strigoi/harpy/) | 0.62 | 0.103 | – | 4.4 | 0.73 | – |
 
-#### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -324,13 +339,19 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Seer](/factions/strigoi/seer/) | 1.75 | 0.117 | ✓ | 9.7 | 0.65 | – |
 | [Miriam](/factions/strigoi/miriam/) | 1.75 | 0.092 | – | 9.8 | 0.52 | – |
 
-#### Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Poenari Scout](/factions/strigoi/poenari-scout/) | 1.13 | 0.094 | ✓ | 8.8 | 0.73 | – |
 
-#### Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*</summary>
 
 *ATK2K median understates this role: typical 9.3, average 10.9, with 1 model well above the pack (up to 23.3), so the durability ceiling is higher than the median suggests.*
 
@@ -343,7 +364,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Newborn Strigoi](/factions/strigoi/newborn-strigoi/) | 1.13 | 0.141 | – | 5.3 | 0.66 | – |
 | [Romani](/factions/strigoi/romani/) | 1.23 | 0.137 | – | 6.7 | 0.74 | – |
 
-#### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*</summary>
 
 *EDPA median understates this role: typical 1.63, average 1.95, with 1 model well above the pack (up to 2.73), so the offensive ceiling is higher than the median suggests.*
 
@@ -352,4 +376,6 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Ferryman](/factions/strigoi/ferryman/) | 1.63 | 0.181 | ✓ | 9.7 | 1.08 | ✓ |
 | [Strigoi Jude](/factions/strigoi/strigoi-jude/) | 2.73 | 0.152 | ✓ | 10.6 | 0.59 | – |
 | [Al Naibii](/factions/strigoi/al-naibii/) | 1.50 | 0.136 | ✓ | 7.3 | 0.66 | – |
+
+</details>
 

@@ -15,8 +15,8 @@ toc:
     anchor: magic-access
   - title: Roster
     anchor: roster
-  - title: Roster value
-    anchor: roster-value
+  - title: Roster Capabilities
+    anchor: roster-capabilities
 ---
 
 ## Faction Overview
@@ -65,18 +65,7 @@ These characters are pricey and have really low stats, their value comes from th
 ## Roster
 
 See [Role Tags page](/mechanics/role-tags) for details about each role and how they are attributed.
-
-<div class="table-fixed">
-
-| Line Fighter | Damage Dealer | Assassin | Sniper | Brawler | Tank | Canal Fighter |
-|---|---|---|---|---|---|---|
-| 0 | 11 | 1 | 0 | 1 | 0 | 0 |
-
-| Support | Harasser | Control | Disruptor | Objective Runner | Specialist |
-|---|---|---|---|---|---|
-| 3 | 1 | 2 | 0 | 3 | 9 |
-
-</div>
+{: .muted-note}
 
 ### Leaders
 
@@ -105,14 +94,18 @@ High-mobility assassin with a teleport action.
 </div>
 ### Heroes
 
-**Mages**
+<details class="role-group" markdown="1">
+<summary markdown="span">Mages <span class="role-count">4</span></summary>
 
 - [Fadhila](/factions/gifted/fadhila/) is a support mage with a strong protection aura but with an unreliable range.
 - [Maria Fioritura](/factions/gifted/maria-fioritura/) is a spellcasting summoner that can summon Painted Protectors, tough models with a good attack.
 - [Fate](/factions/gifted/fate/) is a spellcasting damage dealer that doubles as a WP drain disruptor. When played with Justice, they can swap their position.
 - [Francisco De Lorme](/factions/gifted/francisco-de-lorme/) is a Doctor Mask giver, transforming the mask target in a **Nexus**.
 
-**Damage Dealer**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer <span class="role-count">7</span></summary>
 
 - [Black Spectre](/factions/gifted/black-spectre/) is a very expensive flying **Ethereal** melee damage dealer that's strong against low Mind targets.
 - [The Aberration](/factions/gifted/the-aberration/) is an expensive melee damage dealer that's tough but has low damage output for its cost. But he's one of the best grapplers in the game, though he lacks the water mobility to be a reliable drowner.
@@ -122,15 +115,24 @@ High-mobility assassin with a teleport action.
 - [Burattino](/factions/gifted/burattino/) is an armour-piercing melee damage dealer that's fragile for its role and easily grappled or drowned.
 - [Innamorati](/factions/gifted/innamorati/) is a melee/mid-range damage dealer.
 
-**Assassin**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Assassin <span class="role-count">1</span></summary>
 
 - [Senshi the Undying](/factions/gifted/senshi-the-undying/) is an expensive melee assassin. He's tough and has a chance to come back to life when he's killed.
 
-**Harasser**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Harasser <span class="role-count">1</span></summary>
 
 - [Harlequin](/factions/gifted/harlequin/) is a high quality harasser, the most agile model of the game.
 
-**Specialist**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist <span class="role-count">7</span></summary>
 
 - [Solus Hydraea](/factions/gifted/solus-hydraea/) is a Rashaar Mask giver.
 - [Harbinger's Reflection](/factions/gifted/harbinger-s-reflection/) is an expensive model with low stats which are compensated by a high WP usage and regeneration. It gives choice when drawing agendas.
@@ -140,44 +142,66 @@ High-mobility assassin with a teleport action.
 - [Marco Leontus](/factions/gifted/marco-leontus/) is a Patrician Mask giver.
 - [The Mask Maker](/factions/gifted/the-mask-maker/) is an adaptive model that can choose between 4 abilities each round.
 
+</details>
+
+
 ### Henchmen
 
-**Damage Dealer**
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer <span class="role-count">3</span></summary>
 
 - [The Demolitionist](/factions/gifted/the-demolitionist/) is a short-range area-effect damage dealer. She's only effective if she can hit multiple targets and she has an unreliable weapon.
 - [Brighella](/factions/gifted/brighella/) is a high-range damage dealer that's effectively a 3AP model (he gains 1AP when a Leader in LOS uses a Command).
 - [Mezzetino](/factions/gifted/mezzetino/) is a cheap melee damage dealer who is efficient at retaliating against enemies that wounded him.
 
-**Brawler**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Brawler <span class="role-count">1</span></summary>
 
 - [Starspawn](/factions/gifted/starspawn/) is a brawler that regenerates WP when any mage casts a spell, making it efficient against mage heavy factions.
 
-**Control**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Control <span class="role-count">2</span></summary>
 
 - [Escaped Madman](/factions/gifted/escaped-madman/) is a grappler with a **Knockback** weapon and a potentially big burst of damage.
 - [Il Dottore](/factions/gifted/il-dottore/) is a control piece with a **Stun** weapon, **Engage**, and a Command-denial short-range aura.
 
-**Support**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Support <span class="role-count">1</span></summary>
 
 - [Colombina](/factions/gifted/colombina/) is a cheap support piece that allows once per round to score an ace instead of rolling.
 
-**Objective Runner**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Objective Runner <span class="role-count">3</span></summary>
 
 - [Coviello](/factions/gifted/coviello/) is a cheap and fragile objective runner.
 - [Scapino](/factions/gifted/scapino/) is a cheap and fast objective runner.
 - [Pantaleone](/factions/gifted/pantaleone/) is a cheap but not very fast objective runner with a **Smoke** bomb.
 
-**Specialist**
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist <span class="role-count">1</span></summary>
 
 - [Pierrot](/factions/gifted/pierrot/) is a unique model that redirects enemy charges away from allies to itself.
 
-## Roster value
+</details>
 
-### Offensive and Defensive capability by role
+
+## Roster Capabilities
 
 See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calculations.
+{: .muted-note}
 
-#### Leaders
+<details class="role-group" markdown="1" open>
+<summary markdown="span">Leaders</summary>
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
@@ -185,7 +209,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [La Signora](/factions/gifted/la-signora/) | Support (re-roll engine) | 1.50 | 17.7 | 0.083 | 0.98 |
 | [The Duke](/factions/gifted/the-duke/) | Assassin (infiltration) / Damage Dealer | 4.14 | 18.4 | 0.188 | 0.84 |
 
-#### Summary of troops
+</details>
+
+<details class="role-group" markdown="1" open>
+<summary markdown="span">Summary of troops</summary>
 
 **above bar** counts how many models clear the *global* role median for EDPA/Ducat and ATK2K/Ducat. In the following tables per model, `≥bar` is against that same global bar.
 
@@ -200,7 +227,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Objective Runner | 3 | 0.44 | 0.044 | 1/3 | 6.7 | 0.67 | 1/3 |
 | Specialist | 9 | 1.50 | 0.102 | 2/9 | 10.6 | 0.66 | 3/9 |
 
-#### Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer  *(bars: E/Duc 0.186, ATK2K/Duc 0.72)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -216,32 +246,47 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Black Spectre](/factions/gifted/black-spectre/) | 3.08 | 0.103 | – | 20.0 | 0.67 | – |
 | [White Dove](/factions/gifted/white-dove/) | 1.34 | 0.064 | – | 15.2 | 0.72 | ✓ |
 
-#### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Starspawn](/factions/gifted/starspawn/) | 2.68 | 0.179 | – | 19.8 | 1.32 | ✓ |
 
-#### Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Assassin  *(bars: E/Duc 0.193, ATK2K/Duc 0.59)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Senshi the Undying](/factions/gifted/senshi-the-undying/) | 3.99 | 0.200 | ✓ | 16.6 | 0.83 | ✓ |
 
-#### Control  *(bars: E/Duc 0.111, ATK2K/Duc 0.67)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Control  *(bars: E/Duc 0.111, ATK2K/Duc 0.67)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Escaped Madman](/factions/gifted/escaped-madman/) | 2.29 | 0.143 | ✓ | 9.3 | 0.58 | – |
 | [Il Dottore](/factions/gifted/il-dottore/) | 1.13 | 0.094 | – | 8.0 | 0.67 | – |
 
-#### Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Harlequin](/factions/gifted/harlequin/) | 2.68 | 0.149 | ✓ | 15.0 | 0.83 | ✓ |
 
-#### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*</summary>
 
 *EDPA median understates this role: typical 1.13, average 1.44, with 1 model well above the pack (up to 2.31), so the offensive ceiling is higher than the median suggests.*
 
@@ -253,7 +298,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Colombina](/factions/gifted/colombina/) | 1.13 | 0.113 | ✓ | 7.3 | 0.73 | – |
 | [Fadhila](/factions/gifted/fadhila/) | 0.87 | 0.046 | – | 17.0 | 0.89 | ✓ |
 
-#### Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -261,7 +309,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Scapino](/factions/gifted/scapino/) | 0.44 | 0.044 | – | 8.1 | 0.81 | ✓ |
 | [Pantaleone](/factions/gifted/pantaleone/) | 0.04 | 0.004 | – | 6.7 | 0.67 | – |
 
-#### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -274,4 +325,6 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Harbinger's Reflection](/factions/gifted/harbinger-s-reflection/) | 1.47 | 0.086 | – | 7.3 | 0.43 | – |
 | [Marco Leontus](/factions/gifted/marco-leontus/) | 1.23 | 0.082 | – | 10.6 | 0.71 | ✓ |
 | [Solus Hydraea](/factions/gifted/solus-hydraea/) | 1.13 | 0.067 | – | 9.7 | 0.57 | – |
+
+</details>
 
