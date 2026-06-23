@@ -108,6 +108,9 @@ One of the highest effective Command outputs in the game, otherwise a modest com
 </div>
 ### Heroes
 
+<div class="roster-cols" markdown="1">
+
+
 **Mages**
 
 - [Paliaa](/factions/rashaar/paliaa/) is a spellcasting support piece, bringing control & action economy. Also fast through water; at home in water.
@@ -150,7 +153,12 @@ One of the highest effective Command outputs in the game, otherwise a modest com
 - [Tainted Maw](/factions/rashaar/tainted-maw/) is a water pull specialist. Its niche is to drag enemies around near water (needs canals). Also a strong grappler/drowner; fast through water.
 - [Krakenhost](/factions/rashaar/krakenhost/) is a Kraken spawner specialist. Its niche is to spawn extra Kraken bodies over the game. Also Mindless (can't score primaries); a strong grappler/drowner.
 
+</div>
+
 ### Henchmen
+
+<div class="roster-cols" markdown="1">
+
 
 **Mages**
 
@@ -198,6 +206,8 @@ One of the highest effective Command outputs in the game, otherwise a modest com
 - [Maw Tentacle](/factions/rashaar/maw-tentacle/) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); a strong grappler/drowner.
 - [Lash Tentacle](/factions/rashaar/lash-tentacle/) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
 - [Dagger Tentacle](/factions/rashaar/dagger-tentacle/) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
+
+</div>
 
 ## Roster value
 
