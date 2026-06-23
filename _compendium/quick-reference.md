@@ -30,12 +30,13 @@ Characters in water are always in cover when not in base contact with their atta
 
 Move horizontally with no penalty, over terrain under 1" high. Make a Basic DEXTERITY roll, 7+ for an Ace to start climbing.
 
-| | |
+| Result | Effect |
 |---|---|
-| **Success** | Move up to remaining MOVEMENT. |
-| **Fail** | Discard remaining MOVEMENT. |
-| **Critical** | Add 2" and move up to remaining MOVEMENT. |
-| **Fumble** | Fall from current position. |
+| Critical | Add 2" and move up to remaining MOVEMENT. |
+| Success | Move up to remaining MOVEMENT. |
+| Fail | Discard remaining MOVEMENT. |
+| Fumble | Fall from current position. |
+{: .outcome}
 
 ### Swimming
 
@@ -53,23 +54,25 @@ Moving into base contact from 3" or more higher than the enemy gives **Penetrati
 
 To move out of base contact, make an Opposed DEXTERITY roll, 7+ for an Ace. Characters on smaller bases get +1 DEXTERITY.
 
-| | |
+| Result | Effect |
 |---|---|
-| **Success** | Character moves away. |
-| **Fail** | Enemy makes an Attack of Opportunity - cannot be a Grapple. Character moves away as normal. |
-| **Critical** | Character moves away, adding 2" to the final movement distance. |
-| **Fumble** | Enemy makes an Attack of Opportunity - this cannot be a Grapple. Character stays in place. |
+| Critical | Character moves away, adding 2" to the final movement distance. |
+| Success | Character moves away. |
+| Fail | Enemy makes an Attack of Opportunity - cannot be a Grapple. Character moves away as normal. |
+| Fumble | Enemy makes an Attack of Opportunity - this cannot be a Grapple. Character stays in place. |
+{: .outcome}
 
 ### Jump - 1AP
 
 Make a Basic DEXTERITY roll, 7+ for an Ace. No jumping in water!
 
-| | |
+| Result | Effect |
 |---|---|
-| **Success** | Move 2" + up to 1" for each Ace. |
-| **Fail** | Move 2". |
-| **Critical** | Move 4" + up to 1" for each Ace. |
-| **Fumble** | Move 1". |
+| Critical | Move 4" + up to 1" for each Ace. |
+| Success | Move 2" + up to 1" for each Ace. |
+| Fail | Move 2". |
+| Fumble | Move 1". |
+{: .outcome}
 
 If character doesn't land on solid ground, they fall. Height is calculated from the **start** of the jump.
 
@@ -85,23 +88,25 @@ If character doesn't land on solid ground, they fall. Height is calculated from 
 
 Make a Basic DEXTERITY roll, 7+ for an Ace.
 
-| | |
+| Result | Effect |
 |---|---|
-| **Success** | Reduce Life Points lost by 1 for each Ace. |
-| **Fail** | Suffer the full effects of the fall. |
-| **Critical** | Reduce Life Points lost by 2 plus 1 for each Ace. |
-| **Fumble** | Suffer the full effects of the fall and gain a **Stunned** counter. |
+| Critical | Reduce Life Points lost by 2 plus 1 for each Ace. |
+| Success | Reduce Life Points lost by 1 for each Ace. |
+| Fail | Suffer the full effects of the fall. |
+| Fumble | Suffer the full effects of the fall and gain a **Stunned** counter. |
+{: .outcome}
 
 ### Dive - 2AP
 
 Make a Basic DEXTERITY roll, 7+ for an Ace.
 
-| | |
+| Result | Effect |
 |---|---|
-| **Success** | Receive 1 Underwater Counter. |
-| **Fail** | No effect. |
-| **Critical** | Receive 2 Underwater Counters. |
-| **Fumble** | Lose 1 Life Point. |
+| Critical | Receive 2 Underwater Counters. |
+| Success | Receive 1 Underwater Counter. |
+| Fail | No effect. |
+| Fumble | Lose 1 Life Point. |
+{: .outcome}
 
 Underwater Counters give +2 PROTECTION.
 If a character starts a turn Underwater Counters, remove them and **move up to 4" for each,** as long as it stays within water. **8" for Water Creatures.**
@@ -120,12 +125,13 @@ Characters not in base contact gain a Guard counter. When an enemy makes a Run/C
 
 Make an Attack roll, equal or beat the target's DEXTERITY.
 
-| | |
+| Result | Effect |
 |---|---|
-| **Success** | Target takes 1 Damage for each Ace. |
-| **Fail** | No effect. |
-| **Critical** | Target takes 1 Damage for each Ace and additionally loses **1 Life Point**. |
-| **Fumble** | Attacker loses **1 Life Point** and **target** makes Attack of Opportunity. |
+| Critical | Target takes 1 Damage for each Ace and additionally loses **1 Life Point**. |
+| Success | Target takes 1 Damage for each Ace. |
+| Fail | No effect. |
+| Fumble | Attacker loses **1 Life Point** and **target** makes Attack of Opportunity. |
+{: .outcome}
 
 ### Combat in Water
 
@@ -135,34 +141,37 @@ Make an Attack roll, equal or beat the target's DEXTERITY.
 
 Make a Basic PROTECTION roll, 7+ for an Ace.
 
-| | |
+| Result | Effect |
 |---|---|
-| **Success** | Reduce Damage by 1 for each Ace. |
-| **Fail** | No effect. |
-| **Critical** | Add 1 extra Ace to this roll. Reduce Damage by 1 for each Ace. |
-| **Fumble** | Increase Damage by 1. |
+| Critical | Add 1 extra Ace to this roll. Reduce Damage by 1 for each Ace. |
+| Success | Reduce Damage by 1 for each Ace. |
+| Fail | No effect. |
+| Fumble | Increase Damage by 1. |
+{: .outcome}
 
 ### Grapple - 1AP
 
 Make an Opposed ATTACK roll, 7+ for an Ace. Characters on larger bases get +1 ATTACK.
 
-| | |
+| Result | Effect |
 |---|---|
-| **Success** | Move target 2" plus 1" for each Ace. |
-| **Fail** | No effect. |
-| **Critical** | Move target 2" plus 1" for each Ace. Target receives a Stunned counter. |
-| **Fumble** | Target makes Grapple instead, using the Aces they rolled originally. |
+| Critical | Move target 2" plus 1" for each Ace. Target receives a Stunned counter. |
+| Success | Move target 2" plus 1" for each Ace. |
+| Fail | No effect. |
+| Fumble | Target makes Grapple instead, using the Aces they rolled originally. |
+{: .outcome}
 
 ### Drown - 1AP
 
 Make an Opposed ATTACK roll, 7+ for an Ace.
 
-| | |
+| Result | Effect |
 |---|---|
-| **Success** | Target loses **2 Life Points**, plus **1 Life Point** for every Ace. |
-| **Fail** | No effect. |
-| **Critical** | Target loses **4 Life Points**, plus **1 Life Point** for every Ace. |
-| **Fumble** | Attacker loses **2 Life Points**. |
+| Critical | Target loses **4 Life Points**, plus **1 Life Point** for every Ace. |
+| Success | Target loses **2 Life Points**, plus **1 Life Point** for every Ace. |
+| Fail | No effect. |
+| Fumble | Attacker loses **2 Life Points**. |
+{: .outcome}
 
 Characters on larger bases get +1 ATTACK.
 No Protection rolls against Drowning!
@@ -173,12 +182,13 @@ No Protection rolls against Drowning!
 
 Make a Magic roll, equal or beat spell's Difficulty.
 
-| | |
+| Result | Effect |
 |---|---|
-| **Success** | Cast the spell according to its Effect. |
-| **Fail** | Cannot cast any spells this turn. |
-| **Critical** | Replenishes **1 Will Point**, cast the spell according to its Effect, increasing any (X) amounts by +1. |
-| **Fumble** | Receive a **Stunned** counter and lose **1 Will Point**. Cannot cast any spells this turn. |
+| Critical | Replenishes **1 Will Point**, cast the spell according to its Effect, increasing any (X) amounts by +1. |
+| Success | Cast the spell according to its Effect. |
+| Fail | Cannot cast any spells this turn. |
+| Fumble | Receive a **Stunned** counter and lose **1 Will Point**. Cannot cast any spells this turn. |
+{: .outcome}
 
 **Each character may only attempt to cast the same spell once per activation.**
 **A character cannot cast a spell while in water unless it has the Water Creature special rule.**

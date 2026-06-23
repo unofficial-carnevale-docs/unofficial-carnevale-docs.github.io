@@ -61,12 +61,13 @@ The diagonal rule has a direct consequence for jumps: reaching a raised surface 
 
 Pick a target point within line of sight that is **no higher than 3" above the character's base**. Make a Basic **Dexterity** roll:
 
-| Result | Movement |
-|--------|----------|
+| Result | Effect |
+|---|---|
+| Critical | 4" + up to 1" per Ace rolled |
 | Success | 2" + up to 1" per Ace rolled |
 | Fail | 2" |
-| Critical | 4" + up to 1" per Ace rolled |
 | Fumble | 1" |
+{: .outcome}
 
 The character moves in a straight line toward the nominated point. This line can pass over intervening terrain that is **less than 1" high**.
 
@@ -171,8 +172,9 @@ Before rolling for a jump, a character may declare a Controlled Landing for **1 
 If the jump results in a fall, the character makes a Dexterity roll to reduce fall damage with a threshold of **5+** instead of the normal 7+.
 
 | Result | Effect |
-|--------|--------|
+|---|---|
+| Critical | Reduce Life Points lost by 2 plus 1 per Ace |
 | Success | Reduce Life Points lost by 1 for each Ace |
 | Fail | Full fall damage |
-| Critical | Reduce Life Points lost by 2 plus 1 per Ace |
 | Fumble | Full fall damage and gain a Stunned counter |
+{: .outcome}

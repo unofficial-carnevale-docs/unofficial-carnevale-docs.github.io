@@ -35,10 +35,11 @@ To attempt to cast a spell, select the spell you wish to cast, spend the spells 
 
 | Result | Effect |
 |---|---|
+| Critical | Character replenishes 1 Will Point, and casts the spell according to its Effect, increasing any (x) amounts by +1. |
 | Success | Character casts the spell according to its Effect. |
 | Fail | Character cannot attempt to cast any other spells during this activation. |
-| Critical | Character replenishes 1 Will Point, and casts the spell according to its Effect, increasing any (x) amounts by +1. |
 | Fumble | Character receives a Stunned counter and loses 1 additional Will Point. Character cannot attempt to cast any other spells during this activation. |
+{: .outcome}
 
 If a character attempts to cast a spell while in base contact with one or more enemy characters, one enemy character (chosen by the controlling player – or decided among controlling players) makes an out of sequence Attack of Opportunity before the action is completed.
 

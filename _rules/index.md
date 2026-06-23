@@ -218,10 +218,11 @@ Protection Rolls use a character's PROTECTION stat, and are used to save against
 
 | Result | Effect |
 |---|---|
+| Critical | Add 1 extra Ace to this roll. For each Ace, reduce the Damage score by 1. |
 | Success | For each Ace, reduce the Damage score by 1. |
 | Fail | No effect. |
-| Critical | Add 1 extra Ace to this roll. For each Ace, reduce the Damage score by 1. |
 | Fumble | Increase the Damage score by 1. |
+{: .outcome}
 
 ## Measuring and Line of Sight
 
@@ -437,10 +438,11 @@ At any point during a character's Run/Climb action, if it is within base contact
 
 | Result | Effect |
 |---|---|
+| Critical | Add 2 to MOVE value for this action. Move up to remaining MOVE. |
 | Success | Move up to remaining MOVE. |
 | Fail | Stay in place and discard any remaining MOVE. |
-| Critical | Add 2 to MOVE value for this action. Move up to remaining MOVE. |
 | Fumble | The character falls from its current position, following the rules for falling. |
+{: .outcome}
 
 A character moving on Vertical Terrain ignores all other characters for the duration of the move, but may not end the move occupying the same space as another character.
 
@@ -464,10 +466,11 @@ Characters are never "locked" in base contact and may move away from base contac
 
 | Result | Effect |
 |---|---|
+| Critical | Character moves away as normal, adding 2" to the final movement distance. |
 | Success | Character moves away as normal. |
 | Fail | Enemy character makes an Attack of Opportunity against the disengaging character – this **cannot** be a Grapple. Character then moves away as normal. |
-| Critical | Character moves away as normal, adding 2" to the final movement distance. |
 | Fumble | Enemy character makes an Attack of Opportunity against the disengaging character – this **cannot** be a Grapple. Character stays in place. |
+{: .outcome}
 
 <div class="callout">
 <p class="callout-title">FAQ</p>
@@ -494,10 +497,11 @@ Pick a point within line of sight for your character to jump to that is no highe
 
 | Result | Effect |
 |---|---|
+| Critical | Move 4" **plus** up to 1" for every Ace rolled. |
 | Success | Move 2" **plus** up to 1" for every Ace rolled. |
 | Fail | Move 2". |
-| Critical | Move 4" **plus** up to 1" for every Ace rolled. |
 | Fumble | Move 1". |
+{: .outcome}
 
 Move your character in a straight line towards the point nominated. This movement action can be used to move over intervening terrain features that are **less than 1" high.**
 
@@ -534,10 +538,11 @@ If the action results in a fall, the character scores an Ace on the falling roll
 
 | Result | Effect |
 |---|---|
+| Critical | Reduce Life Points lost by 2 plus 1 for each Ace rolled. |
 | Success | Reduce Life Points lost by 1 for each Ace rolled. |
 | Fail | The character suffers the full effects of the fall. |
-| Critical | Reduce Life Points lost by 2 plus 1 for each Ace rolled. |
 | Fumble | The character suffers the full effects of the fall and gains a Stunned counter. |
+{: .outcome}
 
 ### Falling
 
@@ -549,10 +554,11 @@ Measure the distance from the start of the fall to the end of the fall. When a c
 
 | Result | Effect |
 |---|---|
+| Critical | Reduce Life Points lost by 2 plus 1 for each Ace rolled. |
 | Success | Reduce Life Points lost by 1 for each Ace rolled. |
 | Fail | The character suffers the full effects of the fall. |
-| Critical | Reduce Life Points lost by 2 plus 1 for each Ace rolled. |
 | Fumble | Increase Life Points lost by 1. |
+{: .outcome}
 
 See [Landing Spots](#landing-spots) for modifiers based on where a character lands.
 
@@ -562,10 +568,11 @@ To dive, a character must be in water. Make a Basic **DEXTERITY** Roll and consu
 
 | Result | Effect |
 |---|---|
+| Critical | Receive 2 Underwater Counters. |
 | Success | Receive 1 Underwater Counter. |
 | Fail | No effect. |
-| Critical | Receive 2 Underwater Counters. |
 | Fumble | Lose 1 Life Point. |
+{: .outcome}
 
 For each Underwater Counter a character has, it gains +2 **PROTECTION**. A character must remove all Underwater Counters when it makes another action.
 
@@ -611,10 +618,11 @@ To make a Combat action, choose a weapon on the character's profile and an enemy
 
 | Result | Effect |
 |---|---|
+| Critical | Target character takes 1 point of Damage for every Ace rolled and additionally loses 1 Life Point. |
 | Success | Target character takes 1 point of Damage for every Ace rolled. |
 | Fail | No effect. |
-| Critical | Target character takes 1 point of Damage for every Ace rolled and additionally loses 1 Life Point. |
 | Fumble | Attacker loses 1 Life Point and target makes an Attack of Opportunity against the attacker. |
+{: .outcome}
 
 **The result needed for an Attack Roll to be an Ace is equal to the target's DEXTERITY value or higher.** If you roll one or more Aces, the roll is a success.
 
@@ -650,10 +658,11 @@ To make a Grapple action, choose an enemy character in base contact to be the ta
 
 | Result | Effect |
 |---|---|
+| Critical | Move the target character 2" plus up to 1" for every Ace rolled. Target receives a Stunned counter. |
 | Success | Move the target character 2" plus up to 1" for every Ace rolled. |
 | Fail | No effect. |
-| Critical | Move the target character 2" plus up to 1" for every Ace rolled. Target receives a Stunned counter. |
 | Fumble | Target character makes the Grapple action instead, using the same dice result. |
+{: .outcome}
 
 **A character on a larger sized base than its opponent gains +1 ATTACK when rolling to grapple (whether attacking or defending).**
 
@@ -684,10 +693,11 @@ Protection Rolls may not be made against Drown actions – armour doesn't stop w
 
 | Result | Effect |
 |---|---|
+| Critical | Target character loses 4 Life Points, plus 1 Life Point for every Ace rolled. |
 | Success | Target character loses 2 Life Points, plus 1 Life Point for every Ace rolled. |
 | Fail | No effect. |
-| Critical | Target character loses 4 Life Points, plus 1 Life Point for every Ace rolled. |
 | Fumble | Attacker loses 2 Life Points. |
+{: .outcome}
 
 ## Magic
 
@@ -726,10 +736,11 @@ Spells cost a different number of Will Points, noted in its entry. These are spe
 
 | Result | Effect |
 |---|---|
+| Critical | Character replenishes 1 Will Point, and casts the spell according to its Effect, increasing any (x) amounts by +1. |
 | Success | Character casts the spell according to its Effect. |
 | Fail | Character cannot attempt to cast any other spells during this activation. |
-| Critical | Character replenishes 1 Will Point, and casts the spell according to its Effect, increasing any (x) amounts by +1. |
 | Fumble | Character receives a Stunned counter and loses 1 additional Will Point. Character cannot attempt to cast any other spells during this activation. |
+{: .outcome}
 
 If a character attempts to cast a spell while in base contact with one or more enemy characters, one enemy character (chosen by the controlling player – or decided among controlling players) makes an out of sequence Attack of Opportunity before the action is completed.
 
@@ -773,10 +784,11 @@ When a character jumps or falls onto Unstable Ground (even if they die on the fa
 
 | Result | Effect |
 |---|---|
+| Critical | The controlling player moves the character up to 2" in any direction. |
 | Success | No effect. |
 | Fail | Move the character 2" towards the nearest edge. If they move off, they fall! |
-| Critical | The controlling player moves the character up to 2" in any direction. |
 | Fumble | Move the character off the nearest edge so they fall off. |
+{: .outcome}
 
 Note that some Unstable Ground could also count as an Obstacle (such as a gondola). In this case, resolve all of the other characters' rolls first, then the character may make a Chained Jump as normal. You can use this to knock people off of their gondolas as you jump over a canal!
 
@@ -876,10 +888,11 @@ A Row action cannot take the Gondola out of water, but can take the Gondola fart
 
 | Result | Effect |
 |---|---|
+| Critical | The Gondola and any characters on it move 4" plus 1" for every Ace rolled. |
 | Success | The Gondola and any characters on it move 2" plus 1" for every Ace rolled. |
 | Fail | The Gondola and any characters on it move 2". |
-| Critical | The Gondola and any characters on it move 4" plus 1" for every Ace rolled. |
 | Fumble | All characters on the Gondola move 1" directly into water. |
+{: .outcome}
 
 ## Building Your Gang
 

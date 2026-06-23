@@ -809,6 +809,33 @@ a:hover { text-decoration: underline; }
 .doc-content tbody tr:nth-child(even) { background: rgba(184, 146, 43, 0.05); }
 .doc-content tbody tr:hover td { background: rgba(38, 123, 140, 0.06); }
 
+/* Outcome tables (Critical · Success · Fail · Fumble → effect):
+   header hidden, only as wide as their content, with a best→worst colour key.
+   Rows are authored in fixed order, so the colour can key off row position. */
+.doc-content table.outcome {
+  width: auto;
+  max-width: 34rem;
+  /* keeps the gilded border + soft gold shadow from .doc-content table */
+}
+.doc-content table.outcome thead {        /* hidden visually, kept for screen readers */
+  position: absolute;
+  width: 1px; height: 1px;
+  margin: -1px; padding: 0; border: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+.doc-content table.outcome tbody tr:nth-child(even) { background: transparent; }
+.doc-content table.outcome td:first-child {
+  font-weight: 600;
+  white-space: nowrap;
+  width: 1%;                               /* shrink the result column to its text */
+}
+.doc-content table.outcome tbody tr:nth-child(1) td:first-child { color: #2e7a3a; }      /* Critical */
+.doc-content table.outcome tbody tr:nth-child(2) td:first-child { color: var(--accent); } /* Success  */
+.doc-content table.outcome tbody tr:nth-child(3) td:first-child { color: var(--ink-3); }  /* Fail     */
+.doc-content table.outcome tbody tr:nth-child(4) td:first-child { color: var(--accent2); }/* Fumble   */
+
 .doc-content .table-fixed table {
   table-layout: fixed;
 }
