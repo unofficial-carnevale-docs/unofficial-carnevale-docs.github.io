@@ -1358,6 +1358,14 @@ a.disc-wild-magic        { color: #c06a18; font-weight: 500; }
   padding: 3px;
 }
 
+/* Quick Reference: two-column dense layout for actions + ability glossaries */
+.doc-content .qr-cols { columns: 2; column-gap: 2.2rem; margin: 0.5rem 0 1.5rem; }
+.doc-content .qr-cols .qr-item { break-inside: avoid; margin: 0 0 0.7rem; }
+.doc-content .qr-cols .qr-item > h3:first-child { margin-top: 0; }
+.doc-content .qr-gloss > p { break-inside: avoid; margin: 0 0 0.6rem; }
+.doc-content .qr-gloss > p strong:first-child { display: block; color: var(--ink); }
+@media (max-width: 640px) { .doc-content .qr-cols { columns: 1; } }
+
 /* Muted reference aside (e.g. "See X for details…") */
 .doc-content p.muted-note { font-style: italic; font-size: 0.85rem; color: var(--ink-3); margin: 0.25rem 0 1.25rem; }
 

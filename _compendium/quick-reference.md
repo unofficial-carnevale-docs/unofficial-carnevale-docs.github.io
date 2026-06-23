@@ -20,11 +20,17 @@ toc:
 
 ## Movement & LOS
 
+<div class="qr-cols" markdown="1">
+<div class="qr-item" markdown="1">
+
 ### Cover
 
 If at least 25% of a characters is covered, they get +1 PROTECTION.
 Characters in base contact are never in cover.
 Characters in water are always in cover when not in base contact with their attacker.
+
+</div>
+<div class="qr-item" markdown="1">
 
 ### Run/Climb - 1AP
 
@@ -38,17 +44,29 @@ Move horizontally with no penalty, over terrain under 1" high. Make a Basic DEXT
 | Fumble | Fall from current position. |
 {: .outcome}
 
+</div>
+<div class="qr-item" markdown="1">
+
 ### Swimming
 
 When a character is in water they are counted as swimming. **A character reduces its MOVE value by 2" if it starts a Run/Climb action in water**, unless it has the **Water Creature** Character Ability.
+
+</div>
+<div class="qr-item" markdown="1">
 
 ### Charging
 
 Moving into base contact gives a 0AP Attack of Opportunity (Combat, Grapple, or Drown).
 
+</div>
+<div class="qr-item" markdown="1">
+
 ### Charging From Above
 
 Moving into base contact from 3" or more higher than the enemy gives **Penetration -5** on a Combat Attack of Opportunity.
+
+</div>
+<div class="qr-item" markdown="1">
 
 ### Disengaging
 
@@ -61,6 +79,9 @@ To move out of base contact, make an Opposed DEXTERITY roll, 7+ for an Ace. Char
 | Fail | Enemy makes an Attack of Opportunity - cannot be a Grapple. Character moves away as normal. |
 | Fumble | Enemy makes an Attack of Opportunity - this cannot be a Grapple. Character stays in place. |
 {: .outcome}
+
+</div>
+<div class="qr-item" markdown="1">
 
 ### Jump - 1AP
 
@@ -76,13 +97,22 @@ Make a Basic DEXTERITY roll, 7+ for an Ace. No jumping in water!
 
 If character doesn't land on solid ground, they fall. Height is calculated from the **start** of the jump.
 
+</div>
+<div class="qr-item" markdown="1">
+
 ### Chained Jumps
 
 **Once per activation if you Jump onto an obstacle or debris,** you may immediately make an additional 0AP jump from the obstacle or debris.
 
+</div>
+<div class="qr-item" markdown="1">
+
 ### Controlled Landing - 1WP
 
 **Before** rolling to jump, you may make a Controlled Landing. The jump costs 1AP as normal and the Controlled Landing costs **1 Will Point**. If the action results in a fall, the character scores an Ace on the falling roll on a **5+** instead of the normal 7+.
+
+</div>
+<div class="qr-item" markdown="1">
 
 ### Falling
 
@@ -95,6 +125,9 @@ Make a Basic DEXTERITY roll, 7+ for an Ace.
 | Fail | Suffer the full effects of the fall. |
 | Fumble | Suffer the full effects of the fall and gain a **Stunned** counter. |
 {: .outcome}
+
+</div>
+<div class="qr-item" markdown="1">
 
 ### Dive - 2AP
 
@@ -111,15 +144,27 @@ Make a Basic DEXTERITY roll, 7+ for an Ace.
 Underwater Counters give +2 PROTECTION.
 If a character starts a turn Underwater Counters, remove them and **move up to 4" for each,** as long as it stays within water. **8" for Water Creatures.**
 
+</div>
+<div class="qr-item" markdown="1">
+
 ### Hide - 1AP
 
 Characters not in base contact gain a Hidden counter. Hidden characters in cover cannot be seen further away than 6".
 
+</div>
+</div>
+
 ## Combat
+
+<div class="qr-cols" markdown="1">
+<div class="qr-item" markdown="1">
 
 ### Guard - 1AP
 
 Characters not in base contact gain a Guard counter. When an enemy makes a Run/Climb or Jump in line of sight, discard the counter to make an Attack of Opportunity before the enemy does.
+
+</div>
+<div class="qr-item" markdown="1">
 
 ### Combat - 1AP
 
@@ -133,9 +178,15 @@ Make an Attack roll, equal or beat the target's DEXTERITY.
 | Fumble | Attacker loses **1 Life Point** and **target** makes Attack of Opportunity. |
 {: .outcome}
 
+</div>
+<div class="qr-item" markdown="1">
+
 ### Combat in Water
 
 **A swimming character who is swimming may only use weapons with the Aquatic Ability,** unless the character started its action outside of water (jumping into Base Contact with a character from the side of the canal).
+
+</div>
+<div class="qr-item" markdown="1">
 
 ### Protection
 
@@ -149,6 +200,9 @@ Make a Basic PROTECTION roll, 7+ for an Ace.
 | Fumble | Increase Damage by 1. |
 {: .outcome}
 
+</div>
+<div class="qr-item" markdown="1">
+
 ### Grapple - 1AP
 
 Make an Opposed ATTACK roll, 7+ for an Ace. Characters on larger bases get +1 ATTACK.
@@ -160,6 +214,9 @@ Make an Opposed ATTACK roll, 7+ for an Ace. Characters on larger bases get +1 AT
 | Fail | No effect. |
 | Fumble | Target makes Grapple instead, using the Aces they rolled originally. |
 {: .outcome}
+
+</div>
+<div class="qr-item" markdown="1">
 
 ### Drown - 1AP
 
@@ -175,6 +232,9 @@ Make an Opposed ATTACK roll, 7+ for an Ace.
 
 Characters on larger bases get +1 ATTACK.
 No Protection rolls against Drowning!
+
+</div>
+</div>
 
 ## Magic
 
@@ -210,6 +270,8 @@ A character may use each Command once a round.
 **ABILITY:** During a turn, use a *Command Ability*.
 
 ## Character Abilities
+
+<div class="qr-cols qr-gloss" markdown="1">
 
 **Acrobatic (X)**
 Re-roll (X) dice on Move/Climb or Jump actions
@@ -313,7 +375,11 @@ When making **Combat** actions while **in base contact** replenish **(X) Life Po
 **Water Creature**
 Move full MOVE in water, move up to 8" when diving, and cannot be Drowned. In addition, may be set up in water at the start of the game.
 
+</div>
+
 ## Weapon Abilities
+
+<div class="qr-cols qr-gloss" markdown="1">
 
 **Aquatic**
 Can be used while the attacker is in water.
@@ -358,3 +424,5 @@ Place the teardrop template with the small end in range of the weapon (base cont
 
 **Two-handed**
 **Evasion +1** on Attacks of Opportunity.
+
+</div>
