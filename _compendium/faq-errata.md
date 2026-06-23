@@ -25,9 +25,11 @@ toc:
 
 ### Basics
 
-**How does dice rolling work?**
+How does dice rolling work?
+{: .entry-title}
 
 Here are some examples:
+{: .entry-note}
 
 **Success**
 
@@ -59,141 +61,205 @@ The roll has a 1 on the Destiny Dice and no other Aces, so is a Fumble.
 
 The roll has a 1 on the Destiny Dice but at least 1 other Ace, so is a Success, not a Fumble.
 
-**What happens if I Critical or Fumble on an Opposed Roll as the defender?**
+What happens if I Critical or Fumble on an Opposed Roll as the defender?
+{: .entry-title}
 
 Nothing special! You simply subtract Aces from your opponent's roll, counting the Destiny Dice as an Ace like normal.
+{: .entry-note}
 
-**Can I choose to make a Critical roll simply a Success?**
+Can I choose to make a Critical roll simply a Success?
+{: .entry-title}
 
 No. It's *destiny.*
+{: .entry-note}
 
-**Can I share Agenda Cards with my opponent?**
+Can I share Agenda Cards with my opponent?
+{: .entry-title}
 
 Sure! Technically you'd need a pack each, but unless your opponent draws all the easy ones, a shared deck won't really be an issue!
+{: .entry-note}
 
-**Do Will Points replenish at the start of the round?**
+Do Will Points replenish at the start of the round?
+{: .entry-title}
 
 No, Will Points are finite, although there are several special rules that let them replenish such as Command Abilities.
+{: .entry-note}
 
 ### Command Abilities
 
-**When does a Command Ability take affect its targets?**
+When does a Command Ability take affect its targets?
+{: .entry-title}
 
 Immediately. Anyone in range upon use is affected at that moment and suffers the effects until it says it wears off.
+{: .entry-note}
 
-**Is a COUNTER command part of a character's turn or is it an additional turn?**
+Is a COUNTER command part of a character's turn or is it an additional turn?
+{: .entry-title}
 
 A COUNTER command is an out of sequence action, not a character turn. Effects and rules (such as "per turn" rules) may carry over from a turn to an out of sequence action or vice versa, but that character taking a COUNTER command is making an action, not a turn.
+{: .entry-note}
 
-**Can a character using the COUNTER command ability do a second chained jump in the same round?**
+Can a character using the COUNTER command ability do a second chained jump in the same round?
+{: .entry-title}
 
 No.
+{: .entry-note}
 
-**Can a character attempt to cast a spell as an out of sequence action, despite it not happening on their turn?**
+Can a character attempt to cast a spell as an out of sequence action, despite it not happening on their turn?
+{: .entry-title}
 
 Yes, though this spell cannot be one they have cast this round and cannot be cast later during the round.
+{: .entry-note}
 
-**Can a character use more than one "once per turn" abilities in each round if they have a COUNTER command used on them?**
+Can a character use more than one "once per turn" abilities in each round if they have a COUNTER command used on them?
+{: .entry-title}
 
 No.
+{: .entry-note}
 
-**Can a character in water have a COUNTER command used on them to move out, then start their turn with a usable Black Powder weapon?**
+Can a character in water have a COUNTER command used on them to move out, then start their turn with a usable Black Powder weapon?
+{: .entry-title}
 
 Yes, they start their turn out of water and fulfils that condition of the Black Powder weapon.
+{: .entry-note}
 
 ### Movement
 
-**Can I choose to simply move a character off a building?**
+Can I choose to simply move a character off a building?
+{: .entry-title}
 
 Yes, although there's not much benefit! Good for Madness though!
+{: .entry-note}
 
-**Does a Jump action require the character to be on solid ground at the start?**
+Does a Jump action require the character to be on solid ground at the start?
+{: .entry-title}
 
 No, a character could climb a wall half way, then jump across to a balcony for example.
+{: .entry-note}
 
-**If a character fails a Jump action and falls onto an obstacle, can it make a Chained Jump?**
+If a character fails a Jump action and falls onto an obstacle, can it make a Chained Jump?
+{: .entry-title}
 
 No, you have to perform a Jump onto the obstacle, not a fall!
+{: .entry-note}
 
-**Can I make multiple Chained Jumps if each lands on an obstacle?**
+Can I make multiple Chained Jumps if each lands on an obstacle?
+{: .entry-title}
 
 No, Chained Jumps are once per activation.
+{: .entry-note}
 
-**Can I Jump while carrying an Objective?**
+Can I Jump while carrying an Objective?
+{: .entry-title}
 
 No, you may only make Move actions (including climbing).
+{: .entry-note}
 
-**If a character fails its jump and falls onto something higher than ground level (a barrel, cart, fountain etc), how far do they fall?**
+If a character fails its jump and falls onto something higher than ground level (a barrel, cart, fountain etc), how far do they fall?
+{: .entry-title}
 
 They fall the distance between the start of their jump and the end of their jump. If they fall onto a well-placed market stall rather than the ground, they take less damage!
+{: .entry-note}
 
-**Does a character count as soft ground when falling?**
+Does a character count as soft ground when falling?
+{: .entry-title}
 
 No.
+{: .entry-note}
 
-**Is a Gondola a Boat?**
+Is a Gondola a Boat?
+{: .entry-title}
 
 While real life Gondolas are a type of boat, for the purposes of Boat Crew and other interactions with the Boat scenery type in game, Gondolas are not Boats.
+{: .entry-note}
 
 ### Combat
 
-**If a character falls into base contact, do they get to make an Attack of Opportunity? Do they get the bonus for attacking from above?**
+If a character falls into base contact, do they get to make an Attack of Opportunity? Do they get the bonus for attacking from above?
+{: .entry-title}
 
 Yes and yes (provided they fall from 3" or higher and survive their fall damage first).
+{: .entry-note}
 
-**Can you disengage and charge a character in the same action?**
+Can you disengage and charge a character in the same action?
+{: .entry-title}
 
 Yes.
+{: .entry-note}
 
-**Can the movement from a Dive cause Attacks of Opportunity?**
+Can the movement from a Dive cause Attacks of Opportunity?
+{: .entry-title}
 
 Yes, both by disengaging and by charging an enemy!
+{: .entry-note}
 
-**Can you move around an enemy in base contact without leaving base contact and disengaging?**
+Can you move around an enemy in base contact without leaving base contact and disengaging?
+{: .entry-title}
 
 Yes, you can - dance around your opponent!
+{: .entry-note}
 
-**Do you need line of sight to complete a Guard action?**
+Do you need line of sight to complete a Guard action?
+{: .entry-title}
 
 Yes, line of sight at the end of the target's action is needed.
+{: .entry-note}
 
-**Can I Grapple an enemy if both characters are in water?**
+Can I Grapple an enemy if both characters are in water?
+{: .entry-title}
 
 Yes.
+{: .entry-note}
 
-**What do I need to roll when making a Grapple against a friendly character?**
+What do I need to roll when making a Grapple against a friendly character?
+{: .entry-title}
 
 7 or higher, since it turns into a Basic roll (a Basic ATTACK roll is different to an Attack Roll).
+{: .entry-note}
 
-**Can I target characters in base contact with enemy models?**
+Can I target characters in base contact with enemy models?
+{: .entry-title}
 
 Yes.
+{: .entry-note}
 
-**If I hit a character on the edge of a rooftop with a Blast weapon and there's a character on ground level next to the same edge, does the character on the ground get affected by the Blast?**
+If I hit a character on the edge of a rooftop with a Blast weapon and there's a character on ground level next to the same edge, does the character on the ground get affected by the Blast?
+{: .entry-title}
 
 Only characters on the same approximate level (within 1" or less of vertical distance) are affected by a Blast weapon.
+{: .entry-note}
 
-**If a character is killed due to falling damage as a result of an attack, does that character count as killed by the attacking character?**
+If a character is killed due to falling damage as a result of an attack, does that character count as killed by the attacking character?
+{: .entry-title}
 
 Yes.
+{: .entry-note}
 
 *e.g. a character grapples an enemy character off of a roof, which causes enough fall damage to kill them. The attacking character counts as killing the target as the fall damage was a direct result of a Grapple action.*
 
-**If an Unholy Union kills a Paladin of St Lazarus, does it gain any life back?**
+If an Unholy Union kills a Paladin of St Lazarus, does it gain any life back?
+{: .entry-title}
 
 Yes. The Paladin is still killed when it reaches 0 Life Points regardless of whether it gets back up or not. The Unholy Union will replenish the Paladin's starting Life Points of 14 each time it kills a Paladin.
+{: .entry-note}
 
-**Can you move around an enemy in base contact without leaving base contact and disengaging?**
+Can you move around an enemy in base contact without leaving base contact and disengaging?
+{: .entry-title}
 
 Yes. You may move and reposition around an enemy in base contact without leaving base contact. Movement this way will not cause attacks of opportunity from disengaging (because you aren't) nor will it allow attacks of opportunity from charging (because you aren't).
+{: .entry-note}
 
-**Can you charge a character you are in base contact with?**
+Can you charge a character you are in base contact with?
+{: .entry-title}
 
 No.
+{: .entry-note}
 
-**When a scenario scores a player VP for killing certain types of character, do I gain VP for killing my own characters?**
+When a scenario scores a player VP for killing certain types of character, do I gain VP for killing my own characters?
+{: .entry-title}
 
 No. Only enemy characters killed count for these scenarios. Characters in your gang do not count for these scenarios.
+{: .entry-note}
 
 **Can I use a Counter command against a character that has just used the Attack of Opportunity from a character that's guarding.**
 
@@ -201,119 +267,173 @@ No. Counter may only be used after actions made during a character turn, as the 
 
 ### Special Rules
 
-**What's affected by the stacking limit of 3 for Special Rules?**
+What's affected by the stacking limit of 3 for Special Rules?
+{: .entry-title}
 
 All of the special rules in the Special Rules section that have an (X) after them are subject to this limit. If a character with Expert Offense (2) would gain another instance of Expert Offense (2), that character would end up with Expert Offense (3). If a character would gain a special rule with an (X) value over 3, only the highest value is used.
+{: .entry-note}
 
 A character's stats are unaffected by this rule, multiple rules may stack stats until they reach the limit of 10.
+{: .entry-note}
 
 *e.g. if a character with 5 Attack and First Strike (3) gains Bloodlust from a character with Mage (3), that character would gain an additional 5 Attack when making an Attack of Opportunity from charging.*
 
-**Does Concealment replace the normal cover modifier?**
+Does Concealment replace the normal cover modifier?
+{: .entry-title}
 
 No, it simply adds or subtracts from it, so a character with Concealment (-1) loses the benefit of cover!
+{: .entry-note}
 
-**Can I use Expert Offence on Drowns and Grapples?**
+Can I use Expert Offence on Drowns and Grapples?
+{: .entry-title}
 
 No, it is only on Combat actions in base contact.
+{: .entry-note}
 
-**Do Water Creatures lose Life Points when stunned in water? What about Fumbling Diving and Drown actions?**
+Do Water Creatures lose Life Points when stunned in water? What about Fumbling Diving and Drown actions?
+{: .entry-title}
 
 Yes they do.
+{: .entry-note}
 
-**How far do Water Creatures move when Diving?**
+How far do Water Creatures move when Diving?
+{: .entry-title}
 
 When a Water Creature starts an activation with any number of Underwater Counters, you may remove the counters and immediately move the character up to 8" for each Underwater Counter, as long as it stays in water. That means it can move up to 16" if it gets a Critical on its Dive action!
+{: .entry-note}
 
-**Can I use Vampiric Attack if I Grapple an enemy off a roof?**
+Can I use Vampiric Attack if I Grapple an enemy off a roof?
+{: .entry-title}
 
 No, Vampiric Attack only works on Combat actions in base contact.
+{: .entry-note}
 
-**What does this keyword do?**
+What does this keyword do?
+{: .entry-title}
 
 On its own: nothing. Certain rules only affect characters with certain Keywords though.
+{: .entry-note}
 
-**Does a Slave that dies through Feast for Dagon count towards Victory Points?**
+Does a Slave that dies through Feast for Dagon count towards Victory Points?
+{: .entry-title}
 
 No, since you only score Victory Points based on enemies killed.
+{: .entry-note}
 
-**How does Knockback and Harmless work on La Signora's Costume Pistol?**
+How does Knockback and Harmless work on La Signora's Costume Pistol?
+{: .entry-title}
 
 After rolling for the attack as normal, if any aces are rolled, the target suffers the effects of Knockback, but doesn't take any damage from the attack itself due to Harmless (though if you knock them off of a roof, they may still take falling damage).
+{: .entry-note}
 
-**If I have 2 characters with Bodyguard in range of a character that gets charged, can both bodyguards charge the enemy character?**
+If I have 2 characters with Bodyguard in range of a character that gets charged, can both bodyguards charge the enemy character?
+{: .entry-title}
 
 Yes. Each defending Bodyguard can charge the attacker, choose the order in which the defenders will perform their actions, one defender at a time. If the second defender is unable to complete a charge against the attacker, it cannot use its Bodyguard rule.
+{: .entry-note}
 
-**Are Jumps affected by Limited Movement?**
+Are Jumps affected by Limited Movement?
+{: .entry-title}
 
 No.
+{: .entry-note}
 
-**Is Disengaging affected by Limited Movement?**
+Is Disengaging affected by Limited Movement?
+{: .entry-title}
 
 No. Disengaging itself is unaffected, though where the disengaging character can move to afterwards is still subject to Limited Movement.
+{: .entry-note}
 
-**Do I have to target an enemy with Harmless weapons?**
+Do I have to target an enemy with Harmless weapons?
+{: .entry-title}
 
 Unless otherwise specified, yes.
+{: .entry-note}
 
 ### Characters
 
-**Can I heal the target of the Knight Commander's Fight Until the Last to prevent them from being removed?**
+Can I heal the target of the Knight Commander's Fight Until the Last to prevent them from being removed?
+{: .entry-title}
 
 No. You can heal the targeted character after they reach 0 Life Points, but they are still removed once their turn is complete.
+{: .entry-note}
 
-**Does the Prelate of the Flaming Sword's Burning Sword ability stack?**
+Does the Prelate of the Flaming Sword's Burning Sword ability stack?
+{: .entry-title}
 
 Yes.
+{: .entry-note}
 
-**How much PROTECTION does a character with PROTECTION 3 have when affected by Fadhila's Protective Bubble?**
+How much PROTECTION does a character with PROTECTION 3 have when affected by Fadhila's Protective Bubble?
+{: .entry-title}
 
 3. Universal Shielding cannot take a character's PROTECTION above their starting value. Any characters with a lower value for Expert Protection (X) would have Expert Protection (4). Any characters with a higher value for Expert Protection (X), would use the highest value.
+{: .entry-note}
 
-**Does the Paladin of St Lazarus count as killed for mission objectives, agendas, other characters that have abilities that key off kills or deaths nearby when they first die, or only when they're finally dead for good? Could mechanics that key off kills or deaths occur multiple times?**
+Does the Paladin of St Lazarus count as killed for mission objectives, agendas, other characters that have abilities that key off kills or deaths nearby when they first die, or only when they're finally dead for good? Could mechanics that key off kills or deaths occur multiple times?
+{: .entry-title}
 
 The Paladin is still killed each time it is reduced to 0 Life Points. Any objectives, agendas and the like would count each time the character is killed as a separate kill.
+{: .entry-note}
 
-**Can a character with Flight move vertically to gain a charge from above?**
+Can a character with Flight move vertically to gain a charge from above?
+{: .entry-title}
 
 Yes, although if it is in base contact with an enemy already it would need to Disengage (and would make an Opposed DEXTERITY roll).
+{: .entry-note}
 
-**Can Mindless characters score Victory Points on scenario Primary Objectives or are only Objectives on the board affected?**
+Can Mindless characters score Victory Points on scenario Primary Objectives or are only Objectives on the board affected?
+{: .entry-title}
 
 Only Objectives on the board are affected, Mindless characters can still score Victory Points through Agendas, killing enemies, or surviving.
+{: .entry-note}
 
-**Do characters with the Ethereal special rule ignore the penalties for water?**
+Do characters with the Ethereal special rule ignore the penalties for water?
+{: .entry-title}
 
 Yes.
+{: .entry-note}
 
-**If a character has more than one Companion (X) rule, does it gain multiple Will Points back for being in line of sight to both?**
+If a character has more than one Companion (X) rule, does it gain multiple Will Points back for being in line of sight to both?
+{: .entry-title}
 
 No, only one, though you only need to be in line of sight of one of the X characters to gain the benefit.
+{: .entry-note}
 
-**Do Life Points used as Will Points due to the Frenzied rule count towards the agenda "Will Be Done"?**
+Do Life Points used as Will Points due to the Frenzied rule count towards the agenda "Will Be Done"?
+{: .entry-title}
 
 Yes.
+{: .entry-note}
 
-**Do characters with the Mindless ability count for taking or contesting Objectives during scoring?**
+Do characters with the Mindless ability count for taking or contesting Objectives during scoring?
+{: .entry-title}
 
 No. Mindless characters are ignored when scoring Objectives.
+{: .entry-note}
 
 ### Magic
 
-**How does Boiling Veins work?**
+How does Boiling Veins work?
+{: .entry-title}
 
 If a Mage (2) rolls 5 Aces for their Magic Roll, they subtract 2 from the total Aces, for an initial Damage value of 3. The target then takes 3 damage with Penetration -2 (the caster's Mage (X) value).
+{: .entry-note}
 
 If the target is killed by this damage, before removing them, place the Blast marker over them. Each other character (friendly and enemy) touched by the template loses 5 Life Points.
+{: .entry-note}
 
-**Can I use Renewed Vigour to remove a Stunned counter from a character with the Full Plate special rule?**
+Can I use Renewed Vigour to remove a Stunned counter from a character with the Full Plate special rule?
+{: .entry-title}
 
 The Renewed Vigour spell can be used to prevent a Full Plate character from gaining a Stunned counter when they enter water. Renewed Vigour cannot remove the Stunned counter caused by Full Plate. It is only removed when the character ends one of its turns out of water.
+{: .entry-note}
 
-**Can I use a Counter command on a Mage to cast a second spell that they have already cast that round?**
+Can I use a Counter command on a Mage to cast a second spell that they have already cast that round?
+{: .entry-title}
 
 No.
+{: .entry-note}
 
 ## Errata
 
@@ -496,745 +616,1131 @@ The 2.2 version of the Carnevale digital rulebook is the same as found in Blood 
 
 ### Spells
 
-**Waves of Force**
+Waves of Force
+{: .entry-title}
 
 Change to "Pick a point in water in line of sight within 6". Then pick another point within line of sight of the caster **and** within 6" of the first point. Trace an imaginary line between the two points. If that line does not pass through Impassable Terrain, any character touched by that line no higher than 3" above the first point gets hit by a Grapple action, with the roll equal to the number of aces in the Magic Roll."
+{: .entry-note}
 
-**Summon Vermin**
+Summon Vermin
+{: .entry-title}
 
 Change to "Pick one enemy character in line of sight within 12" and place the Blast marker over that character. Total up every ace plus (X), that character takes that much Damage and all other characters (friendly and enemy) under the marker take (X)-1 Damage.
+{: .entry-note}
 
 ### Equipment
 
-**Boat**
+Boat
+{: .entry-title}
 
 Reduce ducats from 15 to 11.
+{: .entry-note}
 
 ### Guild
 
-**Madame**
+Madame
+{: .entry-title}
 
 Change **My Girls & Boys** to "While this character is on the board, all characters with the *House of Virtue* keyword gain **Companion (House of Virtue)**."
+{: .entry-note}
 
-**Harbourmaster**
+Harbourmaster
+{: .entry-title}
 
 Change the effect of **Toughen Up** to "Until the end of the round, any friendly characters within 6" gain **Expert Protection (3)**."
+{: .entry-note}
 
 Change **Born to Swim** to "Other friendly characters add +2 to their **Fast Swimmer** number as long as this character is on the board. Friendly characters without **Fast Swimmer** instead gain **Fast Swimmer (2)**."
+{: .entry-note}
 
-**Prince of Thieves**
+Prince of Thieves
+{: .entry-title}
 
 Change Keywords to "*Faction (The Guild), Leader, Hero, Unique*"
+{: .entry-note}
 
 Add the following Unique Rule "**A Hero Among Thieves**: If this is the only character with the *Leader* keyword in the gang, this character loses the *Hero* keyword. However, if there is another character with the *Leader* keyword, this character loses the *Leader* keyword."
+{: .entry-note}
 
-**Smuggler**
+Smuggler
+{: .entry-title}
 
 Reduce Ducats from 14 to 13
+{: .entry-note}
 
 Remove AP cost from **Smuggling**
+{: .entry-note}
 
 Change Smuggling to "When you achieve an Agenda, one character within 6" and line of sight replenishes **1 Command Point**."
+{: .entry-note}
 
-**Shadow Assassin**
+Shadow Assassin
+{: .entry-title}
 
 Change **Fade to the Shadow** to "If this character is within 1" of vertical terrain, they can be removed from the board and then placed back down within 1" of another piece of vertical terrain on ground level at least 6" away from enemy characters."
+{: .entry-note}
 
-**Arbalest**
+Arbalest
+{: .entry-title}
 
 Change Crossbow Penetration from 0 to -1
+{: .entry-note}
 
-**Blooded**
+Blooded
+{: .entry-title}
 
 Change **Living Sacrifice** to "Any character with the *House of Virtue* keyword within 6" and line of sight may use this character's **Life Points** as if they were their own **Will Points**, costing **2 Life Points** per **Will Point**. This ability can be used even if it would kill this character. If a **Will Point** granted by this ability would kill this character and be used on a **Cast Spell** action, the destiny dice is counted as automatically rolling a 10."
+{: .entry-note}
 
 ### Rashaar
 
-**The Flame that Burns Underwater**
+The Flame that Burns Underwater
+{: .entry-title}
 
 Increase **Command Points** from 3 to 4
+{: .entry-note}
 
 Add the *Hydra* keyword
+{: .entry-note}
 
 Remove *Discipline (Blood Rites, Wild Magic)*
+{: .entry-note}
 
 Remove **Mage (2)**
+{: .entry-note}
 
 Add **Expert Grappler (3)**
+{: .entry-note}
 
-**Voice of Dagon**
+Voice of Dagon
+{: .entry-title}
 
 Remove Voice of Madness Command Ability
+{: .entry-note}
 
 Add the following weapon:
+{: .entry-note}
 
 | Weapon | Range | Evasion | Damage | Penetration | Abilities |
-|---|---|---|---|---|---|
-| Voice of Madness | 0" | -1 | - | -3 | Stun, Template |
+{: .entry-note}
 
-**Morgraur**
+|---|---|---|---|---|---|
+{: .entry-note}
+
+| Voice of Madness | 0" | -1 | - | -3 | Stun, Template |
+{: .entry-note}
+
+Morgraur
+{: .entry-title}
 
 Change Size to 120.
+{: .entry-note}
 
-**Caandru Eel**
+Caandru Eel
+{: .entry-title}
 
 Reduce Ducats from 15 to 14
+{: .entry-note}
 
 Increase Mind from 1 to 2
+{: .entry-note}
 
-**Handler**
+Handler
+{: .entry-title}
 
 Add the following special rule "**Encouragement**: Friendly characters with the Feral keyword that start their turn within 6" and line of sight of this character automatically pass their **Primitive** roll."
+{: .entry-note}
 
-**Krakenhost**
+Krakenhost
+{: .entry-title}
 
 Increase Attack from 2 to 3
+{: .entry-note}
 
 Add **First Strike (1)**
+{: .entry-note}
 
 Increase **Expert Grappler (1)** to **Expert Grappler (2)**
+{: .entry-note}
 
 Change **Living Vessel** to "When this character is killed, before removing it from the game, make a basic **MIND** roll. Place an Infant Kraken in base contact with this character, plus an additional Infant Kraken in base contact with one of the new Infant Krakens for each Ace in the roll. The new Infant Krakens act just like any other friendly character and can be activated as normal this round."
+{: .entry-note}
 
-**Mature Kraken**
+Mature Kraken
+{: .entry-title}
 
 Remove **First Strike (1)**
+{: .entry-note}
 
 Add **Expert Grappler (2)**
+{: .entry-note}
 
 Add the following rule "**Climbing Suckers**: When this character makes a **DEXTERITY** roll as part of a **Run/Climb** action, it counts all fumbles as failures."
+{: .entry-note}
 
-**Paliaa**
+Paliaa
+{: .entry-title}
 
 Increase Ducats from 16 to 19
+{: .entry-note}
 
 Add the *Discipline (Runes of Sovereignty)* keyword
+{: .entry-note}
 
 Increase **Will Points** from 2 to 5
+{: .entry-note}
 
 Add **Mage (1)**
+{: .entry-note}
 
 Change **Gift of the Elder Gods** to "**Glimpse of the Elder Gods**: PULSE Command Ability: Until the end of the round, all friendly characters with the *Henchman* keyword gain **+1 ATTACK** while they are within 6" and line of sight of any number of other friendly characters with the *Monster* keyword."
+{: .entry-note}
 
-**Sirena**
+Sirena
+{: .entry-title}
 
 Add the *Hydra* keyword
+{: .entry-note}
 
-**Aglaope**
+Aglaope
+{: .entry-title}
 
 Reduce Ducats from 14 to 12
+{: .entry-note}
 
-**Half-Breed**
+Half-Breed
+{: .entry-title}
 
 Increase Dexterity from 3 to 5
+{: .entry-note}
 
 Add **Fast Swimmer (2)**
+{: .entry-note}
 
 Remove **Aquatic** from Heavy Tentacles
+{: .entry-note}
 
 Add **Knockback** to Heavy Tentacles
+{: .entry-note}
 
 ### Doctors
 
-**Infant Kraken**
+Infant Kraken
+{: .entry-title}
 
 Increase **Life Points** from 4 to 5
+{: .entry-note}
 
 Remove **Mindless**
+{: .entry-note}
 
 Remove **Insignificant**
+{: .entry-note}
 
 Add the following rule "**Writhe Inside**: When this character successfully damages an enemy character, you may remove this character from the game as if it were killed. If you do, place it on the damaged character's card. For the rest of the game, that character always counts as having a Stun counter."
+{: .entry-note}
 
-**Wet Nurse**
+Wet Nurse
+{: .entry-title}
 
 Increase **Will Points** to 3
+{: .entry-note}
 
 Change **Surrogate** to "Friendly characters with the *Hydra* keyword within 6" and line of sight may use this character's **Will Points** as if they were their own."
+{: .entry-note}
 
 Change **Kraken Nurse** to "When you place a new Infant Kraken in line of sight of this character, this character recovers 1 lost **Will Point**."
+{: .entry-note}
 
-**Master of Arcane Security**
+Master of Arcane Security
+{: .entry-title}
 
 Reduce Protection from 6 to 5
+{: .entry-note}
 
 Reduce Attack from 5 to 4
+{: .entry-note}
 
 Remove **Brawler (2)**
+{: .entry-note}
 
 Remove **Universal Shielding (3)**
+{: .entry-note}
 
 Add **Bulky**
+{: .entry-note}
 
 Add **Expert Offense (2)**
+{: .entry-note}
 
 Add **Expert Marksman (2)**
+{: .entry-note}
 
 Reduce Arming Blade Damage from +2 to +1
+{: .entry-note}
 
 Reduce Soul Burner Penetration from -5 to -3
+{: .entry-note}
 
 Add the following Ability "**Auxiliary Systems**: At the start of this character's turn, it gains +2 to either its **MOVEMENT, DEXTERITY,** or **PROTECTION** until the end of the round."
+{: .entry-note}
 
-**Doctor of the Mind**
+Doctor of the Mind
+{: .entry-title}
 
 Change **Aetheric Control** to "This character replenishes all of its **Command Points** at the start of each of its turns."
+{: .entry-note}
 
-**Plague Doctor**
+Plague Doctor
+{: .entry-title}
 
 Change **Purifying Unguents** to "While within 6" of this character, friendly characters are immune to the **Stun** Ability. At the end of each friendly character's turn, remove any **Stun** counters from friendly characters within 6" of this character."
+{: .entry-note}
 
-**The Being**
+The Being
+{: .entry-title}
 
 Add **Stun** to Brutal Fists
+{: .entry-note}
 
 Add the following special rule "**Pain Suppression**: Whenever this character takes damage from a **Combat** action, reduce the amount of damage caused by 1 (to a minimum of 1)."
+{: .entry-note}
 
-**The Unholy Union**
+The Unholy Union
+{: .entry-title}
 
 Reduce Ducats from 55 to 45
+{: .entry-note}
 
 Change Size to 75
+{: .entry-note}
 
-**Brined Horror**
+Brined Horror
+{: .entry-title}
 
 Remove Corpse ability
+{: .entry-note}
 
-**Doctor of Tides**
+Doctor of Tides
+{: .entry-title}
 
 Change weapons to the following
+{: .entry-note}
 
 | Weapon | Range | Evasion | Damage | Penetration | Abilities |
+{: .entry-note}
+
 |---|---|---|---|---|---|
+{: .entry-note}
+
 | Diving Trident | 2" | - | +1 | - | Aquatic, Two-Handed |
+{: .entry-note}
+
 | Underwater Limelight | 0" | - | - | - | Harmless, Stun, Template |
+{: .entry-note}
 
 Add the following Command Ability "**Long Dive**: PULSE Command Ability: All friendly characters with an Underwater Counter gain an additional Underwater Counter."
+{: .entry-note}
 
-**Ordnance Doctor**
+Ordnance Doctor
+{: .entry-title}
 
 Reduce Spirit Cannon range from 18" to 12".
+{: .entry-note}
 
 Remove Blast from Spirit Cannon.
+{: .entry-note}
 
 Change **Soul Ammunition** to "When making a Combat action with the Spirit Cannon, this character may use **2 Will Points** to have it gain one of the following for that action: Increase Range from 12" to 18", gain the **Blast** ability, or gain the **Knockback** ability."
+{: .entry-note}
 
-**Voltage Bombardier**
+Voltage Bombardier
+{: .entry-title}
 
 Reduce Ducats from 13 to 12
+{: .entry-note}
 
 Add **Limited Movement**
+{: .entry-note}
 
 Increase Soul Bombard damage from +1 to +2.
+{: .entry-note}
 
-**Basilisk**
+Basilisk
+{: .entry-title}
 
 Reduce Life Points from 17 to 13
+{: .entry-note}
 
 Increase Attack from 3 to 4
+{: .entry-note}
 
 Remove **Bulky**
+{: .entry-note}
 
 Change Venomous Bite name to Venomous Spray
+{: .entry-note}
 
 Add Template to Venomous Spray
+{: .entry-note}
 
 Change Poison Burst to "When this character is killed, before removing it from the game, each character in base contact (friendly and enemy) loses life points as if they were damaged by an attack with the **Poisoned** rule."
+{: .entry-note}
 
-**Diving Assistant**
+Diving Assistant
+{: .entry-title}
 
 Reduce Ducats from 15 to 13
+{: .entry-note}
 
-**Electron Cannoneer**
+Electron Cannoneer
+{: .entry-title}
 
 Reduce Electron Cannon **Reload (2)** to **Reload (1)**
+{: .entry-note}
 
-**Hippocampus**
+Hippocampus
+{: .entry-title}
 
 Reduce **Life Points** from 20 to 14
+{: .entry-note}
 
 Reduce Protection from 4 to 2
+{: .entry-note}
 
 Remove **Aqua Charger**
+{: .entry-note}
 
-**Hippogryph**
+Hippogryph
+{: .entry-title}
 
 Reduce Ducats from 12 to 7
+{: .entry-note}
 
 Remove **Primitive**
+{: .entry-note}
 
 Increase Attack from 2 to 3
+{: .entry-note}
 
-**Manticore**
+Manticore
+{: .entry-title}
 
 Reduce Ducats from 10 to 9
+{: .entry-note}
 
 Remove **Mindless**
+{: .entry-note}
 
 Change **Spined Hide** to "At the end of this character's turn, all enemy characters in base contact lose **1 Life Point**."
+{: .entry-note}
 
 Increase Quilled Spines range to 8"
+{: .entry-note}
 
-**Mermaid**
+Mermaid
+{: .entry-title}
 
 Reduce Ducats from 15 to 13
+{: .entry-note}
 
 Add the *Discipline (Runes of Sovereignty)* keyword
+{: .entry-note}
 
 Remove **Frenzied**
+{: .entry-note}
 
 Remove **First Strike (1)**
+{: .entry-note}
 
 Add **Mage (0)**
+{: .entry-note}
 
-**Monstrosity**
+Monstrosity
+{: .entry-title}
 
 Reduce Ducats from 10 to 9
+{: .entry-note}
 
 Reduce **Brawler (2)** to **Brawler (1)**
+{: .entry-note}
 
 Increase Rusty Blade Damage from +1 to +2
+{: .entry-note}
 
 Remove **Corpse**
+{: .entry-note}
 
-**Nurse**
+Nurse
+{: .entry-title}
 
 Change **Healer** to "Pick a character within 3" and make a basic **MIND** roll. That character replenishes **2 Life Points** for each Ace rolled."
+{: .entry-note}
 
 ### Patricians
 
-**Guard Commander**
+Guard Commander
+{: .entry-title}
 
 Change **Aim Fire!** To "Any friendly characters with the *Soldier* keyword in line of sight gain **Expert Marksman (1)** until the end of the round."
+{: .entry-note}
 
-**Noble Admiral**
+Noble Admiral
+{: .entry-title}
 
 Change Raise a Crew to "All friendly characters may be set up on a Boat."
+{: .entry-note}
 
 Change Diving Orders to "**Naval Discipline**: PULSE Command Ability: Other friendly characters on the same Boat as this character replenish **1 Will Point**. Other friendly characters with **Boat Crew** replenish 1 additional **Will Point**."
+{: .entry-note}
 
-**Sopracomito**
+Sopracomito
+{: .entry-title}
 
 Change **Wages are Here** to "Any friendly characters in line of sight with the *Soldier* keyword that aren't in base contact with an enemy may immediately make a **Run/Climb** action for **0AP**, but must move into base contact with this character. This move does not cause Attacks of Opportunity. Any characters that move into base contact immediately replenish **1 Will Point**."
+{: .entry-note}
 
-**Gourmand Noble**
+Gourmand Noble
+{: .entry-title}
 
 Increase **Will Points** from 1 to 2
+{: .entry-note}
 
 Increase **Command Points** from 0 to 1
+{: .entry-note}
 
 Add *Councillor* Keyword
+{: .entry-note}
 
 Remove **Vampiric Attack (2)**
+{: .entry-note}
 
 Decrease **Fear (-2)** to **Fear (0)**
+{: .entry-note}
 
 Change **Flesheater** to "If this character makes a Combat action against a target in base contact that causes it to lose at least **1 Life Point**, it replenishes **1 Will Point**."
+{: .entry-note}
 
 Add the following Command Ability "**The Other, Other White Meat**: AURA Command Ability: Until the end of the round, every other friendly character in line of sight gains the **Flesheater** ability while in line of sight of this character."
+{: .entry-note}
 
-**Ottoman Cannoneer**
+Ottoman Cannoneer
+{: .entry-title}
 
 Remove **Point Blank Detonation**
+{: .entry-note}
 
 Remove **Unwieldy**
+{: .entry-note}
 
 Change weapons to the following:
+{: .entry-note}
 
 | Weapon | Range | Evasion | Damage | Penetration | Abilities |
-|---|---|---|---|---|---|
-| Grapeshot | 0" | -1 | - | -4 | Black Powder, Template, Reload (1) |
-| Cannon Barrel | 0" | - | - | - | Stun |
+{: .entry-note}
 
-**Seven Years Veteran**
+|---|---|---|---|---|---|
+{: .entry-note}
+
+| Grapeshot | 0" | -1 | - | -4 | Black Powder, Template, Reload (1) |
+{: .entry-note}
+
+| Cannon Barrel | 0" | - | - | - | Stun |
+{: .entry-note}
+
+Seven Years Veteran
+{: .entry-title}
 
 Change **Inspiring** to "Whenever another friendly character with the *Soldier* keyword in line of sight within 6" of this character uses one of its own **Will Points** (and not those from other characters), it instead counts as **2 Will Points**."
+{: .entry-note}
 
-**Submissive Noble**
+Submissive Noble
+{: .entry-title}
 
 Add the *Councillor* keyword
+{: .entry-note}
 
 Increase Cat O'Nine Tails Penetration from - to -2
+{: .entry-note}
 
 Change **Domination** to "PULSE Command Ability: Every friendly character in base contact makes an immediate **Move** action for **0AP**. This action cannot be used to move into base contact with an enemy character."
+{: .entry-note}
 
 Add the following Command Ability "**Sadism**: PULSE Command Ability: This character loses **1 Life Point** and gains **+2 Attack** until the end of the round."
+{: .entry-note}
 
 Change **Barbed** to "If a **Combat** action with the Cat O'Nine Tails results in no Protection roll for the target, add 2 to the damage."
+{: .entry-note}
 
-**Wayfinder**
+Wayfinder
+{: .entry-title}
 
 Reduce Ducats from 13 to 12
+{: .entry-note}
 
 Reduce **Will Points** from 5 to 2
+{: .entry-note}
 
 Increase Attack from 1 to 2
+{: .entry-note}
 
 Reduce Mind from 5 to 3
+{: .entry-note}
 
 Add the following special rule: **1AP**: **Gun Laying**: Pick a friendly character within 6" and line of sight. Until the end of that character's next activation, it gains -2 Evasion against targets outside of base contact with it.
+{: .entry-note}
 
-**Butler**
+Butler
+{: .entry-title}
 
 Remove **Bodyguard (Councillor)**
+{: .entry-note}
 
 Add **Companion (Councillor)**
+{: .entry-note}
 
-**Cannibal Cultist**
+Cannibal Cultist
+{: .entry-title}
 
 Reduce ducats from 10 to 8
+{: .entry-note}
 
 Remove **Vampiric Attack (1)**
+{: .entry-note}
 
 Add the following special rule "**Flesheater**: If this character makes a **Combat** action against a target in base contact that causes it to lose at least **1 Life Point**, it replenishes **1 Will Point**."
+{: .entry-note}
 
 ### Vatican
 
-**Father Cesta**
+Father Cesta
+{: .entry-title}
 
 Reduce Dexterity from 4 to 3
+{: .entry-note}
 
 Reduce Protection from 4 to 3
+{: .entry-note}
 
 Increase Mind from 2 to 4
+{: .entry-note}
 
 Increase Action Points from 2 to 3
+{: .entry-note}
 
 Reduce **Will Points** from 8 to 4
+{: .entry-note}
 
 Change *Discipline (Blood Rites, Fateweaving, Runes of Sovereignty)* to *Discipline (Runes of Sovereignty, Wild Magic)*
+{: .entry-note}
 
 Remove **Summoner**
+{: .entry-note}
 
 Change **Gates of Heaven** to "AURA Command Ability: Until the end of the round, whenever a friendly character with the *Construct* keyword within 6" and line of sight uses a **Will Point** to increase a roll, it instead counts as **2 Will Points**."
+{: .entry-note}
 
 Add "**Impart Will**: At the start of the game, all friendly characters with the *Construct* keyword increase their starting **Will Points** by 1."
+{: .entry-note}
 
 Add "**Masterful Summoning**: Friendly characters with the *Construct* keyword lose **Mindless** for the entire game, even if this character is killed."
+{: .entry-note}
 
 Reduce **Mage (3)** to **Mage (2)**
+{: .entry-note}
 
 Remove **Mindless**
+{: .entry-note}
 
 Reduce **Universal Shielding (4)** to **Universal Shielding (3)**
+{: .entry-note}
 
 Add **Slippery**
+{: .entry-note}
 
 Replace Heavenly Host with the following:
+{: .entry-note}
 
 | Weapon | Range | Evasion | Damage | Penetration | Abilities |
-|---|---|---|---|---|---|
-| Divine Winds | 0" | - | +1 | - | Template |
+{: .entry-note}
 
-**Exorcist**
+|---|---|---|---|---|---|
+{: .entry-note}
+
+| Divine Winds | 0" | - | +1 | - | Template |
+{: .entry-note}
+
+Exorcist
+{: .entry-title}
 
 Add **Stun** to Divine Touch.
+{: .entry-note}
 
-**Burning Saint**
+Burning Saint
+{: .entry-title}
 
 Change **Walk Through The Fire And You Will Not Be Burned** to "The Saint summons holy flame around her! At the end of the round, place the Blast marker over this character. Any enemy character at least partially touched by this template (and within 1" vertically of the Burning Saint) loses **3 Life Points**. If the Burning Saint enters water after using this ability it is cancelled.
+{: .entry-note}
 
 Characters may only be affected by this ability once per round, no matter how many times it's used by any number of Burning Saints!"
+{: .entry-note}
 
-**Galilean Priest**
+Galilean Priest
+{: .entry-title}
 
 Increase Ducats from 16 to 17
+{: .entry-note}
 
 Remove *Discipline (Divinity)*
+{: .entry-note}
 
 Remove *Human*
+{: .entry-note}
 
 Add **Fast Swimmer (2)**
+{: .entry-note}
 
 Change **Water Affinity** to "This character always knows the magic spell **Waves of Force** in addition to its regular allowance, even if choosing to take spells from a different discipline.
+{: .entry-note}
 
 This character may use the **Cast Spell** action while in water."
+{: .entry-note}
 
-**Silere Priest**
+Silere Priest
+{: .entry-title}
 
 Reduce **Will Points** from 4 to 3
+{: .entry-note}
 
 Reduce **Mage (2)** to **Mage (1)**
+{: .entry-note}
 
 Increase Attack from 3 to 4
+{: .entry-note}
 
 Change **Keeper of the Fires of Persecution** to "Any friendly characters without this ability within 3" gain +1 Damage on their weapons"
+{: .entry-note}
 
-**Templar Marshal**
+Templar Marshal
+{: .entry-title}
 
 Crossbow - Change Penetration from 0 to -1
+{: .entry-note}
 
-**Venator of Devotion**
+Venator of Devotion
+{: .entry-title}
 
 Increase Ducats from 16 to 17
+{: .entry-note}
 
 Reduce **Will Points** from 4 to 2
+{: .entry-note}
 
-**Altar Boy**
+Altar Boy
+{: .entry-title}
 
 Change the effect of **Spurring Incense** to "Until the end of the round, any friendly character that starts its action within 6" and line of sight of this character gains **First Strike (2)** for that action and any subsequent Attacks of Opportunity."
+{: .entry-note}
 
-**Celestial Congregation**
+Celestial Congregation
+{: .entry-title}
 
 Increase **Will Points** from 0 to 1
+{: .entry-note}
 
 Increase Ducats from 14 to 15
+{: .entry-note}
 
 Increase Attack from 3 to 4
+{: .entry-note}
 
 Remove **Bodyguard (Invoker)**
+{: .entry-note}
 
 Remove **Primitive**
+{: .entry-note}
 
 Remove **Universal Shielding (3)**
+{: .entry-note}
 
 Add **Fear (-1)**
+{: .entry-note}
 
 Reduce Heavenly Clamour Penetration from -4 to -3
+{: .entry-note}
 
 Add the following ability "**Ensoul**: 3LP: One other friendly character with the *Construct* keyword without this ability replenishes 3 Life Points. This ability can only be used once in each of its turns, but can be used even if it would kill this character. If this character uses its last **Life Points** on this ability, the target replenishes **5 Life Points** instead."
+{: .entry-note}
 
-**Celestial Spirit**
+Celestial Spirit
+{: .entry-title}
 
 Increase **Will Points** from 0 to 1
+{: .entry-note}
 
 Increase Attack from 2 to 3
+{: .entry-note}
 
 Remove **Universal Shielding (2)**
+{: .entry-note}
 
 Remove **Vampiric Attack (1)**
+{: .entry-note}
 
 Add **Fear (0)**
+{: .entry-note}
 
 Reduce Heavenly Grasp Penetration from -2 to -1
+{: .entry-note}
 
 Add the following ability "**Enspirit**: 4LP: This character may use the **ORDER** command on friendly characters with the *Construct* Keyword, consuming **4 Life Points** instead of **1 Command Point**. This can be used even if it would kill this character. If this character uses its last **Life Points** on this ability, the target replenishes **1 Will Point**."
+{: .entry-note}
 
-**Lacrimosa**
+Lacrimosa
+{: .entry-title}
 
 Change **Candid Soul** to "For every **Life Point** this character uses as a **Will Point** due to **Frenzied**, all other friendly characters within 3" without this rule replenish **1 Life Point**."
+{: .entry-note}
 
-**Maltese Squire**
+Maltese Squire
+{: .entry-title}
 
 Change Crossbow Penetration from 0 to -1
+{: .entry-note}
 
-**Theophant of Sinai**
+Theophant of Sinai
+{: .entry-title}
 
 Remove **Berserk** character ability
+{: .entry-note}
 
 Change **Living Flame** to "This character loses double **Life Points** from **Drown** actions."
+{: .entry-note}
 
 Increase Hellfire Damage from +2 to +3
+{: .entry-note}
 
-**Reliquary Page**
+Reliquary Page
+{: .entry-title}
 
 Change **Relics of Malta** to "Once per each of their turns, any friendly character within 6" and line of sight of a friendly character with this rule may re-roll 1 single dice on any roll they make. This character is affected by its own **Relics of Malta** rule."
+{: .entry-note}
 
 ### Strigoi
 
-**Necrotic Mist**
+Necrotic Mist
+{: .entry-title}
 
 Change to "AURA Command Ability: Until the end of the round, all friendly characters within 6" count as being in Cover until the end of the round."
+{: .entry-note}
 
-**Vlad Dracula**
+Vlad Dracula
+{: .entry-title}
 
 Change **Transformation** to "Remove this character and place it anywhere on solid ground within 8", at least 3" away from any enemy characters. This ability cannot be used while in base contact with an enemy character."
+{: .entry-note}
 
-**Noble Strigoi**
+Noble Strigoi
+{: .entry-title}
 
 Change **Blood Frenzy** to "Until the end of the round, any friendly characters with the *Vampire* keyword within Line of Sight increase their **Vampiric Attack** by 1 to a maximum of 2."
+{: .entry-note}
 
-**Wallachian Hospodar**
+Wallachian Hospodar
+{: .entry-title}
 
 Change **Defensive Lines** to "Until the end of the round, all other friendly characters within 3" gain **Universal Shielding (2)**."
+{: .entry-note}
 
-**Ceres**
-
-Add the following rule "**Procession of Brides**: While building your Gang, if it contains **Vlad Dracula**, this character counts as having the *Henchman* keyword instead of the *Hero* keyword for the purposes of Frequency."
-
-**Cibele**
+Ceres
+{: .entry-title}
 
 Add the following rule "**Procession of Brides**: While building your Gang, if it contains **Vlad Dracula**, this character counts as having the *Henchman* keyword instead of the *Hero* keyword for the purposes of Frequency."
+{: .entry-note}
 
-**Miriam**
+Cibele
+{: .entry-title}
+
+Add the following rule "**Procession of Brides**: While building your Gang, if it contains **Vlad Dracula**, this character counts as having the *Henchman* keyword instead of the *Hero* keyword for the purposes of Frequency."
+{: .entry-note}
+
+Miriam
+{: .entry-title}
 
 Change **Sisters of Gelo** to "This character replenishes **1 Command Point** at the start of its turn if it has line of sight to any other friendly character with the *Bride* Keyword."
+{: .entry-note}
 
 Add the following rule "**Procession of Brides**: While building your Gang, if it contains **Vlad Dracula**, this character counts as having the *Henchman* keyword instead of the *Hero* keyword for the purposes of Frequency."
+{: .entry-note}
 
-**Monstrous Stryx**
+Monstrous Stryx
+{: .entry-title}
 
 Change Size to 75
+{: .entry-note}
 
-**Aquatic Strigoi**
+Aquatic Strigoi
+{: .entry-title}
 
 Reduce Ducats from 15 to 14
+{: .entry-note}
 
 Increase **Life Points** from 11 to 12
+{: .entry-note}
 
 Increase Dexterity from 3 to 5
+{: .entry-note}
 
 Remove **Hydrodynamic**
+{: .entry-note}
 
-**Hulking Moroi**
+Hulking Moroi
+{: .entry-title}
 
 Reduce Ducats from 16 to 14
+{: .entry-note}
 
 Remove **Crazed**
+{: .entry-note}
 
-**Moon Eater**
+Moon Eater
+{: .entry-title}
 
 Change **Devourer of Will** to "When this character kills an enemy character, it gains their starting **Will Points**. This is cumulative and can take this character above its starting **Will Points**."
+{: .entry-note}
 
-**Reaper**
+Reaper
+{: .entry-title}
 
 Reduce Ducats from 15 to 13
+{: .entry-note}
 
-**Strige**
+Strige
+{: .entry-title}
 
 Reduce Ducats from 15 to 14
+{: .entry-note}
 
 Increase **Life Points** from 9 to 10
+{: .entry-note}
 
-**Strzyga**
+Strzyga
+{: .entry-title}
 
 Increase Move from 4 to 5
+{: .entry-note}
 
-**Newborn Strigoi**
+Newborn Strigoi
+{: .entry-title}
 
 Reduce **Life Points** from 9 to 8
+{: .entry-note}
 
 Remove **Crazed**
+{: .entry-note}
 
-**Rotter**
+Rotter
+{: .entry-title}
 
 Remove **Unstable Transformation**
+{: .entry-note}
 
-**Sinker**
+Sinker
+{: .entry-title}
 
 Reduce Ducats from 12 to 10
+{: .entry-note}
 
-**Starved Dhampir**
+Starved Dhampir
+{: .entry-title}
 
 Change **Rejuvenated** to "This character starts the game with only **5 Life Points** remaining. However, if they start any turn with 6 or more **Life Points**, they increase their **Movement, Dexterity, Attack, and Mind** by 1 until the start of their next turn."
+{: .entry-note}
 
-**Targoveti**
+Targoveti
+{: .entry-title}
 
 Increase Ducats from 9 to 10
+{: .entry-note}
 
-**Thrall**
+Thrall
+{: .entry-title}
 
 Increase **Will Points** from 0 to 1
+{: .entry-note}
 
 Change Crossbow Penetration from 0 to -1
+{: .entry-note}
 
 ### Gifted
 
-**Il Capitano**
+Il Capitano
+{: .entry-title}
 
 Reduce Ducats from 21 to 19
+{: .entry-note}
 
-**La Signora**
+La Signora
+{: .entry-title}
 
 Reduce Ducats from 20 to 18
+{: .entry-note}
 
 Add the following rule "**Cheat**: If this is the only character with the *Leader* keyword in the gang, this character loses the *Hero* keyword. However, if the gang contains Il Capitano, this character loses the *Leader* keyword."
+{: .entry-note}
 
-**Harlequin**
+Harlequin
+{: .entry-title}
 
 Reduce **Will Points** from 4 to 2
+{: .entry-note}
 
 Add the following special rule "**Maximum Fastness**: This character cannot have more than a +1 modifier to its **DEXTERITY** (e.g. due to Evasion or Reactions). Dice gained through spending **Will Points** are unaffected."
+{: .entry-note}
 
-**Harbinger's Reflection**
+Harbinger's Reflection
+{: .entry-title}
 
 Add the **Mindless** character ability
+{: .entry-note}
 
 Change **A Light in the Dark** to "Every time another character uses 2 of their own **Will Points** (and not those from other characters) in a single action, this character replenishes **2 Will Points**.
+{: .entry-note}
 
 Additionally, this character may use more than **2 Will Points** to increase a roll."
+{: .entry-note}
 
-**Innamorati**
+Innamorati
+{: .entry-title}
 
 Reduce Ducats from 15 to 13
+{: .entry-note}
 
-**Artisan Elena**
+Artisan Elena
+{: .entry-title}
 
 Change **Fanged Visage** to "At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks.
+{: .entry-note}
 
 For the entirety of the game that character gains one of the following:
+{: .entry-note}
 
 - **Frenzied** and **Vampiric Attack (2)** but reduce **Will Points** to 0
+{: .entry-note}
+
 - **First Strike (1)** and **Vampiric Attack (1)**
+{: .entry-note}
 
 A character can only be given a single Mask. *Unique* characters without *Faction (Gifted)* and **Mindless** characters cannot be given a Mask."
+{: .entry-note}
 
-**Francisco De Lorme**
+Francisco De Lorme
+{: .entry-title}
 
 Change **Take the Oath** to "At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks.
+{: .entry-note}
 
 For the entirety of the game that character increases their starting **Will Points** by 2 and gains **Companion (Francisco De Lorme)**. Any friendly character within 6" and line of sight of them may use that character's **Will Points** as if they were their own.
+{: .entry-note}
 
 A character can only be given a single Mask. *Unique* characters without *Faction (Gifted)* and **Mindless** characters cannot be given a Mask."
+{: .entry-note}
 
-**Il Mentore**
+Il Mentore
+{: .entry-title}
 
 Change **Mask of Many Faces** to "At the beginning of the game, before deployment, select another friendly character to wear one of this character's Masks.
+{: .entry-note}
 
 For the entirety of the game that character gains one of the following:
+{: .entry-note}
 
 - **Pickpocket** and **Slippery (2)**
+{: .entry-note}
+
 - **Aerial Attack** and **Infiltrate**
+{: .entry-note}
 
 A character can only be given a single Mask. *Unique* characters without *Faction (Gifted)* and **Mindless** characters cannot be given a Mask."
+{: .entry-note}
 
-**Marco Leontus**
+Marco Leontus
+{: .entry-title}
 
 Change **The Mask Makes the Noble** to "At the beginning of the game, before deployment select another friendly character to wear one of this character's Masks.
+{: .entry-note}
 
 For the entirety of the game that character gains one of the following:
+{: .entry-note}
 
 - Increase their starting **Command Points** by 2
+{: .entry-note}
+
 - **Boat Crew** and **Bodyguard (Leader)**
+{: .entry-note}
 
 A character can only be given a single Mask. *Unique* characters without *Faction (Gifted)* and **Mindless** characters cannot be given a Mask."
+{: .entry-note}
 
-**Master Gerhard**
+Master Gerhard
+{: .entry-title}
 
 Change **Armourer** to "At the beginning of the game, before deployment select another friendly character to wear one of this character's Masks.
+{: .entry-note}
 
 For the entirety of the game that character gains one of the following:
+{: .entry-note}
 
 - **Universal Shielding (2)**
+{: .entry-note}
+
 - Whenever this character makes a **Combat** action against a character with **0 Will Points** remaining, if the attack deals at least 1 Damage, increase the damage caused by 1 (before any protection rolls).
+{: .entry-note}
 
 A character can only be given a single Mask. *Unique* characters without *Faction (Gifted)* and **Mindless** characters cannot be given a Mask."
+{: .entry-note}
 
-**Painted Protector**
+Painted Protector
+{: .entry-title}
 
 Change Watered Down to "At the end of the round, if this character is in water, it is killed."
+{: .entry-note}
 
-**Solus Hydraea**
+Solus Hydraea
+{: .entry-title}
 
 Change **Mask of Dagon** to "At the beginning of the game, before deployment select another friendly character to wear one of this character's Masks.
+{: .entry-note}
 
 For the entirety of the game that character gains one of the following:
+{: .entry-note}
 
 - **Water Creature** and the *Monster* keyword
+{: .entry-note}
+
 - **Fear (0)** and **+1 Attack**
+{: .entry-note}
 
 A character can only be given a single Mask. *Unique* characters without *Faction (Gifted)* and **Mindless** characters cannot be given a Mask."
+{: .entry-note}
 
-**Coviello**
+Coviello
+{: .entry-title}
 
 Reduce Ducats from 12 to 11
+{: .entry-note}
 
-**Il Dottore**
+Il Dottore
+{: .entry-title}
 
 Reduce Ducats from 13 to 12
+{: .entry-note}
 
 Add **Stun** to Wine Bottle
+{: .entry-note}
 
-**Mezzetino**
+Mezzetino
+{: .entry-title}
 
 Reduce Ducats from 13 to 11
+{: .entry-note}

@@ -1318,31 +1318,31 @@ a.disc-wild-magic        { color: #c06a18; font-weight: 500; }
   font-weight: 600;
   color: var(--ink);
 }
-/* Separator only between entries — not above the first one (follows the heading) */
-.doc-content p.entry-note + p.entry-title::before,
-.doc-content p.entry-title + p.entry-title::before {
+/* Fading-gold separator above each entry, except the first one after a heading */
+.doc-content p.entry-title::before {
   content: "";
   position: absolute;
   top: 0; left: 0; right: 0;
   height: 1px;
   background: linear-gradient(90deg, transparent, #e3d6ad 15%, #e3d6ad 85%, transparent);
 }
+.doc-content :is(h1, h2, h3, h4) + p.entry-title::before { content: none; }
 .doc-content p.entry-title a { color: var(--ink); }
 .doc-content p.entry-title a:hover { color: var(--accent); text-decoration: none; }
 .doc-content .entry-tag { font-weight: 400; color: var(--ink-3); font-size: 0.85em; }
 .doc-content .entry-tag::before { content: " · "; }
 .doc-content p.entry-note {
   margin: 0.2rem 0 0.7rem;
-  font-size: 0.9rem;
-  line-height: 1.6;
-  color: var(--ink-2);
-  font-weight: 400;
-}
-/* On the rules page the lists are primary content, so keep full body text size */
-.doc-content.section-rules_reference p.entry-note {
   font-size: 0.97rem;
   line-height: 1.78;
   color: var(--ink-read);
+  font-weight: 400;
+}
+/* Faction Leaders blurbs are secondary content — render them smaller and muted */
+.doc-content.section-factions p.entry-note {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--ink-2);
 }
 
 /* Faction presentation page: emblem medallion beside each faction heading */
