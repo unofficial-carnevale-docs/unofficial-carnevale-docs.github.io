@@ -61,25 +61,35 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 ### Leaders
 
-#### [Vlad Dracula - Brawler](/factions/strigoi/vlad-dracula/)
+**[Vlad Dracula](/factions/strigoi/vlad-dracula/)** <span class="entry-tag">Brawler</span>
+{: .entry-title}
 
 Strong versatile fighter with very high mobility, but he only has a conditionnal **Vampiric Attack**. He can play as an assassin or sit with Vampires to become near-unkillable as every Vampire gains **Bodyguard (*Leader*)**. He allows his Brides to be fielded as Henchmen.
+{: .entry-note}
 
-#### [Blood Crone - Support (mage) / Damage Dealer (magic)](/factions/strigoi/blood-crone/)
+**[Blood Crone](/factions/strigoi/blood-crone/)** <span class="entry-tag">Support (mage) / Damage Dealer (magic)</span>
+{: .entry-title}
 
 Cheap, flexible, but very slow caster-leader. She knows all cantrips of the game and can cast one per turn for 0AP, giving her really good Action economy.
+{: .entry-note}
 
-#### [Noble Strigoi - Damage Dealer (melee) / Support (Vampire)](/factions/strigoi/noble-strigoi/)
+**[Noble Strigoi](/factions/strigoi/noble-strigoi/)** <span class="entry-tag">Damage Dealer (melee) / Support (Vampire)</span>
+{: .entry-title}
 
 Modest fighter, but brings short-range Command denial and buffs Vampires, notably giving them **Companion (*Noble Strigoi*)**.
+{: .entry-note}
 
-#### [Stryha Crone - Assassin (flying, infiltration)](/factions/strigoi/stryha-crone/)
+**[Stryha Crone](/factions/strigoi/stryha-crone/)** <span class="entry-tag">Assassin (flying, infiltration)</span>
+{: .entry-title}
 
 Fragile anti-armor alpha-striker. She gives 3 models **Infiltration** to enable a strong alpha strike or terrain control.
+{: .entry-note}
 
-#### [Wallachian Hospodar - Brawler (durable)](/factions/strigoi/wallachian-hospodar/)
+**[Wallachian Hospodar](/factions/strigoi/wallachian-hospodar/)** <span class="entry-tag">Brawler (durable)</span>
+{: .entry-title}
 
 Very durable fighter but with a Full Plate (weak near water). He also gives a small buff to Soldiers, but nothing worth of orienting the full gang around it.
+{: .entry-note}
 
 ### Sub-factions
 

@@ -63,29 +63,41 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 ### Leaders
 
-#### [The Flame That Burns Underwater - Canal Fighter](/factions/rashaar/the-flame-that-burns-underwater/)
+**[The Flame That Burns Underwater](/factions/rashaar/the-flame-that-burns-underwater/)** <span class="entry-tag">Canal Fighter</span>
+{: .entry-title}
 
 Really expensive leader, but she's an insane grappler and drowner with heavy AoE damage.
+{: .entry-note}
 
-#### [Magi-Rashaar - Damage Dealer (magic, Blood Rites) / Support (magic)](/factions/rashaar/magi-rashaar/)
+**[Magi-Rashaar](/factions/rashaar/magi-rashaar/)** <span class="entry-tag">Damage Dealer (magic, Blood Rites) / Support (magic)</span>
+{: .entry-title}
 
 Simply the best caster of the game, but very fragile.
+{: .entry-note}
 
-#### [Paartul Matriarch - Specialist (spawner)](/factions/rashaar/paartul-matriarch/)
+**[Paartul Matriarch](/factions/rashaar/paartul-matriarch/)** <span class="entry-tag">Specialist (spawner)</span>
+{: .entry-title}
 
 She has weak stats but the unique ability to summon one Crybaby per turn, small annoying bodies that can be attacked by allies to loose **Mindless**. Build around Feral monsters, notably giving them **Companion (*Leader*)**.
+{: .entry-note}
 
-#### [Sir Tiburcio - Tank](/factions/rashaar/sir-tiburcio/)
+**[Sir Tiburcio](/factions/rashaar/sir-tiburcio/)** <span class="entry-tag">Tank</span>
+{: .entry-title}
 
 Durable tank, slower than the faction standard in water and without an aquatic weapon, but he has the statline of a Full Plate character without the disadvantages.
+{: .entry-note}
 
-#### [Thalidraur - Brawler](/factions/rashaar/thalidraur/)
+**[Thalidraur](/factions/rashaar/thalidraur/)** <span class="entry-tag">Brawler</span>
+{: .entry-title}
 
 Big expensive melee monster that's very slow unless he's in water. He has very low CP but regenerates CP and WP when someone dies nearby.
+{: .entry-note}
 
-#### [Voice of Dagon - Support (CP, control)](/factions/rashaar/voice-of-dagon/)
+**[Voice of Dagon](/factions/rashaar/voice-of-dagon/)** <span class="entry-tag">Support (CP, control)</span>
+{: .entry-title}
 
 One of the highest effective Command outputs in the game, otherwise a modest combattant but with a good armor-piercing **Stun** template attack.
+{: .entry-note}
 
 ### Sub-factions
 

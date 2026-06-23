@@ -66,25 +66,35 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 ### Leaders
 
-#### [Patriarch Bishop de Bernis - Support (mage) / Damage Dealer (magic)](/factions/the-vatican/patriarch-bishop-de-bernis/)
+**[Patriarch Bishop de Bernis](/factions/the-vatican/patriarch-bishop-de-bernis/)** <span class="entry-tag">Support (mage) / Damage Dealer (magic)</span>
+{: .entry-title}
 
 Best mage of the faction, gives gang-wide WP regen via **Companion (*Leader*)**. He's mainly a support but has access to Summon Vermin, meaning he can be a good damage dealer against non-armoured enemies.
+{: .entry-note}
 
-#### [Father Cesta - Support (mage, Constructs)](/factions/the-vatican/father-cesta/)
+**[Father Cesta](/factions/the-vatican/father-cesta/)** <span class="entry-tag">Support (mage, Constructs)</span>
+{: .entry-title}
 
 Flying mage with lots of buffs for **Constructs**, notably removing their **Mindless** attribute.
+{: .entry-note}
 
-#### [Exorcist - Disruptor](/factions/the-vatican/exorcist/)
+**[Exorcist](/factions/the-vatican/exorcist/)** <span class="entry-tag">Disruptor</span>
+{: .entry-title}
 
 Mediocre combatant, it's a Disruptor with a permanent +3 damage vs WP-0 models, making him a good counterpick in certain situations (notably against Strigoi).
+{: .entry-note}
 
-#### [Inquisitor - Damage Dealer (magic) / Support (offensive, magic)](/factions/the-vatican/inquisitor/)
+**[Inquisitor](/factions/the-vatican/inquisitor/)** <span class="entry-tag">Damage Dealer (magic) / Support (offensive, magic)</span>
+{: .entry-title}
 
 Very aggressive **Frenzied** caster. He has access to Blood Rites, making him a strong damage dealer, but he has a low LP pool and no way to regenerate them.
+{: .entry-note}
 
-#### [Knight Commander - Brawler](/factions/the-vatican/knight-commander/)
+**[Knight Commander](/factions/the-vatican/knight-commander/)** <span class="entry-tag">Brawler</span>
+{: .entry-title}
 
 Really strong all-round fighter with high damage and high protection but with a Full Plate (weak near water). He also gives a small buff to **Hospitallers**, but nothing worth building the gang around.
+{: .entry-note}
 
 ### Sub-factions
 

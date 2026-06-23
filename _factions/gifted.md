@@ -80,17 +80,23 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 ### Leaders
 
-#### [Il Capitano - Damage Dealer (melee) / Support](/factions/gifted/il-capitano/)
+**[Il Capitano](/factions/gifted/il-capitano/)** <span class="entry-tag">Damage Dealer (melee) / Support</span>
+{: .entry-title}
 
 High-output glass cannon for his cost. He's a really good support, making allies move and giving the whole gang **Companion (*Il Capitano*)**. But he only has Mind 2, and forces every friendly model in LOS to use it.
+{: .entry-note}
 
-#### [La Signora - Support (re-roll engine)](/factions/gifted/la-signora/)
+**[La Signora](/factions/gifted/la-signora/)** <span class="entry-tag">Support (re-roll engine)</span>
+{: .entry-title}
 
 Unique support: she generates a re-roll pool for all friendly characters in LOS at the start of the round. She has a strong WP regen option but moderate combat stats.
+{: .entry-note}
 
-#### [The Duke - Assassin (infiltration) / Damage Dealer](/factions/gifted/the-duke/)
+**[The Duke](/factions/gifted/the-duke/)** <span class="entry-tag">Assassin (infiltration) / Damage Dealer</span>
+{: .entry-title}
 
 High-mobility assassin with a teleport action.
+{: .entry-note}
 
 ### Sub-factions
 

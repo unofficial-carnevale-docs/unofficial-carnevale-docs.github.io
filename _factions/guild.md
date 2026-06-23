@@ -62,29 +62,41 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 ### Leaders
 
-#### [Capodecina - Assassin (melee, infiltrator)](/factions/the-guild/capodecina/)
+**[Capodecina](/factions/the-guild/capodecina/)** <span class="entry-tag">Assassin (melee, infiltrator)</span>
+{: .entry-title}
 
 Fast infiltrating assassin-leader. Build around the **Trade** sub-faction, notably giving them **Companion (*Trade*)**.
+{: .entry-note}
 
-#### [Harbourmaster - Brawler (water)](/factions/the-guild/harbourmaster/)
+**[Harbourmaster](/factions/the-guild/harbourmaster/)** <span class="entry-tag">Brawler (water)</span>
+{: .entry-title}
 
 Durable **Parry** frontline fighter. She has a **Fast Swimmer** gang buff.
+{: .entry-note}
 
-#### [King For a Day - Damage Dealer (anti-armor)](/factions/the-guild/king-for-a-day/)
+**[King For a Day](/factions/the-guild/king-for-a-day/)** <span class="entry-tag">Damage Dealer (anti-armor)</span>
+{: .entry-title}
 
 Cheap anti-armour damage dealer, but he only has AP2 and low command. Build around the **End of Days** sub-faction, notably removing their **Mindless** attribute.
+{: .entry-note}
 
-#### [Madame - Support (House of Virtue)](/factions/the-guild/madame/)
+**[Madame](/factions/the-guild/madame/)** <span class="entry-tag">Support (House of Virtue)</span>
+{: .entry-title}
 
 Fast evasive support with little personal combat. She has strong abilities but they need Command points investment. Build around the **House of Virtue** sub-faction, notably giving them **Companion (*House of Virtue*)**.
+{: .entry-note}
 
-#### [Ostrich King?! - Damage Dealer (anti-armor, fast)](/factions/the-guild/ostrich-king/)
+**[Ostrich King?!](/factions/the-guild/ostrich-king/)** <span class="entry-tag">Damage Dealer (anti-armor, fast)</span>
+{: .entry-title}
 
 Very fast anti-armour damage dealer, but he only has AP2 and low command. Build around the **End of Days** sub-faction, notably removing their **Mindless** attribute.
+{: .entry-note}
 
-#### [Prince of Thieves - Damage Dealer (melee/short-range) / Objective Runner](/factions/the-guild/prince-of-thieves/)
+**[Prince of Thieves](/factions/the-guild/prince-of-thieves/)** <span class="entry-tag">Damage Dealer (melee/short-range) / Objective Runner</span>
+{: .entry-title}
 
 Flexible aggressive hero-leader with good command. He is a strong solo, but a less effective commander than the other leaders: he doesn't give as useful a gang-wide buff.
+{: .entry-note}
 
 ### Sub-factions
 

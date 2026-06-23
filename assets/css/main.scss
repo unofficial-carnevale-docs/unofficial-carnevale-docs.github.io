@@ -1287,6 +1287,44 @@ a.disc-wild-magic        { color: #c06a18; font-weight: 500; }
 .model-stats th:nth-child(4) { background: rgba(30,150,70,0.18); color: #0f5e28; }
 .model-stats td:nth-child(4) { background: rgba(30,150,70,0.08); }
 
+/* ── Compact entry list (reusable) ──────────────────────────────────
+   A title (+ optional muted .entry-tag) with an .entry-note beneath it;
+   entries split by a fading-gold hairline. Authored with IALs:
+     My Title <span class="entry-tag">optional tag</span>
+     {: .entry-title}
+
+     The description text.
+     {: .entry-note}
+   Used by the faction Leaders roster; reusable (e.g. Rules "Types of Rolls"). */
+.doc-content p.entry-title {
+  position: relative;
+  margin: 0;
+  padding-top: 0.8rem;
+  font-size: 0.97rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+/* Separator only between entries — not above the first one (follows the heading) */
+.doc-content p.entry-note + p.entry-title::before,
+.doc-content p.entry-title + p.entry-title::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #e3d6ad 15%, #e3d6ad 85%, transparent);
+}
+.doc-content p.entry-title a { color: var(--ink); }
+.doc-content p.entry-title a:hover { color: var(--accent); text-decoration: none; }
+.doc-content .entry-tag { font-weight: 400; color: var(--ink-3); font-size: 0.85em; }
+.doc-content .entry-tag::before { content: " · "; }
+.doc-content p.entry-note {
+  margin: 0.2rem 0 0.7rem;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--ink-2);
+  font-weight: 400;
+}
+
 /* ── Sub-faction chip lists ───────────────────────────────────────── */
 .subfactions { margin: 0.5rem 0 1.75rem; }
 .subfaction {

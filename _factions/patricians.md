@@ -61,33 +61,47 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 ### Leaders
 
-#### [Pinnacle of Affluence - Support (command)](/factions/patricians/pinnacle-of-affluence/)
+**[Pinnacle of Affluence](/factions/patricians/pinnacle-of-affluence/)** <span class="entry-tag">Support (command)</span>
+{: .entry-title}
 
 The most expensive leader of the game. His cost is justified by being the highest command output character over the course of the game. He has weak stats but has a **Poisoned** **Template** attack and gives every friendly model **Bodyguard (*Pinnacle of Affluence*)**.
+{: .entry-note}
 
-#### [Guard Commander - Brawler / Support (Officer)](/factions/patricians/guard-commander/)
+**[Guard Commander](/factions/patricians/guard-commander/)** <span class="entry-tag">Brawler / Support (Officer)</span>
+{: .entry-title}
 
 Durable **Parry** fighter that buffs **Soldiers**.
+{: .entry-note}
 
-#### [Noble Admiral - Sniper (short-range)](/factions/patricians/noble-admiral/)
+**[Noble Admiral](/factions/patricians/noble-admiral/)** <span class="entry-tag">Sniper (short-range)</span>
+{: .entry-title}
 
 Short-range sniper with Boat synergy.
+{: .entry-note}
 
-#### [Venetian Noble - Damage Dealer (melee)](/factions/patricians/venetian-noble/)
+**[Venetian Noble](/factions/patricians/venetian-noble/)** <span class="entry-tag">Damage Dealer (melee)</span>
+{: .entry-title}
 
 Aggressive duelist and good commander: friendly characters gain +1 WP on kill when they are in LOS.
+{: .entry-note}
 
-#### [Mounted Venetian Noble - Assassin (melee, fast)](/factions/patricians/mounted-venetian-noble/)
+**[Mounted Venetian Noble](/factions/patricians/mounted-venetian-noble/)** <span class="entry-tag">Assassin (melee, fast)</span>
+{: .entry-title}
 
 Fast cavalry assassin that can make nearby allies move, making her a versatile leader.
+{: .entry-note}
 
-#### [Janissary Chorbaji - Brawler / Support (Ottoman)](/factions/patricians/janissary-chorbaji/)
+**[Janissary Chorbaji](/factions/patricians/janissary-chorbaji/)** <span class="entry-tag">Brawler / Support (Ottoman)</span>
+{: .entry-title}
 
 Durable Ottoman commander built around this sub-faction.
+{: .entry-note}
 
-#### [Sopracomito - Support (WP battery)](/factions/patricians/sopracomito/)
+**[Sopracomito](/factions/patricians/sopracomito/)** <span class="entry-tag">Support (WP battery)</span>
+{: .entry-title}
 
 Cheapest leader of the game. He has only 2 AP and low command, but he's a WP battery that can make **Soldiers** move.
+{: .entry-note}
 
 ### Sub-factions
 

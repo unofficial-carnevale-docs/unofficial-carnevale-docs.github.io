@@ -62,25 +62,35 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 ### Leaders
 
-#### [Doctor of the Mind - Damage Dealer (magic)](/factions/the-doctors/doctor-of-the-mind/)
+**[Doctor of the Mind](/factions/the-doctors/doctor-of-the-mind/)** <span class="entry-tag">Damage Dealer (magic)</span>
+{: .entry-title}
 
 Durable caster leader with high Command points to spend.
+{: .entry-note}
 
-#### [Master of Necromantic Studies - Damage Dealer (magic)](/factions/the-doctors/master-of-necromantic-studies/)
+**[Master of Necromantic Studies](/factions/the-doctors/master-of-necromantic-studies/)** <span class="entry-tag">Damage Dealer (magic)</span>
+{: .entry-title}
 
 Low-LP **Frenzied** offensive caster. She turns the whole faction into a fully **Frenzied** one without any WP (even the Nexus batteries), which is the most impactful gang-wide ability of any leader.
+{: .entry-note}
 
-#### [Master of Arcane Security - Brawler](/factions/the-doctors/master-of-arcane-security/)
+**[Master of Arcane Security](/factions/the-doctors/master-of-arcane-security/)** <span class="entry-tag">Brawler</span>
+{: .entry-title}
 
 Expensive and strong versatile combattant but with a Full Plate (weak near water).
+{: .entry-note}
 
-#### [Master of Zoology - Support (Beast Master) / Tank](/factions/the-doctors/master-of-zoology/)
+**[Master of Zoology](/factions/the-doctors/master-of-zoology/)** <span class="entry-tag">Support (Beast Master) / Tank</span>
+{: .entry-title}
 
 Very durable **Hunter** with a good armor-piercing **Stun** weapon. Build around Beasts, giving them **Companion (*Doctor*)**.
+{: .entry-note}
 
-#### [Plague Doctor - Support (magic)](/factions/the-doctors/plague-doctor/)
+**[Plague Doctor](/factions/the-doctors/plague-doctor/)** <span class="entry-tag">Support (magic)</span>
+{: .entry-title}
 
 Flexible support caster-leader with an anti-stun aura.
+{: .entry-note}
 
 ### Sub-factions
 
