@@ -367,7 +367,7 @@ Yes.
 How much PROTECTION does a character with PROTECTION 3 have when affected by Fadhila's Protective Bubble?
 {: .entry-title}
 
-3. Universal Shielding cannot take a character's PROTECTION above their starting value. Any characters with a lower value for Expert Protection (X) would have Expert Protection (4). Any characters with a higher value for Expert Protection (X), would use the highest value.
+3\. Universal Shielding cannot take a character's PROTECTION above their starting value. Any characters with a lower value for Expert Protection (X) would have Expert Protection (4). Any characters with a higher value for Expert Protection (X), would use the highest value.
 {: .entry-note}
 
 Does the Paladin of St Lazarus count as killed for mission objectives, agendas, other characters that have abilities that key off kills or deaths nearby when they first die, or only when they're finally dead for good? Could mechanics that key off kills or deaths occur multiple times?
@@ -722,13 +722,8 @@ Add the following weapon:
 {: .entry-note}
 
 | Weapon | Range | Evasion | Damage | Penetration | Abilities |
-{: .entry-note}
-
 |---|---|---|---|---|---|
-{: .entry-note}
-
 | Voice of Madness | 0" | -1 | - | -3 | Stun, Template |
-{: .entry-note}
 
 Morgraur
 {: .entry-title}
@@ -928,16 +923,9 @@ Change weapons to the following
 {: .entry-note}
 
 | Weapon | Range | Evasion | Damage | Penetration | Abilities |
-{: .entry-note}
-
 |---|---|---|---|---|---|
-{: .entry-note}
-
 | Diving Trident | 2" | - | +1 | - | Aquatic, Two-Handed |
-{: .entry-note}
-
 | Underwater Limelight | 0" | - | - | - | Harmless, Stun, Template |
-{: .entry-note}
 
 Add the following Command Ability "**Long Dive**: PULSE Command Ability: All friendly characters with an Underwater Counter gain an additional Underwater Counter."
 {: .entry-note}
@@ -1137,16 +1125,9 @@ Change weapons to the following:
 {: .entry-note}
 
 | Weapon | Range | Evasion | Damage | Penetration | Abilities |
-{: .entry-note}
-
 |---|---|---|---|---|---|
-{: .entry-note}
-
 | Grapeshot | 0" | -1 | - | -4 | Black Powder, Template, Reload (1) |
-{: .entry-note}
-
 | Cannon Barrel | 0" | - | - | - | Stun |
-{: .entry-note}
 
 Seven Years Veteran
 {: .entry-title}
@@ -1262,13 +1243,8 @@ Replace Heavenly Host with the following:
 {: .entry-note}
 
 | Weapon | Range | Evasion | Damage | Penetration | Abilities |
-{: .entry-note}
-
 |---|---|---|---|---|---|
-{: .entry-note}
-
 | Divine Winds | 0" | - | +1 | - | Template |
-{: .entry-note}
 
 Exorcist
 {: .entry-title}
@@ -1626,10 +1602,7 @@ For the entirety of the game that character gains one of the following:
 {: .entry-note}
 
 - **Frenzied** and **Vampiric Attack (2)** but reduce **Will Points** to 0
-{: .entry-note}
-
 - **First Strike (1)** and **Vampiric Attack (1)**
-{: .entry-note}
 
 A character can only be given a single Mask. *Unique* characters without *Faction (Gifted)* and **Mindless** characters cannot be given a Mask."
 {: .entry-note}
@@ -1656,10 +1629,7 @@ For the entirety of the game that character gains one of the following:
 {: .entry-note}
 
 - **Pickpocket** and **Slippery (2)**
-{: .entry-note}
-
 - **Aerial Attack** and **Infiltrate**
-{: .entry-note}
 
 A character can only be given a single Mask. *Unique* characters without *Faction (Gifted)* and **Mindless** characters cannot be given a Mask."
 {: .entry-note}
@@ -1674,10 +1644,7 @@ For the entirety of the game that character gains one of the following:
 {: .entry-note}
 
 - Increase their starting **Command Points** by 2
-{: .entry-note}
-
 - **Boat Crew** and **Bodyguard (Leader)**
-{: .entry-note}
 
 A character can only be given a single Mask. *Unique* characters without *Faction (Gifted)* and **Mindless** characters cannot be given a Mask."
 {: .entry-note}
@@ -1692,10 +1659,7 @@ For the entirety of the game that character gains one of the following:
 {: .entry-note}
 
 - **Universal Shielding (2)**
-{: .entry-note}
-
 - Whenever this character makes a **Combat** action against a character with **0 Will Points** remaining, if the attack deals at least 1 Damage, increase the damage caused by 1 (before any protection rolls).
-{: .entry-note}
 
 A character can only be given a single Mask. *Unique* characters without *Faction (Gifted)* and **Mindless** characters cannot be given a Mask."
 {: .entry-note}
@@ -1716,10 +1680,7 @@ For the entirety of the game that character gains one of the following:
 {: .entry-note}
 
 - **Water Creature** and the *Monster* keyword
-{: .entry-note}
-
 - **Fear (0)** and **+1 Attack**
-{: .entry-note}
 
 A character can only be given a single Mask. *Unique* characters without *Faction (Gifted)* and **Mindless** characters cannot be given a Mask."
 {: .entry-note}
