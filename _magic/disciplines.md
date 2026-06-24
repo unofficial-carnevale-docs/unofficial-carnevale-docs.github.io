@@ -67,7 +67,7 @@ Wild Magic trades depth for breadth. Damage, healing, debuffing, movement, telep
 - **Cantrip of Justice:** cast any spell a mage in LOS knows, ally or ennemy.
 - **They Sleep Underwater:** a swimming-speed buff.
 - **Healing:** a simple heal.
-- **Summon Vermin:** strong, long-range damage without any armor penetration.
+- **Summon Vermin:** strong, long-range damage without any armour penetration.
 - **Gateway:** a safe teleport for realy close range ally or enemy.
 - **Groundsnap:** damage plus area denial.
 - **Sunder Armour:** strips a big chunk of an enemy's armour to set up a follow-up.

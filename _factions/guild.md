@@ -63,7 +63,7 @@ Fast infiltrating assassin-leader. Build around the **Trade** sub-faction, notab
 Durable **Parry** frontline fighter. She has a **Fast Swimmer** gang buff.
 {: .entry-note}
 
-**[King For a Day](/factions/the-guild/king-for-a-day/)** <span class="entry-tag">Damage Dealer (anti-armor)</span>
+**[King For a Day](/factions/the-guild/king-for-a-day/)** <span class="entry-tag">Damage Dealer (anti-armour)</span>
 {: .entry-title}
 
 Cheap anti-armour damage dealer, but he only has AP2 and low command. Build around the **End of Days** sub-faction, notably removing their **Mindless** attribute.
@@ -75,7 +75,7 @@ Cheap anti-armour damage dealer, but he only has AP2 and low command. Build arou
 Fast evasive support with little personal combat. She has strong abilities but they need Command points investment. Build around the **House of Virtue** sub-faction, notably giving them **Companion (*House of Virtue*)**.
 {: .entry-note}
 
-**[Ostrich King?!](/factions/the-guild/ostrich-king/)** <span class="entry-tag">Damage Dealer (anti-armor, fast)</span>
+**[Ostrich King?!](/factions/the-guild/ostrich-king/)** <span class="entry-tag">Damage Dealer (anti-armour, fast)</span>
 {: .entry-title}
 
 Very fast anti-armour damage dealer, but he only has AP2 and low command. Build around the **End of Days** sub-faction, notably removing their **Mindless** attribute.
@@ -267,9 +267,9 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|
 | [Capodecina](/factions/the-guild/capodecina/) | Assassin (melee, infiltrator) | 3.29 | 13.4 | 0.165 | 0.67 |
 | [Harbourmaster](/factions/the-guild/harbourmaster/) | Brawler (water) | 2.51 | 22.7 | 0.119 | 1.08 |
-| [King For a Day](/factions/the-guild/king-for-a-day/) | Damage Dealer (anti-armor) | 2.20 | 8.0 | 0.100 | 0.36 |
+| [King For a Day](/factions/the-guild/king-for-a-day/) | Damage Dealer (anti-armour) | 2.20 | 8.0 | 0.100 | 0.36 |
 | [Madame](/factions/the-guild/madame/) | Support (House of Virtue) | 1.80 | 20.1 | 0.090 | 1.01 |
-| [Ostrich King?!](/factions/the-guild/ostrich-king/) | Damage Dealer (anti-armor, fast) | 2.91 | 10.0 | 0.153 | 0.53 |
+| [Ostrich King?!](/factions/the-guild/ostrich-king/) | Damage Dealer (anti-armour, fast) | 2.91 | 10.0 | 0.153 | 0.53 |
 | [Prince of Thieves](/factions/the-guild/prince-of-thieves/) | Damage Dealer (melee/short-range) / Objective Runner | 3.92 | 18.4 | 0.170 | 0.80 |
 
 </details>

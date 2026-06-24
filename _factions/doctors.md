@@ -72,7 +72,7 @@ Expensive and strong versatile combattant but with a Full Plate (weak near water
 **[Master of Zoology](/factions/the-doctors/master-of-zoology/)** <span class="entry-tag">Support (Beast Master) / Tank</span>
 {: .entry-title}
 
-Very durable **Hunter** with a good armor-piercing **Stun** weapon. Build around Beasts, giving them **Companion (*Doctor*)**.
+Very durable **Hunter** with a good armour-piercing **Stun** weapon. Build around Beasts, giving them **Companion (*Doctor*)**.
 {: .entry-note}
 
 **[Plague Doctor](/factions/the-doctors/plague-doctor/)** <span class="entry-tag">Support (magic)</span>

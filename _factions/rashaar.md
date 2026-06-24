@@ -43,7 +43,7 @@ Cultist worshippers, deep-sea horrors, and their monstrous spawn. The Rashaar ar
 | [Paliaa](/factions/rashaar/paliaa/) | Mage (1) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Aura that buffs Henchmen attack |
 | [Aglaope](/factions/rashaar/aglaope/) | Mage (1) + Expert Sorcerer (1) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Cheap support mage |
 
-The Drowned Nun's **Dagonite Baptism** is a unique damage spell scaling with Aces. Paired with **Fanaticism for Dagon** that gives her **Frenzied**, she can reliably cast it boosted for 2 LP, making it an ok damage spell against lightly armored foes but at a huge cost (1WP + 1CP + 2LP).
+The Drowned Nun's **Dagonite Baptism** is a unique damage spell scaling with Aces. Paired with **Fanaticism for Dagon** that gives her **Frenzied**, she can reliably cast it boosted for 2 LP, making it an ok damage spell against lightly armoured foes but at a huge cost (1WP + 1CP + 2LP).
 
 ## Roster
 
@@ -85,7 +85,7 @@ Big expensive melee monster that's very slow unless he's in water. He has very l
 **[Voice of Dagon](/factions/rashaar/voice-of-dagon/)** <span class="entry-tag">Support (CP, control)</span>
 {: .entry-title}
 
-One of the highest effective Command outputs in the game, otherwise a modest combattant but with a good armor-piercing **Stun** template attack.
+One of the highest effective Command outputs in the game, otherwise a modest combattant but with a good armour-piercing **Stun** template attack.
 {: .entry-note}
 
 ### Sub-factions

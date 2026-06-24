@@ -6,18 +6,18 @@ is_analysis: true
 
 ## Why tag models?
 
-To be able to compare models, we tried to give them Tags to group them by role. These tags were validated by ensuring their computed capability doesn't sit far from their role's standard.
+To be able to compare models, we tried to give them tags to group them by role. These tags were validated by ensuring their computed capability doesn't sit far from their role's standard.
 
 ## Conventions
 
-- **Adjectives** refine a role in parentheses: `Damage Dealer (melee, anti-armor)`, `Canal Fighter (drown)`. They describe sub-role / target-preference, not a separate role.
+- **Adjectives** refine a role in parentheses: `Damage Dealer (melee, anti-armour)`, `Canal Fighter (drown)`. They describe sub-role / target-preference, not a separate role.
 - **Dual tags** read `A / B`, primary first.
 
 ## Roles
 
 ### Assassin
 
-Mobile model with the **kill power** to remove a chosen high-value target (alpha strike on a target).
+Mobile model with the **kill power** to remove a chosen high-value target (an alpha strike).
 
 - **Include:** fast/infiltrating models with the punch to actually kill a key piece.
 - **Exclude:** fast models that *can't* reliably kill and exist to tie up/disrupt (Harasser), and fast scorers (Objective Runner).
@@ -49,13 +49,13 @@ Hard crowd-control: Stun, Grapple, forced movement, impassable/area denial.
 
 Primary job is dealing damage. The default offense role.
 
-- **Include:** melee, ranged, or magic dealers. Adjectives carry the flavour: `(melee)`, `(ranged)`, `(magic, <discipline>)`, `(anti-armor)`, `(Stun)`, `(anti-large)`.
+- **Include:** melee, ranged, or magic dealers. Adjectives carry the flavour: `(melee)`, `(ranged)`, `(magic, <discipline>)`, `(anti-armour)`, `(Stun)`, `(anti-large)`.
 - **Exclude:** water-bound dealers (Canal Fighter), long-range Reload shooters whose value is the alpha (Sniper), models that can't reliably kill and exist to annoy (Harasser).
-- **Note (mages):** a mage's EDPA assumes its *best damage spells*, meaning they *can* be damage dealers if they take the most optimal spells for this role and neglect utility. A [Blood Rites](/magic/blood-rites) mage may take [Bloodlust](/magic/blood-rites#bloodlust) and [Abyssal Mist](/magic/blood-rites#abyssal-mist) and be a support, but as Blood Rites is mainly a damage dealing discipline they are tagged as Damage Dealers.
+- **Note (mages):** a mage's EDPA assumes its *best damage spells*, meaning they *can* be damage dealers if they take the optimal spells for this role and neglect utility. A [Blood Rites](/magic/blood-rites) mage may take [Bloodlust](/magic/blood-rites#bloodlust) and [Abyssal Mist](/magic/blood-rites#abyssal-mist) and be a support, but as Blood Rites is mainly a damage-dealing discipline they are tagged as Damage Dealers.
 
 ### Disruptor
 
-Suppresses the enemy **Will Point economy**, by either **lockout** (preventing WP use: "(may) not use Will Points", aura or base contact) or **strip/drain** (removing WP: "loses X WP", WP "wasted").
+Suppresses the enemy **Will Point economy** by either **lockout** (preventing WP use: "(may) not use Will Points", aura or base contact) or **strip/drain** (removing WP: "loses X WP", WP "wasted").
 
 - **Include:** WP-lockout auras / contact, WP strip-on-hit / drain.
 - **Exclude:**
@@ -66,17 +66,10 @@ Suppresses the enemy **Will Point economy**, by either **lockout** (preventing W
 
 ### Harasser
 
-A fast model that **disrupts the enemy rather than kills it**: tie up, screen, bait, block, pin the
-backline/support via mobility and nuisance, with **low kill power** (not an Assassin) and not hard CC
-(not Control).
+A fast model that **disrupts the enemy rather than killing it**: tie up, screen, bait, block, pin the backline/support via mobility and nuisance, with **low kill power** (not an Assassin) and not hard CC (not Control).
 
-- **Include:** fast, cheap/expendable disruptors (Move ≥5 or Flight/Acrobatic/Slippery/Infiltration/
-  Engage), often Mindless (can't score: pure disruptor). An **expensive** model qualifies only if it
-  harasses with **high efficiency** (strong mobility + a real disruption tool, e.g. Harlequin's
-  Slippery + Mischievous WP-negate, whose sword is too soft to assassinate at its cost).
-  Adjective `(aquatic)` for a water-based harasser (Leech).
-- **Exclude:** real killers (high EDPA: Assassin/Damage Dealer/Brawler), pure scorers/pickpockets (Objective
-  Runner), hard-CC (Control), too-fragile bait pieces, models whose primary role is resource/support,
+- **Include:** fast, cheap/expendable disruptors, often Mindless. An **expensive** model qualifies only if it harasses with **high efficiency**. Adjective `(aquatic)` for a water-based harasser.
+- **Exclude:** real killers, pure scorers/pickpockets (Objective Runner), hard-CC (Control), too-fragile bait pieces, models whose primary role is resource/support,
   models too slow to harass, defensive disengage tricks that aren't enemy nuisance (e.g. Confusing Exit).
 
 ### Line Fighter
@@ -88,40 +81,36 @@ Rank-and-file frontline melee, holds your line, moderate output, not an elite de
 
 ### Objective Runner
 
-Fast/mobile model whose job is to grab, contest, and score objectives, including Pickpocket theft
-(steal WP + objectives on disengage).
+Fast/mobile model whose job is to grab, contest, and score objectives, including Pickpocket theft (steal WP + objectives on disengage).
 
 - **Include:** mobile scorers and pickpocket thieves whose primary value is theft/scoring.
-- **Exclude:** Mindless models (can't score Primary Objectives). If fast + low-output they lean
-  Harasser. Fast killers (Assassin).
+- **Exclude:** Mindless models (can't score Primary Objectives). If fast + low-output they lean Harasser. Fast killers (Assassin).
 
 ### Sniper
 
-Long-range shooter with high single-shot **alpha**, Reload-gated, low sustained EDPA by design (range and
-burst are the trade). Scored on alpha, not EDPA.
+Long-range shooter with high single-shot **alpha**, Reload-gated, low sustained EDPA by design (range and burst are the trade). Scored on alpha, not EDPA.
 
 - **Include:** dedicated long-range gunners.
-- **Exclude:** mid-range or rapid shooters that sustain fire (Damage Dealer (ranged)).
+- **Exclude:** rapid shooters that sustain fire (Damage Dealer (ranged)).
+- **Note (range):** Ranged models have their range as adjectives. As Snipers should be long-ranged, an 8-12" Sniper is tagged (low-range) whereas Damage Dealers would be tagged (mid-range).
 
 ### Specialist
 
 Catch-all for unique-mechanic models that fit no standard role.
 
-- **Include:** Mask-givers, spawners/summoners, gondola/transport, adaptive/copy models, Emissary
-  tentacles, Artifact carriers, Destiny-Die control, and other irreplaceable niche tech.
+- **Include:** Mask-givers, spawners/summoners, gondola/transport, adaptive/copy models, Emissary tentacles, Artifact carriers, Destiny-Die control, and other irreplaceable niche tech.
 - **Exclude:** anything that fits other tags.
 
 ### Support
 
 Buffs, heals, or enables allies: mages (buff/heal disciplines), auras, Companions, WP batteries.
 
-- **Include:** dedicated enablers and WP-battery / Nexus-style models. A support mage tagged Support whose EDPA exceeds the Damage Dealer median is still Support
-  if it would spend its slots on buffs/heals.
+- **Include:** dedicated enablers and WP-battery / Nexus-style models. A support mage tagged Support whose EDPA exceeds the Damage Dealer median is still Support if it would spend its slots on buffs/heals.
 - **Exclude:** models that actively deny *enemy* resources (Disruptor).
 
 ### Tank
 
-Survivability is the role. High ATK2K (LP × Protection × Parry/Shielding), plants, blocks, bodyguards.
+High-survivability models with a way to protect allies or to annoy opponents.
 
 - **Include:** durable blockers, Bodyguards, high-Protection/Shielding anchors with modest offense.
 - **Exclude:** durable models whose *point* is output (Brawler) or water (Canal Fighter). A Tank with ATK2K below ~80% of the Tank median is a "soft tank".

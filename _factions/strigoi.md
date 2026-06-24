@@ -71,7 +71,7 @@ Modest fighter, but brings short-range Command denial and buffs Vampires, notabl
 **[Stryha Crone](/factions/strigoi/stryha-crone/)** <span class="entry-tag">Assassin (flying, infiltration)</span>
 {: .entry-title}
 
-Fragile anti-armor alpha-striker. She gives 3 models **Infiltration** to enable a strong alpha strike or terrain control.
+Fragile anti-armour alpha-striker. She gives 3 models **Infiltration** to enable a strong alpha strike or terrain control.
 {: .entry-note}
 
 **[Wallachian Hospodar](/factions/strigoi/wallachian-hospodar/)** <span class="entry-tag">Brawler (durable)</span>
