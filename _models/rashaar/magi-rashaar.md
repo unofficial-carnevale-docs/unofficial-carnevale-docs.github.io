@@ -49,7 +49,7 @@ meta: "Leader · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-r
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 3.53 | 3.22 |
+| Soft (Dex3/Prot1) | 3.53 | 3.33 |
 | Balanced (Dex4/Prot3) | 3.53 | 3.19 |
 | Evasive (Dex6/Prot2) | 3.53 | 3.22 |
 | Armoured (Dex4/Prot5) | 3.12 | 2.74 |
@@ -77,16 +77,16 @@ meta: "Leader · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-r
 
 ### Wild Magic EDPA by target
 
-*Sustained: Summon Vermin > Groundsnap* · EDPA/Duc **0.115**
+*Sustained: Summon Vermin > Groundsnap > Ancient Trident* · EDPA/Duc **0.133**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 3.36 | 3.23 |
-| Balanced (Dex4/Prot3) | 2.75 | 2.38 |
-| Evasive (Dex6/Prot2) | 3.05 | 2.80 |
-| Armoured (Dex4/Prot5) | 2.23 | 1.75 |
-| Tank (Dex4/Prot5/US5) | 2.23 | 1.75 |
-| Parry (Dex5/Prot3/Parry2) | 2.75 | 2.38 |
+| Soft (Dex3/Prot1) | 4.14 | 3.69 |
+| Balanced (Dex4/Prot3) | 3.20 | 2.84 |
+| Evasive (Dex6/Prot2) | 3.47 | 3.08 |
+| Armoured (Dex4/Prot5) | 2.49 | 2.17 |
+| Tank (Dex4/Prot5/US5) | 2.49 | 2.17 |
+| Parry (Dex5/Prot3/Parry2) | 3.05 | 2.61 |
 
 </div>
 </div>

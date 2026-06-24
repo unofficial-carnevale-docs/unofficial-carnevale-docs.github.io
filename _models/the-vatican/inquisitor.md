@@ -45,15 +45,15 @@ meta: "Leader · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-r
 
 ### Blood Rites EDPA by target
 
-*Sustained: Kraken's Breath > Blood Drain > Mother Hydra's Claws* · EDPA/Duc **0.145**
+*Sustained: Kraken's Breath > Blood Drain > Hands Of God* · EDPA/Duc **0.148**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 3.22 | 3.22 |
-| Balanced (Dex4/Prot3) | 3.19 | 3.19 |
+| Soft (Dex3/Prot1) | 3.77 | 3.33 |
+| Balanced (Dex4/Prot3) | 3.26 | 3.19 |
 | Evasive (Dex6/Prot2) | 3.22 | 3.22 |
 | Armoured (Dex4/Prot5) | 2.86 | 2.74 |
-| Tank (Dex4/Prot5/US5) | 1.93 | 2.08 |
+| Tank (Dex4/Prot5/US5) | 2.01 | 2.08 |
 | Parry (Dex5/Prot3/Parry2) | 3.19 | 3.19 |
 
 </div>
@@ -78,16 +78,16 @@ meta: "Leader · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-r
 
 ### Wild Magic EDPA by target
 
-*Sustained: Summon Vermin > Groundsnap* · EDPA/Duc **0.100**
+*Sustained: Summon Vermin > Hands Of God* · EDPA/Duc **0.134**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 2.79 | 3.23 |
-| Balanced (Dex4/Prot3) | 2.19 | 2.38 |
-| Evasive (Dex6/Prot2) | 2.49 | 2.80 |
-| Armoured (Dex4/Prot5) | 1.70 | 1.75 |
-| Tank (Dex4/Prot5/US5) | 1.70 | 1.75 |
-| Parry (Dex5/Prot3/Parry2) | 2.19 | 2.38 |
+| Soft (Dex3/Prot1) | 4.05 | 3.69 |
+| Balanced (Dex4/Prot3) | 2.94 | 2.84 |
+| Evasive (Dex6/Prot2) | 3.08 | 3.08 |
+| Armoured (Dex4/Prot5) | 2.22 | 2.17 |
+| Tank (Dex4/Prot5/US5) | 2.22 | 2.17 |
+| Parry (Dex5/Prot3/Parry2) | 2.61 | 2.61 |
 
 </div>
 </div>

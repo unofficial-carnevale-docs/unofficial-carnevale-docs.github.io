@@ -49,7 +49,7 @@ meta: "Hero · Doctor · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 3.33 | 3.22 |
+| Soft (Dex3/Prot1) | 3.33 | 3.33 |
 | Balanced (Dex4/Prot3) | 3.19 | 3.19 |
 | Evasive (Dex6/Prot2) | 3.33 | 3.22 |
 | Armoured (Dex4/Prot5) | 2.74 | 2.74 |
@@ -82,12 +82,12 @@ meta: "Hero · Doctor · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 3.69 | 3.23 |
-| Balanced (Dex4/Prot3) | 2.84 | 2.38 |
-| Evasive (Dex6/Prot2) | 3.25 | 2.80 |
-| Armoured (Dex4/Prot5) | 2.17 | 1.75 |
-| Tank (Dex4/Prot5/US5) | 2.17 | 1.75 |
-| Parry (Dex5/Prot3/Parry2) | 2.84 | 2.38 |
+| Soft (Dex3/Prot1) | 3.69 | 3.69 |
+| Balanced (Dex4/Prot3) | 2.84 | 2.84 |
+| Evasive (Dex6/Prot2) | 3.25 | 3.08 |
+| Armoured (Dex4/Prot5) | 2.17 | 2.17 |
+| Tank (Dex4/Prot5/US5) | 2.17 | 2.17 |
+| Parry (Dex5/Prot3/Parry2) | 2.84 | 2.61 |
 
 </div>
 </div>

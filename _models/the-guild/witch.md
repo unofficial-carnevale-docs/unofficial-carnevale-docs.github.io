@@ -46,7 +46,7 @@ meta: "Hero · House of Virtue · Discipline(<a href=\"/magic/blood-rites/\" cla
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 3.07 | 3.22 |
+| Soft (Dex3/Prot1) | 3.07 | 3.33 |
 | Balanced (Dex4/Prot3) | 2.93 | 3.19 |
 | Evasive (Dex6/Prot2) | 3.07 | 3.22 |
 | Armoured (Dex4/Prot5) | 2.49 | 2.74 |
@@ -75,16 +75,16 @@ meta: "Hero · House of Virtue · Discipline(<a href=\"/magic/blood-rites/\" cla
 
 ### Wild Magic EDPA by target
 
-*Sustained: Summon Vermin > Groundsnap* · EDPA/Duc **0.149**
+*Sustained: Summon Vermin > Blood Rights* · EDPA/Duc **0.152**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 3.23 | 3.23 |
-| Balanced (Dex4/Prot3) | 2.38 | 2.38 |
-| Evasive (Dex6/Prot2) | 2.80 | 2.80 |
-| Armoured (Dex4/Prot5) | 1.75 | 1.75 |
-| Tank (Dex4/Prot5/US5) | 1.75 | 1.75 |
-| Parry (Dex5/Prot3/Parry2) | 2.38 | 2.38 |
+| Soft (Dex3/Prot1) | 3.28 | 3.69 |
+| Balanced (Dex4/Prot3) | 2.43 | 2.84 |
+| Evasive (Dex6/Prot2) | 2.80 | 3.08 |
+| Armoured (Dex4/Prot5) | 2.02 | 2.17 |
+| Tank (Dex4/Prot5/US5) | 2.02 | 2.17 |
+| Parry (Dex5/Prot3/Parry2) | 2.43 | 2.61 |
 
 </div>
 </div>
