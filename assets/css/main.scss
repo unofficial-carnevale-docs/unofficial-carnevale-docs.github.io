@@ -35,6 +35,8 @@
 /* Reset */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { font-size: 16px; scroll-behavior: smooth; }
+/* Offset anchor-jump targets so they clear the sticky top bar */
+[id] { scroll-margin-top: calc(var(--header-height) + 0.75rem); }
 body {
   font-family: var(--font-body);
   background: linear-gradient(180deg, #fbf8f1 0%, #f6f1e6 100%) no-repeat;

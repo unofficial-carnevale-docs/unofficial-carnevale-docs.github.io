@@ -10,29 +10,8 @@ To be able to compare models, we tried to give them Tags to group them by role. 
 
 ## Conventions
 
-- **Adjectives** refine a role in parentheses: `Damage Dealer (melee, anti-armor)`, `Canal Fighter
-  (drown)`. They describe sub-role / target-preference, not a separate role.
+- **Adjectives** refine a role in parentheses: `Damage Dealer (melee, anti-armor)`, `Canal Fighter (drown)`. They describe sub-role / target-preference, not a separate role.
 - **Dual tags** read `A / B`, primary first.
-- **Scoring bucket** (how the capability model judges a model):
-  - **Offense:** scored on EDPA vs the role's own baseline: Damage Dealer, Brawler, Assassin, Canal Fighter, Sniper (**alpha** only), Line Fighter (own lower bar).
-  - **Defense:** scored on ATK2K survivability: Tank.
-  - **Utility:** low EDPA is expected, not a failing: Support, Control, Objective Runner, Disruptor, Harasser, Specialist.
-
-| Role | Bucket | One-line |
-|---|---|---|
-| Assassin | Offense | Mobile with the kill power to remove a chosen key target. |
-| Brawler | Offense | Aggressive, durable-ish melee with high sustained output. |
-| Canal Fighter | Offense | Combat effectiveness tied to water. |
-| Control | Utility | Hard CC: Stun, Grapple-lock, forced movement, area denial. |
-| Damage Dealer | Offense | Primary job is dealing damage (melee / ranged / magic). |
-| Disruptor | Utility | Suppresses the enemy Will Point economy. |
-| Harasser | Utility | Fast, disrupts rather than kills. |
-| Line Fighter | Offense (low) | Rank-and-file frontline melee, holds the line. |
-| Objective Runner | Utility | Fast model that grabs / contests / scores objectives (incl. Pickpocket theft). |
-| Sniper | Offense (alpha) | Long-range, Reload-gated, trades sustained EDPA for range + burst. |
-| Specialist | Utility | Unique-mechanic models that fit no standard role. |
-| Support | Utility | Buffs / heals / enables allies (mages, auras, WP batteries). |
-| Tank | Defense | Soaks damage and protects. Survivability is the point, not output. |
 
 ## Roles
 
@@ -41,8 +20,7 @@ To be able to compare models, we tried to give them Tags to group them by role. 
 Mobile model with the **kill power** to remove a chosen high-value target (alpha strike on a target).
 
 - **Include:** fast/infiltrating models with the punch to actually kill a key piece.
-- **Exclude:** fast models that *can't* reliably kill and exist to tie up/disrupt (Harasser). The
-  Assassin/Harasser line is kill power. Fast scorers (Objective Runner).
+- **Exclude:** fast models that *can't* reliably kill and exist to tie up/disrupt (Harasser), and fast scorers (Objective Runner).
 
 ### Brawler
 
@@ -56,17 +34,13 @@ Aggressive melee with high sustained output and enough bulk to stay in the fight
 Combat effectiveness **tied to water**: fights in/from water (Water Creature and/or Aquatic weapon) or
 is slow/weak on land and built for the canals.
 
-- **Include:** Water Creatures, strong amphibians in water-poor factions, Drown/water-control
-  specialists. For Rashaar, as water is the faction baseline, only the standouts are tagged.
-- **Exclude:** Fast-Swimmer-*bonus*-only models that fight fine on land (water is optional, not
-  defining).
-- **Adjective rule:** members from a Damage-Dealer/Brawler origin = clean `Canal Fighter`. Members from
-  any other role carry a function adjective: `(drown)`, `(pull)`, `(grappler)`, `(ranged)`, `(tank)`,
-  `(mage, support)`.
+- **Include:** Water Creatures, strong amphibians in water-poor factions, Drown/water-control specialists. For Rashaar, as water is the faction baseline, only the standouts are tagged.
+- **Exclude:** Fast-Swimmer only models that fight fine on land (water is optional, not defining).
+- **Adjective rule:** members from a Damage-Dealer/Brawler origin = clean `Canal Fighter`. Members from any other role carry a function adjective: `(drown)`, `(pull)`, `(grappler)`, `(ranged)`, `(tank)`, `(mage, support)`.
 
 ### Control
 
-Hard crowd-control: Stun, Grapple-lock, forced movement, impassable/area denial.
+Hard crowd-control: Stun, Grapple, forced movement, impassable/area denial.
 
 - **Include:** models built to lock down or reposition enemies via abilities/spells.
 - **Exclude:** soft mobility-nuisance (Harasser), WP/resource denial (Disruptor).
@@ -75,23 +49,17 @@ Hard crowd-control: Stun, Grapple-lock, forced movement, impassable/area denial.
 
 Primary job is dealing damage. The default offense role.
 
-- **Include:** melee, ranged, or magic dealers. Adjectives carry the flavour: `(melee)`, `(ranged)`,
-  `(magic, <discipline>)`, `(anti-armor)`, `(Stun)`, `(anti-large)`.
-- **Exclude:** water-bound dealers (Canal Fighter), long-range Reload shooters whose value is the
-  alpha (Sniper), models that can't reliably kill and exist to annoy (Harasser).
-- **Note (mages):** a mage's EDPA assumes its *best damage spell*. A support mage usually spends slots
-  on buffs/heals, so high EDPA ≠ "is a dealer".
+- **Include:** melee, ranged, or magic dealers. Adjectives carry the flavour: `(melee)`, `(ranged)`, `(magic, <discipline>)`, `(anti-armor)`, `(Stun)`, `(anti-large)`.
+- **Exclude:** water-bound dealers (Canal Fighter), long-range Reload shooters whose value is the alpha (Sniper), models that can't reliably kill and exist to annoy (Harasser).
+- **Note (mages):** a mage's EDPA assumes its *best damage spells*, meaning they *can* be damage dealers if they take the most optimal spells for this role and neglect utility. A [Blood Rites](/magic/blood-rites) mage may take [Bloodlust](/magic/blood-rites#bloodlust) and [Abyssal Mist](/magic/blood-rites#abyssal-mist) and be a support, but as Blood Rites is mainly a damage dealing discipline they are tagged as Damage Dealers.
 
 ### Disruptor
 
-Suppresses the enemy **Will Point economy**, by either **lockout** (preventing WP use: "(may) not use
-Will Points", aura or base contact) or **strip/drain** (removing WP: "loses X WP", WP "wasted").
+Suppresses the enemy **Will Point economy**, by either **lockout** (preventing WP use: "(may) not use Will Points", aura or base contact) or **strip/drain** (removing WP: "loses X WP", WP "wasted").
 
-- **Include:** WP-lockout auras / contact (Exorcist, Black Lamp, Ghoul, Strigoi Priest, Witch Finder,
-  Sepulchral Vanguard), WP strip-on-hit / drain (Eater of Sin, Fate).
+- **Include:** WP-lockout auras / contact, WP strip-on-hit / drain.
 - **Exclude:**
-  - *Exploiting* a WP-0 state: bonus damage or re-rolls vs depleted targets (Exorcist's "+3 Dmg vs
-    0-WP", Thomas Thieme's re-roll). That's a payoff, not denial.
+  - *Exploiting* a WP-0 state: bonus damage or re-rolls vs depleted targets (Exorcist's "+3 Dmg vs 0-WP", Thomas Thieme's re-roll). That's a payoff, not denial.
   - *Incidental* WP-strip riders: **Pickpocket** (lose 1 WP on disengage).
   - *Dispel-only / dispel-buff* with no WP denial (Strigoi Jude's Judgement buffs allies' dispel only).
   - *Too situational* denial (Throne, Harlequin: conditional / 50% proc).
