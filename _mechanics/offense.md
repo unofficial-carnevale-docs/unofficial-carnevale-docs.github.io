@@ -3,66 +3,157 @@ title: "Offense Modifiers"
 description: Relative value of every offense and defense lever, normalized so they can be compared head-to-head.
 nav_order: 3
 is_ref: true
+toc:
+  - title: Reference
+    anchor: reference
+  - title: Offense rules of thumb
+    anchor: offense-rules-of-thumb
+  - title: Lever details
+    anchor: lever-details
+  - title: Maths
+    anchor: maths
 ---
 
 ## Reference
 
-All figures use the reference engagement unless stated:
+All figures are **expected bonus Damage per single Combat attack** from an **Attack 4** attacker, computed through the calibrated engine against a spread of reference defenders (the same idea as the model EDPA: each lever is measured many times against several defender types, not one).
 
-- **Attacker:** Attack 4
-- **Defender:** Dexterity 4 (→ P(Ace) per attack die = 0.7), Protection 3, LP 12
-- Values are **per single Combat attack** and given **before the Protection roll** (raw expected Damage added or saved). X = the ability's value (X=1 unless noted).
-- "Ceiling" = whether the lever raises the **maximum** possible Damage of one attack.
-- Recall: one die in every pool is the **Destiny die**, which counts toward Aces but **can never be re-rolled**, so re-roll abilities only ever touch **(stat − 1)** dice.
-
-P(Ace) per attack die by target Dexterity: Dex 3 = 0.8 · Dex 4 = 0.7 · Dex 5 = 0.6 · Dex 6 = 0.5 · Dex 7 = 0.4.
+- **Raw** = pre-Protection, **Net** = post-Protection (the Damage that actually lands). Penetration and Poisoned only exist net, the hit-chance levers read cleanest raw.
+- X = the ability's value (X=1 unless noted).
+- **Ceiling:** whether the lever raises the **maximum** possible Damage of one attack.
+- **Recall:** one die in every pool is the **Destiny die**, which counts toward Aces but **can never be re-rolled**, so re-roll abilities only ever touch **(stat − 1)** dice.
 
 ## Offense rules of thumb
 
-1. **+X Damage is the highest *average* output boost**, and it also raises the ceiling. Best on any model that reliably lands hits (Attack 3+ vs Dex ≤5). Its only weaknesses: it does nothing on a whiff, and a flat bonus is wasted as overkill on a hit that already kills.
-2. **+X Attack is the most *versatile* boost**: raises average, ceiling, AND reliability (more dice = more likely to land), and is the **only damage lever that also powers Grapple and Drown**. It scales up against soft, low-Dexterity targets (every die is likely to hit) and down against evasive ones.
-3. **Expert Offence / Marksman is the *most reliable* but lowest-output boost**: it converts near-misses, giving the lowest whiff rate and tightest damage spread, but it can **never exceed your Attack dice** (no ceiling gain). Its relative value **rises as targets get harder to hit** and it overtakes +X Attack around Dex 7. Worthless dead weight if you are missing for other reasons or attacking via Grapple/Drown.
-4. **Penetration is *conditional* damage**: the only offense lever whose value **rises with the enemy's Protection** (~+0.4 per point, up to their Protection value) and **falls to zero against unarmoured targets**.
-5. **−X Evasion is "accuracy as a weapon stat"**: the offensive mirror of +Dexterity, raising hit chance ~0.1 per point (≈ +0.4 Damage at Attack 4). Worth most against evasive (high-Dex) targets, where each point of hit chance is scarcest.
-6. **Fear is a low-average, high-variance accuracy rider, not a damage staple**: on a trigger it re-rolls *all* your missed attack dice (a bigger swing than Expert Offence), but the trigger rate collapses against MIND 3+ targets (≈22%) and is zero against Brave. It is a conditional damage bonus that pays off against low-MIND gangs, **not** a control effect (it does nothing to the target's movement, actions, or status and only helps your own attack land).
-7. **Poisoned is the strongest offensive rider here, when the hit lands.** The extra LP bypasses Protection entirely, triggers 60% of the time, and **scales with the target's base size** (+1.8 vs 30mm up to +3.6 vs 60mm+), making it anti-tank / anti-monster. The catch: it is gated on the attack first dealing ≥1 LP, a poisoned weapon that can't break armour does nothing.
+| Lever | Verdict | Best against |
+|---|---|---|
+| **+X Damage** | Highest average output, raises ceiling | any target |
+| **+X Attack** | Most versatile, also powers Grapple/Drown | soft, low-Dex |
+| **Expert Offence/Marksman** | Reliability, not output | hard-to-hit targets |
+| **Penetration** | Post-Protection only, zero vs Universal Shielding | armoured (not US) |
+| **−X Evasion** | Flat accuracy, +0.40 raw on any target | evasive (relatively) |
+| **Fear** | Conditional accuracy rider, keyed to MIND | low-MIND, not Brave |
+| **Poisoned** | Bypasses armour, scales with base size, gated | big bases |
+| **Expert Grappler** | Re-roll for Grapple/Drown, also defends | control / water |
 
-## TL;DR: What's best when?
+## Lever details
 
-| Situation | Best pick | Why |
-|-----------|-----------|-----|
-| Reliable hitter vs average target | **+X Damage** | highest average, raises ceiling |
-| Soft / low-Dex target, or you also Grapple/Drown | **+X Attack** | scales with low Dex, helps all Attack actions |
-| Evasive (Dex 6+) target, or you need consistency | **−X Evasion / Expert Off/Marks** | both buy scarce hit chance, re-rolls worth most when Aces are rare |
-| Heavily armoured target | **Penetration** (then +X Damage) | only lever that beats Protection |
-| Unarmoured target | **+X Damage / +X Attack** | Penetration does nothing here |
-| Large-base / monster / tank target | **Poisoned** | extra LP scales with base size and ignores armour |
-| Low-MIND swarm | **Fear** | high trigger rate → frequent re-rolls of your own missed attack dice |
-| High-MIND or Brave target | **avoid relying on Fear** | trigger rate near zero / negated entirely |
+### +X Damage
+
+The highest-average output lever, and it raises the ceiling. It is the top lever against every defender. In raw terms it is roughly +X Damage on any landed hit, independent of the target's armour, so it is best on models that reliably land (Attack 3+ vs Dex ≤5). Net, armour erodes it (1.00 vs soft down to 0.79 vs Prot 5). Weaknesses: it does nothing on a whiff, and a flat bonus is wasted as overkill on a hit that already kills.
+
+### +X Attack
+
+The most versatile boost: it raises average, ceiling, AND reliability (more dice means more likely to land), and is the **only damage lever that also powers Grapple and Drown**. It scales hard with the target's Dexterity, from +0.80 vs soft (Dex 3) down to +0.35 vs a Dex 7 dodger.
+
+### Expert Offence / Marksman
+
+A reliability lever, not an output lever. It converts near-misses, giving the lowest whiff rate and the tightest Damage spread, but it can **never exceed your Attack dice** (no ceiling gain). On average output it stays **below +X Attack across the entire Dexterity range**. Worthless for attacking via Grapple/Drown.
+
+### Penetration
+
+Pure post-Protection damage: it adds **nothing** raw (+0.00) and is worth about **+0.4 per stripped Protection die**, up to the minimum between X and the target's Protection. It is zero against unarmoured targets and **fully negated by Universal Shielding** (+0.00 vs the pen-proof tank). Net value sits around +0.4 against light-to-medium armour and dips slightly against the very heaviest armour as Damage floors out.
+
+### −X Evasion
+
+Flat accuracy, not an anti-evasive tool. It lowers the target's effective Dexterity by X, a uniform **+0.40 raw against any target regardless of its Dexterity** (≈ +0.1 hit chance per die at Attack 4). Net, it erodes into armour (+0.40 vs soft down to +0.28 vs Prot 5). It is only "worth most against evasive targets" as a **percentage** of their lower output, not in absolute Damage.
+
+### Fear
+
+A low-average, high-variance accuracy rider keyed to target MIND. On a trigger it re-rolls *all* your missed attack dice (conditional net roughly +0.56, a bigger swing than Expert Offence), but the trigger rate is `0.6^MIND`, collapsing from 60% vs MIND 1 to roughly 22% vs MIND 3 to roughly 13% vs MIND 4, and is **zero against Brave**. Average value runs +0.34 (MIND 1) down to +0.07 (MIND 4). A conditional bonus that pays off against low-MIND gangs.
+
+### Poisoned
+
+The strongest rider when the hit lands, and it scales with the target's base size. The extra LP bypasses Protection, triggers 60% of the time, and grows from +1.44 vs a 30mm body up to +2.89 vs 60mm+ (at Prot 3), making it anti-tank / anti-monster. The catch is the gate: it only fires after the attack deals ≥1 LP, so against heavy armour (Prot 5) it drops to +1.09 to +2.18, weakest exactly where the size bonus is biggest. A poisoned weapon that cannot break armour does nothing.
+
+### Expert Grappler
+
+The re-roll lever for Grapple and Drown, the analog of Expert Offence (which does **not** apply to those actions). Uniquely among the offence re-rolls it works **both making and defending** the opposed ATTACK Roll, so it doubles as defence against enemy control. On a **Drown** it adds about **+0.45 LP** at X=1 (parity ATTACK), unblockable by Protection. On a **Grapple** it buys roughly **+8% success and +0.4" of push** at X=1. Like Expert Offence it has steep diminishing returns (X=2 barely beats X=1), and it is dwarfed by the **+1 ATTACK a larger base grants** to either side of the roll (roughly +0.5 to +0.7 LP on a Drown).
 
 ## Maths
 
-Expected bonus Damage per Combat attack vs the reference Dex 4 target:
+Expected bonus Damage per single Combat attack (Attacker ATK 4) against each reference defender. Defender labels give Dexterity and Protection (US = Universal Shielding).
 
-| Lever | X=1 | X=2 | Raises ceiling? | Improves to-hit / reliability? | Conditional on | Other actions helped |
-|-------|-----|-----|-----------------|--------------------------------|----------------|----------------------|
-| **+X Damage** (flat on hit) | **+0.99** | **+1.98** | Yes (+X) | No | landing ≥1 Ace (× P(hit)) | Combat only |
-| **+X Attack** (extra dice) | +0.70 | +1.40 | Yes (+X) | Yes (more dice → higher P(hit)) | - | also **Grapple / Drown** |
-| **−X Evasion** (weapon to-hit mod) | +0.40 | +0.80 | No | Yes (raises P(hit)) | - | Combat only |
-| **Expert Offence / Marksman (X)** (re-roll failed dice) | +0.46 | +0.61 | **No** (capped at Attack dice) | **Yes (best)** (lowest whiff, tightest spread) | a die having failed | Combat only (not Grapple/Drown) |
-| **Penetration −X** | +0.40 vs armour | +0.80 vs armour | No | No | target having Protection (**0 vs unarmoured**) | Combat only |
-| **Fear (X)** (re-roll all failures on trigger) | +0.14¹ | - | No | Yes (when it triggers) | target failing a MIND roll (`0.6^MIND`), negated by **Brave** | Combat only |
-| **Poisoned** (extra LP on a damaging hit) | +1.8 to +3.6² | - | effectively (bonus LP) | No | first dealing ≥1 LP, **bypasses Protection** | Combat only |
+**Net (post-Protection) — the Damage that actually lands:**
 
-¹ Fear(0) vs a MIND 3 target: 21.6% trigger × ~0.63 Aces from re-rolling all failures = **+0.14** avg. Rises sharply vs low-MIND targets (eff. MIND 1 → 60% trigger → +0.38) and is **zero vs Brave**.
-² Poisoned: 60% trigger × extra LP by base size (30mm 3 → +1.8, 40mm 4 → +2.4, 50mm 5 → +3.0, 60mm+ 6 → +3.6), conditional on the hit already dealing ≥1 LP. Direct LP loss, no Protection Roll.
+| Lever | soft (D3/P1) | balanced (D4/P3) | evasive (D6/P2) | dodger (D7/P2) | armoured (D4/P5) | pen-proof (P5/US5) |
+|---|---|---|---|---|---|---|
+| **+1 Damage** | +1.00 | +0.93 | +0.88 | +0.80 | +0.79 | +0.79 |
+| **+1 Attack** | +0.80 | +0.65 | +0.46 | +0.35 | +0.56 | +0.56 |
+| **−1 Evasion** (weapon) | +0.40 | +0.36 | +0.36 | +0.34 | +0.28 | +0.28 |
+| **Expert Off/Marks (1)** | +0.39 | +0.41 | +0.40 | +0.33 | +0.33 | +0.33 |
+| **Penetration −1** | +0.30 | +0.38 | +0.39 | +0.34 | +0.28 | +0.00 |
 
-Formulas (vs a target with per-die hit chance `p`):
+**Raw (pre-Protection) — isolates the to-hit effect:**
 
-- **+X Damage:** `+X × P(hit)` = `X × (1 − (1−p)^Attack)`. ≈ `+X` for Attack 3+ vs Dex ≤5.
-- **+X Attack:** `+X × p`.
-- **−X Evasion (weapon):** the modifier is added to the target's **effective Dexterity** for the Attack Roll. A **negative** value lowers their effective Dexterity → `+0.1 per point` P(Ace) per die → `+ Attack × 0.1 × X` expected Damage. A **positive** Evasion modifier is the reverse: a to-hit *penalty* (the trade heavy two-handers pay for high Dmg/Pen). Exact mirror of the defensive +X Dexterity lever.
-- **Expert Off/Marks(X):** `+ E[min(X, failures)] × p`, failures ~ Binomial(**Attack − 1**, 1−p). Always below `X × p`. EO(3) barely beats EO(2) on a small pool.
-- **Penetration −X:** `+ min(X, Protection) × 0.4`. Zero against Protection 0.
-- **Fear(X):** `P(trigger) × (Attack − 1)(1−p)p`, where `P(trigger) = 0.6^max(1, target MIND + X)`. The re-roll is **uncapped** (all failures, not X), so the *conditional* swing is large but the *average* is throttled by the trigger rate. Brave auto-passes the MIND roll.
-- **Poisoned:** `P(deal ≥1 LP) × 0.6 × baseLP`, baseLP = 3 / 4 / 5 / 6 by 30 / 40 / 50 / 60mm+ base. Armour-independent and **scales up against bigger (usually tougher) targets**.
+| Lever | soft (D3/P1) | balanced (D4/P3) | evasive (D6/P2) | dodger (D7/P2) | armoured (D4/P5) | pen-proof (P5/US5) |
+|---|---|---|---|---|---|---|
+| **+1 Damage** | +1.00 | +0.99 | +0.94 | +0.87 | +0.99 | +0.99 |
+| **+1 Attack** | +0.80 | +0.70 | +0.50 | +0.40 | +0.70 | +0.70 |
+| **−1 Evasion** (weapon) | +0.40 | +0.40 | +0.40 | +0.40 | +0.40 | +0.40 |
+| **Expert Off/Marks (1)** | +0.39 | +0.46 | +0.44 | +0.37 | +0.46 | +0.46 |
+| **Penetration −1** | +0.00 | +0.00 | +0.00 | +0.00 | +0.00 | +0.00 |
+
+The two tables together tell the story: **+X Damage** and **−X Evasion** are flat raw (they depend only on landing the hit), and armour eats into them only net. **+X Attack** and **Expert Offence** track the target's Dexterity. **Penetration** is invisible raw and only appears net, vanishing against Universal Shielding.
+
+Two levers vary on axes this Dex/Protection spread does not cover, so they get their own tables.
+
+### Fear by target MIND
+
+Fear(0), Attack 4 vs a Dex 4 / Prot 3 target. On a trigger it re-rolls every missed attack die, the conditional swing modelled here as re-rolling all (Attack − 1) non-Destiny failures.
+
+| Target MIND | Trigger | Net | Raw |
+|---|---|---|---|
+| 1 | 60% | +0.34 | +0.38 |
+| 2 | 36% | +0.20 | +0.23 |
+| 3 | 22% | +0.12 | +0.14 |
+| 4 | 13% | +0.07 | +0.08 |
+| 5 | 8% | +0.04 | +0.05 |
+
+Conditional re-roll-all gain on a trigger: net +0.56 / raw +0.63. **Brave** auto-passes the MIND roll, so Fear is +0.00 against it.
+
+### Poisoned by base size
+
+Poisoned LP bypasses Protection but is gated on the attack first dealing ≥1 LP, so it scales **up** with base size and **down** with the target's Protection.
+
+| Defender | 30mm | 40mm | 50mm | 60mm+ |
+|---|---|---|---|---|
+| **vs Prot 3** | +1.44 | +1.92 | +2.41 | +2.89 |
+| **vs Prot 5** | +1.09 | +1.45 | +1.81 | +2.18 |
+
+### Expert Grappler (Grapple / Drown)
+
+Grapple and Drown are **Opposed ATTACK Rolls**, not attacks against Dexterity / Protection, so they have a different defender axis: the target's **ATTACK** (and base size, since a larger base gives +1 ATTACK to either side of the roll). Drown deals LP directly with **no Protection Roll**. Expert Grappler (X) re-rolls up to X failed dice on the roll, **making or defending**.
+
+Attacker ATTACK 4, expected outcome by the target's ATTACK:
+
+**Drown — expected Life Points lost** (no Protection Roll):
+
+| Target ATTACK | Expert Grappler 0 | (1) | (2) |
+|---|---|---|---|
+| 3 | 2.71 | 3.21 | 3.39 |
+| 4 | 2.38 | 2.83 | 2.97 |
+| 5 | 2.05 | 2.42 | 2.52 |
+
+**Grapple — success chance / expected push:**
+
+| Target ATTACK | Expert Grappler 0 | (1) | (2) |
+|---|---|---|---|
+| 3 | 74% / 2.6" | 83% / 3.1" | 86% / 3.2" |
+| 4 | 67% / 2.3" | 75% / 2.7" | 78% / 2.8" |
+| 5 | 58% / 2.0" | 66% / 2.3" | 68% / 2.4" |
+
+A larger base (+1 ATTACK) swings a Drown by more than Expert Grappler itself: attacker-bigger 3.09 LP vs parity 2.38 vs defender-bigger 2.05 (attacker ATTACK 4). The same re-roll also fires when **defending**, blunting an enemy Grapple or Drown by a similar margin.
+
+### Formulas
+
+Vs a target with per-die hit chance `p` (`p = (11 − effective Dexterity) / 10`, clamped 0.1–0.9), Attack `A`:
+
+- **+X Damage:** raw `+X × P(hit)` = `X × (1 − (1−p)^A)` (≈ +X for Attack 3+ vs Dex ≤5). Net subtracts the saves it then has to clear.
+- **+X Attack:** raw `+X × p`. Pure hit chance, falls as the target's Dexterity rises.
+- **−X Evasion (weapon):** adds to the target's **effective Dexterity** for the Attack Roll, so a negative value raises `p` by 0.1 per point: raw `+ A × 0.1 × X`, independent of the target's actual Dexterity. A **positive** Evasion modifier is the reverse, a to-hit penalty (the price heavy two-handers pay for high Dmg/Pen). Exact mirror of the defensive +X Dexterity lever.
+- **Expert Off/Marks (X):** `+ E[min(X, failures)] × p`, failures ~ Binomial(**A − 1**, 1−p). Always below `X × p`, and below +X Attack across the realistic Dexterity range.
+- **Penetration −X:** `+ min(X, Protection) × 0.4`, zero against Protection 0 and against the floor set by Universal Shielding.
+- **Fear(X):** `P(trigger) × (re-roll value)`, `P(trigger) = 0.6^max(1, target MIND adjusted by X)`. The re-roll is **uncapped** (all failures, not X), so the *conditional* swing is large but the *average* is throttled by the trigger rate. Brave auto-passes.
+- **Poisoned:** `P(deal ≥1 LP) × 0.6 × baseLP`, baseLP = 3 / 4 / 5 / 6 by 30 / 40 / 50 / 60mm+ base. Bypasses Protection, but the `P(deal ≥1 LP)` gate falls as the target's Protection rises.
+- **Expert Grappler (X):** re-rolls up to X failed dice on the Grapple / Drown **Opposed ATTACK Roll**, making or defending. Same diminishing-returns shape as Expert Offence, applied to the attacker's pool after the defender's Aces are subtracted (`pool = max(0, ATK − defender Aces)`).
