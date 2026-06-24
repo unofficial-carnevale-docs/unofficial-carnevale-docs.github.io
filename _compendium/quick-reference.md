@@ -273,106 +273,106 @@ A character may use each Command once a round.
 
 <div class="qr-cols qr-gloss" markdown="1">
 
-**Acrobatic (X)**
+**Acrobatic (X)**{: .qr-term}
 Re-roll (X) dice on Move/Climb or Jump actions
 
-**Aerial Attack**
+**Aerial Attack**{: .qr-term}
 This character does not lose Life Points from falling, provided it makes a **charge from above.**
 
-**Berserk**
+**Berserk**{: .qr-term}
 If this character has 5 or fewer **Life Points** at the start of its turn, gain **+1 Action Points** and **+1 ATTACK.**
 
-**Boat Crew**
+**Boat Crew**{: .qr-term}
 May be set up on a Boat. Replenish **1 Will Point** at the start of its turn if it is on a Boat. If a character with **Boat Crew** is currently on a Boat, **Cast Off** only costs **1 Command Point**, and move up to 18".
 
-**Brave**
+**Brave**{: .qr-term}
 Automatically succeed when making **Fear** rolls.
 
-**Brawler (X)**
+**Brawler (X)**{: .qr-term}
 When in base contact with 2+ enemies, gain (X) ATTACK.
 
-**Bodyguard (X)**
+**Bodyguard (X)**{: .qr-term}
 If an enemy character charges (X), immediately charge them if out of base contact with any enemy. Attacks of Opportunity take place **before** the opponent's.
 
-**Bulky**
+**Bulky**{: .qr-term}
 This character does not gain any benefit from being in cover, and cannot make **Hide** actions.
 
-**Companion (X)**
+**Companion (X)**{: .qr-term}
 Replenish **1 Will Point** if in line of sight to another (X) character at the start of their turn, and use (X)'s MIND value instead of their own (even if it is lower).
 
-**Concealment (X)**
+**Concealment (X)**{: .qr-term}
 Gain (X) PROTECTION while in Cover.
 
-**Engage**
+**Engage**{: .qr-term}
 Automatically win Opposed Roll when being disengaged unless they have **Slippery**.
 
-**Ethereal**
+**Ethereal**{: .qr-term}
 Ignore all terrain while moving, but cannot end turn or make actions while "inside" Impassable Terrain.
 
-**Expert Grappler (X)**
+**Expert Grappler (X)**{: .qr-term}
 Re-roll (X) dice on **Grapple** or **Drown** actions.
 
-**Expert Marksman (X)**
+**Expert Marksman (X)**{: .qr-term}
 Re-roll (X) **Combat** dice while **not** in base contact.
 
-**Expert Offence (X)**
+**Expert Offence (X)**{: .qr-term}
 Re-roll (X) **Combat** dice while **in base contact.**
 
-**Expert Protection (X)**
+**Expert Protection (X)**{: .qr-term}
 Re-roll (X) dice on **Protection Rolls.**
 
-**Expert Sorcerer (X)**
+**Expert Sorcerer (X)**{: .qr-term}
 Re-roll (X) dice on **Magic Rolls** or **Dispelling.** Also this character knows (X) additional magic spells.
 
-**Fast Swimmer (X)**
+**Fast Swimmer (X)**{: .qr-term}
 Add (X) inches to MOVE if starting a **Run/Climb** action **in water** (even if leaving water in the action).
 
-**Fear (X)**
+**Fear (X)**{: .qr-term}
 When making a **Combat** action, target must make a Basic MIND Roll, modified by (X). If they roll **no Aces,** re-roll any **Combat** dice.
 
-**First Strike (X)**
+**First Strike (X)**{: .qr-term}
 Gain (X) ATTACK when charging.
 
-**Flight**
+**Flight**{: .qr-term}
 Instead of Run/Climb, this character can **Fly.** Move them to any other point within their MOVE. No actions while "mid-air" other than further Fly actions, and if they end their turn "mid-air" they fall. Additionally, take 2 less Damage from falling.
 
-**Frenzied**
+**Frenzied**{: .qr-term}
 Use **Life Points** as if they were **Will Points**.
 
-**Hunter**
+**Hunter**{: .qr-term}
 Gain **Penetration -3** on weapons (**not** on Unarmed) when targeting an enemy with a **larger base size.**
 
-**Infiltration**
+**Infiltration**{: .qr-term}
 Deploy more than 3" above or below ground level at the start of the game, **not** in water.
 
-**Limited Movement**
+**Limited Movement**{: .qr-term}
 Move up to 2" in one action in water and up to 2" vertically up or down in one **Run/Climb** action. In addition, **cannot** carry Mobile Objectives.
 
-**Mage (X)**
+**Mage (X)**{: .qr-term}
 Know (X) magic spells. Mage (0) characters still know a Cantrip.
 
-**Mindless**
+**Mindless**{: .qr-term}
 Cannot score **Victory Points** at the end of the game, but can still achieve Agendas.
 
-**Parry (X)**
+**Parry (X)**{: .qr-term}
 When target of a base contact **Combat** action, force your opponent to re-roll (X) dice.
 
-**Pickpocket**
+**Pickpocket**{: .qr-term}
 When disengaging, steal any Mobile Objectives. Opponent loses **1 Will Point** and a friendly character within 3" replenishes **1 Will Point**.
 
-**Primitive**
+**Primitive**{: .qr-term}
 At the start of each turn roll a Basic MIND Roll. If it rolls **no Aces,** receive a **Stunned** counter.
 
-**Slippery**
+**Slippery**{: .qr-term}
 Automatically win Opposed Roll when disengaging unless they have **Engage**.
 
-**Universal Shielding (X)**
+**Universal Shielding (X)**{: .qr-term}
 Always have minimum PROTECTION of (X), after all modifiers.
 
-**Vampiric Attack (X)**
+**Vampiric Attack (X)**{: .qr-term}
 When making **Combat** actions while **in base contact** replenish **(X) Life Points** if enemy loses at least 1.
 
-**Water Creature**
+**Water Creature**{: .qr-term}
 Move full MOVE in water, move up to 8" when diving, and cannot be Drowned. In addition, may be set up in water at the start of the game.
 
 </div>
@@ -381,22 +381,22 @@ Move full MOVE in water, move up to 8" when diving, and cannot be Drowned. In ad
 
 <div class="qr-cols qr-gloss" markdown="1">
 
-**Aquatic**
+**Aquatic**{: .qr-term}
 Can be used while the attacker is in water.
 
-**Black Powder**
+**Black Powder**{: .qr-term}
 Cannot be used if a character starts its turn in water. Lose 1 additional **Life Point** when Fumbling an attack.
 
-**Blast**
+**Blast**{: .qr-term}
 Place the round blast marker centred over the target. Roll one Attack Roll and apply to every character (friendly and enemy) at least partly under the template.
 
-**Harmless**
+**Harmless**{: .qr-term}
 Does not cause any Damage.
 
-**Knockback**
+**Knockback**{: .qr-term}
 If a character takes Damage (before Protection Rolls), they are moved 2" horizontally directly away.
 
-**Poisoned**
+**Poisoned**{: .qr-term}
 If a character loses at least **1 Life Point,** roll 1 dice. On a 1-6, they lose extra **Life Points**:
 
 - **30mm** models lose 3 Life Points.
@@ -404,25 +404,25 @@ If a character loses at least **1 Life Point,** roll 1 dice. On a 1-6, they lose
 - **50mm** models lose 5 Life Points.
 - **60mm+** models lose 6 Life Points.
 
-**Reload (X)**
+**Reload (X)**{: .qr-term}
 Only (X) Combat actions in each round. While in base contact with an enemy may only use this weapon **(X) number of times** until the character **starts** their turn out of base contact with any enemies
 
-**Smoke**
+**Smoke**{: .qr-term}
 Any character hit counts as being in cover until the end of the round, and gains a **Hidden** counter.
 
 If it's also **Blast**, the marker stays until the end of the round.
 
-**Stun**
+**Stun**{: .qr-term}
 If a character takes Damage (before Protection Rolls) they receive a Stunned counter.
 
 A Stunned character reduces its MOVE, ATTACK, DEXTERITY, and MIND by 1 (to a minimum of 1). Automatically remove Stunned counters at the **end** of the next turn.
 
 If a Stunned character starts its turn in water it loses **2 Life Points**.
 
-**Template**
+**Template**{: .qr-term}
 Place the teardrop template with the small end in range of the weapon (base contact with the attacker if the range is 0"). Roll one Attack Roll and apply to every character (friendly and enemy) at least partly under the template.
 
-**Two-handed**
+**Two-handed**{: .qr-term}
 **Evasion +1** on Attacks of Opportunity.
 
 </div>

@@ -1363,7 +1363,7 @@ a.disc-wild-magic        { color: #c06a18; font-weight: 500; }
 .doc-content .qr-cols .qr-item { break-inside: avoid; margin: 0 0 0.7rem; }
 .doc-content .qr-cols .qr-item > h3:first-child { margin-top: 0; }
 .doc-content .qr-gloss > p { break-inside: avoid; margin: 0 0 0.6rem; }
-.doc-content .qr-gloss > p strong:first-child { display: block; color: var(--ink); }
+.doc-content .qr-gloss strong.qr-term { display: block; color: var(--ink); margin-bottom: 0.1rem; }
 @media (max-width: 640px) { .doc-content .qr-cols { columns: 1; } }
 
 /* Muted reference aside (e.g. "See X for details…") */
