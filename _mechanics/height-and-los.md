@@ -3,23 +3,11 @@ title: Height and Line of Sight
 nav_order: 1
 is_ref: true
 toc:
-  - title: TL;DR
-    anchor: tldr
   - title: How Elevation Creates a Blind Zone
     anchor: how-elevation-creates-a-blind-zone
   - title: The Formula
     anchor: the-formula
-  - title: Blind Zone Table
-    anchor: blind-zone-table
 ---
-
-## TL;DR
-
-A model on a 3" building **2" from the roof edge** cannot see a **2" tall target** within **2" of the building's outer wall**. Beyond that distance, LOS is clear.
-
-The blind zone shrinks as the target gets taller and grows as the observer steps further from the edge.
-
-[Open the LOS Calculator →](/tools/#line-of-sight)
 
 ## How Elevation Creates a Blind Zone
 
@@ -33,6 +21,8 @@ Anything below that critical angle falls into the **blind zone**: a wedge of gro
 <p class="callout-title">True LOS in practice</p>
 The 1" observer height above terrain is an approximation for planning purposes. At the table, use the actual miniature's eye-level perspective. Terrain up to 1" high is ignored for LOS in all cases.
 </div>
+
+[Open the LOS Calculator →](/tools/#line-of-sight)
 
 ## The Formula
 
@@ -55,18 +45,3 @@ LOS is symmetric. If the observer can see the top of the target, the target can 
 D = 2 × (3 − 2) / 1 = **2"**
 
 The target must be at least 2" from the building's outer wall to be in LOS. A ground-level model of the same height (1") would need to be 4" away, and a tiny 0" target would need 6".
-
-## Blind Zone Table
-
-Minimum distance from the building's outer wall for LOS to exist. Building height 3", observer model height 1" above terrain.
-
-| Observer distance from edge | Target top 0" | Target top 1" | Target top 2" | Target top 3" |
-|:---------------------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| 1"                          | 3"            | 2"            | 1"            | 0"            |
-| 2"                          | 6"            | 4"            | 2"            | 0"            |
-| 3"                          | 9"            | 6"            | 3"            | 0"            |
-
-A target at the same height as the building top (3") is always visible regardless of position: the line of sight is horizontal and clears the roof edge immediately.
-
-For a **2" building** instead, apply the same formula with H = 2". Every distance halves compared to the H = 3" table for the same observer position and target height.
-

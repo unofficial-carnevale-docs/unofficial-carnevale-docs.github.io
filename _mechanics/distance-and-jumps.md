@@ -15,10 +15,6 @@ toc:
     anchor: minimum-jump-to-cross-a-gap
   - title: Expected Jump Distance
     anchor: expected-jump-distance
-  - title: Chained Jumps
-    anchor: chained-jumps
-  - title: Controlled Landing
-    anchor: controlled-landing
 ---
 
 ## TL;DR
@@ -45,15 +41,11 @@ Height reduces the clearable horizontal gap (DEX 4 reference, penalty grows nonl
 
 [Open the Jump Calculator →](/tools/#jump)
 
----
-
 ## Measuring Distances
 
 All distances in Carnevale are measured in a straight line between the two closest points of the objects involved. This line can go in any direction: horizontal, vertical, or diagonal. There is no top-down projection.
 
 The diagonal rule has a direct consequence for jumps: reaching a raised surface costs more distance than its horizontal gap suggests, because the straight line climbs at an angle.
-
----
 
 ## The Jump Action
 
@@ -88,8 +80,6 @@ The character moves in a straight line toward the nominated point. This line can
 
 </div>
 
----
-
 ## Jump Distance Table
 
 The table below shows the effective straight-line distance needed to reach a surface at a given height and horizontal gap. Formula: distance = √(horizontal² + height²).
@@ -104,8 +94,6 @@ The table below shows the effective straight-line distance needed to reach a sur
 | 6" | 6.08" | 6.32" | 6.71" |
 
 **Reading the table:** A 2" tall building with a 1" horizontal gap requires 2.24" of jump distance. A Fail (2") falls short. A Success with at least 1 Ace reaches up to 3", which is sufficient. Targets higher than 3" above the character's base are not legal jump destinations.
-
----
 
 ## Minimum Jump to Cross a Gap
 
@@ -127,8 +115,6 @@ These overheads apply regardless of whether the jump is flat or elevated. For el
 
 **Example.** A 40mm model jumping to a 2" tall building 1" away needs 2.24" (from the table) + 0.6" = **2.84"** total. A Fail (2") falls short. A Success with 1 Ace (up to 3") just clears it.
 
----
-
 ## Expected Jump Distance
 
 The table below shows the average distance covered by a jump, by DEX value and **Acrobatic (X)** level. All values include the full effect of Criticals (4" base), Fails (fixed 2"), and Fumbles (1"), weighted by their probability. Values assume the player always uses all available Aces and re-rolls failed non-Destiny dice with Acrobatic.
@@ -145,36 +131,3 @@ The table below shows the average distance covered by a jump, by DEX value and *
 | 8   | 5.39"        | 5.63"         | 5.88"         | 6.12"         |
 
 **Each point of Acrobatic adds roughly 0.24" to the expected distance** (0.6 chance of a failed die × 0.4 chance the re-roll succeeds), capped by available dice.
-
----
-
-## Chained Jumps
-
-**Once per turn**, when a character lands a Jump onto an **Obstacle or Debris**, it may immediately make one additional **0 AP** jump from that obstacle.
-
-Key restrictions:
-
-- The chained jump is available once per turn only, regardless of how many subsequent landings are on obstacles.
-- A Counter command does not grant a second chained jump in the same round.
-- Landing via a **fall** onto an obstacle does not trigger a chained jump. The first action must be a successful Jump.
-
-<div class="callout">
-<p class="callout-title">What counts as an Obstacle?</p>
-Any piece of terrain 3" or smaller in height that is not solid ground, including barrels, fountains, gondolas, crates, and stacks of boxes. Regular buildings and solid rooftops do not count as Obstacles.
-</div>
-
----
-
-## Controlled Landing
-
-Before rolling for a jump, a character may declare a Controlled Landing for **1 Will Point** (in addition to the 1 AP cost).
-
-If the jump results in a fall, the character makes a Dexterity roll to reduce fall damage with a threshold of **5+** instead of the normal 7+.
-
-| Result | Effect |
-|---|---|
-| Critical | Reduce Life Points lost by 2 plus 1 per Ace |
-| Success | Reduce Life Points lost by 1 for each Ace |
-| Fail | Full fall damage |
-| Fumble | Full fall damage and gain a Stunned counter |
-{: .outcome}

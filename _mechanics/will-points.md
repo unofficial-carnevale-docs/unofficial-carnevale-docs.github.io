@@ -2,29 +2,30 @@
 title: Will Points
 nav_order: 2
 is_ref: true
+toc:
+  - title: TL;DR
+    anchor: tldr-what-wp-is-worth-best-to-worst
+  - title: Value per WP by Action Type
+    anchor: detailed-maths-value-per-wp-by-action-type
+  - title: Frenzied (LP-as-WP Engine)
+    anchor: frenzied-the-lp-as-wp-engine
+  - title: WP Replenishment Sources
+    anchor: all-wp-replenishment-sources
+  - title: Anti-WP Effects
+    anchor: anti-wp-effects
 next_doc:
   title: Offense & Defense Modifiers
   url: /mechanics/offense-defense/
 ---
 
-## Core Rules
-
-- Spend up to **2 WP** before any roll: each WP = +1 die
-- **WP does not replenish per round** (unlike AP): a model with WP N has exactly N bonus dice for the entire game unless it has a replenishment source
-- Per-roll cap (2) and total pool (N) are independent: WP 2 = 2 bonus dice total, usable as +2 on one roll or +1 on two rolls
-
----
-
 ## TL;DR: What WP is worth (best to worst)
 
-- **On an attack:** the best use. More dice = more hits and more damage. Fully boosting a key attack
-  can lift its damage by roughly half.
-- **On casting a spell:** very good: it makes an important spell much more likely to land (and avoids
-  disastrous fumbles).
-- **On a defence (Protection) roll:** okay, but worth less than on an attack.
-- **On a movement or utility roll:** small and rarely worth it.
+You can spend up to **2 WP** before any roll to give yourself +1 die per WP used:
 
----
+- **On an attack:** the best use. More dice equals more hits and more damage, and additional chances to trigger attack effects like Stun. Fully boosting a key attack can lift its damage by roughly half.
+- **On casting a spell:** very good: it makes an important spell much more likely to land (and avoids disastrous fumbles).
+- **On a defence (Protection) roll:** okay, but worth less than on an attack.
+- **On a movement or utility roll:** very situationnal.
 
 ## Detailed maths: Value per WP by Action Type
 
@@ -39,7 +40,7 @@ Each bonus die adds **(11 − DEX) / 10** expected damage. WP is most efficient 
 | 6          | +0.50           |
 | 7          | +0.40           |
 
-Full +2 WP on ATK 4 vs DEX 4: 2.80 → 4.20 expected Aces (**+50% damage**).
+Full +2 WP on ATK 4 vs DEX 4: from 2.80 to 4.20 expected Aces (**+50% damage**).
 
 ### Protection (threshold: 7+)
 
@@ -54,7 +55,7 @@ WP on defence is worth less per point than on offence vs DEX 4–5 targets.
 
 ### Grapple / Drown (threshold: 7+)
 
-Each bonus die adds **+0.40** expected Aces. Lower return than melee Combat vs low-DEX targets, mainly used to secure a Critical (Stun) or avoid a Fumble.
+Each bonus die adds **+0.40** expected Aces. Lower return than melee Combat vs low-DEX targets.
 
 | ATK | Base | +1 WP | +2 WP |
 |-----|------|-------|-------|
@@ -83,8 +84,6 @@ WP serves two roles: **casting cost** (1 WP per spell) and **dice boost** (up to
 
 +2 WP halves the fail rate and nearly triples Critical potential. Fumble costs a Stun counter **and** −1 extra WP, making near-empty pools a downward spiral.
 
----
-
 ## Frenzied: The LP-as-WP Engine
 
 Most Frenzied characters have WP 0, so LP is their only bonus-die source. A LP 15 character has **15 bonus dice** total, about 5× a typical WP 3 non-mage, capped at 2 per roll.
@@ -106,16 +105,6 @@ Each triggering hit refunds X LP. With VA(1) on two boosted attacks:
 - Spend 4 LP, recover 2 LP if both connect → **net 2 LP** for a +50% damage turn
 - With VA(2): net 0 LP cost against low-Prot targets
 
-### LP attrition risk
-
-| LP pool | 4 LP cost (1 boosted turn) | % of pool |
-|---------|---------------------------|-----------|
-| 12      | 4 LP                      | 33%       |
-| 15      | 4 LP                      | 27%       |
-| 19      | 4 LP                      | 21%       |
-
----
-
 ## All WP Replenishment Sources
 
 ### Universal
@@ -124,7 +113,7 @@ Each triggering hit refunds X LP. With VA(1) on two boosted attacks:
 |---|---|---|
 | Spell Critical | +1 WP | Any Critical on a spell casting roll |
 | Divinity Cantrip (Boon of Heaven) | +1 LP +1 WP | Cast on friendly in LOS within 6" |
-| Feat | +1 WP (+2 with story) | Post-action heroic deed |
+| Fortune’s Favour | +1 WP (+2 with story) | Post-action heroic deed |
 
 ### Character Abilities (rules-level)
 
@@ -218,21 +207,25 @@ Each triggering hit refunds X LP. With VA(1) on two boosted attacks:
 |---|---|---|---|
 | Tarot Reader (Hero) | Cartomancy | +1 WP | On successful Cantrip, to self or friendly within 6" |
 
----
-
 ## Anti-WP Effects
 
-Some models prevent or drain WP use rather than generating it:
+### Universal
 
-| Character | Effect |
-|---|---|
-| Strigoi Priest (Hero): Devil Incarnate | Enemy chars in base contact cannot use WP |
-| Black Lamp (Guild Hero): The Lamp | Enemy chars within 3" cannot use WP |
-| Exorcist (Vatican Leader): Helm of Penitence | Enemy chars within 3" cannot use WP |
-| Exorcist (Vatican Leader): Exorcism | Divine Touch hit → target loses 1 WP, and 0-WP targets take +3 Damage instead |
-| Vatican Witch Finder / Inquisitorial Guard (Henchmen) | Enemy chars in base contact cannot use WP |
-| Doctors Ghoul: Bereft of Will | All chars within 3" cannot use WP, and on death all within 3" lose 1 WP |
-| Eater of Sin (Vatican Hero): Let Your Sins Be Absolved | Compelled Confession hit → target loses 1 WP |
-| Throne (Vatican Hero, Construct): Be Thou Afraid? | Enemy that triggers Fear and rolls 0 Aces loses 1 WP |
-| Harlequin (Gifted Hero): Mischievous | On 7+, enemy WP used within 3" is wasted |
-| Pickpocket | Opponent loses 1 WP on successful disengage |
+| Ability | Amount | Condition |
+|---|---|---|
+| Pickpocket | +1 WP | On successful disengage (self or friendly within 3") |
+
+### In factions
+
+| Faction | Character | Ability | Effect |
+|---|---|---|---|
+| Doctors | Ghoul | Bereft of Will | All chars within 3" cannot use WP, and on death all within 3" lose 1 WP |
+| Gifted | Harlequin | Mischievous | On 7+, enemy WP used within 3" is wasted |
+| Guild | Black Lamp | The Lamp | Enemy chars within 3" cannot use WP |
+| Strigoi | Strigoi Priest | Devil Incarnate | Enemy chars in base contact cannot use WP |
+| Vatican | Exorcist | Helm of Penitence | Enemy chars within 3" cannot use WP |
+| Vatican | Exorcist | Exorcism | Divine Touch hit → target loses 1 WP, and 0-WP targets take +3 Damage instead |
+| Vatican | Witch Finder | Enemy chars in base contact cannot use WP |
+| Vatican | Inquisitorial Guard | Enemy chars in base contact cannot use WP |
+| Vatican | Eater of Sin | Let Your Sins Be Absolved | Compelled Confession hit → target loses 1 WP |
+| Vatican | Throne | Be Thou Afraid? | Enemy that triggers Fear and rolls 0 Aces loses 1 WP |
