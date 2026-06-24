@@ -21,7 +21,10 @@ layout: default
 
     <div class="model-card">
       <div class="card-head">
-        <span class="card-name">{{ page.title }}</span>
+        <div class="card-title">
+          {% if page.faction %}<img class="faction-icon" src="{{ '/assets/factions/' | append: page.faction | remove_first: 'the-' | append: '.png' | relative_url }}" alt="">{% endif %}
+          <span class="card-name">{{ page.title }}</span>
+        </div>
         {% if page.cost %}<span class="card-cost">{{ page.cost }} Ducats</span>{% endif %}
       </div>
       {% if page.meta %}<p class="card-meta">{{ page.meta }}</p>{% endif %}

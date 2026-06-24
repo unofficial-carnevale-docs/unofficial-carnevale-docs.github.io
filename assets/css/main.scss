@@ -1495,6 +1495,12 @@ a.disc-wild-magic        { color: #c06a18; font-weight: 500; }
   flex-wrap: wrap;
   margin-bottom: 0.2rem;
 }
+.card-title {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  min-width: 0;
+}
 .card-name {
   font-family: var(--font-display);
   font-size: 1.7rem;
