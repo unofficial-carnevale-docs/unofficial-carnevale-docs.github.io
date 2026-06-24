@@ -12,7 +12,7 @@ Blood Rites is built around direct harm: LP drain, armour penetration, and enabl
 - **Boiling Veins:** cheap, easy, scaling damage that *explodes* if it kills.
 - **Bloodlust:** an Attack buff on a model for a small life cost.
 - **Blood Drain:** armour-piercing damage that also heals an allied model.
-- **Kraken's Breath:** big cone area damage (you have to be in the thick of it).
+- **Kraken's Breath:** terdrop template area damage.
 - **Mother Hydra's Claws:** life-loss shared between targets that **ignores armour**.
 - **Abyssal Mist:** blocks line of sight and applies a delayed Stun (end of round).
 
@@ -26,19 +26,19 @@ Divinity focuses on sustain, protection, and punishing enemy Mages. It offers th
 - **Protection of the Eye:** an anti-Penetration shield (only useful against armour-piercing foes).
 - **Eldritch Armour:** straightforward +armour on a model.
 - **Rejuvenation:** flexible healing spread across the gang.
-- **Holy Light:** only hits *enemy mages* (a niche anti-caster tool).
-- **Defender of Destiny:** gives nearby allies Parry *and* re-roll defence.
-- **Aqua Curitiva:** delayed group heal that also Stuns enemies.
+- **Holy Light:** aoe damage and stun against *enemy mages*.
+- **Defender of Destiny:** gives nearby allies **Parry** and Expert **Expert Protection**.
+- **Aqua Curitiva:** delayed group heal that also Stuns enemies (end of round).
 
 [Spell details and analysis →](/magic/divinity/)
 
 ## Fateweaving
 
-Fateweaving neither deals damage nor heals. Instead it makes everything else more likely to succeed through stat manipulation and dice re-rolls, the only discipline that directly alters dice results. Glimpse of Glory grants the highest single-model combat buff package in the game, while Marksman's Fortune and Otherworldly Oddity cover niche utility unavailable anywhere else (Reload manipulation, terrain control). Its value is entirely dependent on having high-quality models to buff or debuff. In a weak gang or against a swarm of low quality models it does very little.
+Fateweaving neither deals damage nor heals. Instead it makes everything else more likely to succeed through stat manipulation and dice re-rolls, the only discipline that directly alters dice results. Glimpse of Glory grants the highest single-model combat buff package in the game, while Marksman's Fortune and Otherworldly Oddity cover niche utility unavailable anywhere else (Reload manipulation, terrain control). Its value is entirely dependent on having high-quality models to buff or debuff. In a weak gang or against a swarm of low quality models it doesn't shine as much.
 
 - **Cantrip of the Stars:** allow one re-roll of the Destiny Die.
 - **Marksman's Fortune:** long-range reload meddling: lower or raise a character's reload.
-- **Otherworldly Oddity:** turns terrain into help for you / a wall for them.
+- **Otherworldly Oddity:** turns terrain into help for you and hindrance for your opponent.
 - **Blessing of the Sky:** flexible +stats on an ally.
 - **Curse of the Rent:** the same in reverse: shave stats off an enemy.
 - **Glimpse of Glory:** stacks several re-roll buffs on one model.
@@ -48,7 +48,7 @@ Fateweaving neither deals damage nor heals. Instead it makes everything else mor
 
 ## Runes of Sovereignty
 
-Runes of Sovereignty is about dominance over movement and actions. Madness is the highest-ceiling single spell in the game and fully irreplaceable. The Cantrip of the Chariot and Fiery Rhetoric are the only spell-based sources of free movement and CP recovery, and Wave of Force offers flexible long-range repositioning of both opponents and allies. The discipline deals no direct damage and cannot heal, and most of its spells have very short range or require water to function, so the Mage must be mobile and well-positioned to be effective.
+Runes of Sovereignty is about dominance over movement and actions. Madness is the highest-ceiling single spell in the game. The Cantrip of the Chariot and Fiery Rhetoric are the only spell-based sources of free movement and CP recovery, and Wave of Force offers flexible long-range repositioning of both opponents and allies. The discipline deals no direct damage and cannot heal, and most of its spells have very short range or require water to function, so the Mage must be mobile and well-positioned to be effective.
 
 - **Cantrip of the Chariot:** a free move for a nearby ally.
 - **Renewed Vigour:** removes and prevents Stun on your models.
@@ -62,7 +62,7 @@ Runes of Sovereignty is about dominance over movement and actions. Madness is th
 
 ## Wild Magic
 
-Wild Magic trades depth for breadth. Damage, healing, debuffing, movement, teleportation, and spell-copying all appear in a single school, making it the most adaptable discipline. The Cantrip of Justice is a unique way to expand the caster's spell list. Summon Vermin is the best 1-WP damage spell on expected value with the longest range of any damage spell, Sunder Armour is the best setup spell for enabling devastating follow-up attacks, and Gateway is one of the most flexible movement tools in the game. Its buff spell is narrow and it is not the best at any single thing, and its quality depends heavily on the base profile of the Mage using it.
+Wild Magic trades depth for breadth. Damage, healing, debuffing, movement, teleportation, and spell-copying all appear in a single school, making it the most adaptable discipline. The Cantrip of Justice is a unique way to expand the caster's spell list. Summon Vermin is the best 1-WP damage spell on expected value with the longest range of any damage spell, Sunder Armour is the best setup spell for enabling devastating follow-up attacks, and Gateway is one of the most flexible movement tools in the game. Its buff spell is narrow, it is not the best at any single thing, and its quality depends heavily on the base profile of the Mage using it.
 
 - **Cantrip of Justice:** cast any spell a mage in LOS knows, ally or ennemy.
 - **They Sleep Underwater:** a swimming-speed buff.
