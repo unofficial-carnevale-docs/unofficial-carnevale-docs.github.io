@@ -3,107 +3,205 @@ title: "Defensive Capability Analysis"
 description: Raw defensive capability data analysis
 nav_order: 4
 is_analysis: true
+toc:
+  - title: Units and method
+    anchor: units-and-method
+  - title: Role standards
+    anchor: role-standards
+  - title: By faction
+    anchor: by-faction
+  - title: Best models
+    anchor: best-models
 ---
 
 ## Units and method
 
-Metric: [**ATK2K**](/mechanics/combat/) (Attacks-To-Kill = LP ÷ expected net LP lost per incoming attack)
+Metric: [**ATK2K**](/mechanics/combat/) (Attacks-To-Kill = LP ÷ expected net LP lost per incoming attack).
 
-This is the EHP-equivalent survivability number, folding LP, Dexterity, Protection, Parry, and Universal Shielding. Higher = tankier.
-Baseline column uses the baseline reference attacker (Attack 3). `net_*` = expected LP lost per attack from each reference attacker.
+This is the EHP-equivalent survivability number, folding LP, Dexterity, Protection, Parry, and Universal Shielding. Higher means tankier. The baseline uses the baseline reference attacker (Attack 3). `net_*` means expected LP lost per attack from each reference attacker.
 
 See [Combat Capabilities Calculations](/mechanics/combat/) for method and calibration.
 
-## Role standards (ATK2K vs baseline attacker)
+## Role standards
 
-| Role | n | min | p25 | median | p75 | max | ATK2K/ducat med |
-|---|---|---|---|---|---|---|---|
-| Tank | 6 | 20.9 | 22.07 | 23.7 | 25.1 | 33.6 | 1.53 |
-| Brawler | 17 | 13.2 | 18.4 | 21.0 | 26.3 | 55.2 | 1.32 |
-| Control | 4 | 8.0 | 8.98 | 12.65 | 16.02 | 16.1 | 0.67 |
-| Canal Fighter | 24 | 6.7 | 8.6 | 12.55 | 15.7 | 36.8 | 0.8 |
-| Disruptor | 6 | 4.0 | 8.8 | 12.25 | 15.25 | 29.6 | 0.82 |
-| Sniper | 9 | 9.7 | 10.9 | 11.5 | 13.7 | 18.4 | 0.99 |
-| Damage Dealer | 62 | 5.0 | 8.93 | 10.75 | 13.7 | 22.9 | 0.72 |
-| Assassin | 10 | 7.3 | 9.8 | 10.3 | 13.55 | 17.0 | 0.59 |
-| Line Fighter | 34 | 2.9 | 8.8 | 9.7 | 11.5 | 23.3 | 0.97 |
-| Specialist | 38 | 1.8 | 5.6 | 9.7 | 10.6 | 20.6 | 0.69 |
-| Support | 42 | 4.5 | 8.8 | 9.7 | 10.6 | 18.0 | 0.75 |
-| Harasser | 10 | 3.8 | 4.93 | 8.75 | 9.58 | 15.0 | 0.76 |
-| Objective Runner | 12 | 5.0 | 6.7 | 7.7 | 9.33 | 11.3 | 0.79 |
+Median ATK2K per role vs each reference attacker, how many hits of each type a role survives (higher is tankier). **Raw** is the absolute lens; the per-Ducat table follows, and since raw tracks cost only the per-Ducat view compares roles fairly across rows.
 
-## Durability by faction (median ATK2K vs baseline)
+**Drown excludes Water Creatures** (immune), so its column reflects only the models a Drown can target.
 
-| Faction | n | median ATK2K | median ATK2K/ducat |
-|---|---|---|---|
-| The Vatican | 47 | 11.5 | 0.97 |
-| Patricians | 36 | 11.3 | 0.97 |
-| Gifted | 31 | 10.6 | 0.69 |
-| The Doctors | 42 | 9.8 | 0.82 |
-| Rashaar | 41 | 9.7 | 0.78 |
-| Strigoi | 36 | 9.7 | 0.66 |
-| The Guild | 41 | 9.7 | 0.81 |
+| Role | baseline | elite | penetrator | drown |
+|---|---|---|---|---|
+| Tank | 23.7 | 5.85 | 9.65 | 8.0 |
+| Brawler | 21.0 | 5.5 | 12.4 | 9.0 |
+| Control | 12.65 | 4.25 | 6.9 | 7.4 |
+| Canal Fighter | 12.55 | 4.1 | 6.55 | 5.8 |
+| Disruptor | 12.25 | 3.95 | 8.9 | 7.3 |
+| Sniper | 11.5 | 3.8 | 6.3 | 6.9 |
+| Damage Dealer | 10.75 | 3.7 | 6.3 | 7.7 |
+| Assassin | 10.3 | 3.7 | 6.55 | 8.35 |
+| Line Fighter | 9.7 | 3.3 | 5.0 | 5.8 |
+| Specialist | 9.7 | 3.3 | 5.0 | 5.8 |
+| Support | 9.7 | 3.3 | 5.3 | 5.8 |
+| Harasser | 8.75 | 3.15 | 5.2 | 5.8 |
+| Objective Runner | 7.7 | 2.85 | 4.85 | 5.3 |
 
-## Tankiest 15 models (ATK2K vs baseline)
+### Per Ducat
+
+Median ATK2K/Ducat vs each attacker, the fair cross-role comparison.
+
+| Role | baseline | elite | penetrator | drown |
+|---|---|---|---|---|
+| Tank | 1.532 | 0.384 | 0.593 | 0.56 |
+| Brawler | 1.318 | 0.371 | 0.711 | 0.6 |
+| Sniper | 0.993 | 0.293 | 0.525 | 0.525 |
+| Line Fighter | 0.974 | 0.329 | 0.506 | 0.58 |
+| Disruptor | 0.824 | 0.275 | 0.584 | 0.481 |
+| Canal Fighter | 0.797 | 0.261 | 0.45 | 0.55 |
+| Objective Runner | 0.787 | 0.279 | 0.505 | 0.482 |
+| Harasser | 0.757 | 0.292 | 0.487 | 0.52 |
+| Support | 0.752 | 0.254 | 0.417 | 0.438 |
+| Damage Dealer | 0.72 | 0.254 | 0.427 | 0.519 |
+| Specialist | 0.694 | 0.25 | 0.418 | 0.442 |
+| Control | 0.669 | 0.248 | 0.429 | 0.525 |
+| Assassin | 0.587 | 0.224 | 0.397 | 0.475 |
+
+## By faction
+
+Per-faction median ATK2K within each combat role, vs that role's global median, which strips out the role-mix confound of an overall faction average. Support, Specialists, and Objective Runners are excluded, durability is not their job. **`vs global (value)` (per-Ducat) is the fairer read**; the raw column favours factions whose models are simply more expensive.
+
+**Small-n roles (1-2 models per faction) are effectively a single statline.**
+
+### Tank
+
+Global Tank median ATK2K = **23.7**, median ATK2K/Ducat = **1.532**.
+
+| Faction | n | median ATK2K | vs global (raw) | median ATK2K/ducat | vs global (value) |
+|---|---|---|---|---|---|
+| [The Vatican](/factions/the-vatican/) | 1 | 33.6 | +42% | 2.24 | +46% |
+| [The Doctors](/factions/the-doctors/) | 2 | 24.9 | +5% | 1.79 | +17% |
+| [Strigoi](/factions/strigoi/) | 1 | 22.9 | -3% | 1.431 | -7% |
+| [Rashaar](/factions/rashaar/) | 2 | 21.4 | -10% | 1.089 | -29% |
+
+### Brawler
+
+Global Brawler median ATK2K = **21.0**, median ATK2K/Ducat = **1.318**.
+
+| Faction | n | median ATK2K | vs global (raw) | median ATK2K/ducat | vs global (value) |
+|---|---|---|---|---|---|
+| [Rashaar](/factions/rashaar/) | 3 | 42.6 | +103% | 1.393 | +6% |
+| [Patricians](/factions/patricians/) | 3 | 19.5 | -7% | 1.355 | +3% |
+| [Gifted](/factions/gifted/) | 1 | 19.8 | -6% | 1.32 | +0% |
+| [The Vatican](/factions/the-vatican/) | 8 | 22.9 | +9% | 1.315 | +0% |
+| [The Guild](/factions/the-guild/) | 1 | 14.9 | -29% | 1.146 | -13% |
+| [The Doctors](/factions/the-doctors/) | 1 | 13.2 | -37% | 0.88 | -33% |
+
+### Damage Dealer
+
+Global Damage Dealer median ATK2K = **10.8**, median ATK2K/Ducat = **0.72**.
+
+| Faction | n | median ATK2K | vs global (raw) | median ATK2K/ducat | vs global (value) |
+|---|---|---|---|---|---|
+| [Patricians](/factions/patricians/) | 8 | 12.5 | +16% | 0.97 | +35% |
+| [Rashaar](/factions/rashaar/) | 4 | 12.1 | +12% | 0.926 | +29% |
+| [The Vatican](/factions/the-vatican/) | 6 | 13.7 | +27% | 0.866 | +20% |
+| [The Doctors](/factions/the-doctors/) | 13 | 11.4 | +6% | 0.746 | +4% |
+| [Gifted](/factions/gifted/) | 11 | 11.3 | +5% | 0.724 | +1% |
+| [The Guild](/factions/the-guild/) | 10 | 9.6 | -11% | 0.603 | -16% |
+| [Strigoi](/factions/strigoi/) | 10 | 9.4 | -13% | 0.568 | -21% |
+
+### Assassin
+
+Global Assassin median ATK2K = **10.3**, median ATK2K/Ducat = **0.587**.
+
+| Faction | n | median ATK2K | vs global (raw) | median ATK2K/ducat | vs global (value) |
+|---|---|---|---|---|---|
+| [The Guild](/factions/the-guild/) | 2 | 13.0 | +26% | 0.866 | +48% |
+| [Gifted](/factions/gifted/) | 1 | 16.6 | +61% | 0.83 | +41% |
+| [Patricians](/factions/patricians/) | 2 | 9.8 | -5% | 0.633 | +8% |
+| [The Doctors](/factions/the-doctors/) | 1 | 7.3 | -29% | 0.562 | -4% |
+| [The Vatican](/factions/the-vatican/) | 1 | 10.6 | +3% | 0.53 | -10% |
+| [Strigoi](/factions/strigoi/) | 3 | 10.0 | -3% | 0.516 | -12% |
+
+### Line Fighter
+
+Global Line Fighter median ATK2K = **9.7**, median ATK2K/Ducat = **0.974**.
+
+| Faction | n | median ATK2K | vs global (raw) | median ATK2K/ducat | vs global (value) |
+|---|---|---|---|---|---|
+| [The Vatican](/factions/the-vatican/) | 7 | 9.7 | +0% | 1.078 | +11% |
+| [Patricians](/factions/patricians/) | 7 | 9.7 | +0% | 1.027 | +5% |
+| [The Guild](/factions/the-guild/) | 5 | 9.7 | +0% | 0.958 | -2% |
+| [The Doctors](/factions/the-doctors/) | 5 | 9.8 | +1% | 0.885 | -9% |
+| [Strigoi](/factions/strigoi/) | 6 | 9.3 | -4% | 0.865 | -11% |
+| [Rashaar](/factions/rashaar/) | 4 | 9.6 | -1% | 0.765 | -21% |
+
+### Canal Fighter
+
+Global Canal Fighter median ATK2K = **12.6**, median ATK2K/Ducat = **0.797**.
+
+| Faction | n | median ATK2K | vs global (raw) | median ATK2K/ducat | vs global (value) |
+|---|---|---|---|---|---|
+| [The Vatican](/factions/the-vatican/) | 1 | 18.0 | +43% | 1.0 | +25% |
+| [The Guild](/factions/the-guild/) | 2 | 11.7 | -7% | 0.974 | +22% |
+| [The Doctors](/factions/the-doctors/) | 7 | 12.6 | +0% | 0.968 | +21% |
+| [Rashaar](/factions/rashaar/) | 9 | 14.9 | +18% | 0.812 | +2% |
+| [Patricians](/factions/patricians/) | 1 | 8.8 | -30% | 0.733 | -8% |
+| [Strigoi](/factions/strigoi/) | 4 | 7.8 | -38% | 0.631 | -21% |
+
+### Disruptor
+
+Global Disruptor median ATK2K = **12.2**, median ATK2K/Ducat = **0.824**.
+
+| Faction | n | median ATK2K | vs global (raw) | median ATK2K/ducat | vs global (value) |
+|---|---|---|---|---|---|
+| [The Guild](/factions/the-guild/) | 1 | 16.0 | +31% | 0.941 | +14% |
+| [Strigoi](/factions/strigoi/) | 1 | 13.0 | +7% | 0.929 | +13% |
+| [The Vatican](/factions/the-vatican/) | 3 | 11.5 | -6% | 0.719 | -13% |
+| [The Doctors](/factions/the-doctors/) | 1 | 4.0 | -67% | 0.667 | -19% |
+
+## Best models
+
+Snapshots of the standout individual models, by raw survivability and by value (per-Ducat).
+
+### Tankiest
+
+The 15 highest-ATK2K models, with the statline driving it.
 
 | Model | Faction | Role | LP | Dex | Prot | ATK2K | ATK2K/ducat |
 |---|---|---|---|---|---|---|---|
-| Morgraur | Rashaar | Brawler | 45 | 3 | 5 | 55.2 | 0.81 |
-| Venetian Heavy Guard | Patricians | Brawler | 15 | 4 | 5 | 47.9 | 2.99 |
-| Brachyura | Rashaar | Brawler | 20 | 3 | 7 | 42.6 | 2.37 |
-| Emissary of Mother Hydra | Rashaar | Canal Fighter | 30 | 3 | 5 | 36.8 | 0.72 |
-| Sepulchral Vanguard | The Vatican | Tank | 13 | 3 | 5 | 33.6 | 2.24 |
-| Seraph | The Vatican | Disruptor | 15 | 4 | 6 | 29.6 | 1.74 |
-| Knight of the Holy Sepulchre | The Vatican | Brawler | 18 | 3 | 6 | 28.8 | 1.69 |
-| Gethsemane | The Vatican | Brawler | 28 | 4 | 0 | 26.3 | 0.71 |
-| Warden | The Doctors | Tank | 13 | 4 | 4 | 25.3 | 1.95 |
-| Rhino | The Doctors | Tank | 20 | 3 | 5 | 24.5 | 1.63 |
-| Avignon Guard | The Vatican | Brawler | 15 | 3 | 6 | 24.0 | 1.71 |
-| Doctor of Tides | The Doctors | Canal Fighter | 15 | 3 | 6 | 24.0 | 1.33 |
-| Knight of Malta | The Vatican | Brawler | 12 | 4 | 4 | 23.3 | 1.66 |
-| Giurgiu Guard | Strigoi | Line Fighter | 12 | 4 | 4 | 23.3 | 1.79 |
-| Spatar | Strigoi | Tank | 12 | 4 | 5 | 22.9 | 1.43 |
+| [Morgraur](/factions/rashaar/morgraur/) | [Rashaar](/factions/rashaar/) | Brawler | 45 | 3 | 5 | 55.2 | 0.81 |
+| [Venetian Heavy Guard](/factions/patricians/venetian-heavy-guard/) | [Patricians](/factions/patricians/) | Brawler | 15 | 4 | 5 | 47.9 | 2.99 |
+| [Brachyura](/factions/rashaar/brachyura/) | [Rashaar](/factions/rashaar/) | Brawler | 20 | 3 | 7 | 42.6 | 2.37 |
+| [Emissary of Mother Hydra](/factions/rashaar/emissary-of-mother-hydra/) | [Rashaar](/factions/rashaar/) | Canal Fighter | 30 | 3 | 5 | 36.8 | 0.72 |
+| [Sepulchral Vanguard](/factions/the-vatican/sepulchral-vanguard/) | [The Vatican](/factions/the-vatican/) | Tank | 13 | 3 | 5 | 33.6 | 2.24 |
+| [Seraph](/factions/the-vatican/seraph/) | [The Vatican](/factions/the-vatican/) | Disruptor | 15 | 4 | 6 | 29.6 | 1.74 |
+| [Knight of the Holy Sepulchre](/factions/the-vatican/knight-of-the-holy-sepulchre/) | [The Vatican](/factions/the-vatican/) | Brawler | 18 | 3 | 6 | 28.8 | 1.69 |
+| [Gethsemane](/factions/the-vatican/gethsemane/) | [The Vatican](/factions/the-vatican/) | Brawler | 28 | 4 | 0 | 26.3 | 0.71 |
+| [Warden](/factions/the-doctors/warden/) | [The Doctors](/factions/the-doctors/) | Tank | 13 | 4 | 4 | 25.3 | 1.95 |
+| [Rhino](/factions/the-doctors/rhino/) | [The Doctors](/factions/the-doctors/) | Tank | 20 | 3 | 5 | 24.5 | 1.63 |
+| [Avignon Guard](/factions/the-vatican/avignon-guard/) | [The Vatican](/factions/the-vatican/) | Brawler | 15 | 3 | 6 | 24.0 | 1.71 |
+| [Doctor of Tides](/factions/the-doctors/doctor-of-tides/) | [The Doctors](/factions/the-doctors/) | Canal Fighter | 15 | 3 | 6 | 24.0 | 1.33 |
+| [Knight of Malta](/factions/the-vatican/knight-of-malta/) | [The Vatican](/factions/the-vatican/) | Brawler | 12 | 4 | 4 | 23.3 | 1.66 |
+| [Giurgiu Guard](/factions/strigoi/giurgiu-guard/) | [Strigoi](/factions/strigoi/) | Line Fighter | 12 | 4 | 4 | 23.3 | 1.79 |
+| [Spatar](/factions/strigoi/spatar/) | [Strigoi](/factions/strigoi/) | Tank | 12 | 4 | 5 | 22.9 | 1.43 |
 
-## Best durability value (top 15 by ATK2K/Ducat)
+### Best value
 
-The per-Ducat counterpart to Tankiest — most survivability per point spent.
+The per-Ducat counterpart, most survivability per point spent.
 
 | Model | Faction | Role | cost | ATK2K | ATK2K/ducat |
 |---|---|---|---|---|---|
-| Venetian Heavy Guard | Patricians | Brawler | 16 | 47.9 | 2.99 |
-| Brachyura | Rashaar | Brawler | 18 | 42.6 | 2.37 |
-| Sepulchral Vanguard | The Vatican | Tank | 15 | 33.6 | 2.24 |
-| Warden | The Doctors | Tank | 13 | 25.3 | 1.95 |
-| Giurgiu Guard | Strigoi | Line Fighter | 13 | 23.3 | 1.79 |
-| Seraph | The Vatican | Disruptor | 17 | 29.6 | 1.74 |
-| Avignon Guard | The Vatican | Brawler | 14 | 24.0 | 1.71 |
-| Knight of the Holy Sepulchre | The Vatican | Brawler | 17 | 28.8 | 1.69 |
-| Knight of Malta | The Vatican | Brawler | 14 | 23.3 | 1.66 |
-| Rhino | The Doctors | Tank | 15 | 24.5 | 1.63 |
-| Spatar | Strigoi | Tank | 16 | 22.9 | 1.43 |
-| Hippogryph | The Doctors | Harasser | 7 | 9.8 | 1.4 |
-| Cult Enforcer | Rashaar | Brawler | 14 | 19.5 | 1.39 |
-| City Guard | Patricians | Line Fighter | 10 | 13.7 | 1.37 |
-| Hired Muscle | Patricians | Brawler | 11 | 14.9 | 1.35 |
-
-## Vulnerability profile: net LP taken per attack by threat type
-
-Compares each reference attacker. A model whose `penetrator`/`drown` column spikes
-relative to `baseline` has a defence that specific threats bypass.
-
-### Most Penetration-vulnerable (highest net_penetrator − net_baseline, Prot ≥ 3)
-
-| Model | Faction | Role | Prot | net base | net pen | delta |
-|---|---|---|---|---|---|---|
-| Knight of Malta | The Vatican | Brawler | 4 | 0.51 | 1.89 | 1.38 |
-| Giurgiu Guard | Strigoi | Line Fighter | 4 | 0.51 | 1.89 | 1.38 |
-| Warden | The Doctors | Tank | 4 | 0.51 | 1.89 | 1.38 |
-| Bishop Guard | The Vatican | Line Fighter | 4 | 0.67 | 1.89 | 1.22 |
-| Celestial Congregation | The Vatican | Support | 3 | 1.36 | 2.5 | 1.14 |
-| Baba-Yaga | The Guild | Damage Dealer | 3 | 1.36 | 2.5 | 1.14 |
-| Beggar | The Guild | Objective Runner | 3 | 1.36 | 2.5 | 1.14 |
-| Blood Courier | The Guild | Support | 3 | 1.36 | 2.5 | 1.14 |
-| Cetean Upiór | Strigoi | Canal Fighter | 3 | 1.36 | 2.5 | 1.14 |
-| Strigoi Sluger | Strigoi | Damage Dealer | 3 | 1.36 | 2.5 | 1.14 |
-| Mature Kraken | Rashaar | Control | 3 | 1.36 | 2.5 | 1.14 |
-| Salaacia | Rashaar | Canal Fighter | 3 | 1.36 | 2.5 | 1.14 |
+| [Venetian Heavy Guard](/factions/patricians/venetian-heavy-guard/) | [Patricians](/factions/patricians/) | Brawler | 16 | 47.9 | 2.99 |
+| [Brachyura](/factions/rashaar/brachyura/) | [Rashaar](/factions/rashaar/) | Brawler | 18 | 42.6 | 2.37 |
+| [Sepulchral Vanguard](/factions/the-vatican/sepulchral-vanguard/) | [The Vatican](/factions/the-vatican/) | Tank | 15 | 33.6 | 2.24 |
+| [Warden](/factions/the-doctors/warden/) | [The Doctors](/factions/the-doctors/) | Tank | 13 | 25.3 | 1.95 |
+| [Giurgiu Guard](/factions/strigoi/giurgiu-guard/) | [Strigoi](/factions/strigoi/) | Line Fighter | 13 | 23.3 | 1.79 |
+| [Seraph](/factions/the-vatican/seraph/) | [The Vatican](/factions/the-vatican/) | Disruptor | 17 | 29.6 | 1.74 |
+| [Avignon Guard](/factions/the-vatican/avignon-guard/) | [The Vatican](/factions/the-vatican/) | Brawler | 14 | 24.0 | 1.71 |
+| [Knight of the Holy Sepulchre](/factions/the-vatican/knight-of-the-holy-sepulchre/) | [The Vatican](/factions/the-vatican/) | Brawler | 17 | 28.8 | 1.69 |
+| [Knight of Malta](/factions/the-vatican/knight-of-malta/) | [The Vatican](/factions/the-vatican/) | Brawler | 14 | 23.3 | 1.66 |
+| [Rhino](/factions/the-doctors/rhino/) | [The Doctors](/factions/the-doctors/) | Tank | 15 | 24.5 | 1.63 |
+| [Spatar](/factions/strigoi/spatar/) | [Strigoi](/factions/strigoi/) | Tank | 16 | 22.9 | 1.43 |
+| [Hippogryph](/factions/the-doctors/hippogryph/) | [The Doctors](/factions/the-doctors/) | Harasser | 7 | 9.8 | 1.4 |
+| [Cult Enforcer](/factions/rashaar/cult-enforcer/) | [Rashaar](/factions/rashaar/) | Brawler | 14 | 19.5 | 1.39 |
+| [City Guard](/factions/patricians/city-guard/) | [Patricians](/factions/patricians/) | Line Fighter | 10 | 13.7 | 1.37 |
+| [Hired Muscle](/factions/patricians/hired-muscle/) | [Patricians](/factions/patricians/) | Brawler | 11 | 14.9 | 1.35 |

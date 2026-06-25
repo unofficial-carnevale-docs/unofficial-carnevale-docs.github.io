@@ -115,7 +115,7 @@ Faction-level offence: output quality against the global standard, plus the two 
 
 Per-faction median EDPA for each primary offensive role, vs that role's global median (Snipers are judged separately on alpha, above). ***vs global (value)* (per-Ducat) is the fairer read**. The raw column favours factions whose models are simply more expensive.
 
-**Small-n factions (1-2 models) are effectively a single statline, not a distribution.**
+**Small-n roles (1-2 models) are effectively a single statline, not a distribution.**
 
 **Damage Dealers** (global median EDPA 2.92, EDPA/Ducat 0.19):
 
@@ -150,6 +150,28 @@ Per-faction median EDPA for each primary offensive role, vs that role's global m
 | [Gifted](/factions/gifted/) | 1 | 3.99 | +24% | 0.2 | +5% |
 | [The Vatican](/factions/the-vatican/) | 1 | 2.68 | -17% | 0.134 | -29% |
 | [Strigoi](/factions/strigoi/) | 3 | 3.52 | +9% | 0.133 | -30% |
+
+**Line Fighters** (global median EDPA 1.46, EDPA/Ducat 0.148):
+
+| Faction | n | median EDPA | vs global (raw) | median EDPA/ducat | vs global (value) |
+|---|---|---|---|---|---|
+| [Patricians](/factions/patricians/) | 7 | 1.5 | +3% | 0.167 | +13% |
+| [Rashaar](/factions/rashaar/) | 4 | 1.68 | +15% | 0.162 | +9% |
+| [Strigoi](/factions/strigoi/) | 6 | 1.61 | +10% | 0.157 | +6% |
+| [The Vatican](/factions/the-vatican/) | 7 | 1.43 | -2% | 0.142 | -4% |
+| [The Guild](/factions/the-guild/) | 5 | 1.13 | -23% | 0.141 | -5% |
+| [The Doctors](/factions/the-doctors/) | 5 | 1.13 | -23% | 0.126 | -15% |
+
+**Canal Fighters** (global median EDPA 2.68, EDPA/Ducat 0.151):
+
+| Faction | n | median EDPA | vs global (raw) | median EDPA/ducat | vs global (value) |
+|---|---|---|---|---|---|
+| [Strigoi](/factions/strigoi/) | 4 | 3.02 | +13% | 0.205 | +36% |
+| [The Guild](/factions/the-guild/) | 2 | 2.29 | -15% | 0.18 | +19% |
+| [Patricians](/factions/patricians/) | 1 | 1.99 | -26% | 0.166 | +10% |
+| [The Doctors](/factions/the-doctors/) | 7 | 2.68 | +0% | 0.149 | -1% |
+| [The Vatican](/factions/the-vatican/) | 1 | 2.68 | +0% | 0.149 | -1% |
+| [Rashaar](/factions/rashaar/) | 9 | 2.68 | +0% | 0.098 | -35% |
 
 ### Frenzy burst
 
