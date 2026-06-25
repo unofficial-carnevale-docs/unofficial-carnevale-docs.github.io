@@ -22,14 +22,14 @@ See [Combat Capabilities Calculations](/mechanics/combat/) for method and calibr
 | Brawler | 17 | 13.2 | 18.4 | 21.0 | 26.3 | 55.2 | 1.32 |
 | Control | 4 | 8.0 | 8.98 | 12.65 | 16.02 | 16.1 | 0.67 |
 | Canal Fighter | 24 | 6.7 | 8.6 | 12.55 | 15.7 | 36.8 | 0.8 |
-| Sniper | 6 | 10.6 | 11.03 | 12.55 | 13.7 | 18.4 | 1.12 |
 | Disruptor | 6 | 4.0 | 8.8 | 12.25 | 15.25 | 29.6 | 0.82 |
-| Damage Dealer | 66 | 5.0 | 8.93 | 10.75 | 13.7 | 22.9 | 0.73 |
+| Sniper | 9 | 9.7 | 10.9 | 11.5 | 13.7 | 18.4 | 0.99 |
+| Damage Dealer | 62 | 5.0 | 8.93 | 10.75 | 13.7 | 22.9 | 0.72 |
 | Assassin | 10 | 7.3 | 9.8 | 10.3 | 13.55 | 17.0 | 0.59 |
 | Line Fighter | 34 | 2.9 | 8.8 | 9.7 | 11.5 | 23.3 | 0.97 |
 | Specialist | 38 | 1.8 | 5.6 | 9.7 | 10.6 | 20.6 | 0.69 |
 | Support | 42 | 4.5 | 8.8 | 9.7 | 10.6 | 18.0 | 0.75 |
-| Harasser | 9 | 3.8 | 4.9 | 8.7 | 9.8 | 15.0 | 0.75 |
+| Harasser | 10 | 3.8 | 4.93 | 8.75 | 9.58 | 15.0 | 0.76 |
 | Objective Runner | 12 | 5.0 | 6.7 | 7.7 | 9.33 | 11.3 | 0.79 |
 
 ## Durability by faction (median ATK2K vs baseline)
@@ -99,11 +99,11 @@ relative to `baseline` has a defence that specific threats bypass.
 | Giurgiu Guard | Strigoi | Line Fighter | 4 | 0.51 | 1.89 | 1.38 |
 | Warden | The Doctors | Tank | 4 | 0.51 | 1.89 | 1.38 |
 | Bishop Guard | The Vatican | Line Fighter | 4 | 0.67 | 1.89 | 1.22 |
+| Celestial Congregation | The Vatican | Support | 3 | 1.36 | 2.5 | 1.14 |
 | Baba-Yaga | The Guild | Damage Dealer | 3 | 1.36 | 2.5 | 1.14 |
 | Beggar | The Guild | Objective Runner | 3 | 1.36 | 2.5 | 1.14 |
 | Blood Courier | The Guild | Support | 3 | 1.36 | 2.5 | 1.14 |
-| Celestial Congregation | The Vatican | Support | 3 | 1.36 | 2.5 | 1.14 |
 | Cetean Upiór | Strigoi | Canal Fighter | 3 | 1.36 | 2.5 | 1.14 |
+| Strigoi Sluger | Strigoi | Damage Dealer | 3 | 1.36 | 2.5 | 1.14 |
 | Mature Kraken | Rashaar | Control | 3 | 1.36 | 2.5 | 1.14 |
 | Salaacia | Rashaar | Canal Fighter | 3 | 1.36 | 2.5 | 1.14 |
-| Strigoi Sluger | Strigoi | Damage Dealer | 3 | 1.36 | 2.5 | 1.14 |
