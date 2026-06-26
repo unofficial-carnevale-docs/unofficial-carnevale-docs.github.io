@@ -1,4 +1,4 @@
-# Carnevale Reference
+# Carnevale Companion
 
 An unofficial community reference site for *Carnevale*, the tabletop skirmish game by [TTCombat](https://ttcombat.com/collections/carnevale). Built with Jekyll, hosted on GitHub Pages.
 
