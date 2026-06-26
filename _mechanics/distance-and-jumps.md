@@ -27,7 +27,7 @@ Expected horizontal gap a model can clear on a flat jump (average outcome, no Ac
 | 4   | 3.6"      | 3.2"      | 2.8"      | 1.8"      |
 | 5   | 4.0"      | 3.6"      | 3.2"      | 2.2"      |
 
-Each point of **Acrobatic** adds roughly **+0.24"** to the expected gap.
+The first point of **Acrobatic** adds roughly **+0.4"** to the expected gap (less for each further point).
 
 Height reduces the clearable horizontal gap (DEX 4 reference, penalty grows nonlinearly):
 
@@ -123,11 +123,11 @@ The table below shows the average distance covered by a jump, by DEX value and *
 |:---:|:------------:|:-------------:|:-------------:|:-------------:|
 | 1   | 2.30"        | 2.30"         | 2.30"         | 2.30"         |
 | 2   | 2.82"        | 3.13"         | 3.13"         | 3.13"         |
-| 3   | 3.29"        | 3.58"         | 3.84"         | 3.84"         |
-| 4   | 3.74"        | 4.00"         | 4.26"         | 4.51"         |
-| 5   | 4.16"        | 4.42"         | 4.67"         | 4.91"         |
-| 6   | 4.58"        | 4.83"         | 5.07"         | 5.31"         |
-| 7   | 4.99"        | 5.23"         | 5.47"         | 5.72"         |
-| 8   | 5.39"        | 5.63"         | 5.88"         | 6.12"         |
+| 3   | 3.29"        | 3.67"         | 3.84"         | 3.84"         |
+| 4   | 3.74"        | 4.14"         | 4.41"         | 4.51"         |
+| 5   | 4.16"        | 4.57"         | 4.90"         | 5.10"         |
+| 6   | 4.58"        | 4.98"         | 5.35"         | 5.63"         |
+| 7   | 4.99"        | 5.39"         | 5.78"         | 6.11"         |
+| 8   | 5.39"        | 5.79"         | 6.19"         | 6.55"         |
 
-**Each point of Acrobatic adds roughly 0.24" to the expected distance** (0.6 chance of a failed die × 0.4 chance the re-roll succeeds), capped by available dice.
+**The first point of Acrobatic adds roughly 0.40" to the expected distance** at DEX 4 and above, tapering to +0.31" at DEX 2 where only one die can be re-rolled. The driver is that you re-roll a die that has **already failed**, so the re-roll lands an Ace 40% of the time (each Ace is worth ~1"), and at typical DEX you almost always have a failed die to spend it on. A re-rolled Ace can also flip a Success into a Critical when the Destiny die is a 10, which lifts the average a touch. Further points of Acrobatic see steep diminishing returns (the second adds only +0.17" at DEX 3 up to +0.39" at DEX 8) as the supply of failed dice runs out.

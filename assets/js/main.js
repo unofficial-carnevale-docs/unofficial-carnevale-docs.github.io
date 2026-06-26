@@ -261,21 +261,24 @@
     var EJUMP = {
       1: [2.30, 2.30, 2.30, 2.30],
       2: [2.82, 3.13, 3.13, 3.13],
-      3: [3.29, 3.58, 3.84, 3.84],
-      4: [3.74, 4.00, 4.26, 4.51],
-      5: [4.16, 4.42, 4.67, 4.91],
-      6: [4.58, 4.83, 5.07, 5.31],
-      7: [4.99, 5.23, 5.47, 5.72],
-      8: [5.39, 5.63, 5.88, 6.12]
+      3: [3.29, 3.67, 3.84, 3.84],
+      4: [3.74, 4.14, 4.41, 4.51],
+      5: [4.16, 4.57, 4.90, 5.10],
+      6: [4.58, 4.98, 5.35, 5.63],
+      7: [4.99, 5.39, 5.78, 6.11],
+      8: [5.39, 5.79, 6.19, 6.55]
     };
 
     // ── Roll distribution (same model that produces the table above) ──
-    // n = DEX − 1 non-Destiny dice. With Acrobatic X, a = min(X, n) of them
-    // re-roll a failure (ace p = 0.64), the rest keep p = 0.4. K = their aces.
+    // m = DEX − 1 non-Destiny dice, each an Ace with p = 0.4. With Acrobatic X
+    // you re-roll up to X dice that ACTUALLY failed (chosen after the roll),
+    // each re-roll an Ace with p = 0.4. K = total non-Destiny aces. Re-rolling a
+    // real failure beats committing dice in advance, so Acrobatic is worth close
+    // to a full +0.4 aces per point at typical DEX.
     // Destiny die (uniform): 1 = Fumble only if K = 0; 10 = Critical only if K ≥ 1.
-    function kPMF(a, b) {
+    function binomPMF(n, p) {
       var pmf = [1];
-      function mul(p) {
+      for (var d = 0; d < n; d++) {
         var nx = new Array(pmf.length + 1);
         for (var i = 0; i < nx.length; i++) nx[i] = 0;
         for (var i = 0; i < pmf.length; i++) {
@@ -284,9 +287,16 @@
         }
         pmf = nx;
       }
-      var i;
-      for (i = 0; i < a; i++) mul(0.64);
-      for (i = 0; i < b; i++) mul(0.40);
+      return pmf;
+    }
+    function kPMF(m, X) {
+      var first = binomPMF(m, 0.40), pmf = [];
+      for (var i = 0; i <= m; i++) pmf[i] = 0;
+      for (var k0 = 0; k0 <= m; k0++) {
+        if (!first[k0]) continue;
+        var ex = binomPMF(Math.min(X, m - k0), 0.40);   // aces from re-rolled failures
+        for (var j = 0; j < ex.length; j++) pmf[k0 + j] += first[k0] * ex[j];
+      }
       return pmf;
     }
     // Max move (inches) for a given K and Destiny-die category
@@ -298,8 +308,8 @@
     }
     var CATW = { 1: 0.1, 2: 0.5, 3: 0.3, 4: 0.1 };
     function pLand(dex, acro, M) {                 // P(max move ≥ M)
-      var n = dex - 1, a = Math.min(acro, n), b = n - a;
-      var pk = kPMF(a, b), p = 0;
+      var n = dex - 1;
+      var pk = kPMF(n, Math.min(acro, n)), p = 0;
       for (var k = 0; k < pk.length; k++) {
         for (var c = 1; c <= 4; c++) {
           if (moveFor(k, c) >= M) p += pk[k] * CATW[c];
