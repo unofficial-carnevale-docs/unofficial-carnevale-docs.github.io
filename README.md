@@ -2,7 +2,7 @@
 
 An unofficial community reference site for *Carnevale*, the tabletop skirmish game by [TTCombat](https://ttcombat.com/collections/carnevale). Built with Jekyll, hosted on GitHub Pages.
 
-**Live site:** [unofficial-carnevale-docs.github.io](https://unofficial-carnevale-docs.github.io)
+**Live site:** [carnevale-companion.github.io](https://carnevale-companion.github.io)
 
 > All game content and intellectual property belongs to TTCombat. This is a fan-made reference and analysis site only.
 

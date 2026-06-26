@@ -8,7 +8,7 @@ description: >-
 # username.github.io/repo-name  →  baseurl: "/repo-name"
 # username.github.io            →  baseurl: ""
 baseurl: ""
-url: "https://unofficial-carnevale-docs.github.io"
+url: "https://carnevale-companion.github.io"
 
 markdown: kramdown
 highlighter: rouge
