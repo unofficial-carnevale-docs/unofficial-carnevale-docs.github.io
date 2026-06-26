@@ -58,31 +58,31 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 **[Patriarch Bishop de Bernis](/factions/the-vatican/patriarch-bishop-de-bernis/)** <span class="entry-tag">Support (mage) / Damage Dealer (magic)</span>
 {: .entry-title}
 
-Best mage of the faction, gives gang-wide WP regen via **Companion (*Leader*)**. He's mainly a support but has access to Summon Vermin, meaning he can be a good damage dealer against non-armoured enemies.
+Best mage of the faction, gives gang-wide Will Point regen via **Companion (*Leader*)**. He's mainly a support but has access to Summon Vermin, meaning he can be a good damage dealer against non-armoured enemies.
 {: .entry-note}
 
 **[Father Cesta](/factions/the-vatican/father-cesta/)** <span class="entry-tag">Support (mage, Constructs)</span>
 {: .entry-title}
 
-Flying mage with lots of buffs for **Constructs**, notably removing their **Mindless** attribute.
+Flying mage with lots of buffs for *Constructs*, notably removing their **Mindless** attribute.
 {: .entry-note}
 
 **[Exorcist](/factions/the-vatican/exorcist/)** <span class="entry-tag">Disruptor</span>
 {: .entry-title}
 
-Mediocre combatant, it's a Disruptor with a permanent +3 damage vs WP-0 models, making him a good counterpick in certain situations (notably against Strigoi).
+Mediocre combatant, a disruptor with a permanent +3 damage against models with no Will Points, making him a good counterpick in certain situations (notably against Strigoi).
 {: .entry-note}
 
 **[Inquisitor](/factions/the-vatican/inquisitor/)** <span class="entry-tag">Damage Dealer (magic) / Support (offensive, magic)</span>
 {: .entry-title}
 
-Very aggressive **Frenzied** caster. He has access to Blood Rites, making him a strong damage dealer, but he has a low LP pool and no way to regenerate them.
+Very aggressive **Frenzied** caster. He has access to Blood Rites, making him a strong damage dealer, but he has a low LP pool and no way to regenerate it.
 {: .entry-note}
 
 **[Knight Commander](/factions/the-vatican/knight-commander/)** <span class="entry-tag">Brawler</span>
 {: .entry-title}
 
-Really strong all-round fighter with high damage and high protection but with a Full Plate (weak near water). He also gives a small buff to **Hospitallers**, but nothing worth building the gang around.
+Really strong all-round fighter with high damage and high protection, but with a Full Plate (weak near water). He also gives a small buff to *Hospitallers*, but nothing worth building the gang around.
 {: .entry-note}
 
 ### Sub-factions
@@ -97,10 +97,10 @@ Really strong all-round fighter with high damage and high protection but with a 
 <details class="role-group" markdown="1">
 <summary markdown="span">Mages <span class="role-count">5</span></summary>
 
-- [Galilean Priest](/factions/the-vatican/galilean-priest/) is a support/control caster that can double as a damage dealer with Summon Vermin. He's also not hindered at all by water, he's a **Fast Swimmer** and can cast spells while in water.
-- [Silere Priest](/factions/the-vatican/silere-priest/) is an expensive offensive support piece, bringing a +Damage aura in addition to its spells.
-- [Summoner Priest](/factions/the-vatican/summoner-priest/) is a support mage that can teleport near him constructs from anywhere on the board.
-- [Baptist](/factions/the-vatican/baptist/) is a support mage that can bless water, preventing allies to be drowned and allowing enemy water creatures to be drowned inside an area.
+- [Galilean Priest](/factions/the-vatican/galilean-priest/) is a support/control caster that doubles as a damage dealer with Summon Vermin, and is fully at home in water as a **Fast Swimmer** that can cast while submerged.
+- [Silere Priest](/factions/the-vatican/silere-priest/) is an expensive offensive support piece, adding a damage-boost aura to its spells.
+- [Summoner Priest](/factions/the-vatican/summoner-priest/) is a support mage that can teleport *Constructs* to itself from anywhere on the board.
+- [Baptist](/factions/the-vatican/baptist/) is a support mage that can bless water, stopping allies from being drowned in an area while letting enemy water creatures be drowned there.
 - [Stigmatist](/factions/the-vatican/stigmatist/) is a cost-efficient but fragile **Frenzied** mage damage dealer.
 
 </details>
@@ -108,60 +108,60 @@ Really strong all-round fighter with high damage and high protection but with a 
 <details class="role-group" markdown="1">
 <summary markdown="span">Damage Dealer <span class="role-count">5</span></summary>
 
-- [Felix Baumgartner](/factions/the-vatican/felix-baumgartner/) is an expensive melee damage dealer. He's able to give armour-piercing for a round, and regenerates all his WP when he kills an enemy.
-- [Inquisition Commissioner](/factions/the-vatican/inquisition-commissioner/) is a good all-around fighter with a lot of CP.
-- [Prelate of the Flaming Sword](/factions/the-vatican/prelate-of-the-flaming-sword/) is a resistant and cost-efficient melee damage dealer specialized in armour-piercing.
-- [Templar Marshal](/factions/the-vatican/templar-marshal/) is an all-around good damage dealer with a really high-range crossbow.
-- [Executioner](/factions/the-vatican/executioner/) is a cheap, cost-efficient, but fragile melee damage dealer.
+- [Felix Baumgartner](/factions/the-vatican/felix-baumgartner/) is an expensive melee damage dealer that can grant armour-piercing for a round and regenerates all his Will Points on a kill.
+- [Inquisition Commissioner](/factions/the-vatican/inquisition-commissioner/) is a good all-around melee/mid-range fighter with plenty of Command Points.
+- [Prelate of the Flaming Sword](/factions/the-vatican/prelate-of-the-flaming-sword/) is a resistant, cost-efficient melee damage dealer specialised in armour-piercing.
+- [Templar Marshal](/factions/the-vatican/templar-marshal/) is a well-rounded damage dealer with a very long-range crossbow.
+- [Executioner](/factions/the-vatican/executioner/) is a cheap, cost-efficient but fragile melee damage dealer.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Brawler <span class="role-count">7</span></summary>
 
-- [Gethsemane](/factions/the-vatican/gethsemane/) is a very expensive but a really strong and cost-effective giant monster that's mobile for its size.
-- [Golgotha](/factions/the-vatican/golgotha/) is an expensive but high-output and cost-efficient Brawler.
-- [Venator of Devotion](/factions/the-vatican/venator-of-devotion/) is an expensive but high-output and cost-efficient brawler but with a Full Plate (weak near water).
-- [Knight of the Holy Sepulchre](/factions/the-vatican/knight-of-the-holy-sepulchre/) is a fast brawler that can buff allies' movement, but he has a Full Plate (weak near water).
-- [Paladin of St Lazarus](/factions/the-vatican/paladin-of-st-lazarus/) is an expensive piece, but when he's killed he has a chance to resurrect with a MIND roll. This makes him strong with Patriarch Bishop de Bernis, **Companion (*Leader*)** allowing him to use the Patriarch's Mind 5.
-- [Burning Saint](/factions/the-vatican/burning-saint/) is a Full Plate brawler with the ability to create a damaging area around her at the end of the round.
-- [Avignon Guard](/factions/the-vatican/avignon-guard/) is a strong and cost-efficient combatant, but with a Full Plate (weak near water).
+- [Gethsemane](/factions/the-vatican/gethsemane/) is a very expensive but strong and cost-effective giant monster, mobile for its size.
+- [Golgotha](/factions/the-vatican/golgotha/) is an expensive but high-output, cost-efficient brawler.
+- [Venator of Devotion](/factions/the-vatican/venator-of-devotion/) is a high-output, cost-efficient brawler with **Hunter** and a heavy **Knockback** reach weapon, but wears Full Plate (weak near water).
+- [Knight of the Holy Sepulchre](/factions/the-vatican/knight-of-the-holy-sepulchre/) is a fast brawler that can buff allies' movement, but wears Full Plate (weak near water).
+- [Paladin of St Lazarus](/factions/the-vatican/paladin-of-st-lazarus/) is an expensive brawler with a chance to resurrect on a MIND roll when killed, strong alongside Patriarch Bishop de Bernis whose Mind 5 it can borrow through **Companion (*Leader*)**.
+- [Burning Saint](/factions/the-vatican/burning-saint/) is a Full Plate brawler with very heavy armour (**Universal Shielding (6)**, weak near water) that creates a damaging area around her at the end of the round.
+- [Avignon Guard](/factions/the-vatican/avignon-guard/) is a strong, cost-efficient Full Plate brawler (weak near water).
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Assassin <span class="role-count">1</span></summary>
 
-- [Angel of the Blooded Rose](/factions/the-vatican/angel-of-the-blooded-rose/) is a flying melee assassin. She's pricey for her damage output, but has a WP regeneration boost aura.
+- [Angel of the Blooded Rose](/factions/the-vatican/angel-of-the-blooded-rose/) is a flying melee assassin, pricey for her damage but bringing a Will Point regeneration aura.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Sniper <span class="role-count">1</span></summary>
 
-- [Scorpio Marksman](/factions/the-vatican/scorpio-marksman/) is a cost-efficient, high damage, high resistance mid-range sniper.
+- [Scorpio Marksman](/factions/the-vatican/scorpio-marksman/) is a cost-efficient mid-range sniper with high damage and high resistance.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Tank <span class="role-count">1</span></summary>
 
-- [Sepulchral Vanguard](/factions/the-vatican/sepulchral-vanguard/) is an extremely durable and cheap tank for the staying power it brings, and doubles as a WP lockout disruptor that can attempt to Dispel.
+- [Sepulchral Vanguard](/factions/the-vatican/sepulchral-vanguard/) is an extremely durable, cheap tank for the staying power it brings, and doubles as a Will Point lockout disruptor that can attempt to Dispel.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Disruptor <span class="role-count">2</span></summary>
 
-- [Seraph](/factions/the-vatican/seraph/) is an expensive fast, tanky Disruptor.
-- [Eater of Sin](/factions/the-vatican/eater-of-sin/) is a unique Disruptor: enemy characters in LOS cannot use the MIND value of other characters, making him a great tech pick against low Mind **Primitive** monsters.
+- [Seraph](/factions/the-vatican/seraph/) is an expensive, fast, tanky disruptor that flies.
+- [Eater of Sin](/factions/the-vatican/eater-of-sin/) is a unique disruptor: enemies in line of sight cannot use the MIND value of other characters, a great tech pick against low-Mind **Primitive** monsters.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Support <span class="role-count">2</span></summary>
 
-- [Cross-bearing Deacon](/factions/the-vatican/cross-bearing-deacon/) is a very resistant support with a WP replenishment aura. He also gives every friendly model in LOS **Brave**, making it a good tech piece against heavy **Fear** factions.
+- [Cross-bearing Deacon](/factions/the-vatican/cross-bearing-deacon/) is a very resistant support with a Will Point replenishment aura. It also gives every friendly model in line of sight **Brave**, a good tech piece against heavy-**Fear** factions.
 - [Conventual Chaplain](/factions/the-vatican/conventual-chaplain/) is a high-Command support piece.
 
 </details>
@@ -169,8 +169,8 @@ Really strong all-round fighter with high damage and high protection but with a 
 <details class="role-group" markdown="1">
 <summary markdown="span">Specialist <span class="role-count">2</span></summary>
 
-- [Throne](/factions/the-vatican/throne/) is a very expensive flying construct but with a strong and rare ability to make friendly models regenerate their CP.
-- [Divine Seraphim](/factions/the-vatican/divine-seraphim/) is an expensive flying construct. He has low combat stats but a good armour-piercing **Template** attack and an aura protecting allies from **Stun**, **Poisoned**, and Full Plate.
+- [Throne](/factions/the-vatican/throne/) is a very expensive flying construct with the strong and rare ability to make friendly models regenerate Command Points.
+- [Divine Seraphim](/factions/the-vatican/divine-seraphim/) is an expensive flying construct with low combat stats but a good armour-piercing **Template** attack and an aura that protects allies from **Stun**, **Poisoned**, and Full Plate penalties.
 
 </details>
 
@@ -180,54 +180,54 @@ Really strong all-round fighter with high damage and high protection but with a 
 <details class="role-group" markdown="1">
 <summary markdown="span">Mages <span class="role-count">1</span></summary>
 
-- [Lacrimosa](/factions/the-vatican/lacrimosa/) is a support mage that heals in a small zone around her when she exploits her **Frenzied** ability.
+- [Lacrimosa](/factions/the-vatican/lacrimosa/) is a support mage that heals a small zone around her when she uses her **Frenzied** ability.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Brawler <span class="role-count">1</span></summary>
 
-- [Knight of Malta](/factions/the-vatican/knight-of-malta/) is a standard **Hospitaller** brawler.
+- [Knight of Malta](/factions/the-vatican/knight-of-malta/) is a standard *Hospitaller* brawler, and unlike most it does not wear Full Plate, so it keeps fighting near water.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Sniper <span class="role-count">2</span></summary>
 
-- [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/) is a short-range construct sniper.
-- [Maltese Squire](/factions/the-vatican/maltese-squire/) is a cheap but not very cost-effective high-range sniper.
+- [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/) is a short-range construct sniper with a hard-hitting gun.
+- [Maltese Squire](/factions/the-vatican/maltese-squire/) is a cheap high-range sniper, though not very cost-effective.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Canal Fighter <span class="role-count">1</span></summary>
 
-- [Thalassic Messenger](/factions/the-vatican/thalassic-messenger/) is the only fighter of the faction that's efficient in water. It's expensive but really good at Drowning.
+- [Thalassic Messenger](/factions/the-vatican/thalassic-messenger/) is the only fighter in the faction that is efficient in water, expensive but excellent at Drowning.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Disruptor <span class="role-count">1</span></summary>
 
-- [Witch Finder](/factions/the-vatican/witch-finder/) is a WP lockout Disruptor that's also a strong grappler.
+- [Witch Finder](/factions/the-vatican/witch-finder/) is a Will Point lockout disruptor that is also a strong grappler.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Support <span class="role-count">5</span></summary>
 
-- [Celestial Congregation](/factions/the-vatican/celestial-congregation/) is an offensive support piece that heals **Constructs** at the cost of its own life.
-- [Altar Boy](/factions/the-vatican/altar-boy/) is a fragile but agile support piece with a WP regeneration and a **First Strike** aura.
-- [Celestial Spirit](/factions/the-vatican/celestial-spirit/) is a cheap but fragile support that sacrifices itself to give actions to other **Constructs**.
-- [Reliquary Page](/factions/the-vatican/reliquary-page/) is a cheap agile support with a reroll aura.
-- [Cherubim](/factions/the-vatican/cherubim/) is a cheap model that extends the **Companion** ability of allies to itself.
+- [Celestial Congregation](/factions/the-vatican/celestial-congregation/) is an offensive support piece that heals *Constructs* at the cost of its own Life.
+- [Altar Boy](/factions/the-vatican/altar-boy/) is a fragile but agile support piece with Will Point regeneration and **First Strike** auras.
+- [Celestial Spirit](/factions/the-vatican/celestial-spirit/) is a cheap, fragile support that sacrifices itself to give actions to other *Constructs*.
+- [Reliquary Page](/factions/the-vatican/reliquary-page/) is a cheap, agile support with a re-roll aura.
+- [Cherubim](/factions/the-vatican/cherubim/) is a cheap model that extends allies' **Companion** ability to itself.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Objective Runner <span class="role-count">1</span></summary>
 
-- [Inquisitorial Spy](/factions/the-vatican/inquisitorial-spy/) is an infiltrator that generates one reroll for the gang.
+- [Inquisitorial Spy](/factions/the-vatican/inquisitorial-spy/) is an infiltrator that generates one re-roll for the gang.
 
 </details>
 
@@ -235,11 +235,11 @@ Really strong all-round fighter with high damage and high protection but with a 
 <summary markdown="span">Line Fighter <span class="role-count">7</span></summary>
 
 - [Bishop Guard](/factions/the-vatican/bishop-guard/) is a cost-effective line fighter with **Bodyguard (*Leader*)**.
-- [Redemptionist](/factions/the-vatican/redemptionist/) is a **Frenzied** line fighter. It needs a bit of healing to reveal its full potential.
+- [Redemptionist](/factions/the-vatican/redemptionist/) is a **Frenzied** line fighter that needs a little healing to reach its full potential.
 - [Chevaleresse](/factions/the-vatican/chevaleresse/) is a cost-effective line fighter with **Bodyguard (*Henchman*)**.
 - [Priest](/factions/the-vatican/priest/) is a cheap line fighter with a **Stun** weapon.
 - [Crucifier](/factions/the-vatican/crucifier/) is an armour-piercing line fighter.
-- [French Infantryman](/factions/the-vatican/french-infantryman/) is a cheap but not very cost-effective line fighter with a **Knockback** weapon.
+- [French Infantryman](/factions/the-vatican/french-infantryman/) is a cheap line fighter with a **Knockback** reach weapon, though not very cost-effective.
 - [Martyr](/factions/the-vatican/martyr/) is a very cheap line fighter.
 
 </details>
@@ -247,8 +247,8 @@ Really strong all-round fighter with high damage and high protection but with a 
 <details class="role-group" markdown="1">
 <summary markdown="span">Specialist <span class="role-count">2</span></summary>
 
-- [Thomas Thieme](/factions/the-vatican/thomas-thieme/) is Felix Baumgartner's **Bodyguard**, he's a **Hunter** with a good attack against models without any WP.
-- [Stalker](/factions/the-vatican/stalker/) is a high-range Counter trigger infiltrator: COUNTER commands are free when used on it.
+- [Thomas Thieme](/factions/the-vatican/thomas-thieme/) is Felix Baumgartner's **Bodyguard**, a **Hunter** with a strong attack against models that have no Will Points.
+- [Stalker](/factions/the-vatican/stalker/) is a high-range infiltrator and Counter trigger: COUNTER commands are free when used on it.
 
 </details>
 

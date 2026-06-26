@@ -55,19 +55,19 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 **[The Flame That Burns Underwater](/factions/rashaar/the-flame-that-burns-underwater/)** <span class="entry-tag">Canal Fighter</span>
 {: .entry-title}
 
-Really expensive leader, but she's an insane grappler and drowner with heavy AoE damage.
+Really expensive leader, but she's an insane grappler and drowner with heavy area damage.
 {: .entry-note}
 
 **[Magi-Rashaar](/factions/rashaar/magi-rashaar/)** <span class="entry-tag">Damage Dealer (magic, Blood Rites) / Support (magic)</span>
 {: .entry-title}
 
-Simply the best caster of the game, but very fragile.
+Simply the best caster in the game, but very fragile.
 {: .entry-note}
 
 **[Paartul Matriarch](/factions/rashaar/paartul-matriarch/)** <span class="entry-tag">Specialist (spawner)</span>
 {: .entry-title}
 
-She has weak stats but the unique ability to summon one Crybaby per turn, small annoying bodies that can be attacked by allies to loose **Mindless**. Build around Feral monsters, notably giving them **Companion (*Leader*)**.
+She has weak stats but the unique ability to summon one Crybaby per turn, small annoying bodies that allies can attack to lose **Mindless**. Build around *Feral* monsters, notably giving them **Companion (*Leader*)**.
 {: .entry-note}
 
 **[Sir Tiburcio](/factions/rashaar/sir-tiburcio/)** <span class="entry-tag">Tank</span>
@@ -79,13 +79,13 @@ Durable tank, slower than the faction standard in water and without an aquatic w
 **[Thalidraur](/factions/rashaar/thalidraur/)** <span class="entry-tag">Brawler</span>
 {: .entry-title}
 
-Big expensive melee monster that's very slow unless he's in water. He has very low CP but regenerates CP and WP when someone dies nearby.
+Big, expensive melee monster that is very slow unless he is in water. He has very low Command but regenerates Command Points and Will Points when someone dies nearby.
 {: .entry-note}
 
 **[Voice of Dagon](/factions/rashaar/voice-of-dagon/)** <span class="entry-tag">Support (CP, control)</span>
 {: .entry-title}
 
-One of the highest effective Command outputs in the game, otherwise a modest combattant but with a good armour-piercing **Stun** template attack.
+One of the highest effective Command outputs in the game, otherwise a modest combatant but with a good armour-piercing **Template** attack with **Stun**.
 {: .entry-note}
 
 ### Sub-factions
@@ -98,142 +98,130 @@ One of the highest effective Command outputs in the game, otherwise a modest com
 ### Heroes
 
 <details class="role-group" markdown="1">
-<summary markdown="span">Mages <span class="role-count">4</span></summary>
+<summary markdown="span">Mages <span class="role-count">3</span></summary>
 
-- [Paliaa](/factions/rashaar/paliaa/) is a spellcasting support piece, bringing control & action economy. Also fast through water; at home in water.
-- [The Drowned Nun](/factions/rashaar/the-drowned-nun/) is a spellcasting support canal fighter. It's low on damage and pricey for its output. Also fast through water; at home in water.
-- [Sirena](/factions/rashaar/sirena/) is a spellcasting damage support canal fighter. It's high-output and cost-efficient. Also fast through water; at home in water.
-- [Dagonite Priest](/factions/rashaar/dagonite-priest/) is a spellcasting damage dealer that doubles as a support piece, bringing damage & life-drain, versatile utility magic. Also pins fleeing enemies.
+- [Paliaa](/factions/rashaar/paliaa/) is a support caster, handing +1 Attack to Henchmen that fight alongside *Monsters*.
+- [The Drowned Nun](/factions/rashaar/the-drowned-nun/) is a support caster who fights from the water. Her unique **Dagonite Baptism** is a once-per-round nuke that scales with the Aces rolled, and she Stuns any enemy drowned in her line of sight.
+- [Sirena](/factions/rashaar/sirena/) is a fast, well-rounded caster-fighter that's exceptionally fast in water.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Damage Dealer <span class="role-count">1</span></summary>
 
-- [Raadru](/factions/rashaar/raadru/) is a melee damage dealer. It's high-output and tough for its role. Also fast through water; at home in water.
+- [Raadru](/factions/rashaar/raadru/) is an expensive but cost-effective melee damage dealer that is both high-output and unusually durable for the role.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Brawler <span class="role-count">3</span></summary>
 
-- [Morgraur](/factions/rashaar/morgraur/) is a brawler. It's high-output and tough for its role, but pricey for its output and Mindless (can't score primaries). Also fast through water; at home in water.
-- [Brachyura](/factions/rashaar/brachyura/) is a brawler. It's tough for its role, but Mindless (can't score primaries). Also at home in water.
-- [Cult Enforcer](/factions/rashaar/cult-enforcer/) is a brawler.
-
-</details>
-
-<details class="role-group" markdown="1">
-<summary markdown="span">Canal Fighter <span class="role-count">4</span></summary>
-
-- [Emissary of Mother Hydra](/factions/rashaar/emissary-of-mother-hydra/) is a canal fighter. It's high-output and tough for its role, with Vampiric self-healing, but pricey for its output and slow. Also fast through water; at home in water.
-- [Karcharos](/factions/rashaar/karcharos/) is a canal fighter. It's high-output and cost-efficient, but Mindless (can't score primaries). Also fast through water; at home in water.
-- [Salaacia](/factions/rashaar/salaacia/) is a drown canal fighter. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload). Also fast through water; at home in water.
-- [Caandru Eel](/factions/rashaar/caandru-eel/) is a canal fighter. It's cost-efficient, but Mindless (can't score primaries). Also a strong grappler/drowner; fast through water.
-
-</details>
-
-<details class="role-group" markdown="1">
-<summary markdown="span">Tank <span class="role-count">1</span></summary>
-
-- [Secreting Myxin](/factions/rashaar/secreting-myxin/) is a stun debuff aura tank. It's very durable, but costly for what it soaks and Mindless (can't score primaries). Also at home in water; slips out of melee freely.
-
-</details>
-
-<details class="role-group" markdown="1">
-<summary markdown="span">Control <span class="role-count">1</span></summary>
-
-- [Mature Kraken](/factions/rashaar/mature-kraken/) is a control piece. Its niche is to lock down or reposition enemies — weigh its control, not its stats. Also a strong grappler/drowner; at home in water.
-
-</details>
-
-<details class="role-group" markdown="1">
-<summary markdown="span">Support <span class="role-count">2</span></summary>
-
-- [Demagogue](/factions/rashaar/demagogue/) is a support piece. Also rattles low-Mind foes.
-- [Handler](/factions/rashaar/handler/) is a support piece. Also extra Penetration vs bigger bases.
-
-</details>
-
-<details class="role-group" markdown="1">
-<summary markdown="span">Specialist <span class="role-count">2</span></summary>
-
-- [Tainted Maw](/factions/rashaar/tainted-maw/) is a water pull specialist. Its niche is to drag enemies around near water (needs canals). Also a strong grappler/drowner; fast through water.
-- [Krakenhost](/factions/rashaar/krakenhost/) is a Kraken spawner specialist. Its niche is to spawn extra Kraken bodies over the game. Also Mindless (can't score primaries); a strong grappler/drowner.
-
-</details>
-
-
-### Henchmen
-
-<details class="role-group" markdown="1">
-<summary markdown="span">Mages <span class="role-count">1</span></summary>
-
-- [Aglaope](/factions/rashaar/aglaope/) is a spellcasting support piece, bringing stat buffs & dice manipulation, versatile utility magic. Also fast through water; at home in water.
-
-</details>
-
-<details class="role-group" markdown="1">
-<summary markdown="span">Damage Dealer <span class="role-count">2</span></summary>
-
-- [Dagonite Zealot](/factions/rashaar/dagonite-zealot/) is a melee damage dealer. It's Mindless (can't score primaries).
-- [Dagon Officiant](/factions/rashaar/dagon-officiant/) is a melee damage dealer.
+- [Morgraur](/factions/rashaar/morgraur/) is the faction's apex brawler, the toughest model in the game and one of the hardest-hitting, but at 68 points it is also the most expensive in the game and slow on land.
+- [Brachyura](/factions/rashaar/brachyura/) is a brilliantly durable brawler, Protection 7 making it one of the hardest models in the game to wound for its cost. It's expensive but punches well above 18 points.
+- [Cult Enforcer](/factions/rashaar/cult-enforcer/) is a cost-efficient brawler that has good all-around stats.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Canal Fighter <span class="role-count">3</span></summary>
 
-- [Half-Breed](/factions/rashaar/half-breed/) is a grappler canal fighter. It's low on damage and pricey for its output. Also fast through water; at home in water.
-- [Lesser Ugdru](/factions/rashaar/lesser-ugdru/) is a canal fighter. It's cost-efficient. Also fast through water; at home in water.
-- [Bulbous Toad](/factions/rashaar/bulbous-toad/) is a pull canal fighter. It's low on damage, pricey for its output and Mindless (can't score primaries). Also fast through water; at home in water.
+- [Karcharos](/factions/rashaar/karcharos/) is a fast, hard-hitting canal fighter and excellent value at 18 points, though it's **Mindless**.
+- [Salaacia](/factions/rashaar/salaacia/) is a drowner whose blast attack stuns and stays as water until the end of the round.
+- [Caandru Eel](/factions/rashaar/caandru-eel/) is a cost-efficient grappler that ambushes from the water.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Tank <span class="role-count">1</span></summary>
 
-- [Cymothoan Crusher](/factions/rashaar/cymothoan-crusher/) is a knockback stun tank. It's very durable, but Mindless (can't score primaries). Also at home in water.
+- [Secreting Myxin](/factions/rashaar/secreting-myxin/) is an offensive tank specialised against melee targets: it gets +4 Dexterity against any attacker within 3", has **Vampiric Attack**, and slows down everything around it. Very hard to pin down, but costly for what it soaks.
+
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Specialist <span class="role-count">2</span></summary>
+
+- [Tainted Maw](/factions/rashaar/tainted-maw/) is a repositioning specialist that drags any enemy it wounds straight into base contact, ready to be grappled and drowned.
+- [Krakenhost](/factions/rashaar/krakenhost/) is a specialist whose job is to spawn Infant Krakens through the game, including two more when it dies.
+
+</details>
+
+- The Dagonite Priest is a flexible caster, a damage dealer with Blood Rites or a utility support with Wild Magic. It can regenerate Will Points whenever its Sacrificial Dagger draws blood, even from its own gang.
+- The Emissary of Mother Hydra is a unique and very expensive model that comes with four or eight Tentacle henchmen.
+- The Mature Kraken is an expensive control piece that stuns, locks down and repositions enemies by grappling, healing itself as it fights.
+- The Demagogue is a support piece built around aggression, lending **Fear** to nearby friendly attacks and an aura that gives +2 Move on charges.
+- The Handler is a *Monster* support, letting nearby *Feral* models auto-pass their **Primitive** rolls, and it has a short-range aura speeding *Monsters* toward the enemy.
+
+### Henchmen
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Mages <span class="role-count">1</span></summary>
+
+- [Aglaope](/factions/rashaar/aglaope/) is a cheap support caster.
+
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Damage Dealer <span class="role-count">2</span></summary>
+
+- [Dagonite Zealot](/factions/rashaar/dagonite-zealot/) is a cost-efficient, high-Dexterity striker, but fragile.
+- [Dagon Officiant](/factions/rashaar/dagon-officiant/) is a cheap, straightforward and sturdy melee damage dealer.
+
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Canal Fighter <span class="role-count">3</span></summary>
+
+- [Half-Breed](/factions/rashaar/half-breed/) is a good grappler with modest damage and a **Knockback** weapon.
+- [Lesser Ugdru](/factions/rashaar/lesser-ugdru/) is one of the most cost-efficient canal fighters in the faction, a monster that swims in and hits hard for 14 points.
+- [Bulbous Toad](/factions/rashaar/bulbous-toad/) is a puller rather than a damage dealer, its harpoon reeling enemies in instead of knocking them away, and it can heal off them from a distance.
+
+</details>
+
+<details class="role-group" markdown="1">
+<summary markdown="span">Tank <span class="role-count">1</span></summary>
+
+- [Cymothoan Crusher](/factions/rashaar/cymothoan-crusher/) is a durable front-line wall with a **Knockback** weapon.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Support <span class="role-count">2</span></summary>
 
-- [Dagonite Page](/factions/rashaar/dagonite-page/) is a support piece. Also at home in water.
-- [Wet Nurse](/factions/rashaar/wet-nurse/) is a support piece.
+- [Dagonite Page](/factions/rashaar/dagonite-page/) is a support body that forces nearby enemies to re-roll an Ace on their Basic rolls. It will not fight.
+- [Wet Nurse](/factions/rashaar/wet-nurse/) is a Nexus for *Hydras*, refilling its Will Points whenever an Infant Kraken is in her sight.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Objective Runner <span class="role-count">3</span></summary>
 
-- [Advanced Hybrid](/factions/rashaar/advanced-hybrid/) is an objective runner. It's fragile. Also at home in water.
-- [Bounding Telchine](/factions/rashaar/bounding-telchine/) is an objective runner. It's self-stun-prone (Primitive). Also at home in water.
-- [Urchin](/factions/rashaar/urchin/) is an objective runner. It's fragile and Mindless (can't score primaries). Also steals WP/objectives on disengage.
+- [Advanced Hybrid](/factions/rashaar/advanced-hybrid/) is a mobile but fragile objective runner that leaps across the board.
+- [Bounding Telchine](/factions/rashaar/bounding-telchine/) is a cheap, jumpy objective runner that adds 2" to every successful Jump.
+- [Urchin](/factions/rashaar/urchin/) is a light objective runner with **Pickpocket**.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Line Fighter <span class="role-count">4</span></summary>
 
-- [Lesser Rhyll](/factions/rashaar/lesser-rhyll/) is a disruptive line fighter. It's pricey for its output. Also fast through water; at home in water.
-- [Encrusted Squire](/factions/rashaar/encrusted-squire/) is a bodyguard line fighter. It's high-output. Also at home in water.
-- [Hellhound](/factions/rashaar/hellhound/) is a line fighter. It's high-output, but Mindless (can't score primaries). Also at home in water.
-- [Hybrid](/factions/rashaar/hybrid/) is a line fighter. It's pricey for its output. Also fast through water.
+- [Lesser Rhyll](/factions/rashaar/lesser-rhyll/) is a line fighter with a **Stun** weapon.
+- [Encrusted Squire](/factions/rashaar/encrusted-squire/) is a hard-hitting line fighter that also guards the Leader and *Feral Monsters*.
+- [Hellhound](/factions/rashaar/hellhound/) is an aggressive, cost-effective 10-point line fighter that climbs well.
+- [Hybrid](/factions/rashaar/hybrid/) is a cheap, basic line fighter.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Specialist <span class="role-count">7</span></summary>
 
-- [Infant Kraken](/factions/rashaar/infant-kraken/) is a permanent-lockdown sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also self-stun-prone (Primitive); at home in water.
-- [Crybaby](/factions/rashaar/crybaby/) is a debuff sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also Mindless (can't score primaries).
-- [Slave](/factions/rashaar/slave/) is a Monster sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also Mindless (can't score primaries).
-- [Thorn Tentacle](/factions/rashaar/thorn-tentacle/) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
-- [Maw Tentacle](/factions/rashaar/maw-tentacle/) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); a strong grappler/drowner.
-- [Lash Tentacle](/factions/rashaar/lash-tentacle/) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
-- [Dagger Tentacle](/factions/rashaar/dagger-tentacle/) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
+- [Infant Kraken](/factions/rashaar/infant-kraken/) is cheap swarm fuel that gains Attack for each sibling piling onto the same target, and can sacrifice itself on a wound to stun an enemy down for the rest of the game. Spawned by Krakenhost.
+- [Crybaby](/factions/rashaar/crybaby/) is a 5-point nuisance that deploys almost anywhere and saps -1 Dexterity from everything around it. A friendly model can also kill it to shed its own **Mindless**, making it disposable fuel. It can be summoned by the Paartul Matriarch.
+- [Slave](/factions/rashaar/slave/) is 4-point fuel for your *Monsters*, sacrificed in base contact to heal an adjacent *Monster*.
+- [Thorn Tentacle](/factions/rashaar/thorn-tentacle/) is one of the Emissary of Mother Hydra's limbs, a stun and damage piece.
+- [Maw Tentacle](/factions/rashaar/maw-tentacle/) is one of the Emissary of Mother Hydra's limbs, a control grappler.
+- [Lash Tentacle](/factions/rashaar/lash-tentacle/) is one of the Emissary of Mother Hydra's limbs, a charging damage piece.
+- [Dagger Tentacle](/factions/rashaar/dagger-tentacle/) is the Emissary of Mother Hydra's ranged limb, adding short-range shooting to the cluster.
 
 </details>
 

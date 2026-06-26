@@ -54,31 +54,31 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 **[Doctor of the Mind](/factions/the-doctors/doctor-of-the-mind/)** <span class="entry-tag">Damage Dealer (magic)</span>
 {: .entry-title}
 
-Durable caster leader with high Command points to spend.
+Durable caster-leader with high Command Points to spend.
 {: .entry-note}
 
 **[Master of Necromantic Studies](/factions/the-doctors/master-of-necromantic-studies/)** <span class="entry-tag">Damage Dealer (magic)</span>
 {: .entry-title}
 
-Low-LP **Frenzied** offensive caster. She turns the whole faction into a fully **Frenzied** one without any WP (even the Nexus batteries), which is the most impactful gang-wide ability of any leader.
+Low-LP **Frenzied** offensive caster. She turns the whole faction into a fully **Frenzied** one without any Will Points (even the Nexus batteries), which is the most impactful gang-wide ability of any leader.
 {: .entry-note}
 
 **[Master of Arcane Security](/factions/the-doctors/master-of-arcane-security/)** <span class="entry-tag">Brawler</span>
 {: .entry-title}
 
-Expensive and strong versatile combattant but with a Full Plate (weak near water).
+Expensive, strong, versatile combatant, but with a Full Plate (weak near water).
 {: .entry-note}
 
 **[Master of Zoology](/factions/the-doctors/master-of-zoology/)** <span class="entry-tag">Support (Beast Master) / Tank</span>
 {: .entry-title}
 
-Very durable **Hunter** with a good armour-piercing **Stun** weapon. Build around Beasts, giving them **Companion (*Doctor*)**.
+Very durable **Hunter** with a good armour-piercing **Stun** weapon. Build around *Beasts*, giving them **Companion (*Doctor*)**.
 {: .entry-note}
 
 **[Plague Doctor](/factions/the-doctors/plague-doctor/)** <span class="entry-tag">Support (magic)</span>
 {: .entry-title}
 
-Flexible support caster-leader with an anti-stun aura.
+Flexible support caster-leader with an anti-**Stun** aura.
 {: .entry-note}
 
 ### Sub-factions
@@ -92,73 +92,73 @@ Flexible support caster-leader with an anti-stun aura.
 <details class="role-group" markdown="1">
 <summary markdown="span">Mages <span class="role-count">3</span></summary>
 
-- [Doctor of the Firmament](/factions/the-doctors/doctor-of-the-firmament/) is a spellcasting damage dealer that doubles as an Ethereal specialist. It's high-output and cost-efficient.
-- [Doctor of Blood](/factions/the-doctors/doctor-of-blood/) is a spellcasting damage dealer. It brings a Frenzy burst (+113%).
-- [Morgue Doctor](/factions/the-doctors/morgue-doctor/) is a spellcasting LP restoration support piece, bringing healing & shielding, stat buffs & dice manipulation.
+- [Doctor of the Firmament](/factions/the-doctors/doctor-of-the-firmament/) is a fragile, high-output damage and support caster that draws spells from two disciplines at once and can turn an ally **Ethereal**.
+- [Doctor of Blood](/factions/the-doctors/doctor-of-blood/) is a Blood Rites damage caster that drains Life back to itself even through its spells.
+- [Morgue Doctor](/factions/the-doctors/morgue-doctor/) is a support mage with a reactive command that can yank a nearby dying ally back from the brink.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Damage Dealer <span class="role-count">6</span></summary>
 
-- [The Unholy Union](/factions/the-doctors/the-unholy-union/) is a melee grappling damage dealer. It's tough for its role, but pricey for its output and Mindless (can't score primaries). Also rattles low-Mind foes.
-- [Unleashed Madman](/factions/the-doctors/unleashed-madman/) is a melee damage dealer that doubles as a Nexus-linked specialist. It's Mindless (can't score primaries). Also a strong grappler/drowner.
-- [Ordnance Doctor](/factions/the-doctors/ordnance-doctor/) is a mid-range AoE/Knockback damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload).
-- [Patient 42](/factions/the-doctors/patient-42/) is a melee Nexus-linked damage dealer. It's Mindless (can't score primaries). Also pins fleeing enemies.
-- [Doctor of Poisons](/factions/the-doctors/doctor-of-poisons/) is a melee Poisoned damage dealer that doubles as an Elixir specialist. It's high-output and cost-efficient. Also slips out of melee freely.
-- [Alchemist Doctor](/factions/the-doctors/alchemist-doctor/) is a ranged area-effect damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload).
+- [The Unholy Union](/factions/the-doctors/the-unholy-union/) is a 45-point grappling monster that heals a victim's full Life back on every kill. A vast Life pool keeps it on the table, but its damage is modest for the points.
+- [Unleashed Madman](/factions/the-doctors/unleashed-madman/) is a strong grappler that doubles as a Nexus.
+- [Ordnance Doctor](/factions/the-doctors/ordnance-doctor/) is an artillery piece whose cannon can be charged with Will Points for extra range, a **Blast**, or **Knockback**.
+- [Patient 42](/factions/the-doctors/patient-42/) is a Nexus and a capable fighter that channels its own madness into a free charge instead of stunning itself when failing **Primitive** rolls.
+- [Doctor of Poisons](/factions/the-doctors/doctor-of-poisons/) is a cost-efficient, high-output poison fighter that can permanently dose an ally with a mobility elixir.
+- [Alchemist Doctor](/factions/the-doctors/alchemist-doctor/) lobs blast and poison bombs into enemy clusters, where the templates earn far more than their single-target numbers suggest.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Brawler <span class="role-count">1</span></summary>
 
-- [The Being](/factions/the-doctors/the-being/) is a Nexus-linked brawler. It's Mindless (can't score primaries).
+- [The Being](/factions/the-doctors/the-being/) is a durable brawler that regenerates the Will Points of nearby Nexus with every blow.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Assassin <span class="role-count">1</span></summary>
 
-- [Ethereal Assassin](/factions/the-doctors/ethereal-assassin/) is a melee assassin.
+- [Ethereal Assassin](/factions/the-doctors/ethereal-assassin/) is a melee poison assassin that phases through walls.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Canal Fighter <span class="role-count">3</span></summary>
 
-- [Brined Horror](/factions/the-doctors/brined-horror/) is a canal fighter. It's tough for its role and cost-efficient, but Mindless (can't score primaries). Also fast through water; at home in water.
-- [Doctor of Tides](/factions/the-doctors/doctor-of-tides/) is a tank canal fighter. It's tough for its role, but slow. Also at home in water; area attack — multi-target upside not counted.
-- [Marine Biologist](/factions/the-doctors/marine-biologist/) is a ranged canal fighter. It's low on damage, pricey for its output and one shot per turn (Reload). Also extra Penetration vs bigger bases; at home in water.
+- [Brined Horror](/factions/the-doctors/brined-horror/) is a tough, hard-hitting canal fighter that soaks a beating for 19 points.
+- [Doctor of Tides](/factions/the-doctors/doctor-of-tides/) is a heavily armoured aquatic tank that can buy a guaranteed Critical when it dives and stuns whole clusters from the water, though it is slow if it doesn't abuse Dive.
+- [Marine Biologist](/factions/the-doctors/marine-biologist/) is an aquatic skirmisher with a stunning harpoon, though its damage is light for the points.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Tank <span class="role-count">1</span></summary>
 
-- [Warden](/factions/the-doctors/warden/) is a tank. It's extremely durable and cheap for the staying power.
+- [Warden](/factions/the-doctors/warden/) is a cheap Doctor bodyguard with excellent staying power for the points.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Control <span class="role-count">1</span></summary>
 
-- [Ethereal Snatcher](/factions/the-doctors/ethereal-snatcher/) is an Engage grappling stun control piece. Its niche is to lock down or reposition enemies — weigh its control, not its stats.
+- [Ethereal Snatcher](/factions/the-doctors/ethereal-snatcher/) is a control piece that grapples and stuns, hauling its victims around as if they too could pass through walls.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Support <span class="role-count">1</span></summary>
 
-- [Doctor of the Beasts](/factions/the-doctors/doctor-of-the-beasts/) is an Animal handler support piece. Also extra Penetration vs bigger bases.
+- [Doctor of the Beasts](/factions/the-doctors/doctor-of-the-beasts/) is a support for the faction's *Animals*, mainly giving them **Companion (*Doctor*)**, with a good control weapon.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Specialist <span class="role-count">2</span></summary>
 
-- [Doctor of Divine Probabilities](/factions/the-doctors/doctor-of-divine-probabilities/) is a Destiny Die control specialist. Its niche is to manipulate the Destiny Die — buy Criticals or deny the enemy's.
-- [Voltage Bombardiers](/factions/the-doctors/voltage-bombardiers/) is a Nexus-linked self-detonating glass-cannon specialist. Its niche is to share Will Points across the Doctor cluster (needs Doctor allies within 6"). Also Mindless (can't score primaries); area attack — multi-target upside not counted.
+- [Doctor of Divine Probabilities](/factions/the-doctors/doctor-of-divine-probabilities/) barely fights. Its job is to bend the Destiny Die, buying you Criticals or Fumbles for the enemy.
+- [Voltage Bombardiers](/factions/the-doctors/voltage-bombardiers/) is a Nexus that detonates around itself every time its Will is spent, whether by itself or by a Doctor drawing on it.
 
 </details>
 
@@ -168,77 +168,77 @@ Flexible support caster-leader with an anti-stun aura.
 <details class="role-group" markdown="1">
 <summary markdown="span">Mages <span class="role-count">1</span></summary>
 
-- [Mermaid](/factions/the-doctors/mermaid/) is a canal fighter. It's low on damage and fragile for its role. Also fast through water; at home in water.
+- [Mermaid](/factions/the-doctors/mermaid/) is a fragile canal fighter that knows the Runes of Sovereignty cantrip, but does little damage.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Damage Dealer <span class="role-count">5</span></summary>
 
-- [Basilisk](/factions/the-doctors/basilisk/) is a poison AoE damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's Mindless (can't score primaries). Also rattles low-Mind foes.
-- [Lion](/factions/the-doctors/lion/) is a melee damage dealer. It's Mindless (can't score primaries). Also pins fleeing enemies.
-- [Electron Cannoneer](/factions/the-doctors/electron-cannoneer/) is a ranged chain-damage damage dealer. It's low on damage, pricey for its output and one shot per turn (Reload).
-- [Monstrosity](/factions/the-doctors/monstrosity/) is a damage dealer. It's cost-efficient, but fragile for its role and Mindless (can't score primaries).
-- [Manticore](/factions/the-doctors/manticore/) is a ranged damage dealer. It's low on damage and self-stun-prone (Primitive).
+- [Basilisk](/factions/the-doctors/basilisk/) is an *Animal* that sprays a poison template over a cluster and bursts into another dose of poison when it dies.
+- [Lion](/factions/the-doctors/lion/) is a cheap, fast, hard-hitting *Animal*.
+- [Electron Cannoneer](/factions/the-doctors/electron-cannoneer/) fires a ranged shot that arcs to a second model near the target, though its damage is low on a single target. It needs support to shine.
+- [Monstrosity](/factions/the-doctors/monstrosity/) is a cheap hard-hitting body, the most cost-efficient damage dealer in the game, no armour to speak of but good LP for its cost.
+- [Manticore](/factions/the-doctors/manticore/) is a cheap ranged *Animal*, though its damage is low.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Canal Fighter <span class="role-count">3</span></summary>
 
-- [Hippocampus](/factions/the-doctors/hippocampus/) is a canal fighter. It's Mindless (can't score primaries). Also fast through water; at home in water.
-- [Crocodile](/factions/the-doctors/crocodile/) is a canal fighter. It's cost-efficient, but Mindless (can't score primaries). Also fast through water; at home in water.
-- [Diving Assistant](/factions/the-doctors/diving-assistant/) is a canal fighter. It's low on damage. Also at home in water.
+- [Hippocampus](/factions/the-doctors/hippocampus/) is an expensive, very fast canal fighter that stuns what it strikes.
+- [Crocodile](/factions/the-doctors/crocodile/) is a cost-efficient anti-armour canal fighter.
+- [Diving Assistant](/factions/the-doctors/diving-assistant/) is an aquatic bodyguard for the *Doctors* that can buy a guaranteed Critical when it dives, though it is no real threat otherwise.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Tank <span class="role-count">1</span></summary>
 
-- [Rhino](/factions/the-doctors/rhino/) is a knockback tank. It's extremely durable, but Mindless (can't score primaries).
+- [Rhino](/factions/the-doctors/rhino/) is a durable *Animal* whose role is to disrupt enemy lines by charging and knocking back.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Disruptor <span class="role-count">1</span></summary>
 
-- [Ghoul](/factions/the-doctors/ghoul/) is a WP lockout LP drain aura disruptor. It's Mindless (can't score primaries).
+- [Ghoul](/factions/the-doctors/ghoul/) is a very cheap nuisance that shuts off Will Points around it and slowly bleeds everything within 3", friend or foe.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Harasser <span class="role-count">1</span></summary>
 
-- [Hippogryph](/factions/the-doctors/hippogryph/) is a harasser. It's Mindless (can't score primaries). Also flies over terrain; deploys forward.
+- [Hippogryph](/factions/the-doctors/hippogryph/) is a cheap, fast-flying infiltrating harasser.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Support <span class="role-count">1</span></summary>
 
-- [Nurse](/factions/the-doctors/nurse/) is a healing support piece. It's self-stun-prone (Primitive).
+- [Nurse](/factions/the-doctors/nurse/) is a cheap healer.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Line Fighter <span class="role-count">5</span></summary>
 
-- [Gorilla](/factions/the-doctors/gorilla/) is a line fighter. It's high-output, but self-stun-prone (Primitive). Also flies over terrain.
-- [Lab Assistant](/factions/the-doctors/lab-assistant/) is a disruptive line fighter. It's pricey for its output. Also extra Penetration vs bigger bases.
-- [Doctor of Venesection](/factions/the-doctors/doctor-of-venesection/) is a line fighter. It's pricey for its output and self-stun-prone (Primitive).
-- [Shackled Feaster](/factions/the-doctors/shackled-feaster/) is a line fighter. It's pricey for its output and Mindless (can't score primaries).
-- [Husk](/factions/the-doctors/husk/) is a grappling line fighter. It's low on damage, fragile for its role and Mindless (can't score primaries).
+- [Gorilla](/factions/the-doctors/gorilla/) is a high-output flying *Animal* that bodyguards the *Doctors*.
+- [Lab Assistant](/factions/the-doctors/lab-assistant/) is a stunning line fighter, though pricey for its damage.
+- [Doctor of Venesection](/factions/the-doctors/doctor-of-venesection/) is a slow vampiric line fighter, underwhelming for its cost but with the **Frenzy** + **Vampiric Attack** combo.
+- [Shackled Feaster](/factions/the-doctors/shackled-feaster/) is a vampiric line fighter that heals past full and hits harder once gorged.
+- [Husk](/factions/the-doctors/husk/) is 4-point grappling chaff, fragile and easily finished off.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Specialist <span class="role-count">5</span></summary>
 
-- [Harvester](/factions/the-doctors/harvester/) is a grappling anti-large specialist. Its niche is to punch up against large-base models; ordinary otherwise.
-- [Apprentice Doctor](/factions/the-doctors/apprentice-doctor/) is an adaptive mentor copy specialist. Its niche is to copy a mentor's profile to fill a gap.
-- [Carrion](/factions/the-doctors/carrion/) is a Nexus-linked specialist that doubles as an objective runner. Its niche is to share Will Points across the Doctor cluster (needs Doctor allies within 6"). Also Mindless (can't score primaries); steals WP/objectives on disengage.
-- [Hollowman](/factions/the-doctors/hollowman/) is a WP gain specialist. Its niche is to act as a Will Point engine for the gang. Also Mindless (can't score primaries).
-- [Madman](/factions/the-doctors/madman/) is a Nexus-linked specialist. Its niche is to share Will Points across the Doctor cluster (needs Doctor allies within 6"). Also Mindless (can't score primaries).
+- [Harvester](/factions/the-doctors/harvester/) is a cheap grappler built to drag down larger models.
+- [Apprentice Doctor](/factions/the-doctors/apprentice-doctor/) copies one ability, spell, or weapon from a chosen Doctor mentor, cheaply plugging whatever gap the gang needs filled.
+- [Carrion](/factions/the-doctors/carrion/) is a very fast infiltrating Nexus.
+- [Hollowman](/factions/the-doctors/hollowman/) is a cheap Will Point engine that regenerates nearby Nexus when it bleeds itself.
+- [Madman](/factions/the-doctors/madman/) is the gang's cheapest Nexus, carrying six Will Points for five Ducats but unable to do much else.
 
 </details>
 

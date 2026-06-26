@@ -54,37 +54,37 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 **[Capodecina](/factions/the-guild/capodecina/)** <span class="entry-tag">Assassin (melee, infiltrator)</span>
 {: .entry-title}
 
-Fast infiltrating assassin-leader. Build around the **Trade** sub-faction, notably giving them **Companion (*Trade*)**.
+Fast infiltrating assassin-leader. Build around the *Trade* sub-faction, notably giving them **Companion (*Trade*)**.
 {: .entry-note}
 
 **[Harbourmaster](/factions/the-guild/harbourmaster/)** <span class="entry-tag">Brawler (water)</span>
 {: .entry-title}
 
-Durable **Parry** frontline fighter. She has a **Fast Swimmer** gang buff.
+Durable **Parry** front-line fighter. She has a **Fast Swimmer** gang buff.
 {: .entry-note}
 
 **[King For a Day](/factions/the-guild/king-for-a-day/)** <span class="entry-tag">Damage Dealer (anti-armour)</span>
 {: .entry-title}
 
-Cheap anti-armour damage dealer, but he only has AP2 and low command. Build around the **End of Days** sub-faction, notably removing their **Mindless** attribute.
+Cheap anti-armour damage dealer, but he only has 2 AP and low Command. Build around the *End of Days* sub-faction, notably removing their **Mindless** attribute.
 {: .entry-note}
 
 **[Madame](/factions/the-guild/madame/)** <span class="entry-tag">Support (House of Virtue)</span>
 {: .entry-title}
 
-Fast evasive support with little personal combat. She has strong abilities but they need Command points investment. Build around the **House of Virtue** sub-faction, notably giving them **Companion (*House of Virtue*)**.
+Fast, evasive support with little personal combat. She has strong abilities but they need Command Point investment. Build around the *House of Virtue* sub-faction, notably giving them **Companion (*House of Virtue*)**.
 {: .entry-note}
 
 **[Ostrich King?!](/factions/the-guild/ostrich-king/)** <span class="entry-tag">Damage Dealer (anti-armour, fast)</span>
 {: .entry-title}
 
-Very fast anti-armour damage dealer, but he only has AP2 and low command. Build around the **End of Days** sub-faction, notably removing their **Mindless** attribute.
+Very fast anti-armour damage dealer, but he only has 2 AP and low Command. Build around the *End of Days* sub-faction, notably removing their **Mindless** attribute.
 {: .entry-note}
 
 **[Prince of Thieves](/factions/the-guild/prince-of-thieves/)** <span class="entry-tag">Damage Dealer (melee/short-range) / Objective Runner</span>
 {: .entry-title}
 
-Flexible aggressive hero-leader with good command. He is a strong solo, but a less effective commander than the other leaders: he doesn't give as useful a gang-wide buff.
+Flexible, aggressive hero-leader with good Command. He is a strong solo, but a less effective commander than the other leaders: he doesn't give as useful a gang-wide buff.
 {: .entry-note}
 
 ### Sub-factions
@@ -99,21 +99,21 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but a le
 <details class="role-group" markdown="1">
 <summary markdown="span">Mages <span class="role-count">4</span></summary>
 
-- [Baba-Yaga](/factions/the-guild/baba-yaga/) is a damage dealer that doubles as a light support piece if she uses Wild Magic. She's one of the most cost-efficient damage dealers in the game.
-- [Witch](/factions/the-guild/witch/) is a spellcaster that can be a damage dealer or a support piece, it has access to the most disciplines in the faction.
-- [Bloodletter](/factions/the-guild/bloodletter/) is a self-sustaining damage dealer. It has the unique ability to restore 2LP on each successful cast, making it a nearly infinite resource mage.
-- [Seamstress](/factions/the-guild/seamstress/) is a support piece. It's a weak mage, but the only access to Divinity and Fateweaving disciplines, and can pick spells from both simultaneously.
+- [Baba-Yaga](/factions/the-guild/baba-yaga/) is a damage dealer that doubles as a light support piece if she takes Wild Magic, and one of the most cost-efficient damage dealers in the game.
+- [Witch](/factions/the-guild/witch/) is a spellcaster, damage dealer or support, with access to the most disciplines in the faction.
+- [Bloodletter](/factions/the-guild/bloodletter/) is a self-sustaining magic damage dealer that restores 2 LP on each successful cast, making it a nearly inexhaustible resource mage.
+- [Seamstress](/factions/the-guild/seamstress/) is a weak mage but the faction's only access to the Divinity and Fateweaving disciplines, and can pick spells from both at once.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Damage Dealer <span class="role-count">5</span></summary>
 
-- [Ostrich Chariot?!](/factions/the-guild/ostrich-chariot/) is a very expensive, high mobility, very high damage model. Even with its size 75 and the classic limitations that implies, it can freely move over other characters and ignores the normal rules for disengaging. Moreover, it has the highest raw damage output of the game.
-- [Whaler](/factions/the-guild/whaler/) is an expensive short-range **Hunter**. It's high-output, cost-efficient, and its weapon's **Knockback** can move the target in any direction.
-- [Death Duellist](/factions/the-guild/death-duellist/) is a glass cannon that replenishes resources on kill.
-- [Brute](/factions/the-guild/brute/) is a melee **Knockback** damage dealer without anything fancy.
-- [Barber](/factions/the-guild/barber/) is a cost-efficient armour-piercing option.
+- [Ostrich Chariot?!](/factions/the-guild/ostrich-chariot/) is a very expensive, highly mobile model with the highest raw damage output in the game. Despite its size 75 it moves freely over other characters and ignores the normal disengage rules.
+- [Whaler](/factions/the-guild/whaler/) is an expensive short-range **Hunter**. It is high-output and cost-efficient, and its weapon's **Knockback** can move the target in any direction.
+- [Death Duellist](/factions/the-guild/death-duellist/) is a melee glass cannon that replenishes resources on a kill.
+- [Brute](/factions/the-guild/brute/) is a plain melee **Knockback** damage dealer.
+- [Barber](/factions/the-guild/barber/) is a cost-efficient armour-piercing melee option.
 
 </details>
 
@@ -127,61 +127,61 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but a le
 <details class="role-group" markdown="1">
 <summary markdown="span">Assassin <span class="role-count">2</span></summary>
 
-- [Rialto Assassin](/factions/the-guild/rialto-assassin/) is an expensive but cost-effective, short-range, armour-piercing Infiltrator.
-- [Shadow Assassin](/factions/the-guild/shadow-assassin/) has a unique ability allowing it to teleport far on the map with ease for 2AP. That makes it a good objective runner too.
+- [Rialto Assassin](/factions/the-guild/rialto-assassin/) is an expensive but cost-effective short-range, armour-piercing assassin with **Infiltration**.
+- [Shadow Assassin](/factions/the-guild/shadow-assassin/) can teleport across the board for 2 AP, which also makes it a good objective runner.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Sniper <span class="role-count">1</span></summary>
 
-- [Baroni](/factions/the-guild/baroni/) is a short-range sniper with 2 CP, giving him utility.
+- [Baroni](/factions/the-guild/baroni/) is a short-range sniper with 2 Command Points for extra utility.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Canal Fighter <span class="role-count">1</span></summary>
 
-- [Fisherman](/factions/the-guild/fisherman/) must choose between an **Aquatic** weapon or a 12" Harpoon gun at the start of the game, changing its role from a canal fighter to a mid-range **Hunter**. It can give **Hunter** to any one friendly model until the end of the game, making it a good tech piece against Rashaar or the Doctors.
+- [Fisherman](/factions/the-guild/fisherman/) must choose at the start of the game between an **Aquatic** weapon or a 12" harpoon gun, shifting from a canal fighter to a mid-range **Hunter**. It can also grant **Hunter** to one friendly model for the game, making it a good tech piece against Rashaar or the Doctors.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Disruptor <span class="role-count">1</span></summary>
 
-- [Black Lamp](/factions/the-guild/black-lamp/) is an expensive but very good disruptor as he has the best Dispel of the game. He's very resistant, has good Will, and can give every friendly character **Companion (*Black Lamp*)**, allowing a more diverse list building.
+- [Black Lamp](/factions/the-guild/black-lamp/) is an expensive but excellent disruptor with the best Dispel in the game. Resistant and high on Will, it also grants every friendly character **Companion (*Black Lamp*)** for more flexible list building.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Harasser <span class="role-count">1</span></summary>
 
-- [Thief](/factions/the-guild/thief/) is an infiltrator that has a lot of possibilities to harass the enemy: **Smoke**, **Pickpocket**, a bit of damage. It's a good objective runner.
+- [Thief](/factions/the-guild/thief/) is an infiltrating harasser with plenty of tools: **Smoke**, **Pickpocket**, a bit of damage, and it makes a good objective runner.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Support <span class="role-count">3</span></summary>
 
-- [Very Loud Ostrich](/factions/the-guild/very-loud-ostrich/) has the statline of an Ostrich Rider without the stunning weapon, but it costs a lot more. In exchange, it can make allies charge, and it regenerates their WP when it hits. It's a very fast and offensive support piece.
-- [Recruiter](/factions/the-guild/recruiter/) mainly supports **Trade** models. It also has a good-range armour-piercing weapon.
-- [Smuggler](/factions/the-guild/smuggler/) regenerates the CP of allies when you achieve an Agenda. It also has a strong but once per turn **Template** attack.
+- [Very Loud Ostrich](/factions/the-guild/very-loud-ostrich/) has an Ostrich Rider's statline without the **Stun** weapon and at a higher cost, but it makes allies charge and regenerates their Will Points when it hits. A very fast, offensive support piece.
+- [Recruiter](/factions/the-guild/recruiter/) mainly supports *Trade* models, and carries a good-range armour-piercing weapon.
+- [Smuggler](/factions/the-guild/smuggler/) regenerates allied Command Points whenever you achieve an Agenda, and has a strong once-per-turn **Template** attack.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Objective Runner <span class="role-count">1</span></summary>
 
-- [Dancer](/factions/the-guild/dancer/) is a fast model with insane Dexterity. Its speed comes from a Command ability allowing it to choose two allies (including itself) and have them make a free Run/Climb action. It also has a rare **Poisoned** weapon.
+- [Dancer](/factions/the-guild/dancer/) is a fast model with exceptional Dexterity, with a Command that lets two allies (including itself) make a free Run/Climb action. It also carries a rare **Poisoned** weapon.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Specialist <span class="role-count">3</span></summary>
 
-- [Ebenezer Chummage](/factions/the-guild/ebenezer-chummage/) is an expensive anti-monster specialist. He has **Hunter** but a size 40, so it's only useful against big monsters. But he can get **Brave**, and regenerate CP when killing a monster. Otherwise he's a really good grappler, and can heal allies in base contact.
-- [Brewer](/factions/the-guild/brewer/) has two strong conditional abilities: any enemy character in base contact with it can be the target of a Drown action, and it has a short-range high armour-piercing attack that cannot be used unless it's within 3" of a Pulcinella Firebreather, making it a very strong pick against armour.
-- [Blood Matron](/factions/the-guild/blood-matron/) doesn't have strong stats for its cost, but it can permanently **Stun** its attack target on a critical strike.
+- [Ebenezer Chummage](/factions/the-guild/ebenezer-chummage/) is an expensive anti-monster specialist: a **Hunter** at size 40, so it bites mainly against big monsters, regenerating Command Points when it kills one. Otherwise a strong grappler that can heal allies in base contact.
+- [Brewer](/factions/the-guild/brewer/) has two strong conditional abilities: any enemy in base contact with it can be the target of a Drown action, and it has a short-range, high armour-piercing attack usable only within 3" of a Firebreather, making it a strong pick against armour.
+- [Blood Matron](/factions/the-guild/blood-matron/) has weak stats for its cost but can permanently **Stun** its target on a critical strike.
 
 </details>
 
@@ -191,66 +191,66 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but a le
 <details class="role-group" markdown="1">
 <summary markdown="span">Damage Dealer <span class="role-count">2</span></summary>
 
-- [Shipwright](/factions/the-guild/shipwright/) is cheap, cost-efficient, and deals good damage.
-- [Firebreather](/factions/the-guild/firebreather/) is fragile and only attacks once per round, but has a good armour-piercing **Template** weapon and enables Brewer's attack.
+- [Shipwright](/factions/the-guild/shipwright/) is a cheap, cost-efficient damage dealer that hits hard.
+- [Firebreather](/factions/the-guild/firebreather/) is fragile and fires only once per round, but brings a strong armour-piercing **Template** weapon and enables the Brewer's attack.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Sniper <span class="role-count">1</span></summary>
 
-- [Arbalest](/factions/the-guild/arbalest/) is a weak sniper, pricey for its output, but cheap and the only one of the faction.
+- [Arbalest](/factions/the-guild/arbalest/) is a weak, pricey sniper, but cheap and the faction's only true long-range gun.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Canal Fighter <span class="role-count">1</span></summary>
 
-- [Mariner](/factions/the-guild/mariner/) doesn't have good damage but it's a **Fast Swimmer**.
+- [Mariner](/factions/the-guild/mariner/) is a cheap **Fast Swimmer** with little damage.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Harasser <span class="role-count">3</span></summary>
 
-- [Ostrich Rider](/factions/the-guild/ostrich-rider/) is a very fast but fragile model. Its **Slippery** + **First Strike** + **Stun** weapon makes it a really good disruption tool.
-- [Poacher](/factions/the-guild/poacher/) is a mid-ranged Infiltrator with great repositioning capabilities. It can make a good Objective runner too.
-- [Dog](/factions/the-guild/dog/) is a very cheap and fast body that exists to rush and **Engage** enemies.
+- [Ostrich Rider](/factions/the-guild/ostrich-rider/) is a very fast but fragile disruption tool, combining **Slippery**, **First Strike**, and a **Stun** weapon.
+- [Poacher](/factions/the-guild/poacher/) is a mid-range infiltrator with great repositioning, and a good objective runner too.
+- [Dog](/factions/the-guild/dog/) is a very cheap, fast body that exists to rush and **Engage** enemies.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Support <span class="role-count">3</span></summary>
 
-- [Blood Courier](/factions/the-guild/blood-courier/) heals and can store one Blood Rites spell for allied mages to use.
-- [Dog Keeper](/factions/the-guild/dog-keeper/)'s main appeal is its 2CP, but it may only use Commands on characters with the **Henchman** keyword.
-- [Blooded](/factions/the-guild/blooded/) is a cheap WP battery to be used by **House of Virtue** characters.
+- [Blood Courier](/factions/the-guild/blood-courier/) heals and can store one Blood Rites spell for allied Mages to use.
+- [Dog Keeper](/factions/the-guild/dog-keeper/)'s main appeal is its 2 Command Points, though it may only use Commands on Henchman characters.
+- [Blooded](/factions/the-guild/blooded/) is a cheap Will Point battery for *House of Virtue* characters.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Objective Runner <span class="role-count">2</span></summary>
 
-- [Pilferer](/factions/the-guild/pilferer/) is a cheap and mobile piece without combat capabilities.
-- [Beggar](/factions/the-guild/beggar/) is a model with bad stats, but it's really cheap, not **Mindless**, and can be deployed anywhere on the board at ground level. It also contributes passively to the **Mob Mentality** Pool.
+- [Pilferer](/factions/the-guild/pilferer/) is a cheap, mobile **Pickpocket** with no combat ability.
+- [Beggar](/factions/the-guild/beggar/) has poor stats but is very cheap, not **Mindless**, and deploys anywhere at ground level, while passively feeding the **Mob Mentality** Pool.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Line Fighter <span class="role-count">5</span></summary>
 
-- [Escort](/factions/the-guild/escort/) is a polyvalent model: **Bodyguard**, good grappler, ok attack for its cost.
-- [Indebted](/factions/the-guild/indebted/) generates **Mob Mentality** dice on kill, it's offence oriented but pricey for its damage output.
-- [Harlot](/factions/the-guild/harlot/) is on the agile side with **Concealment** and **Slippery**.
+- [Escort](/factions/the-guild/escort/) is a versatile line fighter: **Bodyguard**, good grappler, decent attack for its cost.
+- [Indebted](/factions/the-guild/indebted/) generates **Mob Mentality** dice on a kill. It is offence-oriented but pricey for its damage.
+- [Harlot](/factions/the-guild/harlot/) is the agile line fighter, with **Concealment** and **Slippery**.
 - [Citizen](/factions/the-guild/citizen/) is as basic as a model can get.
-- [Pulcinella](/factions/the-guild/pulcinella/) is fast, disruptive, but fragile.
+- [Pulcinella](/factions/the-guild/pulcinella/) is fast and disruptive with a **Stun** club, but fragile.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Specialist <span class="role-count">1</span></summary>
 
-- [Gondolier](/factions/the-guild/gondolier/) is a Gondola driver without much more for itself.
+- [Gondolier](/factions/the-guild/gondolier/) is a Gondola driver with little else to offer.
 
 </details>
 

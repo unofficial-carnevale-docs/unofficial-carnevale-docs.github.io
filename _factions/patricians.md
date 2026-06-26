@@ -53,13 +53,13 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 **[Pinnacle of Affluence](/factions/patricians/pinnacle-of-affluence/)** <span class="entry-tag">Support (command)</span>
 {: .entry-title}
 
-The most expensive leader of the game. His cost is justified by being the highest command output character over the course of the game. He has weak stats but has a **Poisoned** **Template** attack and gives every friendly model **Bodyguard (*Pinnacle of Affluence*)**.
+The most expensive leader in the game. His cost is justified by being the highest Command output character over the course of the game. He has weak stats but a **Poisoned**, **Template** attack and gives every friendly model **Bodyguard (*Pinnacle of Affluence*)**.
 {: .entry-note}
 
 **[Guard Commander](/factions/patricians/guard-commander/)** <span class="entry-tag">Brawler / Support (Officer)</span>
 {: .entry-title}
 
-Durable **Parry** fighter that buffs **Soldiers**.
+Durable **Parry** fighter that buffs *Soldiers*.
 {: .entry-note}
 
 **[Noble Admiral](/factions/patricians/noble-admiral/)** <span class="entry-tag">Sniper (short-range)</span>
@@ -71,7 +71,7 @@ Short-range sniper with Boat synergy.
 **[Venetian Noble](/factions/patricians/venetian-noble/)** <span class="entry-tag">Damage Dealer (melee)</span>
 {: .entry-title}
 
-Aggressive duelist and good commander: friendly characters gain +1 WP on kill when they are in LOS.
+Aggressive duellist and good commander: friendly characters gain +1 Will Point on a kill while in line of sight.
 {: .entry-note}
 
 **[Mounted Venetian Noble](/factions/patricians/mounted-venetian-noble/)** <span class="entry-tag">Assassin (melee, fast)</span>
@@ -83,13 +83,13 @@ Fast cavalry assassin that can make nearby allies move, making her a versatile l
 **[Janissary Chorbaji](/factions/patricians/janissary-chorbaji/)** <span class="entry-tag">Brawler / Support (Ottoman)</span>
 {: .entry-title}
 
-Durable Ottoman commander built around this sub-faction.
+Durable *Ottoman* commander built around this sub-faction.
 {: .entry-note}
 
 **[Sopracomito](/factions/patricians/sopracomito/)** <span class="entry-tag">Support (WP battery)</span>
 {: .entry-title}
 
-Cheapest leader of the game. He has only 2 AP and low command, but he's a WP battery that can make **Soldiers** move.
+Cheapest leader in the game. He has only 2 AP and low Command, but he's a Will Point battery that can make *Soldiers* move.
 {: .entry-note}
 
 ### Sub-factions
@@ -105,7 +105,7 @@ Cheapest leader of the game. He has only 2 AP and low command, but he's a WP bat
 <details class="role-group" markdown="1">
 <summary markdown="span">Mages <span class="role-count">1</span></summary>
 
-- [Moon](/factions/patricians/moon/) is a flying spellcasting assassin or support piece in function of her Discipline choice. Best when played with Sun for WP regen.
+- [Moon](/factions/patricians/moon/) is a flying spellcasting assassin or support piece depending on her discipline choice, best played with Sun for Will Point regen.
 
 </details>
 
@@ -113,11 +113,11 @@ Cheapest leader of the game. He has only 2 AP and low command, but he's a WP bat
 <summary markdown="span">Damage Dealer <span class="role-count">6</span></summary>
 
 - [Submissive Noble](/factions/patricians/submissive-noble/) is an expensive **Frenzied** melee damage dealer with high burst and the ability to move every ally in base contact.
-- [Janissary Sapper](/factions/patricians/janissary-sapper/) is an expensive short-range area-effect damage dealer. It can give its attack to nearby Ottoman Archers.
-- [Fencing Master](/factions/patricians/fencing-master/) is an expensive melee armour-piercing damage dealer that can bypass **Universal Shielding**.
-- [Seven Years Veteran](/factions/patricians/seven-years-veteran/) is a damage dealer with an aura that multiplies the Will efficiency of nearby **Soldiers**.
-- [Ottoman Cannoneer](/factions/patricians/ottoman-cannoneer/) is an area-effect armour-piercing damage dealer.
-- [Syphilitic Noble](/factions/patricians/syphilitic-noble/) is a **Frenzied** melee damage dealer.
+- [Janissary Sapper](/factions/patricians/janissary-sapper/) is an expensive short-range area-effect damage dealer that can lend its attack to nearby Ottoman Archers.
+- [Fencing Master](/factions/patricians/fencing-master/) is an expensive armour-piercing melee damage dealer that can bypass **Universal Shielding**.
+- [Seven Years Veteran](/factions/patricians/seven-years-veteran/) is a damage dealer with an aura that multiplies the Will Point efficiency of nearby *Soldiers*.
+- [Ottoman Cannoneer](/factions/patricians/ottoman-cannoneer/) is an area-effect damage dealer whose grapeshot tears through heavy armour.
+- [Syphilitic Noble](/factions/patricians/syphilitic-noble/) is a cheap **Frenzied** melee damage dealer.
 
 </details>
 
@@ -125,14 +125,14 @@ Cheapest leader of the game. He has only 2 AP and low command, but he's a WP bat
 <summary markdown="span">Brawler <span class="role-count">2</span></summary>
 
 - [Ottoman Janissary](/factions/patricians/ottoman-janissary/) is an expensive brawler with **Bodyguard (*Leader*)** and an aura that speeds up allied charges.
-- [Venetian Heavy Guard](/factions/patricians/venetian-heavy-guard/) is an expensive brawler, one of the toughest models of the game for its cost.
+- [Venetian Heavy Guard](/factions/patricians/venetian-heavy-guard/) is an expensive brawler and one of the toughest models in the game for its cost.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Assassin <span class="role-count">1</span></summary>
 
-- [Sun](/factions/patricians/sun/) is an agile short-range armour-piercing assassin with a **Knockback** weapon. It's cost-efficient, and at his best when played with Moon for WP regen.
+- [Sun](/factions/patricians/sun/) is an agile, cost-efficient short-range armour-piercing assassin with a **Knockback** weapon, at its best played with Moon for Will Point regen.
 
 </details>
 
@@ -140,23 +140,23 @@ Cheapest leader of the game. He has only 2 AP and low command, but he's a WP bat
 <summary markdown="span">Sniper <span class="role-count">2</span></summary>
 
 - [Venetian Spy](/factions/patricians/venetian-spy/) is an expensive high-range sniper with **Infiltration**.
-- [Naval Lieutenant](/factions/patricians/naval-lieutenant/) is a cost-efficient short-range sniper with high damage output.
+- [Naval Lieutenant](/factions/patricians/naval-lieutenant/) is a cost-efficient short-range sniper with high damage and a swimmer's mobility.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Harasser <span class="role-count">1</span></summary>
 
-- [Cat Burglar](/factions/patricians/cat-burglar/) is a very agile harasser, better quality and price than most of its category.
+- [Cat Burglar](/factions/patricians/cat-burglar/) is a very agile harasser with **Infiltration** and **Pickpocket**, better quality and cheaper than most of its kind.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Support <span class="role-count">4</span></summary>
 
-- [Foreign Dignitary](/factions/patricians/foreign-dignitary/) is a support piece with good damage and a CP regeneration aura for **Councillors**.
-- [Captain of the Guard](/factions/patricians/captain-of-the-guard/) is a melee damage dealer that supports **Soldiers**.
-- [Gourmand Noble](/factions/patricians/gourmand-noble/) has a Command ability that gives allies WP regen when they deal damage, but he only has 1 base CP.
+- [Foreign Dignitary](/factions/patricians/foreign-dignitary/) is a hard-hitting support piece with a Command Point regen aura for *Councillors*.
+- [Captain of the Guard](/factions/patricians/captain-of-the-guard/) is a melee fighter that supports *Soldiers* and guards *Officers*.
+- [Gourmand Noble](/factions/patricians/gourmand-noble/) has a Command that grants allies Will Point regen when they deal damage, though it carries only 1 base Command Point.
 - [Wayfinder](/factions/patricians/wayfinder/) is a support piece that buffs allied ranged damage dealers.
 
 </details>
@@ -164,8 +164,8 @@ Cheapest leader of the game. He has only 2 AP and low command, but he's a WP bat
 <details class="role-group" markdown="1">
 <summary markdown="span">Specialist <span class="role-count">2</span></summary>
 
-- [Don Gregorio Morisini](/factions/patricians/don-gregorio-morisini/) is an expensive model that allows to purchase a second Artifact.
-- [Adventuring Noble](/factions/patricians/adventuring-noble/) knows all the spells from the Wild Magic discipline but can only attempt each one once per game for 0 WP.
+- [Don Gregorio Morisini](/factions/patricians/don-gregorio-morisini/) is an expensive model that lets you field a second Artifact.
+- [Adventuring Noble](/factions/patricians/adventuring-noble/) knows every Wild Magic spell but may cast each only once per game, for free.
 
 </details>
 
@@ -175,65 +175,65 @@ Cheapest leader of the game. He has only 2 AP and low command, but he's a WP bat
 <details class="role-group" markdown="1">
 <summary markdown="span">Damage Dealer <span class="role-count">2</span></summary>
 
-- [Ottoman Archer](/factions/patricians/ottoman-archer/) is a cheap but not very cost effective mid-range damage dealer.
-- [Butler](/factions/patricians/butler/) is a cheap mid-range damage dealer.
+- [Ottoman Archer](/factions/patricians/ottoman-archer/) is a cheap mid-range bowman, not very cost-effective on its own but boosted by a Janissary Sapper.
+- [Butler](/factions/patricians/butler/) is a cheap mid-range pistol damage dealer.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Brawler <span class="role-count">1</span></summary>
 
-- [Hired Muscle](/factions/patricians/hired-muscle/) is a brawler that's good at grappling.
+- [Hired Muscle](/factions/patricians/hired-muscle/) is a cheap brawler that is good at grappling.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Sniper <span class="role-count">2</span></summary>
 
-- [Noble Seafarer](/factions/patricians/noble-seafarer/) is a short-range sniper.
-- [Guard Marksman](/factions/patricians/guard-marksman/) is a cheap high-range sniper.
+- [Noble Seafarer](/factions/patricians/noble-seafarer/) is a short-range sniper that's comfortable in water.
+- [Guard Marksman](/factions/patricians/guard-marksman/) is a cheap high-range sniper, the budget long-gun.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Canal Fighter <span class="role-count">1</span></summary>
 
-- [Naval Ensign](/factions/patricians/naval-ensign/) is a **Hunter** canal fighter.
+- [Naval Ensign](/factions/patricians/naval-ensign/) is the faction's canal fighter, a **Hunter** that can spear prey from the water.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Harasser <span class="role-count">1</span></summary>
 
-- [Hunting Hound](/factions/patricians/hunting-hound/) is a very cheap and fragile fast harasser with good damage and **Engage**.
+- [Hunting Hound](/factions/patricians/hunting-hound/) is a very cheap, fragile, fast harasser with good damage and **Engage**.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Support <span class="role-count">2</span></summary>
 
-- [Merchant](/factions/patricians/merchant/) is a support with 3 CP that can buff **Henchmen** charges.
-- [Guard Sentry](/factions/patricians/guard-sentry/) is a support that can use a free ORDER or COUNTER when above its target.
+- [Merchant](/factions/patricians/merchant/) is a support with 3 Command Points that can buff Henchmen charges.
+- [Guard Sentry](/factions/patricians/guard-sentry/) is a support that can make a free ORDER or COUNTER when positioned above its target.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Objective Runner <span class="role-count">1</span></summary>
 
-- [Ottoman Rigger](/factions/patricians/ottoman-rigger/) is an agile objective runner that never loses LP when falling.
+- [Ottoman Rigger](/factions/patricians/ottoman-rigger/) is an agile objective runner that never loses Life Points when falling.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Line Fighter <span class="role-count">7</span></summary>
 
-- [Cortigiane](/factions/patricians/cortigiane/) is a tough line fighter that regenerates the WP of nearby **Councillors**.
-- [Barnabotti](/factions/patricians/barnabotti/) is a high damage line fighter with a mid-range attack.
-- [Ottoman Pirate](/factions/patricians/ottoman-pirate/) is a high damage line fighter with good survivability.
-- [City Guard](/factions/patricians/city-guard/) is a cheap but high quality line fighter.
-- [Naval Recruit](/factions/patricians/naval-recruit/) is a cheap **Fast Swimmer** line fighter.
-- [Household Staff](/factions/patricians/household-staff/) is a cheap line fighter with low damages but a **Stun** weapon.
-- [Cannibal Cultist](/factions/patricians/cannibal-cultist/) is a cheap **Frenzied** line fighter that restores WP on damage, but it must attempt to charge nearby enemies.
+- [Cortigiane](/factions/patricians/cortigiane/) is a tough line fighter that regenerates the Will Points of nearby *Councillors*.
+- [Barnabotti](/factions/patricians/barnabotti/) is a hard-hitting line fighter that also carries a pistol for a mid-range attack.
+- [Ottoman Pirate](/factions/patricians/ottoman-pirate/) is a hard-hitting, survivable line fighter with **Universal Shielding (3)**.
+- [City Guard](/factions/patricians/city-guard/) is a cheap, well-rounded line fighter with a reach weapon.
+- [Naval Recruit](/factions/patricians/naval-recruit/) is a cheap **Fast Swimmer** line fighter, the rank-and-file's answer in the canals.
+- [Household Staff](/factions/patricians/household-staff/) is a cheap line fighter with low damage but a **Stun** weapon, guarding *Councillors*.
+- [Cannibal Cultist](/factions/patricians/cannibal-cultist/) is a cheap **Frenzied** line fighter that restores Will Points on damage but must charge nearby enemies.
 
 </details>
 

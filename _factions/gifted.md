@@ -72,13 +72,13 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 **[Il Capitano](/factions/gifted/il-capitano/)** <span class="entry-tag">Damage Dealer (melee) / Support</span>
 {: .entry-title}
 
-High-output glass cannon for his cost. He's a really good support, making allies move and giving the whole gang **Companion (*Il Capitano*)**. But he only has Mind 2, and forces every friendly model in LOS to use it.
+High-output glass cannon for his cost. He's a really good support, making allies move and giving the whole gang **Companion (*Il Capitano*)**. But he only has Mind 2, and forces every friendly model in line of sight to use it.
 {: .entry-note}
 
 **[La Signora](/factions/gifted/la-signora/)** <span class="entry-tag">Support (re-roll engine)</span>
 {: .entry-title}
 
-Unique support: she generates a re-roll pool for all friendly characters in LOS at the start of the round. She has a strong WP regen option but moderate combat stats.
+Unique support: she generates a re-roll pool for all friendly characters in line of sight at the start of the round. She has a strong Will Point regen option but moderate combat stats.
 {: .entry-note}
 
 **[The Duke](/factions/gifted/the-duke/)** <span class="entry-tag">Assassin (infiltration) / Damage Dealer</span>
@@ -97,50 +97,50 @@ High-mobility assassin with a teleport action.
 <details class="role-group" markdown="1">
 <summary markdown="span">Mages <span class="role-count">4</span></summary>
 
-- [Fadhila](/factions/gifted/fadhila/) is a support mage with a strong protection aura but with an unreliable range.
-- [Maria Fioritura](/factions/gifted/maria-fioritura/) is a spellcasting summoner that can summon Painted Protectors, tough models with a good attack.
-- [Fate](/factions/gifted/fate/) is a spellcasting damage dealer that doubles as a WP drain disruptor. When played with Justice, they can swap their position.
-- [Francisco De Lorme](/factions/gifted/francisco-de-lorme/) is a Doctor Mask giver, transforming the mask target in a **Nexus**.
+- [Fadhila](/factions/gifted/fadhila/) is a support mage with a strong protection aura, though its range is unreliable.
+- [Maria Fioritura](/factions/gifted/maria-fioritura/) is a spellcasting summoner that calls up Painted Protectors, tough models with a good attack.
+- [Fate](/factions/gifted/fate/) is a spellcasting damage dealer that doubles as a Will Point drain disruptor, and can swap places with Justice when the two are fielded together.
+- [Francisco De Lorme](/factions/gifted/francisco-de-lorme/) is a *Doctor* Mask giver, turning the mask target into a Nexus.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Damage Dealer <span class="role-count">7</span></summary>
 
-- [Black Spectre](/factions/gifted/black-spectre/) is a very expensive flying **Ethereal** melee damage dealer that's strong against low Mind targets.
-- [The Aberration](/factions/gifted/the-aberration/) is an expensive melee damage dealer that's tough but has low damage output for its cost. But he's one of the best grapplers in the game, though he lacks the water mobility to be a reliable drowner.
-- [White Dove](/factions/gifted/white-dove/) is an expensive flying mid-range damage dealer. It's not very cost-effective as a pure damage dealer but has a lot of utility.
-- [Justice](/factions/gifted/justice/) is an expensive melee armour-piercing damage dealer with high Willpower. When played with Fate, they can swap their position.
-- [Zovena Vela](/factions/gifted/zovena-vela/) is a mid-range area-effect armour-piercing damage dealer. She really shines when armour-piercing is needed and when she can hit multiple targets.
-- [Burattino](/factions/gifted/burattino/) is an armour-piercing melee damage dealer that's fragile for its role and easily grappled or drowned.
-- [Innamorati](/factions/gifted/innamorati/) is a melee/mid-range damage dealer.
+- [Black Spectre](/factions/gifted/black-spectre/) is a very expensive flying **Ethereal** melee damage dealer, durable and devastating against low-Mind targets.
+- [The Aberration](/factions/gifted/the-aberration/) is an expensive, tough melee damage dealer with low output for its cost, but it is one of the best grapplers in the game, lacking only the water mobility to be a reliable drowner.
+- [White Dove](/factions/gifted/white-dove/) is an expensive flying mid-range damage dealer, more about utility than raw value, knocking targets around with its shots.
+- [Justice](/factions/gifted/justice/) is an expensive armour-piercing melee damage dealer with deep Will Points, and can swap places with Fate when the two are fielded together.
+- [Zovena Vela](/factions/gifted/zovena-vela/) is a mid-range area-effect, armour-piercing damage dealer that shines when armour-piercing is needed and she can catch several targets at once.
+- [Burattino](/factions/gifted/burattino/) is a fragile but hard-hitting, armour-piercing melee damage dealer with **Expert Offence (3)** and **Vampiric Attack**, easily grappled or drowned despite its output.
+- [Innamorati](/factions/gifted/innamorati/) is a flexible melee-and-pistol damage dealer, comfortable at close or mid range.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Assassin <span class="role-count">1</span></summary>
 
-- [Senshi the Undying](/factions/gifted/senshi-the-undying/) is an expensive melee assassin. He's tough and has a chance to come back to life when he's killed.
+- [Senshi the Undying](/factions/gifted/senshi-the-undying/) is an expensive, tough melee assassin with a chance to return to life when killed.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Harasser <span class="role-count">1</span></summary>
 
-- [Harlequin](/factions/gifted/harlequin/) is a high quality harasser, the most agile model of the game.
+- [Harlequin](/factions/gifted/harlequin/) is a top-quality harasser and the most agile model in the game, with **Acrobatic (3)** and Dexterity 7.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Specialist <span class="role-count">7</span></summary>
 
-- [Solus Hydraea](/factions/gifted/solus-hydraea/) is a Rashaar Mask giver.
-- [Harbinger's Reflection](/factions/gifted/harbinger-s-reflection/) is an expensive model with low stats which are compensated by a high WP usage and regeneration. It gives choice when drawing agendas.
-- [Artisan Elena](/factions/gifted/artisan-elena/) is a **Vampire** Mask giver.
-- [Master Gerhard](/factions/gifted/master-gerhard/) is a Vatican Mask giver.
-- [Il Mentore](/factions/gifted/il-mentore/) is a **Trade** Mask giver.
-- [Marco Leontus](/factions/gifted/marco-leontus/) is a Patrician Mask giver.
-- [The Mask Maker](/factions/gifted/the-mask-maker/) is an adaptive model that can choose between 4 abilities each round.
+- [Solus Hydraea](/factions/gifted/solus-hydraea/) is a Rashaar Mask giver, the **Water Creature** of the bunch.
+- [Harbinger's Reflection](/factions/gifted/harbinger-s-reflection/) is an expensive, low-stat model that runs on heavy Will Point use and regeneration, and gives you a choice when drawing Agendas.
+- [Artisan Elena](/factions/gifted/artisan-elena/) is a *Vampire* Mask giver, herself **Frenzied** with **Vampiric Attack**.
+- [Master Gerhard](/factions/gifted/master-gerhard/) is a Vatican Mask giver, the most durable of them with **Universal Shielding (3)**.
+- [Il Mentore](/factions/gifted/il-mentore/) is a *Trade* Mask giver, agile with **Pickpocket** and **Slippery (2)**.
+- [Marco Leontus](/factions/gifted/marco-leontus/) is the cheapest Mask giver, packing a pistol.
+- [The Mask Maker](/factions/gifted/the-mask-maker/) is an adaptive model that picks one of four abilities each round.
 
 </details>
 
@@ -150,23 +150,23 @@ High-mobility assassin with a teleport action.
 <details class="role-group" markdown="1">
 <summary markdown="span">Damage Dealer <span class="role-count">3</span></summary>
 
-- [The Demolitionist](/factions/gifted/the-demolitionist/) is a short-range area-effect damage dealer. She's only effective if she can hit multiple targets and she has an unreliable weapon.
-- [Brighella](/factions/gifted/brighella/) is a high-range damage dealer that's effectively a 3AP model (he gains 1AP when a Leader in LOS uses a Command).
-- [Mezzetino](/factions/gifted/mezzetino/) is a cheap melee damage dealer who is efficient at retaliating against enemies that wounded him.
+- [The Demolitionist](/factions/gifted/the-demolitionist/) is a short-range area-effect damage dealer, only worth it when she can catch several models, and her bomb is unreliable.
+- [Brighella](/factions/gifted/brighella/) is a high-range damage dealer that effectively acts as a 3 AP model, gaining an extra action whenever a Leader in line of sight uses a Command.
+- [Mezzetino](/factions/gifted/mezzetino/) is a cheap melee damage dealer, best at punishing enemies that just wounded it.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Brawler <span class="role-count">1</span></summary>
 
-- [Starspawn](/factions/gifted/starspawn/) is a brawler that regenerates WP when any mage casts a spell, making it efficient against mage heavy factions.
+- [Starspawn](/factions/gifted/starspawn/) is a brawler that regenerates Will Points whenever any Mage casts a spell, making it efficient against mage-heavy factions.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Control <span class="role-count">2</span></summary>
 
-- [Escaped Madman](/factions/gifted/escaped-madman/) is a grappler with a **Knockback** weapon and a potentially big burst of damage.
+- [Escaped Madman](/factions/gifted/escaped-madman/) is a grappler with a **Knockback** weapon and the potential for a big damage burst.
 - [Il Dottore](/factions/gifted/il-dottore/) is a control piece with a **Stun** weapon, **Engage**, and a Command-denial short-range aura.
 
 </details>
@@ -174,23 +174,23 @@ High-mobility assassin with a teleport action.
 <details class="role-group" markdown="1">
 <summary markdown="span">Support <span class="role-count">1</span></summary>
 
-- [Colombina](/factions/gifted/colombina/) is a cheap support piece that allows once per round to score an ace instead of rolling.
+- [Colombina](/factions/gifted/colombina/) is a cheap support piece that once per round lets a model in line of sight, including itself, score an Ace instead of rolling.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Objective Runner <span class="role-count">3</span></summary>
 
-- [Coviello](/factions/gifted/coviello/) is a cheap and fragile objective runner.
-- [Scapino](/factions/gifted/scapino/) is a cheap and fast objective runner.
-- [Pantaleone](/factions/gifted/pantaleone/) is a cheap but not very fast objective runner with a **Smoke** bomb.
+- [Coviello](/factions/gifted/coviello/) is a cheap, fragile objective runner with a little **Acrobatic (2)** mobility.
+- [Scapino](/factions/gifted/scapino/) is a cheap, fast objective runner with **Slippery**.
+- [Pantaleone](/factions/gifted/pantaleone/) is a slower objective runner that trades speed for utility: a **Smoke** bomb and **Pickpocket**.
 
 </details>
 
 <details class="role-group" markdown="1">
 <summary markdown="span">Specialist <span class="role-count">1</span></summary>
 
-- [Pierrot](/factions/gifted/pierrot/) is a unique model that redirects enemy charges away from allies to itself.
+- [Pierrot](/factions/gifted/pierrot/) redirects enemy charges away from allies onto itself.
 
 </details>
 
