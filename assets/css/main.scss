@@ -1459,7 +1459,7 @@ a.disc-wild-magic        { color: #c06a18; font-weight: 500; }
   padding-top: 0.15rem;
 }
 .sf-count { color: var(--ink-3); font-weight: 400; font-size: 0.8rem; }
-.chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.chips { display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: flex-start; align-content: flex-start; }
 .doc-content a.chip,
 .doc-content span.chip {
   display: inline-block;
@@ -1488,6 +1488,21 @@ a.disc-wild-magic        { color: #c06a18; font-weight: 500; }
   vertical-align: 0.1em;
 }
 .doc-content a.chip.leader:hover { border-color: var(--gold); background: rgba(184, 146, 43, 0.2); }
+/* Synergy source: the model whose ability defines a synergy-based sub-faction */
+.doc-content a.chip.source {
+  border-color: var(--accent);
+  background: rgba(38, 123, 140, 0.12);
+  color: var(--accent-h);
+  font-weight: 600;
+}
+.doc-content a.chip.source::before {
+  content: "\2605";
+  color: var(--accent);
+  margin-right: 0.35rem;
+  font-size: 0.7em;
+  vertical-align: 0.1em;
+}
+.doc-content a.chip.source:hover { border-color: var(--accent-h); background: rgba(38, 123, 140, 0.2); }
 /* Small chips for inline use inside table cells (weapon Special column) */
 .doc-content a.chip.chip-sm { font-size: 0.74rem; padding: 0.05rem 0.45rem; }
 .doc-content td a.chip { margin: 1px 2px 1px 0; vertical-align: middle; }
